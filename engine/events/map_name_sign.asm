@@ -165,8 +165,21 @@ PlaceMapNameCenterAlign:
 	jr z, .stop
 	cp "<WBR>"
 	jr z, .loop
+	cp "<1E>"
+	jr z, .loop
 	inc c
+	cp " "
+	jr z, .replace_char
+	cp "<BSP>"
+	jr z, .replace_char
 	jr .loop
+
+.replace_char:
+	dec hl
+	ld [hl], $6d
+	inc hl
+	jr .loop
+
 .stop
 	pop hl
 	ret

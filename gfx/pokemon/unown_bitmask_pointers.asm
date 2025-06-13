@@ -1,5 +1,5 @@
 UnownBitmasksPointers:
-	table_width 2
+	table_width 2, UnownBitmasksPointers
 	dw UnownABitmasks
 	dw UnownBBitmasks
 	dw UnownCBitmasks

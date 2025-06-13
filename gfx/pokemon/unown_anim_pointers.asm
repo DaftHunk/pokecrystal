@@ -1,5 +1,5 @@
 UnownAnimationPointers:
-	table_width 2
+	table_width 2, UnownAnimationPointers
 	dw UnownAAnimation
 	dw UnownBAnimation
 	dw UnownCAnimation

@@ -6,7 +6,9 @@
 	charmap "<PLAY_G>",  $14 ; "<PLAYER>くん" or "<PLAYER>ちゃん"; same as "<PLAYER>" in English
 	charmap "<MOBILE>",  $15
 	charmap "<CR>",      $16
-	charmap "<BSP>",     $1f ; breakable space (usually " ", or "<LF>" on the Town Map)
+	charmap "<1D>",      $1d
+	charmap "<1E>",      $1e
+	charmap "<BSP>",     $1f ; soft linebreak
 	charmap "<LF>",      $22
 	charmap "<POKE>",    $24 ; "<PO><KE>"
 	charmap "<WBR>",     $25 ; word-break opportunity (usually skipped, or "<LF>" on the Town Map)
@@ -158,6 +160,12 @@
 	charmap "x",         $b7
 	charmap "y",         $b8
 	charmap "z",         $b9
+	charmap "à",         $ba
+	charmap "è",         $bb
+
+	charmap "ù",         $bd
+	charmap "ß",         $be
+	charmap "ç",         $bf
 
 	charmap "Ä",         $c0
 	charmap "Ö",         $c1
@@ -165,20 +173,33 @@
 	charmap "ä",         $c3
 	charmap "ö",         $c4
 	charmap "ü",         $c5
+	charmap "ë",         $c6
+	charmap "ï",         $c7
+	charmap "â",         $c8
+	charmap "ô",         $c9
+	charmap "û",         $ca
+	charmap "ê",         $cb
+	charmap "î",         $cc
+	charmap "←",         $cf
 
-	charmap "'d",        $d0
-	charmap "'l",        $d1
-	charmap "'m",        $d2
-	charmap "'r",        $d3
-	charmap "'s",        $d4
-	charmap "'t",        $d5
-	charmap "'v",        $d6
+	charmap "c'",        $d4
+	charmap "d'",        $d5
+	charmap "j'",        $d6
+	charmap "l'",        $d7
+	charmap "m'",        $d8
+	charmap "n'",        $d9
+	charmap "p'",        $da
+	charmap "s'",        $db
+	charmap "'s",        $dc
+	charmap "t'",        $dd
+	charmap "u'",        $de
+	charmap "y'",        $df
 
-	charmap "←",         $df
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
 	charmap "<MN>",      $e2
 	charmap "-",         $e3
+	charmap "+",         $e4
 
 	charmap "?",         $e6
 	charmap "!",         $e7
@@ -418,22 +439,12 @@
 	charmap "８", $fe
 	charmap "９", $ff
 
-; Unown charmap, for Unown words (see gfx/tilesets/ruins_of_alph.png)
-pushc
-	newcharmap unown
-	DEF PRINTABLE_UNOWN EQUS "ABCDEFGHIJKLMNOPQRSTUVWXYZ-"
-	for i, STRLEN(#PRINTABLE_UNOWN)
-		charmap STRSLICE(#PRINTABLE_UNOWN, i, i + 1), $10 * (i / 8) + 2 * i
-	endr
-	charmap "@", $ff ; end
-popc
-
 ; ASCII charmap, for mobile functions
 pushc
 	newcharmap ascii
 	DEF PRINTABLE_ASCII EQUS " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz\{|}~"
-	for i, STRLEN(#PRINTABLE_ASCII)
-		charmap STRSLICE(#PRINTABLE_ASCII, i, i + 1), i + $20
+	for i, STRLEN("{PRINTABLE_ASCII}")
+		charmap STRSUB("{PRINTABLE_ASCII}", i + 1, 1), i + $20
 	endr
 	charmap "\t", $09
 	charmap "\n", $0a

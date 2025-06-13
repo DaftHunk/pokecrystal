@@ -210,7 +210,7 @@ SaveTheGame_yesorno:
 	ld b, BANK(WouldYouLikeToSaveTheGameText)
 	call MapTextbox
 	call LoadMenuTextbox
-	lb bc, 0, 7
+	lb bc, 0, 9
 	call PlaceYesNoBox
 	ld a, [wMenuCursorY]
 	dec a
@@ -1077,7 +1077,7 @@ EraseBoxes:
 	ret
 
 BoxAddresses:
-	table_width 5
+	table_width 5, BoxAddresses
 for n, 1, NUM_BOXES + 1
 	db BANK(sBox{d:n}) ; aka BANK(sBox{d:n}End)
 	dw sBox{d:n}, sBox{d:n}End

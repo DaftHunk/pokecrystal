@@ -1,5 +1,5 @@
 AnimationPointers:
-	table_width 2
+	table_width 2, AnimationPointers
 	dw BulbasaurAnimation
 	dw IvysaurAnimation
 	dw VenusaurAnimation
