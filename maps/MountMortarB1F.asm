@@ -75,8 +75,8 @@ MountMortarB1FHiddenMaxRevive:
 MountMortarB1FKiyoIntroText:
 	text "Hé!"
 
-	para "Je suis le ROI du"
-	line "KARATE!"
+	para "Je suis le Roi du"
+	line "Karaté!"
 
 	para "Je m'entraîne seul"
 	line "dans le noir!"
@@ -105,21 +105,21 @@ MountMortarB1FTyrogueRewardText:
 	para "En gage de récom-"
 	line "pense, je vais te"
 
-	para "donner un #MON"
+	para "donner un #mon"
 	line "de combat rare."
 	done
 
 MountMortarB1FReceiveMonText:
 	text "<PLAYER> reçoit"
-	line "DEBUGANT."
+	line "Debugant."
 	done
 
 MountMortarB1FKiyoGotTyrogueText:
-	text "DEBUGANT est du"
-	line "type COMBAT."
+	text "Debugant est du"
+	line "type Combat."
 
 	para "Il évolue en un"
-	line "puissant #MON."
+	line "puissant #mon."
 
 	para "Alors fais comme"
 	line "moi..."

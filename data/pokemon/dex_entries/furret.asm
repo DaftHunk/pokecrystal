@@ -1,4 +1,4 @@
-	db "ALLONGE@" ; species name
+	db "Allongé@" ; species name
 	db 18 ; height
 	dw 325 ; weight
 

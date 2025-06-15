@@ -30,7 +30,7 @@ ReenaDefeatedMonText:
 
 ReenaLostAMonText:
 	text "Si j'ai déjà loupé"
-	line "un #MON?"
+	line "un #mon?"
 
 	para "Tu me prends pour"
 	line "qui?"

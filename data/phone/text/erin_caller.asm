@@ -15,7 +15,7 @@ ErinDefeatedMonText:
 	text "!"
 
 	para "J'entraîne bien"
-	line "mes #MON!"
+	line "mes #mon!"
 	done
 
 ErinLostAMonText:
@@ -49,7 +49,7 @@ ErinHangUpText:
 
 ErinWorkingHardText:
 	text "J'entraîne à fond"
-	line "mes #MON!"
+	line "mes #mon!"
 
 	para "Reviens pour"
 	line "m'affronter!"
@@ -58,7 +58,7 @@ ErinWorkingHardText:
 ErinComeBattleText:
 	text "Oh, <PLAY_G>!"
 	line "Viens te battre"
-	cont "contre ERIN!"
+	cont "contre Erin!"
 
 	para "Je t'attends vers"
 	line "@"

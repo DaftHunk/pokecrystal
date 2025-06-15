@@ -94,7 +94,7 @@ FarmhouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 FarmerMText_SickCow:
-	text "Ma chtite ECREMEUH"
+	text "Ma chtite Ecremeuh"
 	line "m'donne plus eud'"
 	cont "lait."
 
@@ -106,7 +106,7 @@ FarmerMText_SickCow:
 	line "y veut à boire."
 
 	para "Si j'en avais des"
-	line "BAIES à lui donner"
+	line "Baies à lui donner"
 
 	para "elle m'donnerait"
 	line "aussi du lait, par"
@@ -115,13 +115,13 @@ FarmerMText_SickCow:
 
 FarmerMText_BuyMilk:
 	text "Ca te dit du bon"
-	line "LAIT MEUMEU?"
+	line "Lait Meumeu?"
 
 	para "C'est ma fierté et"
 	line "ma joie, poussin."
 
 	para "Donnes-en à tes"
-	line "#MON pour en"
+	line "#mon pour en"
 	cont "gagner des PV!"
 
 	para "Pour juste {d:ROUTE39FARMHOUSE_MILK_PRICE}¥"
@@ -156,10 +156,10 @@ FarmerMText_Milking:
 
 FarmerFText_InTrouble:
 	text "Notre lait est mê-"
-	line "me vendu à KANTO."
+	line "me vendu à Kanto."
 
 	para "Si notre fidèle"
-	line "ECREMEUH ne donne"
+	line "Ecremeuh ne donne"
 
 	para "plus de lait,"
 	line "c'est la faillite."
@@ -167,10 +167,10 @@ FarmerFText_InTrouble:
 
 FarmerFText_HealedMiltank:
 	text "Tu nous as soigné"
-	line "not'ECREMEUH! Elle"
+	line "not'Ecremeuh! Elle"
 
 	para "en donne à nouveau"
-	line "du bon LAIT!"
+	line "du bon Lait!"
 
 	para "Voilà pour"
 	line "toi, poussin."
@@ -183,12 +183,12 @@ Text_ReceivedTM13: ; unreferenced
 
 FarmerFText_SnoreSpeech:
 	text "C'est eul'fameux"
-	line "RONFLEMENT."
+	line "Ronflement."
 
 	para "C'est un coup rare"
 	line "qui marche que"
 
-	para "quand eul'#MON"
+	para "quand eul'#mon"
 	line "il dort."
 
 	para "Alors à toi eud'"

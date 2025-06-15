@@ -205,7 +205,7 @@ LancesRoomMovementData_MaryRunsBackAndForth:
 	step_end
 
 LanceBattleIntroText:
-	text "PETER:"
+	text "Peter:"
 	line "Je t'attendais..."
 
 	para "<PLAY_G>!"
@@ -226,10 +226,10 @@ LanceBattleIntroText:
 	para "Etant le plus"
 	line "puissant et le"
 
-	para "MAITRE de la"
-	line "LIGUE..."
+	para "Maître de la"
+	line "Ligue..."
 
-	para "Moi, PETER,"
+	para "Moi, Peter,"
 	line "l'expert des"
 	cont "dragons, j'accepte"
 	cont "de t'affronter!"
@@ -249,7 +249,7 @@ LanceBattleWinText:
 	line "témoin de la nais-"
 
 	para "sance d'un nouveau"
-	line "MAITRE!"
+	line "Maître!"
 	done
 
 LanceBattleAfterText:
@@ -258,7 +258,7 @@ LanceBattleAfterText:
 	para "Tu as fait de gros"
 	line "progrès, <PLAY_G>."
 
-	para "Toi et tes #MON"
+	para "Toi et tes #mon"
 	line "êtes en parfaite"
 
 	para "harmonie."
@@ -270,15 +270,15 @@ LanceBattleAfterText:
 	done
 
 LancesRoomMaryOhNoOakText:
-	text "LULA: Oh, non!"
-	line "C'est fini! PROF."
+	text "Lula: Oh, non!"
+	line "C'est fini! Prof."
 
-	para "CHEN, vous êtes"
+	para "Chen, vous êtes"
 	line "trop lent..."
 	done
 
 LancesRoomOakCongratulationsText:
-	text "CHEN: Ah, <PLAY_G>!"
+	text "Chen: Ah, <PLAY_G>!"
 	line "Ca faisait bien"
 	cont "longtemps."
 
@@ -286,16 +286,16 @@ LancesRoomOakCongratulationsText:
 	line "parole."
 
 	para "Ta victoire sur la"
-	line "LIGUE est ma foi"
+	line "Ligue est ma foi"
 	cont "impressionnante!"
 
 	para "Ton amour et ton"
 	line "dévouement pour"
 
-	para "tes #MON en"
+	para "tes #mon en"
 	line "sont la cause."
 
-	para "Tes #MON ont"
+	para "Tes #mon ont"
 	line "aussi fait du beau"
 	cont "boulot."
 
@@ -310,13 +310,13 @@ LancesRoomOakCongratulationsText:
 	done
 
 LancesRoomMaryInterviewText:
-	text "LULA: Faisons une"
+	text "Lula: Faisons une"
 	line "interview du nou-"
-	cont "veau MAITRE!"
+	cont "veau Maître!"
 	done
 
 LancesRoomNoisyText:
-	text "PETER: Tout ça est"
+	text "Peter: Tout ça est"
 	line "trop bruyant pour"
 	cont "moi..."
 
@@ -325,7 +325,7 @@ LancesRoomNoisyText:
 	done
 
 LancesRoomMaryNoInterviewText:
-	text "LULA: Attendez!"
+	text "Lula: Attendez!"
 	line "On n'a pas encore"
 	cont "fait l'interview!"
 	done

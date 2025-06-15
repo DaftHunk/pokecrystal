@@ -42,7 +42,7 @@ KenjiHangUpMorningText:
 
 KenjiTakingABreakText:
 	text "Je fais une pause"
-	line "sur la ROUTE 45!"
+	line "sur la Route 45!"
 
 	para "Tu viens me"
 	line "dire bonjour?"

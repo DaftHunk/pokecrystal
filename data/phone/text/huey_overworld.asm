@@ -45,7 +45,7 @@ HueyRematchText:
 	done
 
 HueyPackFullText:
-	text "Oh... Ton SAC est"
+	text "Oh... Ton Sac est"
 	line "plein. Je te le"
 	cont "donnerai plus"
 	cont "tard..."
@@ -66,7 +66,7 @@ HueyRematchGiftText:
 	line "plein de trucs"
 
 	para "pour booster mes"
-	line "#MON mais..."
+	line "#mon mais..."
 
 	para "Les objets seuls"
 	line "ne suffisent pas."

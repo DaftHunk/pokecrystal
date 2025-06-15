@@ -58,8 +58,8 @@ _ResetClock:
 .NoYes_MenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 2 ; items
-	db "NON@"
-	db "OUI@"
+	db "Non@"
+	db "Oui@"
 
 ClockResetPassword:
 	call .CalculatePassword

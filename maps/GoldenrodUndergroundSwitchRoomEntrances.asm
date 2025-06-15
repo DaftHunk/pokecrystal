@@ -674,8 +674,8 @@ UndergroundRivalBeforeText:
 	para "J'ai pas besoin de"
 	line "toi pour casser la"
 
-	para "tête à la TEAM"
-	line "ROCKET."
+	para "tête à la Team"
+	line "Rocket."
 
 	para "...Attends voir..."
 	line "Tu m'as battu"
@@ -692,7 +692,7 @@ UndergroundRivalWinText:
 	text "...Pourquoi..."
 	line "Moi perdre?"
 
-	para "Mes #MON sont"
+	para "Mes #mon sont"
 	line "super balèzes!"
 
 	para "Je les ai entraî-"
@@ -705,11 +705,11 @@ UndergroundRivalAfterText:
 	text "C'est..."
 	line "Incroyable..."
 
-	para "Ce qu'a dit PETER"
+	para "Ce qu'a dit Peter"
 	line "est donc vrai?"
 
 	para "Je m'occupe mal de"
-	line "mes #MON?"
+	line "mes #mon?"
 
 	para "Amour..."
 
@@ -733,7 +733,7 @@ UndergroundRivalAfterText:
 	para "Je serai le plus"
 	line "grand dresseur de"
 
-	para "#MON de tous"
+	para "#mon de tous"
 	line "les temps!"
 	done
 
@@ -742,9 +742,9 @@ UndergroundRivalLossText:
 	line "c'est la force."
 
 	para "J'vais la bouffer"
-	line "la TEAM ROCKET."
+	line "la Team Rocket."
 
-	para "Et PETER..."
+	para "Et Peter..."
 	line "J'vais lui casser"
 	cont "ses rêves."
 	done
@@ -845,8 +845,8 @@ BurglarEddieBeatenText:
 	done
 
 BurglarEddieAfterBattleText:
-	text "Le DEPOT"
-	line "SOUTERRAIN?"
+	text "Le Dépôt"
+	line "Souterrain?"
 
 	para "Pourquoi tu veux"
 	line "y aller?"
@@ -873,12 +873,12 @@ GruntM13BeatenText:
 GruntM13AfterBattleText:
 	text "T'as un sacré cou-"
 	line "rage pour t'atta-"
-	cont "quer à la ROCKET."
+	cont "quer à la Rocket."
 	done
 
 SwitchRoomText_Switch1:
 	text "C'est écrit:"
-	line "INTERRUPTEUR 1."
+	line "Interrupteur 1."
 	done
 
 GruntF3SeenText:
@@ -912,17 +912,17 @@ SwitchRoomText_OnTurnOff:
 
 SwitchRoomText_Switch2:
 	text "C'est écrit:"
-	line "INTERRUPTEUR 2."
+	line "Interrupteur 2."
 	done
 
 SwitchRoomText_Switch3:
 	text "C'est écrit:"
-	line "INTERRUPTEUR 3."
+	line "Interrupteur 3."
 	done
 
 SwitchRoomText_Emergency:
 	text "C'est écrit:"
-	line "URGENCE."
+	line "Urgence."
 	done
 
 GoldenrodUndergroundSwitchRoomEntrances_MapEvents:

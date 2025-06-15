@@ -14,10 +14,10 @@ Route16FuchsiaSpeechHouseBookshelf:
 
 Route16FuchsiaSpeechHouseSuperNerdText:
 	text "Si tu descends la"
-	line "PISTE CYCLABLE, tu"
+	line "Piste Cyclable, tu"
 
 	para "te retrouveras à"
-	line "PARMANIE."
+	line "Parmanie."
 	done
 
 Route16FuchsiaSpeechHouse_MapEvents:

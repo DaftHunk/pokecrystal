@@ -58,6 +58,6 @@ DanaGenericText:
 	para "ça m'file la"
 	line "trouille."
 
-	para "Et tes #MON,"
+	para "Et tes #mon,"
 	line "ça va?"
 	done

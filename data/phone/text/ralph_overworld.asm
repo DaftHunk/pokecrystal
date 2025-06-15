@@ -4,7 +4,7 @@ RalphAskNumber1Text:
 	cont "ou bien?"
 
 	para "Moi j'ai vu des"
-	line "#MON rares en"
+	line "#mon rares en"
 	cont "pêchant..."
 
 	para "Les jeunes, ça"
@@ -20,14 +20,14 @@ RalphAskNumber1Text:
 RalphAskNumber2Text:
 	text "Hmm? Tu veux que"
 	line "j'appelle si je"
-	cont "vois un #MON"
+	cont "vois un #mon"
 	cont "rare, alors?"
 	done
 
 RalphNumberAcceptedText:
 	text "OK. J'appelle si"
 	line "je vois un"
-	cont "#MON rare."
+	cont "#mon rare."
 
 	para "Pas de lézard!"
 	line "J'oublierai pas!"

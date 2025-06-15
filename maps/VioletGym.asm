@@ -111,55 +111,55 @@ VioletGymStatue:
 	jumpstd GymStatue2Script
 
 FalknerIntroText:
-	text "Je suis ALBERT, le"
-	line "CHAMPION d'ARENE"
-	cont "de MAUVILLE!"
+	text "Je suis Albert, le"
+	line "Champion d'Arène"
+	cont "de Mauville!"
 
 	para "On dit qu'avec une"
 	line "bonne décharge"
 
 	para "électrique, les"
-	line "#MON volants"
+	line "#mon volants"
 	cont "grillent..."
 
 	para "Je n'autorise per-"
 	line "sonne à insulter"
-	cont "les #MON!"
+	cont "les #mon!"
 
 	para "Tu vas subir les"
 	line "terribles attaques"
 
-	para "de mes #MON"
+	para "de mes #mon"
 	line "volants!"
 	done
 
 FalknerWinLossText:
 	text "...Zut de flûte!"
-	line "Les #MON adorés"
+	line "Les #mon adorés"
 	cont "de mon papa..."
 
 	para "Très bien."
 	line "Prends ceci."
 
-	para "C'est le BADGE"
-	line "ZEPHYR officiel de"
-	cont "la LIGUE #MON."
+	para "C'est le Badge"
+	line "Zéphyr officiel de"
+	cont "la Ligue #mon."
 	done
 
 ReceivedZephyrBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE ZEPHYR."
+	line "le Badge Zéphyr."
 	done
 
 FalknerZephyrBadgeText:
-	text "Le BADGE ZEPHYR"
-	line "augmente l'ATTAQUE"
-	cont "des #MON."
+	text "Le Badge Zéphyr"
+	line "augmente l'Attaque"
+	cont "des #mon."
 
 	para "Il permet aussi"
-	line "aux #MON"
+	line "aux #mon"
 
-	para "d'utiliser FLASH"
+	para "d'utiliser Flash"
 	line "en dehors des"
 	cont "combats."
 
@@ -168,7 +168,7 @@ FalknerZephyrBadgeText:
 
 FalknerTMMudSlapText:
 	text "En utilisant une"
-	line "CT, les #MON"
+	line "CT, les #mon"
 
 	para "apprennent une"
 	line "nouvelle capacité."
@@ -179,10 +179,10 @@ FalknerTMMudSlapText:
 	cont "qu'une fois."
 
 	para "La CT31 contient"
-	line "COUD'BOUE."
+	line "Coud'Boue."
 
 	para "Elle réduit la"
-	line "précision de l'en-"
+	line "Précision de l'en-"
 
 	para "nemi et lui infli-"
 	line "ge des dégâts."
@@ -194,13 +194,13 @@ FalknerTMMudSlapText:
 	done
 
 FalknerFightDoneText:
-	text "Il y a des ARENES"
-	line "#MON dans"
+	text "Il y a des Arènes"
+	line "#mon dans"
 	cont "les alentours."
 
 	para "Tu devrais tester"
 	line "ton habileté dans"
-	cont "ces ARENES."
+	cont "ces Arènes."
 
 	para "Je vais m'entraî-"
 	line "ner plus dur pour"
@@ -218,7 +218,7 @@ BirdKeeperRodSeenText:
 
 	para "jour pour devenir"
 	line "maître des"
-	cont "#MON volants."
+	cont "#mon volants."
 
 	para "Allez!"
 	done
@@ -229,7 +229,7 @@ BirdKeeperRodBeatenText:
 
 BirdKeeperRodAfterBattleText:
 	text "L'habileté"
-	line "d'ALBERT est"
+	line "d'Albert est"
 	cont "bien réelle!"
 
 	para "Si tu as les"
@@ -242,7 +242,7 @@ BirdKeeperAbeSeenText:
 	text "Montre-moi si tu"
 	line "as les épaules"
 	cont "pour battre"
-	cont "ALBERT!"
+	cont "Albert!"
 	done
 
 BirdKeeperAbeBeatenText:

@@ -40,7 +40,7 @@ BethLostAMonText:
 	line "traper mais je"
 
 	para "n'avais plus de"
-	line "# BALLS."
+	line "# Balls."
 
 	para "Comme quoi, il"
 	line "faut toujours"

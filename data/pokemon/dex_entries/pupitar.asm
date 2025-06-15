@@ -1,4 +1,4 @@
-	db "CARAPADURE@" ; species name
+	db "Carapadure@" ; species name
 	db 12 ; height
 	dw 1520 ; weight
 

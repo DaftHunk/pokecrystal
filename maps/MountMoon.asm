@@ -110,7 +110,7 @@ MountMoonRivalTextWin:
 	text "<……> <……> <……>"
 
 	para "Je pensais avoir"
-	line "élevé mes #MON"
+	line "élevé mes #mon"
 
 	para "au max de leurs"
 	line "capacités..."
@@ -151,10 +151,10 @@ MountMoonRivalTextLoss:
 	para "Yahahaha!"
 	line "Vengeance!"
 
-	para "Avec mes #MON,"
+	para "Avec mes #mon,"
 	line "je vais battre le"
 
-	para "CHAMPION et être"
+	para "Champion et être"
 	line "le plus grand des"
 	cont "dresseurs."
 	done

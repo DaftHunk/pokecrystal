@@ -234,10 +234,10 @@ BillsPCDepositMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "STOCKER@"
-	db "STATS@"
-	db "RELACHER@"
-	db "RETOUR@"
+	db "Stocker@"
+	db "Stats@"
+	db "Relacher@"
+	db "Retour@"
 
 BillsPCClearThreeBoxes: ; unreferenced
 	hlcoord 0, 0
@@ -487,10 +487,10 @@ BillsPC_Withdraw:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "RETIRER@"
-	db "STATS@"
-	db "RELACHER@"
-	db "RETOUR@"
+	db "Retirer@"
+	db "Stats@"
+	db "Relacher@"
+	db "Retour@"
 
 _MovePKMNWithoutMail:
 	ld hl, wOptions
@@ -697,9 +697,9 @@ _MovePKMNWithoutMail:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "ORDRE@"
-	db "STATS@"
-	db "RETOUR@"
+	db "Ordre@"
+	db "Stats@"
+	db "Retour@"
 
 .PrepInsertCursor:
 	xor a
@@ -1008,7 +1008,7 @@ BillsPC_BoxName:
 	ret
 
 .PartyPKMN:
-	db "EQUIPE<PK><MN>@"
+	db "Equipe<PK><MN>@"
 
 PCMonInfo:
 ; Display a monster's pic and
@@ -1255,7 +1255,7 @@ endr
 	ret
 
 .CancelString:
-	db "RETOUR@"
+	db "Retour@"
 
 .PlaceNickname:
 	ld a, [de]
@@ -2203,18 +2203,18 @@ PCString_ChooseaPKMN: db "Choisir un <PK><MN>.@"
 PCString_WhatsUp: db "Que faire?@"
 PCString_ReleasePKMN: db "Relâcher <PK><MN>?@"
 PCString_MoveToWhere: db "Déplacer où?@"
-PCString_ItsYourLastPKMN: db "Dernier #MON!@"
+PCString_ItsYourLastPKMN: db "Dernier #mon!@"
 PCString_TheresNoRoom: db "Pas de place!@"
 PCString_NoMoreUsablePKMN: db "Plus de <PK><MN> apte!@"
-PCString_RemoveMail: db "Effacer LETTRE.@"
+PCString_RemoveMail: db "Effacer Lettre.@"
 PCString_ReleasedPKMN: db "<PK><MN> relâché.@"
 PCString_Bye: db "Adieu @"
 PCString_Stored: db " gardé!@"
 PCString_Got: db " obtenu!@"
 PCString_Non: db "Non@" ; unreferenced
-PCString_BoxFull: db "BOITE pleine.@"
-PCString_PartyFull: db "EQUIPE pleine!@"
-PCString_NoReleasingEGGS: db "Impos. jeter OEUFS@"
+PCString_BoxFull: db "Boîte pleine.@"
+PCString_PartyFull: db "Equipe pleine!@"
+PCString_NoReleasingEGGS: db "Impos. jeter Oeufs@"
 
 _ChangeBox:
 	call LoadStandardMenuHeader
@@ -2311,7 +2311,7 @@ BillsPC_PrintBoxCountAndCapacity:
 	ret
 
 .Pokemon:
-	db "#MON@"
+	db "#mon@"
 
 .OutOf20:
 	db "/{d:MONS_PER_BOX}@" ; "/20@"
@@ -2380,7 +2380,7 @@ BillsPC_PrintBoxName:
 	ret
 
 .Current:
-	db "EN COURS@"
+	db "En Cours@"
 
 BillsPC_ChangeBoxSubmenu:
 	ld hl, .MenuHeader
@@ -2460,10 +2460,10 @@ BillsPC_ChangeBoxSubmenu:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "CHANG.@"
-	db "NOM@"
-	db "IMPRIM@"
-	db "RETOUR@"
+	db "Chang.@"
+	db "Nom@"
+	db "Imprim@"
+	db "Retour@"
 
 BillsPC_PlaceChooseABoxString:
 	ld de, .ChooseABox
@@ -2490,7 +2490,7 @@ BillsPC_PlaceEmptyBoxString_SFX:
 	ret
 
 .NoMonString:
-	db "Pas de #MON!@"
+	db "Pas de #mon!@"
 
 BillsPC_PlaceChangeBoxString:
 	push de

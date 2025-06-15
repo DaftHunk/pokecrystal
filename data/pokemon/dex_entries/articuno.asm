@@ -1,8 +1,8 @@
-	db "GLACIAIRE@" ; species name
+	db "Glaciaire@" ; species name
 	db 17 ; height
 	dw 554 ; weight
 
-	db   "#MON oiseau"
+	db   "#mon oiseau"
 	next "légendaire. Pen-"
 	next "dant son vol, il"
 

@@ -1,4 +1,4 @@
-	db "GAZ MORTEL@" ; species name
+	db "Gaz Mortel@" ; species name
 	db 6 ; height
 	dw 10 ; weight
 
@@ -8,4 +8,4 @@
 
 	page "gaz, on peut voir"
 	next "ses réserves de"
-	next "poison.@"
+	next "Poison.@"

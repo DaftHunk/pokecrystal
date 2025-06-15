@@ -1,4 +1,4 @@
-	db "GAZ MORTEL@" ; species name
+	db "Gaz Mortel@" ; species name
 	db 12 ; height
 	dw 95 ; weight
 

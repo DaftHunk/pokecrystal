@@ -64,14 +64,14 @@ RandyScript:
 
 GiftSpearowMail:
 	db FLOWER_MAIL
-	db   "ANTRE NOIRE    "
+	db   "Antre Noire    "
 	next "mène autre part@"
 
 GiftSpearowName:
-	db "ALFRED@"
+	db "Alfred@"
 
 GiftSpearowOTName:
-	db "BOBBY@"
+	db "Bobby@"
 
 	db 0 ; unused
 
@@ -105,11 +105,11 @@ Route35GoldenrodGateRandyAskTakeThisMonToMyFriendText:
 	cont "service?"
 
 	para "Tu peux apporter"
-	line "ce #MON et sa"
-	cont "LETTRE à mon pote?"
+	line "ce #mon et sa"
+	cont "Lettre à mon pote?"
 
 	para "Il est sur la"
-	line "ROUTE 31."
+	line "Route 31."
 	done
 
 Route35GoldenrodGateRandyThanksText:
@@ -126,8 +126,8 @@ Route35GoldenrodGateRandyThanksText:
 
 Route35GoldenrodGatePlayerReceivedAMonWithMailText:
 	text "<PLAYER> reçoit"
-	line "un #MON avec"
-	cont "une LETTRE."
+	line "un #mon avec"
+	cont "une Lettre."
 	done
 
 Route35GoldenrodGateRandyWeirdTreeBlockingRoadText:
@@ -135,7 +135,7 @@ Route35GoldenrodGateRandyWeirdTreeBlockingRoadText:
 	line "mais ne la perds"
 	cont "pas, OK? Et sou-"
 	cont "viens-toi: la"
-	cont "ROUTE 31!"
+	cont "Route 31!"
 
 	para "Au fait, il y a un"
 	line "arbre bizarre qui"
@@ -147,7 +147,7 @@ Route35GoldenrodGateRandyWeirdTreeBlockingRoadText:
 
 Route35GoldenrodGateRandyCantCarryAnotherMonText:
 	text "Tu ne peux plus"
-	line "porter de #MON!"
+	line "porter de #mon!"
 	done
 
 Route35GoldenrodGateRandyOhNeverMindThenText:
@@ -180,12 +180,12 @@ Route35GoldenrodGatePokefanFText:
 	line "devient dingue si"
 
 	para "on l'asperge avec"
-	line "une CARAPUCE A O."
+	line "une Carapuce à O."
 	done
 
 Route35GoldenrodGatePokefanFText_FoughtSudowoodo:
 	text "J'aime la berceuse"
-	line "#MON qui passe"
+	line "#mon qui passe"
 	cont "à la radio."
 	done
 
@@ -193,11 +193,11 @@ Route35GoldenrodGateFisherText:
 	text "Je me demande"
 	line "combien de types"
 
-	para "de #MON il y a"
+	para "de #mon il y a"
 	line "dans le monde."
 
 	para "Il y a trois ans,"
-	line "le PROF.CHEN"
+	line "le Prof.Chen"
 
 	para "disait qu'il y"
 	line "avait 150 types"

@@ -92,7 +92,7 @@ PokemaniacMillerAfterBattleText:
 	done
 
 SupernerdMarkusSeenText:
-	text "Hé! HUGH!"
+	text "Hé! Hugh!"
 	done
 
 SupernerdMarkusBeatenText:
@@ -103,17 +103,17 @@ SupernerdMarkusBeatenText:
 
 SupernerdMarkusAfterBattleText:
 	text "Je suis venu ex-"
-	line "plorer le MONT"
+	line "plorer le Mont"
 
-	para "CREUSET mais mon"
+	para "Creuset mais mon"
 	line "partenaire a dis-"
 	cont "paru..."
 
 	para "As-tu vu un dres-"
 	line "seur avec un"
 
-	para "HYPOCEAN qui lance"
-	line "CASCADE?"
+	para "Hypocéan qui lance"
+	line "Cascade?"
 	done
 
 MountMortar1FInside_MapEvents:

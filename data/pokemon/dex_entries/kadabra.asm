@@ -1,4 +1,4 @@
-	db "PSY@" ; species name
+	db "Psy@" ; species name
 	db 13 ; height
 	dw 565 ; weight
 

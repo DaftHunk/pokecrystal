@@ -598,7 +598,7 @@ ExchangeBytes:
 	ret
 
 String_PleaseWait:
-	db "UN MOMENT…@"
+	db "Un moment…@"
 
 ClearLinkData:
 	ld hl, wLinkData
@@ -1571,7 +1571,7 @@ LinkTrade_TradeStatsMenu:
 	text_end
 
 .String_Stats_Trade:
-	db "STATS     ECHANGE@"
+	db "Stats     Echange@"
 
 .LinkAbnormalMonText:
 	text_far _LinkAbnormalMonText
@@ -1664,7 +1664,7 @@ GSPlaceTradeScreenFooter: ; unreferenced
 	jp PlaceString
 
 .CancelString:
-	db "ANNULER@"
+	db "Annuler@"
 
 LinkTradePlaceArrow:
 ; Indicates which pokemon the other player has selected to trade
@@ -2063,15 +2063,15 @@ InitTradeMenuDisplay_Delay:
 	jp InitTradeMenuDisplay
 
 String_TradeCancel:
-	db   "ECHANGE"
-	next "ANNULER@"
+	db   "Echange"
+	next "Annuler@"
 
 LinkAskTradeForText:
 	text_far _LinkAskTradeForText
 	text_end
 
 String_TradeCompleted:
-	db   "ECHANGE TERMINE!@"
+	db   "Echange Terminé!@"
 
 String_TooBadTheTradeWasCanceled:
 	db   "Dommage! L'échange"

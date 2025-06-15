@@ -6,7 +6,7 @@ ErinAskNumber1Text:
 	line "à fond..."
 
 	para "Voilà mon numéro."
-	line "Moi c'est ERIN."
+	line "Moi c'est Erin."
 
 	para "Ne l'oublie pas!"
 	line "Tu veux encore"
@@ -32,7 +32,7 @@ ErinNumberDeclinedText:
 	line "Si tu veux encore"
 
 	para "combattre, viens"
-	line "voir ERIN..."
+	line "voir Erin..."
 	cont "C'est moi!"
 	done
 

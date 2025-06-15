@@ -171,7 +171,7 @@ Route46FruitTree2:
 HikerBaileySeenText:
 	text "Je vais t'montrer"
 	line "la force des"
-	cont "#MON de"
+	cont "#mon de"
 	cont "montagne!"
 	done
 
@@ -186,7 +186,7 @@ HikerBaileyAfterBattleText:
 
 CamperTedSeenText:
 	text "Moi aussi j'ai des"
-	line "#MON!"
+	line "#mon!"
 
 	para "Ca te dit un bon"
 	line "combat?"
@@ -205,7 +205,7 @@ CamperTedAfterBattleText:
 	done
 
 PicnickerErin1SeenText:
-	text "J'ai des #MON"
+	text "J'ai des #mon"
 	line "moi z'aussi!"
 
 	para "On se fritte la"
@@ -218,11 +218,11 @@ PicnickerErin1BeatenText:
 
 PicnickerErinAfterBattleText:
 	text "Je connais toutes"
-	line "les ARENES mais ma"
+	line "les Arènes mais ma"
 
 	para "préférée c'est"
-	line "celle de DOUBLON-"
-	cont "VILLE."
+	line "celle de Doublon-"
+	cont "ville."
 
 	para "Y'a tout plein"
 	line "de zolies fleurs!"
@@ -241,8 +241,8 @@ PicnickerErin2BeatenText:
 	done
 
 Route46SignText:
-	text "ROUTE 46"
-	line "CHEMIN de MONTAGNE"
+	text "Route 46"
+	line "Chemin de Montagne"
 	done
 
 Route46_MapEvents:

@@ -21,24 +21,24 @@ EcruteakMartGrannyScript:
 	jumptextfaceplayer EcruteakMartGrannyText
 
 EcruteakMartSuperNerdText:
-	text "Mon EVOLI a évolué"
-	line "en MENTALI."
+	text "Mon Evoli a évolué"
+	line "en Mentali."
 
-	para "Mais l'EVOLI de"
+	para "Mais l'Evoli de"
 	line "mon copain a"
-	cont "évolué en NOCTALI."
+	cont "évolué en Noctali."
 
 	para "Je me demande"
 	line "pourquoi? On a"
 
 	para "tous les deux"
-	line "élevé notre EVOLI"
+	line "élevé notre Evoli"
 	cont "de la même façon!"
 	done
 
 EcruteakMartGrannyText:
 	text "Si tu utilises"
-	line "RAPPEL, le #MON"
+	line "Rappel, le #mon"
 
 	para "K.O. reviendra à"
 	line "lui."

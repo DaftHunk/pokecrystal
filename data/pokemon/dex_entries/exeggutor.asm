@@ -1,4 +1,4 @@
-	db "FRUITPALME@" ; species name
+	db "Fruitpalme@" ; species name
 	db 20 ; height
 	dw 1200 ; weight
 

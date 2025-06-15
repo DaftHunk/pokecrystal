@@ -34,7 +34,7 @@ Route18Sign:
 
 BirdKeeperBorisSeenText:
 	text "Cherche les #-"
-	line "MON dans les"
+	line "mon dans les"
 
 	para "hautes herbes."
 	line "Tu le savais déjà?"
@@ -51,9 +51,9 @@ BirdKeeperBorisAfterBattleText:
 	done
 
 BirdKeeperBobSeenText:
-	text "La PISTE CYCLABLE"
+	text "La Piste Cyclable"
 	line "est un raccourci"
-	cont "vers CELADOPOLE."
+	cont "vers Céladopole."
 	done
 
 BirdKeeperBobBeatenText:
@@ -61,7 +61,7 @@ BirdKeeperBobBeatenText:
 	done
 
 BirdKeeperBobAfterBattleText:
-	text "Sans BICYCLETTE,"
+	text "Sans Bicyclette,"
 	line "tu ne peux pas"
 
 	para "emprunter ce"
@@ -69,10 +69,10 @@ BirdKeeperBobAfterBattleText:
 	done
 
 Route18SignText:
-	text "ROUTE 18"
+	text "Route 18"
 
-	para "CELADOPOLE -"
-	line "PARMANIE"
+	para "Céladopole -"
+	line "Parmanie"
 	done
 
 Route18_MapEvents:

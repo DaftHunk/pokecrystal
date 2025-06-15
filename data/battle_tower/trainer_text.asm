@@ -44,7 +44,7 @@ _BTWinM3Text:
 	done
 
 _BTGreetingM4Text:
-	text "Tes #MON ont"
+	text "Tes #mon ont"
 	line "l'air cool."
 	done
 
@@ -59,7 +59,7 @@ _BTWinM4Text:
 	done
 
 _BTGreetingM5Text:
-	text "#MON!"
+	text "#mon!"
 	line "Combat!"
 	done
 
@@ -199,13 +199,13 @@ _BTGreetingM14Text:
 	done
 
 _BTLossM14Text:
-	text "Tes #MON"
+	text "Tes #mon"
 	line "sont minables!"
 	done
 
 _BTWinM14Text:
 	text "Je peux avoir tes"
-	line "#MON?"
+	line "#mon?"
 	done
 
 _BTGreetingM15Text:
@@ -238,7 +238,7 @@ _BTWinM16Text:
 	done
 
 _BTGreetingM17Text:
-	text "Mes #MON sont"
+	text "Mes #mon sont"
 	line "mortels!"
 	done
 
@@ -302,7 +302,7 @@ _BTGreetingM21Text:
 	text "J'ai peur pour"
 	line "toi."
 
-	para "Mes #MON sont"
+	para "Mes #mon sont"
 	line "trop forts."
 	done
 
@@ -312,7 +312,7 @@ _BTLossM21Text:
 	done
 
 _BTWinM21Text:
-	text "Cool! Mes #MON"
+	text "Cool! Mes #mon"
 	line "sont nuls!"
 	done
 
@@ -366,7 +366,7 @@ _BTGreetingM25Text:
 	done
 
 _BTLossM25Text:
-	text "Yeah! Mes #MON"
+	text "Yeah! Mes #mon"
 	line "sont cool!"
 	done
 
@@ -390,7 +390,7 @@ _BTWinF1Text:
 
 _BTGreetingF2Text:
 	text "Regarde! Mes"
-	line "#MON sont"
+	line "#mon sont"
 	cont "mignons!"
 	done
 
@@ -433,23 +433,23 @@ _BTWinF4Text:
 	done
 
 _BTGreetingF5Text:
-	text "Tes #MON sont"
+	text "Tes #mon sont"
 	line "rares, non?"
 	done
 
 _BTLossF5Text:
 	text "Je peux avoir un"
-	line "de tes #MON?"
+	line "de tes #mon?"
 	done
 
 _BTWinF5Text:
 	text "...Je veux un de"
-	line "tes #MON."
+	line "tes #mon."
 	done
 
 _BTGreetingF6Text:
 	text "Tu veux voir mes"
-	line "jolis #MON?"
+	line "jolis #mon?"
 	done
 
 _BTLossF6Text:

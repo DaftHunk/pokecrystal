@@ -85,7 +85,7 @@ UnionCave1FUnusedSign: ; unreferenced
 	jumptext UnionCave1FUnusedSignText
 
 HikerRussellSeenText:
-	text "Tu vas à ECORCIA,"
+	text "Tu vas à Ecorcia,"
 	line "n'est-ce pas?"
 
 	para "Voyons si tu as"
@@ -101,14 +101,14 @@ HikerRussellAfterBattleText:
 	line "décidé..."
 
 	para "Je vais entraîner"
-	line "ici mes #MON à"
+	line "ici mes #mon à"
 	cont "fond!"
 	done
 
 PokemaniacLarrySeenText:
 	text "Je parcours la"
 	line "terre à la recher-"
-	cont "che de #MON."
+	cont "che de #mon."
 
 	para "Quoi? Toi aussi tu"
 	line "les collectionnes?"
@@ -119,14 +119,14 @@ PokemaniacLarrySeenText:
 
 PokemaniacLarryBeatenText:
 	text "Non!!! Mes pauvres"
-	line "#MON..."
+	line "#mon..."
 	done
 
 PokemaniacLarryAfterBattleText:
-	text "Chaque vendredi on"
+	text "Chaque Vendredi on"
 	line "peut entendre des"
 
-	para "cris de #MON"
+	para "cris de #mon"
 	line "venant de l'antre."
 	done
 
@@ -146,17 +146,17 @@ HikerDanielBeatenText:
 HikerDanielAfterBattleText:
 	text "On m'a persuadé"
 	line "d'acheter une"
-	cont "QUEUE de RAMOLOSS."
+	cont "Queue de Ramoloss."
 
 	para "Mais j'ai des"
 	line "remords..."
-	cont "Pauvre #MON."
+	cont "Pauvre #mon."
 	done
 
 FirebreatherBillSeenText:
-	text "L'ULTRASON de"
-	line "NOSFERAPTI rend"
-	cont "mes #MON"
+	text "L'Ultrason de"
+	line "Nosferapti rend"
+	cont "mes #mon"
 	cont "complètement fous."
 
 	para "Et ça..."
@@ -171,7 +171,7 @@ FirebreatherBillAfterBattleText:
 	text "Le week-end on"
 	line "peut entendre des"
 
-	para "cris de #MON"
+	para "cris de #mon"
 	line "venant de l'antre."
 	done
 
@@ -186,17 +186,17 @@ FirebreatherRaySeenText:
 	done
 
 FirebreatherRayBeatenText:
-	text "FLASH!"
+	text "Flash!"
 	done
 
 FirebreatherRayAfterBattleText:
 	text "Le feu de mon"
-	line "#MON illumine"
+	line "#mon illumine"
 	cont "cette caverne."
 	done
 
 UnionCave1FUnusedSignText:
-	text "CAVES JUMELLES"
+	text "Caves Jumelles"
 	done
 
 UnionCave1F_MapEvents:

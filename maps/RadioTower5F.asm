@@ -210,7 +210,7 @@ FakeDirectorTextBefore2:
 
 	para "Veux-tu savoir où"
 	line "est caché le vrai"
-	cont "DIRECTEUR?"
+	cont "Directeur?"
 
 	para "J'vais te le dire."
 	line "Mais d'abord..."
@@ -224,13 +224,13 @@ FakeDirectorWinText:
 
 FakeDirectorTextAfter:
 	text "On a planqué le"
-	line "DIRECTEUR dans"
+	line "Directeur dans"
 
-	para "l'ENTREPOT"
-	line "SOUTERRAIN."
+	para "l'Entrepôt"
+	line "Souterrain."
 
 	para "C'est tout au bout"
-	line "du SOUTERRAIN."
+	line "du Souterrain."
 
 	para "Mais t'y arriveras"
 	line "jamais... Ha!"
@@ -239,7 +239,7 @@ FakeDirectorTextAfter:
 Executivef1SeenText:
 	text "Tu te souviens de"
 	line "moi? Dans la"
-	cont "PLANQUE d'ACAJOU?"
+	cont "Planque d'Acajou?"
 
 	para "J'avais perdu..."
 	line "Mais cette fois..."
@@ -261,7 +261,7 @@ Executivef1AfterBattleText:
 	line "toi ne voit pas"
 
 	para "la grandeur de"
-	line "la TEAM ROCKET."
+	line "la Team Rocket."
 
 	para "C'est dommage."
 	line "Tu as pourtant du"
@@ -276,20 +276,20 @@ RadioTower5FRocketBossBeforeText:
 	line "sacré talent."
 
 	para "Nous allons con-"
-	line "trôler cette STA-"
+	line "trôler cette Sta-"
 
-	para "TION de RADIO pour"
+	para "tion de Radio pour"
 	line "annoncer au monde"
 	cont "notre retour."
 
 	para "Cela devrait faire"
 	line "revenir notre chef"
 
-	para "GIOVANNI de son"
+	para "Giovanni de son"
 	line "entraînement solo."
 
 	para "La gloire passée"
-	line "de la TEAM sera"
+	line "de la Team sera"
 	cont "restituée."
 
 	para "Et toi minable,"
@@ -299,7 +299,7 @@ RadioTower5FRocketBossBeforeText:
 
 RadioTower5FRocketBossWinText:
 	text "Non! Pardon,"
-	line "GIOVANNI!"
+	line "Giovanni!"
 	done
 
 RadioTower5FRocketBossAfterText:
@@ -311,21 +311,21 @@ RadioTower5FRocketBossAfterText:
 	para "Je suis pas"
 	line "digne."
 
-	para "Comme GIOVANNI l'a"
+	para "Comme Giovanni l'a"
 	line "fait jadis, je"
 
 	para "vais dissoudre la"
-	line "TEAM ROCKET."
+	line "Team Rocket."
 
 	para "Adieu."
 	done
 
 RadioTower5FDirectorThankYouText:
-	text "DIRECTEUR:"
+	text "Directeur:"
 	line "Merci <PLAY_G>!"
 
 	para "Ton courage a"
-	line "sauvé les #MON"
+	line "sauvé les #mon"
 	cont "du monde entier."
 
 	para "Ce n'est pas grand"
@@ -335,33 +335,33 @@ RadioTower5FDirectorThankYouText:
 
 RadioTower5FDirectorDescribeClearBellText:
 	text "Il y avait une"
-	line "tour ici à DOU-"
-	cont "BLONVILLE."
+	line "tour ici à Dou-"
+	cont "blonville."
 
 	para "Mais elle était"
 	line "en mauvais état."
 
 	para "On l'a alors rem-"
 	line "placée par notre"
-	cont "TOUR RADIO."
+	cont "Tour Radio."
 
 	para "Pendant les tra-"
 	line "vaux, nous avons"
-	cont "trouvé ce glas."
+	cont "trouvé ce Glas."
 
 	para "On dit qu'une"
 	line "multitude de #-"
 
-	para "MON différents vi-"
+	para "mon différents vi-"
 	line "vaient ici."
 
 	para "Alors..."
 
-	para "Ce glas a"
+	para "Ce Glas a"
 	line "peut-être un lien"
 
-	para "avec la TOUR FER-"
-	line "RAILLE de ROSALIA."
+	para "avec la Tour Fer-"
+	line "raille de Rosalia."
 
 	para "Ah!"
 
@@ -369,28 +369,28 @@ RadioTower5FDirectorDescribeClearBellText:
 
 	para "J'ai entendu un"
 	line "des types de la"
-	cont "TEAM ROCKET."
+	cont "Team Rocket."
 
 	para "Apparemment, il se"
 	line "passe des trucs à"
-	cont "la TOUR FERRAILLE."
+	cont "la Tour Ferraille."
 
 	para "A mon avis, tu"
 	line "devrais y aller."
 
 	para "OK, je retourne"
-	line "au BUREAU."
+	line "au Bureau."
 	done
 
 RadioTower5FDirectorText:
-	text "DIRECTEUR: Salut,"
+	text "Directeur: Salut,"
 	line "<PLAY_G>!"
 
 	para "Tu sais, j'adore"
-	line "les #MON."
+	line "les #mon."
 
 	para "J'ai construit"
-	line "cette TOUR RADIO"
+	line "cette Tour Radio"
 
 	para "pour crier au mon-"
 	line "de mon amour."
@@ -401,17 +401,17 @@ RadioTower5FDirectorText:
 	done
 
 BenText:
-	text "BEN: Tu écoutes"
+	text "Ben: Tu écoutes"
 	line "notre musique?"
 	done
 
 RadioTower5FDirectorsOfficeSignText:
-	text "4EME BUREAU"
-	line "     DIRECTION"
+	text "4ème Bureau"
+	line "     Direction"
 	done
 
 RadioTower5FStudio1SignText:
-	text "4EME STUDIO 1"
+	text "4ème Studio 1"
 	done
 
 RadioTower5F_MapEvents:

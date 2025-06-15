@@ -29,7 +29,7 @@ BlackthornDragonSpeechHouseGrannyText:
 	line "seurs commandant"
 
 	para "les dragons vit"
-	line "ici à EBENELLE."
+	line "ici à Ebenelle."
 
 	para "C'est pour cela"
 	line "qu'il y a beaucoup"
@@ -40,7 +40,7 @@ BlackthornDragonSpeechHouseGrannyText:
 	done
 
 BlackthornDragonSpeechHouseDratiniText:
-	text "MINIDRACO: Draa!"
+	text "Minidraco: Draa!"
 	done
 
 BlackthornDragonSpeechHouse_MapEvents:

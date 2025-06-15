@@ -1,9 +1,9 @@
-	db "GRENOUILLE@" ; species name
+	db "Grenouille@" ; species name
 	db 11 ; height
 	dw 339 ; weight
 
-	db   "Si PTITARD et"
-	next "TETARTE entendent"
+	db   "Si Ptitard et"
+	next "Tétarte entendent"
 	next "son chant, ils se"
 
 	page "rassemblent pour"

@@ -1,4 +1,4 @@
-	db "PAPILLON@" ; species name
+	db "Papillon@" ; species name
 	db 11 ; height
 	dw 320 ; weight
 

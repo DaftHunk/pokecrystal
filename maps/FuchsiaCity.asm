@@ -52,70 +52,70 @@ FuchsiaCityFruitTree:
 
 FuchsiaCityYoungsterText:
 	text "Un membre du"
-	line "CONSEIL des 4"
+	line "Conseil des 4"
 	cont "était le"
 
-	para "CHAMPION de l'ARE-"
-	line "NE de PARMANIE."
+	para "Champion de l'Arè-"
+	line "ne de Parmanie."
 	done
 
 FuchsiaCityPokefanMText:
-	text "La fille de KOGA"
+	text "La fille de Koga"
 	line "a pris sa succes-"
 
 	para "sion en tant que"
-	line "CHAMPIONNE d'ARENE"
+	line "Championne d'Arène"
 	cont "après son départ"
-	cont "pour le CONSEIL"
+	cont "pour le Conseil"
 	cont "des 4."
 	done
 
 FuchsiaCityTeacherText:
-	text "Le PARC SAFARI est"
+	text "Le Parc Safari est"
 	line "fermé. C'est tris-"
 
 	para "te: c'était l'at-"
 	line "traction principa-"
-	cont "le de PARMANIE."
+	cont "le de Parmanie."
 	done
 
 FuchsiaCitySignText:
-	text "PARMANIE"
+	text "Parmanie"
 
 	para "Le rose de la"
 	line "passion!"
 	done
 
 FuchsiaGymSignText:
-	text "CHAMPION d'ARENE"
-	line "de PARMANIE:"
-	cont "JEANNINE"
+	text "Champion d'Arène"
+	line "de Parmanie:"
+	cont "Jeannine"
 
 	para "La Ninja aux"
-	line "mille poisons"
+	line "mille Poisons"
 	done
 
 SafariZoneOfficeSignText:
 	text "Il y a une"
 	line "affiche..."
 
-	para "Le BUREAU du PARC"
-	line "SAFARI est fermé"
+	para "Le Bureau du Parc"
+	line "Safari est fermé"
 	cont "jusqu'à nouvel"
 	cont "ordre."
 	done
 
 WardensHomeSignText:
-	text "MAISON DU GARDIEN"
-	line "du PARC SAFARI"
+	text "Maison du Gardien"
+	line "du Parc Safari"
 	done
 
 SafariZoneClosedSignText:
-	text "Le GARDIEN voyage"
+	text "Le Gardien voyage"
 	line "à l'étranger."
 
-	para "Ainsi, le PARC"
-	line "SAFARI est fermé."
+	para "Ainsi, le Parc"
+	line "Safari est fermé."
 	done
 
 NoLitteringSignText:
@@ -132,7 +132,7 @@ FuchsiaCity_MapEvents:
 	warp_event  5, 13, FUCHSIA_MART, 2
 	warp_event 22, 13, SAFARI_ZONE_MAIN_OFFICE, 1
 	warp_event  8, 27, FUCHSIA_GYM, 1
-	warp_event 11, 27, BILLS_BROTHERS_HOUSE, 1
+	warp_event 11, 27, BILLS_OLDER_SISTERS_HOUSE, 1
 	warp_event 19, 27, FUCHSIA_POKECENTER_1F, 1
 	warp_event 27, 27, SAFARI_ZONE_WARDENS_HOME, 1
 	warp_event 18,  3, SAFARI_ZONE_FUCHSIA_GATE_BETA, 3 ; inaccessible

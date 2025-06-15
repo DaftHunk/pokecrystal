@@ -1,4 +1,4 @@
-	db "5 ETOILES@" ; species name
+	db "5 Etoiles@" ; species name
 	db 14 ; height
 	dw 356 ; weight
 

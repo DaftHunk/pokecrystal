@@ -56,7 +56,7 @@ GinaGreetNiteText:
 	done
 
 GinaGenericText:
-	text "Tes #MON sont"
+	text "Tes #mon sont"
 	line "toujours aussi"
 	cont "puissants?"
 

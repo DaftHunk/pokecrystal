@@ -48,7 +48,7 @@ SageChowSeenText:
 	para "Nous y exprimons"
 	line "notre gratitude"
 	cont "envers tous les"
-	cont "#MON."
+	cont "#mon."
 	done
 
 SageChowBeatenText:
@@ -71,16 +71,16 @@ SproutTower1FSage1Text:
 	done
 
 SproutTower1FSage2Text:
-	text "La TOUR CHETIFLOR"
+	text "La Tour Chétiflor"
 	line "a été construite"
 
 	para "il y a longtemps"
 	line "pour entraîner les"
-	cont "#MON."
+	cont "#mon."
 	done
 
 SproutTower1FGrannyText:
-	text "Un CHETIFLOR haut"
+	text "Un Chétiflor haut"
 	line "de 30 mètres..."
 
 	para "On raconte que"
@@ -98,7 +98,7 @@ SproutTower1FTeacherText:
 
 SproutTower1FStatueText:
 	text "Une statue de"
-	line "#MON..."
+	line "#mon..."
 
 	para "Ca a l'air cher"
 	line "et raffiné."

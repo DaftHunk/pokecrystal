@@ -35,9 +35,9 @@ VermilionPokecenter1FBugCatcherScript:
 	jumptextfaceplayer VermilionPokecenter1FBugCatcherText
 
 VermilionPokecenter1FFishingGuruText:
-	text "Un #MON endormi"
+	text "Un #mon endormi"
 	line "est devant la"
-	cont "CAVE TAUPIQUEUR."
+	cont "Cave Taupiqueur."
 
 	para "On pourrait l'at-"
 	line "traper, mais com-"
@@ -46,17 +46,17 @@ VermilionPokecenter1FFishingGuruText:
 
 VermilionPokecenter1FFishingGuruText_FoughtSnorlax:
 	text "Il y avait un"
-	line "#MON endormi"
+	line "#mon endormi"
 
-	para "devant la CAVE"
-	line "TAUPIQUEUR."
+	para "devant la Cave"
+	line "Taupiqueur."
 
 	para "Mais il a disparu,"
 	line "on dirait."
 	done
 
 VermilionPokecenter1FSailorText:
-	text "Le BATEAU EXPRESS"
+	text "Le Bateau Express"
 	line "est un bon moyen"
 
 	para "de rencontrer et"
@@ -66,11 +66,11 @@ VermilionPokecenter1FSailorText:
 
 VermilionPokecenter1FBugCatcherText:
 	text "Oh? Tu as des"
-	line "BADGES que je n'ai"
+	line "Badges que je n'ai"
 	cont "jamais vus."
 
 	para "Je vois. Tu les"
-	line "as eus à JOHTO."
+	line "as eus à Johto."
 	done
 
 VermilionPokecenter1F_MapEvents:

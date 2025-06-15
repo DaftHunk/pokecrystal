@@ -63,27 +63,27 @@ HallOfFame_SlowlyApproachMachine:
 	step_end
 
 HallOfFame_LanceText:
-	text "PETER: Je ne suis"
+	text "Peter: Je ne suis"
 	line "pas venu ici"
 	cont "depuis longtemps."
 
 	para "Ce lieu consacre"
-	line "les MAITRES de la"
+	line "les Maîtres de la"
 
-	para "LIGUE pour l'éter-"
+	para "Ligue pour l'éter-"
 	line "nité."
 
 	para "Leurs courageux"
-	line "#MON sont aussi"
+	line "#mon sont aussi"
 	cont "accueillis."
 
 	para "Aujourd'hui, un"
-	line "nouveau MAITRE a"
+	line "nouveau Maître a"
 
 	para "fait son appari-"
-	line "tion. Un MAITRE"
+	line "tion. Un Maître"
 
-	para "aimant ses #MON"
+	para "aimant ses #mon"
 	line "plus que tout."
 
 	para "Un dresseur"
@@ -94,7 +94,7 @@ HallOfFame_LanceText:
 	line "les atouts pour"
 
 	para "être le plus grand"
-	line "des MAITRES!"
+	line "des Maîtres!"
 
 	para "<PLAY_G>, je vais"
 	line "inscrire ton nom"

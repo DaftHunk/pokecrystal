@@ -32,28 +32,28 @@ GoldenrodDeptStore3FSuperNerdText:
 	line "speed!"
 
 	para "J'utilise"
-	line "VITESSE + pour"
+	line "Vitesse + pour"
 	cont "booster mon"
-	cont "#MON."
+	cont "#mon."
 	done
 
 GoldenrodDeptStore3FRockerText:
 	text "Hé! Quand tu te"
 	line "bats, utilises-tu"
-	cont "du SPECIAL +?"
+	cont "du Spécial +?"
 
 	para "C'est impression-"
 	line "nant! Ca booste"
 	cont "vraiment ta stat"
-	cont "d'ATQ.SPE!"
+	cont "d'Atq.Spé!"
 	done
 
 GoldenrodDeptStore3FDirectoryText:
 	text "Pour ceux qui"
 	line "aiment gagner"
 
-	para "2EME COLLECTION"
-	line "     DE COMBAT"
+	para "2ème Collection"
+	line "     de Combat"
 	done
 
 GoldenrodDeptStore3F_MapEvents:

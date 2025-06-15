@@ -71,7 +71,7 @@ RuinsOfAlphInnerChamberGrampsText:
 RuinsOfAlphInnerChamberStatueText:
 	text "C'est la réplique"
 	line "d'un ancien #-"
-	cont "MON."
+	cont "mon."
 	done
 
 RuinsOfAlphInnerChamber_MapEvents:

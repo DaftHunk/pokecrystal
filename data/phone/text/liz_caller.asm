@@ -54,8 +54,8 @@ LizBattleRematchText:
 	done
 
 LizWrongNumberText:
-	text "Allô GERMAINE?"
-	line "Ca va? C'est LIZ."
+	text "Allô Germaine?"
+	line "Ca va? C'est Liz."
 
 	para "Qu'est-ce que tu"
 	line "deviens?"
@@ -74,7 +74,7 @@ LizRuinsOfAlphGossipText:
 	para "J'écoutais la"
 	line "radio dans les"
 
-	para "RUINES d'ALPHA et"
+	para "Ruines d'Alpha et"
 	line "j'ai entendu un"
 
 	para "truc bizarre au"
@@ -88,7 +88,7 @@ LizFalknerGossipText:
 	text "Ecoute!"
 
 	para "Tu trouves pas que"
-	line "ALBERT de MAUVILLE"
+	line "Albert de Mauville"
 	cont "est beau gosse?"
 
 	para "On dit aussi que"
@@ -105,11 +105,11 @@ LizEarlGossipText:
 	text "Ecoute!"
 
 	para "Tu connais"
-	line "THEOPHILE, le"
+	line "Théophile, le"
 
 	para "professeur à la"
-	line "tête de l'ACADEMIE"
-	cont "de MAUVILLE?"
+	line "tête de l'Académie"
+	cont "de Mauville?"
 
 	para "Je l'ai vu courir!"
 	line "C'était à mourir"
@@ -123,12 +123,12 @@ LizSurfPikachuGossipText:
 
 	para "Je collectionne"
 	line "des poupées"
-	cont "#MON."
+	cont "#mon."
 
 	para "Mais je n'arrive"
 	line "pas à trouver un"
 
-	para "JOUETPIKACHU SURF."
+	para "JouetPikachu Surf."
 	line "Et aucun de mes"
 
 	para "amis n'en a."
@@ -142,10 +142,10 @@ LizMooMooMilkGossipText:
 	text "Ecoute!"
 
 	para "Tu connais le"
-	line "LAIT MEUMEU?"
+	line "Lait Meumeu?"
 
 	para "On peut en acheter"
-	line "au RANCH MEUMEU."
+	line "au Ranch Meumeu."
 
 	para "C'est bon pour la"
 	line "santé et la beauté"
@@ -158,10 +158,10 @@ LizMooMooMilkGossipText:
 LizSalonGossipText:
 	text "Ecoute!"
 
-	para "Il y a un SALON"
-	line "#MON à DOUBLON-"
+	para "Il y a un Salon"
+	line "#mon à Doublon-"
 
-	para "VILLE qui est tenu"
+	para "ville qui est tenu"
 	line "par deux frères."
 
 	para "Le plus vieux est"
@@ -180,16 +180,16 @@ LizSalonGossipText:
 LizWhitneyGossipText:
 	text "Ecoute!"
 
-	para "BLANCHE de DOU-"
-	line "BLONVILLE est"
+	para "Blanche de Dou-"
+	line "blonville est"
 
 	para "dresseur depuis"
 	line "peu de temps!"
 
-	para "Mais la LIGUE"
-	line "#MON l'a"
+	para "Mais la Ligue"
+	line "#mon l'a"
 	cont "choisie pour être"
-	cont "CHAMPIONNE!"
+	cont "Championne!"
 
 	para "Elle doit avoir un"
 	line "sacré talent."
@@ -201,12 +201,12 @@ LizBugCatchingContestGossipText:
 	para "As-tu participé au"
 	line "Concours de Captu-"
 
-	para "re au PARC"
-	line "NATUREL?"
+	para "re au Parc"
+	line "Naturel?"
 
 	para "Moi ouais. Je"
 	line "n'ai pu attraper"
-	cont "qu'un CHENIPAN."
+	cont "qu'un Chenipan."
 
 	para "Mais tu sais quoi?"
 

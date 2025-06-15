@@ -33,7 +33,7 @@ DayOfWeekSiblingsHousePokedexText2:
 
 	para "Nous devons aider"
 	line "les dresseurs de"
-	cont "#MON."
+	cont "#mon."
 
 	para "Quand un dresseur"
 	line "vient vous parler,"
@@ -41,32 +41,32 @@ DayOfWeekSiblingsHousePokedexText2:
 	cont "objet."
 
 	para "Bisous,"
-	line "LUCIE"
+	line "Lucie"
 
 	para "Continuer à lire?"
 	done
 
 DayOfWeekSiblingsHousePokedexText3:
-	text "Lundi, LUCIE"
-	line "ROUTE 40"
+	text "Lundi, Lucie"
+	line "Route 40"
 
-	para "Mardi, MARIE"
-	line "ROUTE 29"
+	para "Mardi, Marie"
+	line "Route 29"
 
-	para "Mercredi, HOMER"
-	line "LAC COLERE"
+	para "Mercredi, Homer"
+	line "Lac Colère"
 
-	para "Jeudi, JEROME"
-	line "ROUTE 36"
+	para "Jeudi, Jérôme"
+	line "Route 36"
 
-	para "Vendredi, VANESSA"
-	line "ROUTE 32"
+	para "Vendredi, Vanessa"
+	line "Route 32"
 
-	para "Samedi, SAMUEL"
-	line "EBENELLE"
+	para "Samedi, Samuel"
+	line "Ebenelle"
 
-	para "Dimanche, DIMITRI"
-	line "ROUTE 37"
+	para "Dimanche, Dimitri"
+	line "Route 37"
 	done
 
 DayOfWeekSiblingsHouse_MapEvents:

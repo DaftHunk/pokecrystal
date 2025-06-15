@@ -11,7 +11,7 @@ Route15FuchsiaGateOfficerScript:
 
 Route15FuchsiaGateOfficerText:
 	text "Tu veux compléter"
-	line "un #DEX? C'est"
+	line "un #dex? C'est"
 
 	para "génial! Surtout"
 	line "n'abandonne pas!"

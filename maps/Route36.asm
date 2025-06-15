@@ -411,18 +411,18 @@ Route36SuicuneMovement:
 UseSquirtbottleText:
 	text "Un arbre bizarre."
 	line "Utiliser la"
-	cont "CARAPUCE A O?"
+	cont "Carapuce à O?"
 	done
 
 UsedSquirtbottleText:
 	text "<PLAYER> utilise la"
-	line "CARAPUCE A O."
+	line "Carapuce à O."
 	done
 
 SudowoodoAttackedText:
 	text "L'arbre bizarre"
 	line "n'aime pas la"
-	cont "CARAPUCE A O!"
+	cont "Carapuce à O!"
 
 	para "L'arbre bizarre"
 	line "attaque!"
@@ -430,7 +430,7 @@ SudowoodoAttackedText:
 
 FloriaText1:
 	text "Je suis FLORA la"
-	line "FLEURISTE!"
+	line "Fleuriste!"
 
 	para "Ecoute voir!"
 
@@ -442,7 +442,7 @@ FloriaText1:
 	cont "sauter!"
 
 	para "Ca doit être un"
-	line "#MON."
+	line "#mon."
 
 	para "Asperge-le à ton"
 	line "tour et il montre-"
@@ -464,7 +464,7 @@ FloriaText2:
 	line "reux."
 
 	para "Si je battais"
-	line "BLANCHE, elle me"
+	line "Blanche, elle me"
 
 	para "passerait sûrement"
 	line "sa bouteille..."
@@ -497,7 +497,7 @@ Text_ReceivedTM08: ; unreferenced
 
 RockSmashGuyText3:
 	text "C'est le terrible"
-	line "ECLATE-ROC."
+	line "Eclate-Roc."
 
 	para "Tu peux éclater"
 	line "des rochers d'un"
@@ -508,20 +508,20 @@ RockSmashGuyText3:
 	cont "éclate-le!"
 	done
 
-UnusedOddTreeText: ; unreferenced
+Route36LassPCCText:
 	text "Un drôle d'arbre"
 	line "bloque le passage"
-	cont "vers DOUBLONVILLE."
+	cont "vers Doublonville."
 
 	para "Je voulais voir"
 	line "le nouveau"
-	cont "CENTRE #MON..."
+	cont "Centre #mon..."
 	done
 
-Route36LassText:
+Route36LassText: ; Unused, English version of the above dialog.
 	text "Un drôle d'arbre"
 	line "bloque le passage"
-	cont "vers DOUBLONVILLE."
+	cont "vers Doublonville."
 
 	para "Je peux pas faire"
 	line "mes courses."
@@ -535,7 +535,7 @@ Route36LassText_ClearedSudowoodo:
 	line "disparu..."
 
 	para "Oh! C'était un"
-	line "#MON?"
+	line "#mon?"
 	cont "Vraiment?"
 	done
 
@@ -577,10 +577,10 @@ SchoolboyAlanBooksText:
 	done
 
 MeetArthurText:
-	text "JEROME: Qui es-tu?"
+	text "Jérôme: Qui es-tu?"
 
-	para "Moi c'est JEROME"
-	line "du jeudi."
+	para "Moi c'est Jérôme"
+	line "du Jeudi."
 	done
 
 ArthurGivesGiftText:
@@ -589,49 +589,49 @@ ArthurGivesGiftText:
 	done
 
 ArthurGaveGiftText:
-	text "JEROME: C'est pour"
-	line "un #MON avec"
+	text "Jérôme: C'est pour"
+	line "un #mon avec"
 
 	para "des capacités du"
-	line "type ROCHE."
+	line "type Roche."
 
 	para "Cela va améliorer"
 	line "ses attaques."
 	done
 
 ArthurThursdayText:
-	text "JEROME: Moi c'est"
-	line "JEROME du jeudi,"
+	text "Jérôme: Moi c'est"
+	line "Jérôme du Jeudi,"
 
 	para "le deuxième fils"
 	line "des sept enfants."
 	done
 
 ArthurNotThursdayText:
-	text "JEROME: On n'est"
-	line "pas jeudi aujourd'"
+	text "Jérôme: On n'est"
+	line "pas Jeudi aujourd'"
 	cont "hui. Dommage."
 	done
 
 Route36SignText:
-	text "ROUTE 36"
+	text "Route 36"
 	done
 
 RuinsOfAlphNorthSignText:
-	text "RUINES D'ALPHA"
-	line "ENTREE NORD"
+	text "Ruines d'Alpha"
+	line "Entrée Nord"
 	done
 
 Route36TrainerTips1Text:
-	text "ASTUCE"
+	text "Astuce"
 
 	para "Les statistiques"
-	line "des #MON"
+	line "des #mon"
 	cont "varient, même dans"
 	cont "la même espèce."
 
 	para "Et même si au dé-"
-	line "but deux #MON"
+	line "but deux #mon"
 	cont "se ressemblent..."
 
 	para "En grandissant ils"
@@ -642,9 +642,9 @@ Route36TrainerTips1Text:
 	done
 
 Route36TrainerTips2Text:
-	text "ASTUCE"
+	text "Astuce"
 
-	para "Utiliser TUNNEL"
+	para "Utiliser Tunnel"
 	line "pour retourner au"
 	cont "début d'un lieu."
 

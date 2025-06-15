@@ -32,12 +32,12 @@ BattleTowerOutsideSign:
 
 BattleTowerOutsideYoungsterText_NotYetOpen: ; unreferenced
 	text "Mazette! Elle est"
-	line "grande cette TOUR"
-	cont "DE COMBAT!"
+	line "grande cette Tour"
+	cont "de Combat!"
 	done
 
 BattleTowerOutsideYoungsterText_Mobile: ; unreferenced
-	text "La TOUR DE COMBAT"
+	text "La Tour de Combat"
 	line "est géante!"
 
 	para "Vu qu'il y a tout"
@@ -47,15 +47,15 @@ BattleTowerOutsideYoungsterText_Mobile: ; unreferenced
 	line "doit y avoir une"
 
 	para "multitude de"
-	line "#MON."
+	line "#mon."
 	done
 
 BattleTowerOutsideYoungsterText:
 	text "Foui! C'est grand"
-	line "la TOUR DE COMBAT!"
+	line "la Tour de Combat!"
 
 	para "Il doit y avoir"
-	line "plein de #MON"
+	line "plein de #mon"
 	cont "différents!"
 	done
 
@@ -72,7 +72,7 @@ BattleTowerOutsideBeautyText_NotYetOpen: ; unreferenced
 
 BattleTowerOutsideBeautyText:
 	text "On ne peut utili-"
-	line "ser que 3 #MON."
+	line "ser que 3 #mon."
 
 	para "C'est dur de faire"
 	line "un choix..."
@@ -85,7 +85,7 @@ BattleTowerOutsideSailorText_Mobile: ; unreferenced
 	cont "ici..."
 
 	para "Je vais devenir"
-	line "un CHAMPION!"
+	line "un Champion!"
 	cont "Un vrai de vrai!"
 	done
 
@@ -99,11 +99,11 @@ BattleTowerOutsideSailorText:
 
 BattleTowerOutsideSignText_NotYetOpen: ; unreferenced
 ; originally shown when the Battle Tower was closed
-	text "TOUR DE COMBAT"
+	text "Tour de Combat"
 	done
 
 BattleTowerOutsideSignText:
-	text "TOUR DE COMBAT"
+	text "Tour de Combat"
 
 	para "Le méga défi de"
 	line "tout dresseur!"
@@ -112,7 +112,7 @@ BattleTowerOutsideSignText:
 BattleTowerOutsideText_DoorsClosed: ; unreferenced
 ; originally shown when the Battle Tower was closed
 	text "Les portes de la"
-	line "TOUR DE COMBAT"
+	line "Tour de Combat"
 	cont "sont fermées..."
 	done
 

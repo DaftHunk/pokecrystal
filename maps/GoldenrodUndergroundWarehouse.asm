@@ -109,10 +109,10 @@ GruntM24BeatenText:
 	done
 
 GruntM24AfterBattleText:
-	text "La TEAM ROCKET"
+	text "La Team Rocket"
 	line "vivra dans l'at-"
 	cont "tente du retour du"
-	cont "grand GIOVANNI."
+	cont "grand Giovanni."
 
 	para "Nous sommes prêts"
 	line "à tout."
@@ -135,7 +135,7 @@ GruntM14AfterBattleText:
 	text "Perdu..."
 
 	para "Pardon..."
-	line "GIOVANNI!"
+	line "Giovanni!"
 	done
 
 GruntM15SeenText:
@@ -158,26 +158,26 @@ GruntM15AfterBattleText:
 	done
 
 DirectorIntroText:
-	text "DIRECTEUR: Qui?"
+	text "Directeur: Qui?"
 	line "Quoi? Tu es là"
 	cont "pour me sauver?"
 
 	para "Merci!"
 
-	para "La TOUR RADIO!"
+	para "La Tour Radio!"
 
 	para "Que se passe-t-il"
 	line "là-bas?"
 
 	para "Contrôlée par la"
-	line "TEAM ROCKET?"
+	line "Team Rocket?"
 
 	para "Tiens. Prends"
-	line "cette CARTE MAGN."
+	line "cette Carte Magn."
 	done
 
 DirectorCardKeyText:
-	text "DIRECTEUR: Utilise"
+	text "Directeur: Utilise"
 	line "cette carte pour"
 	cont "ouvrir les volets"
 	cont "du 2ème."
@@ -196,17 +196,17 @@ DirectorAfterText:
 	para "Ils pourront même"
 	line "manipuler les"
 
-	para "#MON grâce à un"
+	para "#mon grâce à un"
 	line "signal spécial!"
 
 	para "Tu es mon seul"
 	line "espoir."
 
-	para "Sauve la TOUR"
-	line "RADIO! Pitié!!!"
+	para "Sauve la Tour"
+	line "Radio! Pitié!!!"
 
 	para "Sauve tous les"
-	line "gentils #MON!"
+	line "gentils #mon!"
 	done
 
 GoldenrodUndergroundWarehouse_MapEvents:

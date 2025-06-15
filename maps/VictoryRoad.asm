@@ -165,8 +165,8 @@ VictoryRoadRivalBeforeText:
 	text "Minute."
 
 	para "Vas-tu relever le"
-	line "défi de la LIGUE"
-	cont "#MON?"
+	line "défi de la Ligue"
+	cont "#mon?"
 
 	para "Me fais pas rire!"
 	line "T'es minable!"
@@ -178,7 +178,7 @@ VictoryRoadRivalBeforeText:
 	line "meilleur que toi!"
 
 	para "J'ai les meilleurs"
-	line "#MON! Les"
+	line "#mon! Les"
 
 	para "plus forts de"
 	line "tous! Je suis in-"

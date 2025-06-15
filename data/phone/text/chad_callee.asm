@@ -57,19 +57,19 @@ ChadGreetNiteText:
 
 ChadGenericText:
 	text "Comment vont tes"
-	line "#MON?"
+	line "#mon?"
 
 	para "Vu que tu connais"
-	line "le PROF.CHEN, tes"
-	cont "#MON sont"
+	line "le Prof.Chen, tes"
+	cont "#mon sont"
 	cont "forcément en"
 	cont "bonne forme!"
 
-	para "Mes #MON vont"
+	para "Mes #mon vont"
 	line "bien."
 
 	para "J'essaie aussi de"
 	line "devenir un"
-	cont "professeur #MON"
+	cont "professeur #mon"
 	cont "de mon côté."
 	done

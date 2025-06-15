@@ -1,56 +1,56 @@
 NurseMornText:
 	text "Bien le bonjour!"
 	line "Bienvenue au"
-	cont "CENTRE #MON."
+	cont "Centre #mon."
 	done
 
 NurseDayText:
 	text "Salut!"
 	line "Bienvenue au"
-	cont "CENTRE #MON."
+	cont "Centre #mon."
 	done
 
 NurseNiteText:
 	text "Bonsoir!"
 	line "Bienvenue au"
-	cont "CENTRE #MON."
+	cont "Centre #mon."
 	done
 
 PokeComNurseMornText:
 	text "Bonjour!"
 
-	para "Voici le CENTRE de"
-	line "COMMUNICATION"
+	para "Voici le Centre de"
+	line "Communication"
 
-	para "#MON... Ou"
-	line "CENTRE #COM."
+	para "#mon... Ou"
+	line "Centre #com."
 	done
 
 PokeComNurseDayText:
 	text "Bonjour!"
 
-	para "Voici le CENTRE de"
-	line "COMMUNICATION"
+	para "Voici le Centre de"
+	line "Communication"
 
-	para "#MON... Ou"
-	line "CENTRE #COM."
+	para "#mon... Ou"
+	line "Centre #com."
 	done
 
 PokeComNurseNiteText:
 	text "Vous êtes debout"
 	line "bien tard!"
 
-	para "Voici le CENTRE de"
-	line "COMMUNICATION"
+	para "Voici le Centre de"
+	line "Communication"
 
-	para "#MON... Ou"
-	line "CENTRE #COM."
+	para "#mon... Ou"
+	line "Centre #com."
 	done
 
 NurseAskHealText:
 	text "Nous pouvons"
 	line "soigner vos"
-	cont "#MON."
+	cont "#mon."
 
 	para "Voulez-vous les"
 	line "soigner?"
@@ -58,14 +58,14 @@ NurseAskHealText:
 
 NurseTakePokemonText:
 	text "OK, puis-je voir"
-	line "vos #MON?"
+	line "vos #mon?"
 	done
 
 NurseReturnPokemonText:
 	text "Merci d'avoir"
 	line "attendu."
 
-	para "Vos #MON sont"
+	para "Vos #mon sont"
 	line "en super forme."
 	done
 
@@ -84,9 +84,9 @@ NursePokerusText:
 	line "petites formes de"
 
 	para "vie sont collées à"
-	line "vos #MON."
+	line "vos #mon."
 
-	para "Vos #MON sont"
+	para "Vos #mon sont"
 	line "apparemment en"
 	cont "bonne santé."
 
@@ -94,7 +94,7 @@ NursePokerusText:
 	line "pas vous en dire"
 
 	para "plus dans un"
-	line "CENTRE #MON."
+	line "Centre #mon."
 	done
 
 PokeComNursePokerusText:
@@ -102,9 +102,9 @@ PokeComNursePokerusText:
 	line "petites formes de"
 
 	para "vie sont collées à"
-	line "vos #MON."
+	line "vos #mon."
 
-	para "Vos #MON sont"
+	para "Vos #mon sont"
 	line "apparemment en"
 	cont "bonne santé."
 
@@ -121,46 +121,46 @@ DifficultBookshelfText:
 PictureBookshelfText:
 	text "Une collection de"
 	line "livres d'images"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 MagazineBookshelfText:
-	text "Magazines #MON…"
-	line "STYLO #MON,"
+	text "Magazines #mon…"
+	line "Stylo #mon,"
 
-	para "CAHIER #MON,"
-	line "GRAPH #MON..."
+	para "Cahier #mon,"
+	line "Graph #mon..."
 	done
 
 TeamRocketOathText:
-	text "SERMENT ROCKET"
+	text "Serment Rocket"
 
-	para "Voler les #MON"
+	para "Voler les #mon"
 	line "pour le pognon!"
 
 	para "Exploiter les"
-	line "#MON pour le"
+	line "#mon pour le"
 	cont "pognon!"
 
-	para "Les #MON aident"
+	para "Les #mon aident"
 	line "à la gloire de la"
-	cont "TEAM ROCKET!"
+	cont "Team Rocket!"
 	done
 
 IncenseBurnerText:
 	text "C'est quoi donc?"
 
 	para "Oh, c'est un"
-	line "brûleur d'encens!"
+	line "Brûleur d'encens!"
 	done
 
 MerchandiseShelfText:
 	text "Tout plein de"
-	line "trucs #MON!"
+	line "trucs #mon!"
 	done
 
 LookTownMapText:
-	text "C'est la CARTE."
+	text "C'est la Carte."
 	done
 
 WindowText:
@@ -173,7 +173,7 @@ TVText:
 	done
 
 HomepageText:
-	text "JOURNAL #MON:"
+	text "Journal #mon:"
 	line "HOME PAGE…"
 
 	para "Ce n'est pas"
@@ -181,7 +181,7 @@ HomepageText:
 	done
 
 ; not used
-	text "#MON RADIO!"
+	text "#mon Radio!"
 
 	para "Appelez-nous et"
 	line "faites passer un"
@@ -194,33 +194,33 @@ TrashCanText:
 	done
 
 ; not used
-	text "Un #MON"
+	text "Un #mon"
 	line "pourrait sûrement"
 	cont "déplacer ça."
 	done
 
 ; not used
-	text "Un #MON"
+	text "Un #mon"
 	line "pourrait peut-être"
 	cont "casser ça."
 	done
 
 PokecenterSignText:
 	text "Soignez donc vos"
-	line "#MON au... "
-	cont "CENTRE #MON!!!"
+	line "#mon au... "
+	cont "Centre #mon!!!"
 	done
 
 MartSignText:
 	text "Pour tout acheter,"
 	line "pour tout trouver:"
 
-	para "BOUTIQUE #MON!"
+	para "Boutique #mon!"
 	done
 
 ContestResults_ReadyToJudgeText:
 	text "On va maintenant"
-	line "juger vos #MON"
+	line "juger vos #mon"
 	cont "capturés."
 
 	para "<……>"
@@ -257,7 +257,7 @@ ContestResults_JoinUsNextTimeText:
 
 ContestResults_ConsolationPrizeText:
 	text "Tout le monde"
-	line "gagne une BAIE en"
+	line "gagne une Baie en"
 	cont "lot de"
 	cont "consolation!"
 	done
@@ -268,7 +268,7 @@ ContestResults_DidNotWinText:
 	done
 
 ContestResults_ReturnPartyText:
-	text "Voici les #MON"
+	text "Voici les #mon"
 	line "que nous gardions"
 
 	para "pour vous."
@@ -277,59 +277,59 @@ ContestResults_ReturnPartyText:
 
 ContestResults_PartyFullText:
 	text "Equipe pleine! Le"
-	line "#MON est envoyé"
+	line "#mon est envoyé"
 
-	para "dans la BOITE du"
-	line "PC de LEO."
+	para "dans la Boîte du"
+	line "PC de Léo."
 	done
 
 GymStatue_CityGymText:
 	text_ram wStringBuffer3
 	text_start
-	line "ARENE #MON"
+	line "Arène #mon"
 	done
 
 GymStatue_WinningTrainersText:
-	text "CHAMPION:"
+	text "Champion:"
 	line "@"
 	text_ram wStringBuffer4
 	text_start
-	para "DRESSEURS"
-	line "VAINQUEURS:"
+	para "Dresseurs"
+	line "Vainqueurs:"
 	cont "<PLAYER>"
 	done
 
 CoinVendor_WelcomeText:
 	text "Bienvenue au"
-	line "CASINO."
+	line "Casino."
 	done
 
 CoinVendor_NoCoinCaseText:
 	text "Voulez-vous des"
-	line "jetons?"
+	line "Jetons?"
 
 	para "Mais...! Vous"
 	line "n'avez pas de"
-	cont "BOITE JETON!"
+	cont "Boîte Jeton!"
 	done
 
 CoinVendor_IntroText:
 	text "Voulez-vous des"
-	line "jetons?"
+	line "Jetons?"
 
 	para "C'est 1000¥ pour"
-	line "50 jetons. Ca vous"
+	line "50 Jetons. Ca vous"
 	cont "tente toujours?"
 	done
 
 CoinVendor_Buy50CoinsText:
 	text "Merci!"
-	line "Voici 50 jetons."
+	line "Voici 50 Jetons."
 	done
 
 CoinVendor_Buy500CoinsText:
 	text "Merci! Voici"
-	line "500 jetons."
+	line "500 Jetons."
 	done
 
 CoinVendor_NotEnoughMoneyText:
@@ -338,17 +338,17 @@ CoinVendor_NotEnoughMoneyText:
 	done
 
 CoinVendor_CoinCaseFullText:
-	text "Houlà! Votre BOITE"
-	line "JETON est pleine."
+	text "Houlà! Votre Boîte"
+	line "Jeton est pleine."
 	done
 
 CoinVendor_CancelText:
-	text "Pas de jetons?"
+	text "Pas de Jetons?"
 	line "Alors à bientôt!"
 	done
 
 BugContestPrizeNoRoomText:
-	text "Votre SAC"
+	text "Votre Sac"
 	line "est plein!!!"
 
 	para "Nous allons garder"
@@ -360,12 +360,12 @@ BugContestPrizeNoRoomText:
 
 HappinessText3:
 	text "Woah! Toi et ton"
-	line "#MON êtes"
+	line "#mon êtes"
 	cont "super proches!"
 	done
 
 HappinessText2:
-	text "Les #MON de-"
+	text "Les #mon de-"
 	line "viennent plus ami-"
 
 	para "caux en passant du"
@@ -375,7 +375,7 @@ HappinessText2:
 HappinessText1:
 	text "Tu n'as pas"
 	line "apprivoisé ton"
-	cont "#MON."
+	cont "#mon."
 
 	para "Si tu n'es pas"
 	line "sympa, il fera la"

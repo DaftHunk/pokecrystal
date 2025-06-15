@@ -62,11 +62,11 @@ BrentGenericText:
 	text "J'ai vu que tu"
 	line "sortais du"
 
-	para "CENTRE #MON"
+	para "Centre #mon"
 	line "l'autre jour."
 
 	para "Tu aimes soigner"
-	line "tes #MON?"
+	line "tes #mon?"
 	cont "C'est bien, ça."
 
 	para "Mon @"
@@ -75,6 +75,6 @@ BrentGenericText:
 	line "pète la forme."
 
 	para "Il a pas besoin"
-	line "des CENTRES"
-	cont "#MON!"
+	line "des Centres"
+	cont "#mon!"
 	done

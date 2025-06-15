@@ -65,7 +65,7 @@ CelebrityText2:
 	done
 
 CelebritysFearowText:
-	text "RAPASDEPIC: Piiic!"
+	text "Rapasdepic: Piiic!"
 	done
 
 Route28SteelWingHouse_MapEvents:

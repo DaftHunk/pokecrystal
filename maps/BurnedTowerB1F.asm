@@ -191,19 +191,19 @@ BurnedTowerB1FEusineMovement1:
 	step_end
 
 BurnedTowerB1FEusineText:
-	text "EUSINE: J'ai creu-"
+	text "Eusine: J'ai creu-"
 	line "sé un trou ici..."
 
 	para "Quel choc!"
 
-	para "SUICUNE s'est mis"
+	para "Suicune s'est mis"
 	line "à débouler juste"
 	cont "devant mes yeux!"
 
 	para "Cela faisait dix"
 	line "ans que je courais"
 
-	para "après SUICUNE..."
+	para "après Suicune..."
 	line "Enfin quelque"
 	cont "chose!"
 
@@ -215,9 +215,9 @@ BurnedTowerB1FEusineText:
 	para "Merci!"
 
 	para "On dit que les"
-	line "#MON légendai-"
+	line "#mon légendai-"
 
-	para "res de ROSALIA"
+	para "res de Rosalia"
 	line "testent cer-"
 
 	para "tains humains en"
@@ -225,7 +225,7 @@ BurnedTowerB1FEusineText:
 	cont "procher."
 
 	para "Je vais poursuivre"
-	line "SUICUNE."
+	line "Suicune."
 
 	para "<PLAYER>,"
 	line "à très bientôt!"

@@ -37,7 +37,7 @@ CeruleanPoliceStationPokefanFText:
 	done
 
 CeruleanDiglettText:
-	text "TAUPIQUEUR: Topi!"
+	text "Taupiqueur: Topi!"
 	done
 
 CeruleanPoliceStation_MapEvents:

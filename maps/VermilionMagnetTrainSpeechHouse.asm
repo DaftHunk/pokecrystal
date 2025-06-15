@@ -18,17 +18,17 @@ VermilionMagnetTrainSpeechHouseBookshelf:
 
 VermilionMagnetTrainSpeechHousePokefanFText:
 	text "Tu connais le"
-	line "TRAIN MAGNET?"
+	line "Train Magnet?"
 
 	para "C'est un train qui"
-	line "va à DOUBLONVILLE"
-	cont "à JOHTO."
+	line "va à Doublonville"
+	cont "à Johto."
 	done
 
 VermilionMagnetTrainSpeechHouseYoungsterText:
 	text "Je veux aller à"
-	line "SAFRANIA pour voir"
-	cont "le TRAIN MAGNET."
+	line "Safrania pour voir"
+	cont "le Train Magnet."
 	done
 
 VermilionMagnetTrainSpeechHouse_MapEvents:

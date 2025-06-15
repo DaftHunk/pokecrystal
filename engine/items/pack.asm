@@ -166,8 +166,8 @@ Pack:
 .MenuData_1:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 2 ; items
-	db "UTIL@"
-	db "RET@"
+	db "Util@"
+	db "Ret@"
 
 .Jumptable1:
 	dw .UseItem
@@ -182,9 +182,9 @@ Pack:
 .MenuData_2:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 3 ; items
-	db "UTIL@"
-	db "DON@"
-	db "RET@"
+	db "Util@"
+	db "Don@"
+	db "Ret@"
 
 .Jumptable2:
 	dw .UseItem
@@ -317,11 +317,11 @@ MenuHeader_UsableKeyItem:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 5 ; items
-	db "UTIL@"
-	db "DON@"
-	db "JETER@"
+	db "Util@"
+	db "Don@"
+	db "Jeter@"
 	db "SLCT@"
-	db "RET@"
+	db "Ret@"
 
 Jumptable_UseGiveTossRegisterQuit:
 	dw UseItem
@@ -339,10 +339,10 @@ MenuHeader_UsableItem:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 4 ; items
-	db "UTIL@"
-	db "DON@"
-	db "JETER@"
-	db "RET@"
+	db "Util@"
+	db "Don@"
+	db "Jeter@"
+	db "Ret@"
 
 Jumptable_UseGiveTossQuit:
 	dw UseItem
@@ -359,8 +359,8 @@ MenuHeader_UnusableItem:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 2 ; items
-	db "UTIL@"
-	db "RET@"
+	db "Util@"
+	db "Ret@"
 
 Jumptable_UseQuit:
 	dw UseItem
@@ -375,9 +375,9 @@ MenuHeader_UnusableKeyItem:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 3 ; items
-	db "UTIL@"
+	db "Util@"
 	db "SLCT@"
-	db "RET@"
+	db "Ret@"
 
 Jumptable_UseRegisterQuit:
 	dw UseItem
@@ -393,10 +393,10 @@ MenuHeader_HoldableKeyItem:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 4 ; items
-	db "DON@"
-	db "JETER@"
+	db "Don@"
+	db "Jeter@"
 	db "SLCT@"
-	db "RET@"
+	db "Ret@"
 
 Jumptable_GiveTossRegisterQuit:
 	dw GiveItem
@@ -413,9 +413,9 @@ MenuHeader_HoldableItem:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 3 ; items
-	db "DON@"
-	db "JETER@"
-	db "RET@"
+	db "Don@"
+	db "Jeter@"
+	db "Ret@"
 
 Jumptable_GiveTossQuit:
 	dw GiveItem
@@ -814,8 +814,8 @@ TMHMSubmenu:
 .UsableMenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 2 ; items
-	db "UTIL@"
-	db "RET@"
+	db "Util@"
+	db "Ret@"
 
 .UsableJumptable:
 	dw .Use
@@ -830,7 +830,7 @@ TMHMSubmenu:
 .UnusableMenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 1 ; items
-	db "RET@"
+	db "Ret@"
 
 .UnusableJumptable:
 	dw .Quit

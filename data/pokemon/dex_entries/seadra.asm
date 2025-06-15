@@ -1,4 +1,4 @@
-	db "DRAGON@" ; species name
+	db "Dragon@" ; species name
 	db 12 ; height
 	dw 250 ; weight
 
@@ -6,6 +6,6 @@
 	next "petit. S'il est"
 	next "approché, il lance"
 
-	page "ses pics empoison-"
+	page "ses pics Empoison-"
 	next "nés pour repousser"
 	next "l'ennemi.@"

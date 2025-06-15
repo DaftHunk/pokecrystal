@@ -1,4 +1,4 @@
-	db "ARCENCIEL@" ; species name
+	db "Arcenciel@" ; species name
 	db 38 ; height
 	dw 1990 ; weight
 

@@ -29,8 +29,8 @@ SilphCoOfficerScript:
 
 SilphCoReceptionistText:
 	text "Bienvenue. Voici"
-	line "les BUREAUX de la"
-	cont "SYLPHE SARL."
+	line "les Bureaux de la"
+	cont "Sylphe SARL."
 	done
 
 SilphCoOfficerText:
@@ -47,7 +47,7 @@ SilphCoOfficerText:
 
 SilphCoOfficerText_GotUpGrade:
 	text "C'est le dernier"
-	line "cri de la SYLPHE!"
+	line "cri de la Sylphe!"
 
 	para "Et c'est même pas"
 	line "encore en vente!"

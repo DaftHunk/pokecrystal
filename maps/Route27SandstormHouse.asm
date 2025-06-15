@@ -41,11 +41,11 @@ SandstormHouseBookshelf:
 
 SandstormHouseWomanText1:
 	text "Où tu vas toi avec"
-	line "tes #MON?"
+	line "tes #mon?"
 
-	para "La LIGUE #MON?"
+	para "La Ligue #mon?"
 
-	para "Tes #MON sont"
+	para "Tes #mon sont"
 	line "assez confiants"
 	cont "pour y aller?"
 
@@ -53,7 +53,7 @@ SandstormHouseWomanText1:
 	done
 
 SandstormHouseWomanLoyalText:
-	text "Ah! Ton #MON"
+	text "Ah! Ton #mon"
 	line "te fait vraiment"
 	cont "confiance."
 
@@ -67,7 +67,7 @@ SandstormHouseWomanLoyalText:
 
 SandstormHouseSandstormDescription:
 	text "CT37 apprend"
-	line "TEMPETESABLE."
+	line "TempêteSable."
 
 	para "Elle inflige des"
 	line "dégâts aux deux"
@@ -90,7 +90,7 @@ SandstormHouseWomanDisloyalText:
 
 	para "La confiance est"
 	line "le lien entre"
-	cont "les #MON et"
+	cont "les #mon et"
 	cont "les dresseurs."
 	done
 

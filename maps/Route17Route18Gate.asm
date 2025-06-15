@@ -35,19 +35,19 @@ Route17Route18GateCannotPassMovement:
 
 Route17Route18GateOfficerText:
 	text "La montée de la"
-	line "PISTE CYCLABLE"
+	line "Piste Cyclable"
 	cont "commence ici."
 	done
 
 Route17Route18GateCannotPassText:
 	text "Toi là! T'as pas"
-	line "de BICYCLETTE?"
+	line "de Bicyclette?"
 
-	para "La PISTE CYCLABLE"
+	para "La Piste Cyclable"
 	line "est à côté."
 
 	para "Il te faut une"
-	line "BICYCLETTE."
+	line "Bicyclette."
 	done
 
 Route17Route18Gate_MapEvents:

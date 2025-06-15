@@ -383,8 +383,8 @@ GiveTakeItemMenuData:
 .Items:
 	db STATICMENU_CURSOR ; flags
 	db 2 ; # items
-	db "DONNER@"
-	db "PRENDRE@"
+	db "Donner@"
+	db "Prendre@"
 
 PokemonSwapItemText:
 	text_far _PokemonSwapItemText
@@ -576,9 +576,9 @@ MonMailAction:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "LIRE@"
-	db "PRENDRE@"
-	db "RETOUR@"
+	db "Lire@"
+	db "Prendre@"
+	db "Retour@"
 
 .MailLoseMessageText:
 	text_far _MailLoseMessageText
@@ -1248,9 +1248,9 @@ PlaceMoveData:
 String_MoveType_Top:
 	db "┌─────┐@"
 String_MoveType_Bottom:
-	db "│TYPE/└@"
+	db "│Type/└@"
 String_MoveAtk:
-	db "FOR/@"
+	db "Atq/@"
 String_MoveNoPower:
 	db "---@"
 

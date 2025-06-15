@@ -1,4 +1,4 @@
-	db "LUMIERE@" ; species name
+	db "Lumière@" ; species name
 	db 12 ; height
 	dw 225 ; weight
 

@@ -49,7 +49,7 @@ ParryRematchText:
 	done
 
 ParryPackFullText:
-	text "Ton SAC a l'air"
+	text "Ton Sac a l'air"
 	line "super plein!"
 
 	para "Je ne peux rien"

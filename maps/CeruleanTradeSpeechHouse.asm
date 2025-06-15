@@ -33,7 +33,7 @@ CeruleanTradeSpeechHouseZubatScript:
 
 CeruleanTradeSpeechHouseGrannyText:
 	text "Mon mari aime les"
-	line "#MON qu'il a"
+	line "#mon qu'il a"
 	cont "eu en faisant des"
 	cont "échanges."
 	done
@@ -43,11 +43,11 @@ CeruleanTradeSpeechHouseGrampsText:
 	done
 
 CeruleanTradeSpeechHouseRhydonText:
-	text "KANGOUREX: Kangou!"
+	text "Kangourex: Kangou!"
 	done
 
 CeruleanTradeSpeechHouseZubatText:
-	text "NOSFERAPTI: Ptiii!"
+	text "Nosferapti: Ptiii!"
 	done
 
 CeruleanTradeSpeechHouse_MapEvents:

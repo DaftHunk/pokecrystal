@@ -322,7 +322,7 @@ Route38FruitTree:
 
 BirdKeeperTobySeenText:
 	text "Volez, mes jolis"
-	line "petits #MON!"
+	line "petits #mon!"
 	done
 
 BirdKeeperTobyBeatenText:
@@ -331,9 +331,9 @@ BirdKeeperTobyBeatenText:
 
 BirdKeeperTobyAfterBattleText:
 	text "Je vais entraîner"
-	line "mes #MON à"
+	line "mes #mon à"
 
-	para "IRISIA pour leur"
+	para "Irisia pour leur"
 	line "apprendre à voler."
 	done
 
@@ -353,7 +353,7 @@ SchoolboyChadSoManyTestsText:
 	line "prend la tête."
 
 	para "Je préfère les"
-	line "#MON."
+	line "#mon."
 
 	para "Alors moi, jouer,"
 	line "c'est mon truc."
@@ -362,7 +362,7 @@ SchoolboyChadSoManyTestsText:
 LassDana1SeenText:
 	text "Tu as l'air de t'y"
 	line "connaître en"
-	cont "#MON."
+	cont "#mon."
 
 	para "Tu veux bien me"
 	line "donner des"
@@ -378,8 +378,8 @@ LassDanaMoomooMilkText:
 	text "Je vais te dire"
 	line "un truc..."
 
-	para "Le lait du RANCH"
-	line "MEUMEU est super"
+	para "Le lait du Ranch"
+	line "Meumeu est super"
 	cont "bon."
 	done
 
@@ -388,7 +388,7 @@ BeautyValerieSeenText:
 	line "comme dresseur!"
 
 	para "Je peux voir tes"
-	line "#MON?"
+	line "#mon?"
 	done
 
 BeautyValerieBeatenText:
@@ -397,14 +397,14 @@ BeautyValerieBeatenText:
 	done
 
 BeautyValerieAfterBattleText:
-	text "Les #MON, ça me"
+	text "Les #mon, ça me"
 	line "calme les nerfs."
 	done
 
 SailorHarrySeenText:
 	text "Moi j'ai voyagé!"
 	line "Je connais tous"
-	cont "les #MON!"
+	cont "les #mon!"
 	done
 
 SailorHarryBeatenText:
@@ -412,26 +412,26 @@ SailorHarryBeatenText:
 	done
 
 SailorHarryAfterBattleText:
-	text "Les #MON"
+	text "Les #mon"
 	line "rendent les gens"
 	cont "heureux."
 	done
 
 BeautyOliviaSeenText:
 	text "Tu ne trouves pas"
-	line "que mes #MON et"
+	line "que mes #mon et"
 	cont "moi-même avons une"
 	cont "classe folle?"
 	done
 
 BeautyOliviaBeatenText:
-	text "On boit du LAIT"
-	line "MEUMEU tous les"
+	text "On boit du Lait"
+	line "Meumeu tous les"
 	cont "jours."
 	done
 
 BeautyOliviaAfterBattleText:
-	text "Le LAIT MEUMEU est"
+	text "Le Lait Meumeu est"
 	line "bon pour la forme"
 
 	para "mais ils n'en"
@@ -442,24 +442,24 @@ BeautyOliviaAfterBattleText:
 	done
 
 Route38SignText:
-	text "ROUTE 38"
+	text "Route 38"
 
-	para "OLIVILLE -"
-	line "ROSALIA"
+	para "Oliville -"
+	line "Rosalia"
 	done
 
 Route38TrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
 	para "Vous pouvez arrê-"
 	line "ter l'évolution d'"
-	cont "un #MON."
+	cont "un #mon."
 
 	para "Appuyez sur B pen-"
 	line "dant l'évolution."
 
 	para "Cela surprendra le"
-	line "#MON et le"
+	line "#mon et le"
 	cont "fera s'arrêter."
 	done
 

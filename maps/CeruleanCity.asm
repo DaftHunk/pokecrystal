@@ -148,11 +148,11 @@ CeruleanCityHiddenBerserkGene:
 	hiddenitem BERSERK_GENE, EVENT_FOUND_BERSERK_GENE_IN_CERULEAN_CITY
 
 CeruleanCityCooltrainerMText1:
-	text "La CENTRALE de"
-	line "KANTO?"
+	text "La Centrale de"
+	line "Kanto?"
 
 	para "C'est vers le bout"
-	line "de la ROUTE 9, à"
+	line "de la Route 9, à"
 	cont "l'est d'ici."
 
 	para "Je crois qu'il y a"
@@ -162,7 +162,7 @@ CeruleanCityCooltrainerMText1:
 
 CeruleanCityCooltrainerMText2:
 	text "Tu collectionnes"
-	line "tous les #MON"
+	line "tous les #mon"
 	cont "différents?"
 
 	para "Ca doit pas être"
@@ -172,7 +172,7 @@ CeruleanCityCooltrainerMText2:
 	done
 
 CeruleanCitySuperNerdText:
-	text "Le CAP au Nord est"
+	text "Le Cap au Nord est"
 	line "un bon endroit"
 
 	para "pour un rencard!"
@@ -181,18 +181,18 @@ CeruleanCitySuperNerdText:
 	done
 
 CeruleanCitySlowbroText:
-	text "FLAGADOSS: Gaaa?"
+	text "Flagadoss: Gaaa?"
 	done
 
 CeruleanCityCooltrainerFText1:
-	text "Mon FLAGADOSS et"
+	text "Mon Flagadoss et"
 	line "moi on va trop"
 	cont "bien ensemble!"
 	done
 
 CeruleanCityCooltrainerFText2:
-	text "FLAGADOSS!"
-	line "Lance CHOC MENTAL!"
+	text "Flagadoss!"
+	line "Lance Choc Mental!"
 	done
 
 CeruleanCityCooltrainerFText3:
@@ -201,14 +201,14 @@ CeruleanCityCooltrainerFText3:
 
 CeruleanCityFisherText:
 	text "Je suis un super"
-	line "fan d'ONDINE de"
-	cont "l'ARENE d'AZURIA."
+	line "fan d'Ondine de"
+	cont "l'Arène d'Azuria."
 	done
 
 CeruleanCityFisherRocketTipText:
 	text "J'ai vu ce drôle"
 	line "de type aller vers"
-	cont "le CAP d'AZURIA."
+	cont "le Cap d'Azuria."
 	done
 
 CeruleanCityYoungsterText1:
@@ -216,27 +216,27 @@ CeruleanCityYoungsterText1:
 	line "caverne ici qui"
 
 	para "abritait un #-"
-	line "MON monstrueuse-"
+	line "mon monstrueuse-"
 	cont "ment balèze."
 	done
 
 CeruleanCityYoungsterText2:
 	text "Quoi?"
 
-	para "Mon CHERCH'OBJET"
+	para "Mon Cherch'Objet"
 	line "vient de sonner..."
 	done
 
 CeruleanCitySignText:
-	text "AZURIA"
+	text "Azuria"
 
 	para "Entourée d'une"
 	line "étrange aura bleue"
 	done
 
 CeruleanGymSignText:
-	text "CHAMPION d'ARENE"
-	line "d'AZURIA: ONDINE"
+	text "Champion d'Arène"
+	line "d'Azuria: Ondine"
 
 	para "Une vraie petite"
 	line "sirène"
@@ -246,9 +246,9 @@ CeruleanBikeShopSignText:
 	text "Il y a une"
 	line "affiche..."
 
-	para "Les CYCLES A GOGO"
-	line "sont à DOUBLON-"
-	cont "VILLE à JOHTO..."
+	para "Les Cycles à Gogo"
+	line "sont à Doublon-"
+	cont "ville à Johto..."
 	done
 
 CeruleanPoliceSignText:
@@ -258,11 +258,11 @@ CeruleanPoliceSignText:
 	para "Non au vol."
 	line "Oui au bonheur."
 
-	para "POLICE d'AZURIA"
+	para "Police d'Azuria"
 	done
 
 CeruleanCapeSignText:
-	text "CAP d'AZURIA"
+	text "Cap d'Azuria"
 	line "Tout droit"
 	done
 

@@ -152,7 +152,7 @@ SproutTower3FRivalLeavesElderMovement:
 	step_end
 
 SproutTowerElderLecturesRivalText:
-	text "ANCIEN: Tu es"
+	text "Ancien: Tu es"
 	line "sans conteste un"
 	cont "bon dresseur."
 
@@ -162,13 +162,13 @@ SproutTowerElderLecturesRivalText:
 	para "Un conseil toute-"
 	line "fois: traite tes"
 
-	para "#MON avec plus"
+	para "#mon avec plus"
 	line "de gentillesse."
 
 	para "Tu es bien trop"
 	line "âpre au combat."
 
-	para "Les #MON ne"
+	para "Les #mon ne"
 	line "sont pas des"
 	cont "engins de guerre."
 	done
@@ -178,7 +178,7 @@ SproutTowerRivalOnlyCareAboutStrongText:
 	line "...Pfeuh!"
 
 	para "On l'appelle"
-	line "l'ANCIEN mais il"
+	line "l'Ancien mais il"
 	cont "est super nul!"
 
 	para "Et il raconte"
@@ -191,31 +191,31 @@ SproutTowerRivalOnlyCareAboutStrongText:
 	line "conseille d'être"
 
 	para "gentil avec les"
-	line "#MON."
+	line "#mon."
 
-	para "Seuls les #MON"
+	para "Seuls les #mon"
 	line "puissants sont"
 	cont "importants."
 
 	para "Je me contrefiche"
-	line "des #MON mi-"
+	line "des #mon mi-"
 	cont "gnons et faibles."
 	done
 
 SproutTowerRivalUsedEscapeRopeText:
 	text "<RIVAL> utilise"
-	line "une CORDE SORTIE!"
+	line "une Corde Sortie!"
 	done
 
 SageLiSeenText:
 	text "Bienvenue à toi,"
 	line "mon poussin!"
 
-	para "La TOUR CHETIFLOR"
+	para "La Tour Chétiflor"
 	line "est un lieu"
 	cont "d'entraînement."
 
-	para "Humains et #MON"
+	para "Humains et #mon"
 	line "y renforcent leurs"
 
 	para "liens pour des"
@@ -229,7 +229,7 @@ SageLiSeenText:
 	line "mettre à l'épreuve"
 
 	para "ton amitié envers"
-	line "tes #MON!"
+	line "tes #mon!"
 	done
 
 SageLiBeatenText:
@@ -237,16 +237,16 @@ SageLiBeatenText:
 	done
 
 SageLiTakeThisFlashText:
-	text "Toi et tes #MON"
+	text "Toi et tes #mon"
 	line "méritez bien cette"
 	cont "nouvelle capacité."
 
 	para "Prends donc cette"
-	line "CS FLASH."
+	line "CS Flash."
 	done
 
 SageLiFlashExplanationText:
-	text "Le FLASH illumine"
+	text "Le Flash illumine"
 	line "les endroits les"
 	cont "plus sombres."
 
@@ -254,21 +254,21 @@ SageLiFlashExplanationText:
 	line "dehors des combats"
 
 	para "il te faudra ce-"
-	line "pendant le BADGE"
-	cont "de l'ARENE de"
-	cont "MAUVILLE."
+	line "pendant le Badge"
+	cont "de l'Arène de"
+	cont "Mauville."
 	done
 
 SageLiAfterBattleText:
 	text "Va, vole et"
 	line "apprends la vie"
-	cont "grâce aux #MON."
+	cont "grâce aux #mon."
 	done
 
 SageJinSeenText:
 	text "Je m'entraîne pour"
 	line "trouver la voie du"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 SageJinBeatenText:
@@ -277,7 +277,7 @@ SageJinBeatenText:
 	done
 
 SageJinAfterBattleText:
-	text "Quand un #MON"
+	text "Quand un #mon"
 	line "gagne en puissance"
 	cont "son dresseur"
 	cont "devient plus fort."
@@ -293,7 +293,7 @@ SageTroySeenText:
 	text "Montre-moi à quel"
 	line "point tu fais"
 	cont "confiance à tes"
-	cont "#MON."
+	cont "#mon."
 	done
 
 SageTroyBeatenText:
@@ -302,12 +302,12 @@ SageTroyBeatenText:
 	done
 
 SageTroyAfterBattleText:
-	text "L'ANCIEN n'est"
+	text "L'Ancien n'est"
 	line "plus très loin."
 	done
 
 SageNealSeenText:
-	text "La CS de l'ANCIEN"
+	text "La CS de l'Ancien"
 	line "éclaire même les"
 	cont "sombres cavernes."
 	done
@@ -325,12 +325,12 @@ SageNealAfterBattleText:
 SproutTower3FPaintingText:
 	text "Une belle peinture"
 	line "d'un majestueux"
-	cont "CHETIFLOR."
+	cont "Chétiflor."
 	done
 
 SproutTower3FStatueText:
 	text "Une statue de"
-	line "#MON..."
+	line "#mon..."
 
 	para "Ca a l'air cher"
 	line "et raffiné."

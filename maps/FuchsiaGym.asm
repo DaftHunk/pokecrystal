@@ -244,39 +244,39 @@ JanineText_DisappointYou:
 	para "C'est moi la"
 	line "vraie!"
 
-	para "Je suis JEANNINE"
-	line "de l'ARENE de"
-	cont "PARMANIE!"
+	para "Je suis Jeannine"
+	line "de l'Arène de"
+	cont "Parmanie!"
 	done
 
 JanineText_ToughOne:
-	text "JEANNINE: Tu as du"
+	text "Jeannine: Tu as du"
 	line "talent, toi. Tu as"
 	cont "gagné..."
 
-	para "Prends ce BADGE"
-	line "AME."
+	para "Prends ce Badge"
+	line "Ame."
 	done
 
 Text_ReceivedSoulBadge:
 	text "<PLAYER> reçoit"
-	line "le BADGE AME."
+	line "le Badge Ame."
 	done
 
 JanineText_ToxicSpeech:
-	text "JEANNINE: J'ai un"
+	text "Jeannine: J'ai un"
 	line "p'tit cadeau pour"
 	cont "toi!"
 
-	para "C'est TOXIK, un"
-	line "puissant poison"
+	para "C'est Toxik, un"
+	line "puissant Poison"
 
 	para "qui vide les PV"
 	line "de la victime."
 	done
 
 JanineText_ApplyMyself:
-	text "JEANNINE: Je vais"
+	text "Jeannine: Je vais"
 	line "encore m'entraîner"
 	cont "et m'améliorer."
 
@@ -288,9 +288,9 @@ JanineText_ApplyMyself:
 LassAliceBeforeText:
 	text "Gnah ha ha ha!"
 
-	para "Je suis JEANNINE"
-	line "de l'ARENE de"
-	cont "PARMANIE!"
+	para "Je suis Jeannine"
+	line "de l'Arène de"
+	cont "Parmanie!"
 
 	para "..."
 	line "Même pas vrai!"
@@ -304,7 +304,7 @@ LassAliceBeatenText:
 LassAliceAfterText:
 	text "Comment vas-tu"
 	line "reconnaître la"
-	cont "vraie CHAMPIONNE?"
+	cont "vraie Championne?"
 	done
 
 LassLindaBeforeText:
@@ -323,7 +323,7 @@ LassLindaAfterText:
 	done
 
 PicnickerCindyBeforeText:
-	text "Je suis JEANNINE!"
+	text "Je suis Jeannine!"
 
 	para "..."
 	line "Tu me crois, non?"
@@ -344,7 +344,7 @@ PicnickerCindyAfterText:
 CamperBarryBeforeText:
 	text "Wahahaha!"
 
-	para "J'suis JEANNINE!"
+	para "J'suis Jeannine!"
 	line "J'te jure!"
 	done
 
@@ -366,7 +366,7 @@ FuchsiaGymGuideText:
 	line "toi: tous les"
 
 	para "dresseurs ressem-"
-	line "blent à JEANNINE."
+	line "blent à Jeannine."
 
 	para "Mais... Qui est la"
 	line "vraie? Mystère!"
@@ -375,7 +375,7 @@ FuchsiaGymGuideText:
 FuchsiaGymGuideWinText:
 	text "C'était un beau"
 	line "combat, dresseur"
-	cont "de JOHTO!"
+	cont "de Johto!"
 	done
 
 FuchsiaGym_MapEvents:

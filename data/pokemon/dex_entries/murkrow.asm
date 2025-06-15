@@ -1,4 +1,4 @@
-	db "OBSCURITE@" ; species name
+	db "Obscurite@" ; species name
 	db 5 ; height
 	dw 21 ; weight
 
@@ -6,6 +6,6 @@
 	next "objets brillants"
 	next "qu'il voit."
 
-	page "Les CORNEBRE et"
-	next "les MIAOUSS se vo-"
+	page "Les Cornèbre et"
+	next "les Miaouss se vo-"
 	next "lent mutuellement.@"

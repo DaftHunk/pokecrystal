@@ -1,9 +1,9 @@
 BeverlyAskNumber1Text:
-	text "Ton MARILL est si"
+	text "Ton Marill est si"
 	line "mignon!"
 
 	para "Tu aimes les #-"
-	line "MON comme moi!"
+	line "mon comme moi!"
 
 	para "On échange nos"
 	line "numéros?"
@@ -13,7 +13,7 @@ BeverlyAskNumber1Text:
 	done
 
 BeverlyAskNumber2Text:
-	text "Ton MARILL est si"
+	text "Ton Marill est si"
 	line "mignon!"
 
 	para "On échange nos"
@@ -25,18 +25,18 @@ BeverlyAskNumber2Text:
 
 BeverlyNumberAcceptedText:
 	text "En fait, je veux"
-	line "un MARILL."
+	line "un Marill."
 
 	para "Mais je me dé-"
 	line "brouille avec"
-	cont "SNUBBULL."
+	cont "Snubbull."
 	done
 
 BeverlyNumberDeclinedText:
 	text "Oh..."
 	line "Quel dommage..."
 
-	para "Adieu, MARILL..."
+	para "Adieu, Marill..."
 	done
 
 BeverlyPhoneFullText:

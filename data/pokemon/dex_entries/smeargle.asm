@@ -1,4 +1,4 @@
-	db "PEINTRE@" ; species name
+	db "Peintre@" ; species name
 	db 12 ; height
 	dw 580 ; weight
 
@@ -7,5 +7,5 @@
 	next "sa queue change"
 
 	page "pour chaque"
-	next "QUEULORIOR."
+	next "Queulorior."
 	next "@"

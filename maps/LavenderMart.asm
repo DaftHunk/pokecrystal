@@ -21,7 +21,7 @@ LavenderMartRockerScript:
 	jumptextfaceplayer LavenderMartRockerText
 
 LavenderMartPokefanMText:
-	text "Du REPOUSSE est"
+	text "Du Repousse est"
 	line "utile pour explo-"
 
 	para "rer une caverne."
@@ -37,10 +37,10 @@ LavenderMartRockerText:
 	text "On m'a parlé d'un"
 	line "artisan qui fabri-"
 
-	para "que des # BALLS"
-	line "à ECORCIA, à"
+	para "que des # Balls"
+	line "à Ecorcia, à"
 
-	para "JOHTO. J'aimerais"
+	para "Johto. J'aimerais"
 	line "en avoir une."
 	done
 

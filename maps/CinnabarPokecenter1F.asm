@@ -18,11 +18,11 @@ CinnabarPokecenter1FFisherScript:
 	jumptextfaceplayer CinnabarPokecenter1FFisherText
 
 CinnabarPokecenter1FCooltrainerFText:
-	text "AUGUSTE de l'ARENE"
-	line "de CRAMOIS'ILE vit"
+	text "Auguste de l'Arène"
+	line "de Cramois'Ile vit"
 
 	para "seul dans la grot-"
-	line "te des ILES ECUME."
+	line "te des Iles Ecume."
 	done
 
 CinnabarPokecenter1FFisherText:

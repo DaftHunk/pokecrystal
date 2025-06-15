@@ -48,7 +48,7 @@ HikerJimAfterBattleText:
 
 PokefanmRobertSeenText:
 	text "T'aimes les #-"
-	line "MON? Et ben..."
+	line "mon? Et ben..."
 
 	para "Moi aussi!"
 	done
@@ -61,17 +61,17 @@ PokefanmRobertBeatenText:
 PokefanmRobertAfterBattleText:
 	text "Regarde ce que"
 	line "t'as fait à mes"
-	cont "#MON..."
+	cont "#mon..."
 
 	para "J'l'oublierai pas!"
 	line "Jamais!"
 	done
 
 Route10SignText:
-	text "ROUTE 10"
+	text "Route 10"
 
-	para "AZURIA -"
-	line "LAVANVILLE"
+	para "Azuria -"
+	line "Lavanville"
 	done
 
 Route10South_MapEvents:

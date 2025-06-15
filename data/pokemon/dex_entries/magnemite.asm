@@ -1,4 +1,4 @@
-	db "MAGNETIQUE@" ; species name
+	db "Magnétique@" ; species name
 	db 3 ; height
 	dw 60 ; weight
 

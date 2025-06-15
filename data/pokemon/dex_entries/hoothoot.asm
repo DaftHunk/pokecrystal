@@ -1,4 +1,4 @@
-	db "HIBOU@" ; species name
+	db "Hibou@" ; species name
 	db 7 ; height
 	dw 212 ; weight
 

@@ -22,26 +22,26 @@ BlackthornMartBlackBeltScript:
 
 BlackthornMartCooltrainerMText:
 	text "Tu ne peux pas"
-	line "acheter de RAPPEL"
+	line "acheter de Rappel"
 
-	para "MAX mais il permet"
+	para "Max mais il permet"
 	line "de ramener un"
-	cont "#MON évanoui"
+	cont "#mon évanoui"
 	cont "en pleine forme."
 
 	para "Fais attention, ça"
 	line "ne restaure pas"
-	cont "les POINTS DE POU-"
-	cont "VOIR des attaques."
+	cont "les Points de Pou-"
+	cont "voir des attaques."
 	done
 
 BlackthornMartBlackBeltText:
-	text "Le MAX REPOUSSE"
+	text "Le Max Repousse"
 	line "repousse les #-"
-	cont "MON faibles de ta"
+	cont "mon faibles de ta"
 	cont "route."
 
-	para "C'est le REPOUSSE"
+	para "C'est le Repousse"
 	line "le plus puissant"
 	cont "de tous."
 	done

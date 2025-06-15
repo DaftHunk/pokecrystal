@@ -10,9 +10,9 @@ VermilionPortPassageTeacherScript:
 	jumptextfaceplayer VermilionPortPassageTeacherText
 
 VermilionPortPassageTeacherText:
-	text "Le BATEAU EXPRESS"
-	line "vogue le mercredi"
-	cont "et le dimanche."
+	text "Le Bateau Express"
+	line "vogue le Mercredi"
+	cont "et le Dimanche."
 	done
 
 VermilionPortPassage_MapEvents:

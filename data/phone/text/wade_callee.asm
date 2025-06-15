@@ -60,9 +60,9 @@ WadeGreetNiteText:
 
 WadeGenericText:
 	text "Comment vont"
-	line "tes #MON?"
+	line "tes #mon?"
 
-	para "Mes #MON ont"
+	para "Mes #mon ont"
 	line "trop d'énergie."
 
 	para "Ca devient un"

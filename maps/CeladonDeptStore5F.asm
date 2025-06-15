@@ -45,12 +45,12 @@ CeladonDeptStore5FGentlemanText:
 
 	para "pour augmenter les"
 	line "stats de mes #-"
-	cont "MON, mais je n'ai"
+	cont "mon, mais je n'ai"
 	cont "pas assez de sous."
 	done
 
 CeladonDeptStore5FSailorText:
-	text "Je veux PP PLUS"
+	text "Je veux PP Plus"
 	line "pour augmenter les"
 
 	para "PP des capacités."
@@ -61,7 +61,7 @@ CeladonDeptStore5FSailorText:
 CeladonDeptStore5FTeacherText:
 	text "Utiliser des"
 	line "objets sur les"
-	cont "#MON les rend"
+	cont "#mon les rend"
 	cont "heureux."
 
 	para "Mais ils n'aiment"
@@ -70,7 +70,7 @@ CeladonDeptStore5FTeacherText:
 	done
 
 CeladonDeptStore5FDirectoryText:
-	text "4EME: POTIONS, etc"
+	text "4ème: Potions, etc"
 	done
 
 CeladonDeptStore5F_MapEvents:

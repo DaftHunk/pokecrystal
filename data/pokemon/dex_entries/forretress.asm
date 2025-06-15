@@ -1,4 +1,4 @@
-	db "VER CACHE@" ; species name
+	db "Ver Caché@" ; species name
 	db 12 ; height
 	dw 1258 ; weight
 

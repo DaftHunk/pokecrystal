@@ -1,4 +1,4 @@
-	db "LONGQUEUE@" ; species name
+	db "Longqueue@" ; species name
 	db 8 ; height
 	dw 115 ; weight
 

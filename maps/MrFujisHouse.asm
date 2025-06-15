@@ -44,35 +44,35 @@ MrFujisHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 MrFujisHouseSuperNerdText:
-	text "M.FUJI vit ici"
+	text "M.Fuji vit ici"
 	line "mais il est absent"
 
 	para "pour le moment."
 
 	para "Il est à la"
-	line "MAISON DES AMES."
+	line "Maison des Ames."
 	done
 
 MrFujisHouseLassText:
 	text "Des gens sans"
 	line "coeur délaissent"
-	cont "leurs #MON."
+	cont "leurs #mon."
 
 	para "Pépé s'occupe des"
-	line "#MON abandonnés"
+	line "#mon abandonnés"
 	cont "et les soigne."
 	done
 
 MrFujisPsyduckText:
-	text "PSYKOKWAK: Kwa?"
+	text "Psykokwak: Kwa?"
 	done
 
 MrFujisNidorinoText:
-	text "NIDORINO: Nido!"
+	text "Nidorino: Nido!"
 	done
 
 MrFujisPidgeyText:
-	text "ROUCOOL: Rrrou!"
+	text "Roucool: Rrrou!"
 	done
 
 MrFujisHouse_MapEvents:

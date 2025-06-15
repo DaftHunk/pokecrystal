@@ -39,11 +39,11 @@ MrPsychicText1:
 	done
 
 MrPsychicText2:
-	text "CT29: PSYKO."
+	text "CT29: Psyko."
 
 	para "Il peux baisser"
-	line "la DEFENSE"
-	cont "SPECIALE de"
+	line "la Défense"
+	cont "Spéciale de"
 	cont "l'ennemi."
 	done
 

@@ -1,4 +1,4 @@
-	db "TITANESQUE@" ; species name
+	db "Titanesque@" ; species name
 	db 14 ; height
 	dw 3000 ; weight
 

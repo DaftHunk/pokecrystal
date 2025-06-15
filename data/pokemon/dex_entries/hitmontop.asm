@@ -1,4 +1,4 @@
-	db "POIRIER@" ; species name
+	db "Poirier@" ; species name
 	db 14 ; height
 	dw 480 ; weight
 

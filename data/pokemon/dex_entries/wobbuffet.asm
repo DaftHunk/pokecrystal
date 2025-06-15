@@ -1,4 +1,4 @@
-	db "PATIENT@" ; species name
+	db "Patient@" ; species name
 	db 13 ; height
 	dw 285 ; weight
 

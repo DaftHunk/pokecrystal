@@ -36,7 +36,7 @@ DarkCaveBlackthornEntrancePharmacistText1:
 	line "fait peur!"
 
 	para "J'avais mes"
-	line "LUNETTES NOIRES..."
+	line "Lunettes Noires..."
 
 	para "J'ai rien vu"
 	line "venir."
@@ -48,17 +48,17 @@ DarkCaveBlackthornEntrancePharmacistText1:
 	line "oignons, non?"
 
 	para "Voilà une paire de"
-	line "LUNETTES NOIRES."
+	line "Lunettes Noires."
 	cont "Oublie que tu m'as"
 	cont "vu, OK?"
 	done
 
 DarkCaveBlackthornEntrancePharmacistText2:
-	text "Les LUNET.NOIRES"
+	text "Les Lunet.Noires"
 	line "augmentent la"
 	cont "puissance des"
 	cont "attaques du type"
-	cont "TENEBRES."
+	cont "Ténèbres."
 	done
 
 DarkCaveBlackthornEntrance_MapEvents:

@@ -14,13 +14,13 @@ IlexForestAzaleaGateGrannyScript:
 	jumptextfaceplayer IlexForestAzaleaGateGrannyText
 
 IlexForestAzaleaGateOfficerText:
-	text "Le BOIS AUX CHE-"
-	line "NES est immense!"
+	text "Le Bois aux Chê-"
+	line "nes est immense!"
 	cont "Attention!"
 	done
 
 IlexForestAzaleaGateGrannyText:
-	text "Le BOIS est"
+	text "Le Bois est"
 	line "protégé par son"
 	cont "gardien."
 

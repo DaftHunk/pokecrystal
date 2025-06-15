@@ -6,7 +6,7 @@ MailEntry_Uppercase:
 	db "   1234567890 +-   "
 	db "   <PK><MN><PO><KE>é♂♀¥…&?!    "
 	db "   ()“”[],.':;     "
-	db "min    EFF   FIN   "
+	db "min    Eff   Fin   "
 
 MailEntry_Lowercase:
 	db "   abcdefghijklm   "
@@ -14,4 +14,4 @@ MailEntry_Lowercase:
 	db "   1234567890 ×/   "
 	db "   àèùâêîôûç       "
 	db "   c'd'j'l'm'n'p's''st'u'y'    "
-	db "MAJ    EFF   FIN   "
+	db "Maj    Eff   Fin   "

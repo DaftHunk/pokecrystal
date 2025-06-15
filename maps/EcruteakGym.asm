@@ -180,12 +180,12 @@ EcruteakGymGrampsSlowStepDownMovement:
 MortyIntroText:
 	text "Bienvenue."
 
-	para "Ici à ROSALIA,"
-	line "les #MON sont"
+	para "Ici à Rosalia,"
+	line "les #mon sont"
 	cont "vénérés."
 
 	para "On dit qu'un"
-	line "#MON aux cou-"
+	line "#mon aux cou-"
 
 	para "leurs de l'arc-en-"
 	line "ciel apparaîtra"
@@ -206,7 +206,7 @@ MortyIntroText:
 	para "Encore un peu et"
 	line "je pourrai voir"
 
-	para "ce #MON et"
+	para "ce #mon et"
 	line "ses plumes arc-en-"
 	cont "ciel."
 
@@ -222,26 +222,26 @@ MortyWinLossText:
 	cont "lunettes!!"
 
 	para "Bon allez, ce"
-	line "BADGE est à toi."
+	line "Badge est à toi."
 	done
 
 Text_ReceivedFogBadge:
 	text "<PLAYER> reçoit"
-	line "le BADGE BRUME."
+	line "le Badge Brume."
 	done
 
 MortyText_FogBadgeSpeech:
 	text "En possédant le"
-	line "BADGE BRUME, tous"
+	line "Badge Brume, tous"
 
-	para "les #MON jusqu'"
+	para "les #mon jusqu'"
 	line "au niveau 50"
 	cont "t'obéiront."
 
 	para "En plus de ça les"
-	line "#MON qui ont"
+	line "#mon qui ont"
 
-	para "appris SURF"
+	para "appris Surf"
 	line "pourront l'uti-"
 	cont "liser partout."
 
@@ -249,11 +249,11 @@ MortyText_FogBadgeSpeech:
 	done
 
 MortyText_ShadowBallSpeech:
-	text "C'est BALL'OMBRE."
+	text "C'est Ball'Ombre."
 	line "Elle cause"
 
 	para "des dégâts et peut"
-	line "réduire la DEFENSE"
+	line "réduire la Défense"
 	cont "SPE."
 
 	para "Utilise-la et tu"
@@ -279,7 +279,7 @@ SageJeffreySeenText:
 	text "J'ai passé tout le"
 	line "printemps avec mes"
 
-	para "#MON et puis"
+	para "#mon et puis"
 	line "aussi l'été et"
 	cont "surtout l'hiver..."
 
@@ -299,13 +299,13 @@ SageJeffreyBeatenText:
 
 SageJeffreyAfterBattleText:
 	text "D'où viennent les"
-	line "#MON?"
+	line "#mon?"
 	done
 
 SagePingSeenText:
 	text "Peux-tu infliger"
 	line "des dégâts à nos"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 SagePingBeatenText:
@@ -314,11 +314,11 @@ SagePingBeatenText:
 
 SagePingAfterBattleText:
 	text "On n'utilise que"
-	line "les #MON de"
-	cont "type SPECTRE."
+	line "les #mon de"
+	cont "type Spectre."
 
 	para "Aucune attaque"
-	line "de type NORMAL"
+	line "de type Normal"
 	cont "ne peut les"
 	cont "inquiéter!"
 	done
@@ -371,7 +371,7 @@ EcruteakGymGuideText:
 	line "te parleront peut-"
 
 	para "être du fameux"
-	line "secret de ROSALIA."
+	line "secret de Rosalia."
 	done
 
 EcruteakGymGuideWinText:
@@ -385,8 +385,8 @@ EcruteakGymGuideWinText:
 	done
 
 EcruteakGymClosedText:
-	text "MORTIMER, le CHAM-"
-	line "PION, est absent."
+	text "Mortimer, le Cham-"
+	line "pion, est absent."
 
 	para "Tu dois partir."
 

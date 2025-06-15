@@ -2,7 +2,7 @@ AnthonyAnswerPhoneText:
 	text "C'est @"
 	text_ram wStringBuffer3
 	text_start
-	line "le MONTAGNARD."
+	line "le Montagnard."
 
 	para "Ah, <PLAYER>!"
 	done
@@ -11,7 +11,7 @@ AnthonyAnswerPhoneDayText:
 	text "C'est @"
 	text_ram wStringBuffer3
 	text_start
-	line "le MONTAGNARD."
+	line "le Montagnard."
 
 	para "Ah, <PLAYER>!"
 	done
@@ -20,7 +20,7 @@ AnthonyAnswerPhoneNiteText:
 	text "C'est @"
 	text_ram wStringBuffer3
 	text_start
-	line "le MONTAGNARD."
+	line "le Montagnard."
 
 	para "Ah, <PLAYER>!"
 	done
@@ -31,7 +31,7 @@ AnthonyGreetText:
 	para "C'est @"
 	text_ram wStringBuffer3
 	text_start
-	line "le MONTAGNARD!"
+	line "le Montagnard!"
 	done
 
 AnthonyGreetDayText:
@@ -40,7 +40,7 @@ AnthonyGreetDayText:
 	para "C'est @"
 	text_ram wStringBuffer3
 	text_start
-	line "le MONTAGNARD!"
+	line "le Montagnard!"
 	done
 
 AnthonyGreetNiteText:
@@ -50,11 +50,11 @@ AnthonyGreetNiteText:
 	para "C'est @"
 	text_ram wStringBuffer3
 	text_start
-	line "le MONTAGNARD!"
+	line "le Montagnard!"
 	done
 
 AnthonyGenericText:
-	text "Tes #MON sont"
+	text "Tes #mon sont"
 	line "toujours aussi"
 	cont "sympatoches?"
 

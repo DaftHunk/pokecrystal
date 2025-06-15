@@ -19,13 +19,13 @@ Kyle:
 	end
 
 VioletKylesHousePokefanMText:
-	text "Un #MON échangé"
+	text "Un #mon échangé"
 	line "grandit plus vite"
-	cont "qu'un #MON"
+	cont "qu'un #mon"
 	cont "attrapé."
 
 	para "Mais si tu n'as"
-	line "pas le bon BADGE,"
+	line "pas le bon Badge,"
 
 	para "il est possible"
 	line "qu'il ne t'obé-"

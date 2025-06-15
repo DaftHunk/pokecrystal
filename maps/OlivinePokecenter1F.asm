@@ -22,13 +22,13 @@ OlivinePokecenter1FTeacherScript:
 	jumptextfaceplayer OlivinePokecenter1FTeacherText
 
 OlivinePokecenter1FFisherText:
-	text "Le MARIN dans le"
-	line "CAFE d'OLIVILLE"
+	text "Le Marin dans le"
+	line "Café d'Oliville"
 	cont "est très généreux."
 
 	para "Il a appris"
-	line "FORCE à mon"
-	cont "#MON."
+	line "Force à mon"
+	cont "#mon."
 
 	para "Il peut bouger les"
 	line "rochers!"
@@ -36,13 +36,13 @@ OlivinePokecenter1FFisherText:
 
 OlivinePokecenter1FTeacherText:
 	text "Il y a quelqu'un"
-	line "à IRISIA de"
+	line "à Irisia de"
 	cont "l'autre côté de la"
 	cont "mer."
 
 	para "Je l'ai entendu se"
 	line "vanter à propos de"
-	cont "son #MON rare."
+	cont "son #mon rare."
 	done
 
 OlivinePokecenter1F_MapEvents:

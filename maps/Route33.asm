@@ -156,14 +156,14 @@ HikerAnthony2BeatenText:
 	done
 
 HikerAnthony2AfterText:
-	text "Nous, MONTAGNARDS,"
+	text "Nous, MontagnardS,"
 	line "sommes à l'aise"
 	cont "dans la montagne."
 	done
 
 HikerAnthonyDunsparceText:
 	text "Hé! As-tu chopé un"
-	line "INSOLOURDO?"
+	line "Insolourdo?"
 
 	para "Moi ouais."
 
@@ -187,7 +187,7 @@ Route33LassText:
 	done
 
 Route33SignText:
-	text "ROUTE 33"
+	text "Route 33"
 	done
 
 Route33_MapEvents:

@@ -182,8 +182,8 @@ GentlemanAlfredBeatenText:
 
 GentlemanAlfredAfterBattleText:
 	text "En haut se trouve"
-	line "un #MON qui"
-	cont "garde le PHARE"
+	line "un #mon qui"
+	cont "garde le Phare"
 	cont "allumé."
 
 	para "Mais on dit qu'il"

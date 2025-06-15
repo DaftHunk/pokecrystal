@@ -516,13 +516,13 @@ SetDayOfWeek:
 	dw .Saturday
 	dw .Sunday
 
-.Sunday:    db "DIMANCHE@"
-.Monday:    db "LUNDI@"
-.Tuesday:   db "MARDI@"
-.Wednesday: db "MERCREDI@"
-.Thursday:  db "JEUDI@"
-.Friday:    db "VENDREDI@"
-.Saturday:  db "SAMEDI@"
+.Sunday:    db "Dimanche@"
+.Monday:    db "Lundi@"
+.Tuesday:   db "Mardi@"
+.Wednesday: db "Mercredi@"
+.Thursday:  db "Jeudi@"
+.Friday:    db "Vendredi@"
+.Saturday:  db "Samedi@"
 
 .OakTimeWhatDayIsItText:
 	text_far _OakTimeWhatDayIsItText
@@ -707,9 +707,9 @@ GetTimeOfDayString:
 	ld de, .day_string
 	ret
 
-.nite_string: db "NUIT@"
-.morn_string: db "MATIN@"
-.day_string:  db "JOUR@"
+.nite_string: db "Nuit@"
+.morn_string: db "Matin@"
+.day_string:  db "Jour@"
 
 AdjustHourForAMorPM:
     push bc

@@ -41,46 +41,46 @@ Route6PokefanMText:
 	line "fermée tant que le"
 
 	para "problème à la"
-	line "CENTRALE ne sera"
+	line "Centrale ne sera"
 	cont "pas résolu."
 	done
 
 Route6UndergroundPathSignText:
-	text "SOUTERRAIN"
+	text "Souterrain"
 
-	para "AZURIA -"
-	line "CARMIN SUR MER"
+	para "Azuria -"
+	line "Carmin sur Mer"
 	done
 
 PokefanmRexSeenText:
-	text "Mon PHANPY est le"
+	text "Mon Phanpy est le"
 	line "plus beau du"
 	cont "monde."
 	done
 
 PokefanmRexBeatenText:
-	text "Mon PHANPY!"
+	text "Mon Phanpy!"
 	done
 
 PokefanmRexAfterBattleText:
-	text "Mon PHANPY est"
+	text "Mon Phanpy est"
 	line "trop mimi!"
 
 	para "Tu trouves pas?"
 	done
 
 PokefanmAllanSeenText:
-	text "Mon TEDDIURSA est"
+	text "Mon Teddiursa est"
 	line "le plus beau du"
 	cont "monde."
 	done
 
 PokefanmAllanBeatenText:
-	text "Mon TEDDIURSA!"
+	text "Mon Teddiursa!"
 	done
 
 PokefanmAllanAfterBattleText:
-	text "Mon TEDDIURSA est"
+	text "Mon Teddiursa est"
 	line "trop mimi!"
 
 	para "Tu trouves pas?"

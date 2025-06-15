@@ -61,7 +61,7 @@ BethGreetNiteText:
 
 BethGenericText:
 	text "Tu vas dans les"
-	line "CENTRES #MON"
+	line "Centres #mon"
 	cont "souvent?"
 
 	para "Moi j'y vais tous"
@@ -69,6 +69,6 @@ BethGenericText:
 
 	para "Faire attention"
 	line "à la santé de ses"
-	cont "#MON, c'est la"
+	cont "#mon, c'est la"
 	cont "base du succès."
 	done

@@ -724,7 +724,7 @@ AfterChikoritaMovement:
 	step_end
 
 ElmText_Intro:
-	text "ORME: <PLAY_G>!"
+	text "Orme: <PLAY_G>!"
 	line "Te voilà!"
 
 	para "J'ai un service à"
@@ -733,7 +733,7 @@ ElmText_Intro:
 	para "Je fais de nouvel-"
 	line "les recherches sur"
 
-	para "les #MON et il"
+	para "les #mon et il"
 	line "y a certains élé-"
 
 	para "ments qui me"
@@ -755,7 +755,7 @@ ElmText_Intro:
 	line "entraînes un de"
 
 	para "mes nouveaux"
-	line "#MON."
+	line "#mon."
 	done
 
 ElmText_Accepted:
@@ -775,7 +775,7 @@ ElmText_ResearchAmbitions:
 
 	para "en saurons un peu"
 	line "plus sur le mystè-"
-	cont "re des #MON."
+	cont "re des #mon."
 
 	para "Et ça c'est pas"
 	line "rien!"
@@ -795,7 +795,7 @@ ElmText_MissionFromMrPokemon:
 	text "Ecoute voir."
 
 	para "J'ai un ami du nom"
-	line "de M.#MON."
+	line "de M.#mon."
 
 	para "Il découvre sans"
 	line "cesse de drôles"
@@ -824,8 +824,8 @@ ElmText_ChooseAPokemon:
 	text "Je veux que tu"
 	line "entraînes l'un"
 
-	para "des #MON dans"
-	line "ces BALLS."
+	para "des #mon dans"
+	line "ces Balls."
 
 	para "Il sera ton"
 	line "nouvel ami,"
@@ -835,37 +835,37 @@ ElmText_ChooseAPokemon:
 	done
 
 ElmText_LetYourMonBattleIt:
-	text "Si un #MON"
+	text "Si un #mon"
 	line "sauvage apparaît,"
 	cont "défie-le avec ton"
-	cont "#MON adoré!"
+	cont "#mon adoré!"
 	done
 
 LabWhereGoingText:
-	text "PROF.ORME: Hep!"
+	text "Prof.Orme: Hep!"
 	line "Où vas-tu?"
 	done
 
 TakeCyndaquilText:
-	text "PROF.ORME: Veux-tu"
-	line "HERICENDRE, le"
-	cont "#MON de feu?"
+	text "Prof.Orme: Veux-tu"
+	line "Héricendre, le"
+	cont "#mon de feu?"
 	done
 
 TakeTotodileText:
-	text "PROF.ORME: Veux-tu"
-	line "KAIMINUS, le"
-	cont "#MON d'eau?"
+	text "Prof.Orme: Veux-tu"
+	line "Kaiminus, le"
+	cont "#mon d'eau?"
 	done
 
 TakeChikoritaText:
-	text "PROF.ORME: Veux-tu"
-	line "GERMIGNON, le"
-	cont "#MON plante?"
+	text "Prof.Orme: Veux-tu"
+	line "Germignon, le"
+	cont "#mon plante?"
 	done
 
 DidntChooseStarterText:
-	text "PROF.ORME: Fais le"
+	text "Prof.Orme: Fais le"
 	line "bon choix!"
 
 	para "Ton partenaire est"
@@ -873,9 +873,9 @@ DidntChooseStarterText:
 	done
 
 ChoseStarterText:
-	text "PROF.ORME: C'est"
+	text "Prof.Orme: C'est"
 	line "un très bon"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 ReceivedStarterText:
@@ -886,10 +886,10 @@ ReceivedStarterText:
 	done
 
 ElmDirectionsText1:
-	text "M.#MON vit"
-	line "après VILLE"
+	text "M.#mon vit"
+	line "après ville"
 
-	para "GRIOTTE, la"
+	para "Griotte, la"
 	line "ville voisine."
 
 	para "C'est tout droit."
@@ -905,7 +905,7 @@ ElmDirectionsText1:
 	done
 
 ElmDirectionsText2:
-	text "Si ton #MON est"
+	text "Si ton #mon est"
 	line "blessé, soigne-le"
 
 	para "avec cette jolie"
@@ -923,11 +923,11 @@ ElmDirectionsText3:
 GotElmsNumberText:
 	text "<PLAYER> reçoit le"
 	line "numéro de tél. du"
-	cont "PROF.ORME."
+	cont "Prof.Orme."
 	done
 
 ElmDescribesMrPokemonText:
-	text "M.#MON fouille"
+	text "M.#mon fouille"
 	line "un peu partout et"
 	cont "trouve des bizar-"
 	cont "reries."
@@ -939,8 +939,8 @@ ElmDescribesMrPokemonText:
 
 ElmPokeBallText:
 	text "Cela contient un"
-	line "#MON attrapé"
-	cont "par le PROF.ORME."
+	line "#mon attrapé"
+	cont "par le Prof.Orme."
 	done
 
 ElmsLabHealingMachineText1:
@@ -950,32 +950,32 @@ ElmsLabHealingMachineText1:
 
 ElmsLabHealingMachineText2:
 	text "Voulez-vous soi-"
-	line "gner vos #MON?"
+	line "gner vos #mon?"
 	done
 
 ElmAfterTheftText1:
-	text "ORME: <PLAY_G>,"
+	text "Orme: <PLAY_G>,"
 	line "c'est affreux..."
 
 	para "Au fait, quelle"
 	line "est la grande"
 	cont "découverte de"
-	cont "M.#MON?"
+	cont "M.#mon?"
 	done
 
 ElmAfterTheftText2:
 	text "<PLAYER> confie"
-	line "l'OEUF MYSTERE au"
-	cont "PROF.ORME."
+	line "l'Oeuf Mystère au"
+	cont "Prof.Orme."
 	done
 
 ElmAfterTheftText3:
-	text "PROF.ORME: Ca?"
+	text "Prof.Orme: Ca?"
 	done
 
 ElmAfterTheftText4:
 	text "Mais... C'est un"
-	line "OEUF de #MON?"
+	line "Oeuf de #mon?"
 
 	para "Si c'est un vrai,"
 	line "c'est une grande"
@@ -983,10 +983,10 @@ ElmAfterTheftText4:
 	done
 
 ElmAfterTheftText5:
-	text "ORME: Quoi?!?"
+	text "Orme: Quoi?!?"
 
-	para "Le PROF.CHEN t'a"
-	line "donné un #DEX?"
+	para "Le Prof.Chen t'a"
+	line "donné un #dex?"
 
 	para "<PLAY_G>, c'est"
 	line "vrai? C-c'est"
@@ -1001,18 +1001,18 @@ ElmAfterTheftText5:
 	line "Tu dois avoir les"
 
 	para "épaules pour être"
-	line "MAITRE."
+	line "Maître."
 
 	para "Tu as aussi l'air"
 	line "de bien t'entendre"
-	cont "avec les #MON."
+	cont "avec les #mon."
 
 	para "Tu devrais te lan-"
 	line "cer à la conquête"
-	cont "des ARENES."
+	cont "des Arènes."
 
 	para "La plus proche est"
-	line "celle de MAUVILLE."
+	line "celle de Mauville."
 	done
 
 ElmAfterTheftText6:
@@ -1028,66 +1028,66 @@ ElmAfterTheftText6:
 	done
 
 ElmStudyingEggText:
-	text "PROF.ORME: N'aban-"
+	text "Prof.Orme: N'aban-"
 	line "donne pas!"
 
 	para "Je t'appelle si"
 	line "j'ai du nouveau"
-	cont "sur cet OEUF."
+	cont "sur cet Oeuf."
 	done
 
 ElmAideHasEggText:
-	text "ORME: <PLAY_G>?"
+	text "Orme: <PLAY_G>?"
 	line "N'as-tu pas vu"
 	cont "mon assistant?"
 
 	para "Il aurait dû te"
 	line "rencontrer avec"
 
-	para "l'OEUF au CENTRE"
-	line "#MON de"
-	cont "MAUVILLE."
+	para "l'Oeuf au Centre"
+	line "#mon de"
+	cont "Mauville."
 
 	para "Tu as dû le rater."
 	line "Va le voir là-bas."
 	done
 
 ElmWaitingEggHatchText:
-	text "ORME:"
-	line "L'OEUF a-t-il"
+	text "Orme:"
+	line "L'Oeuf a-t-il"
 	cont "évolué?"
 	done
 
 ElmThoughtEggHatchedText:
 	text "<PLAY_G>? Je"
-	line "croyais que l'OEUF"
+	line "croyais que l'Oeuf"
 	cont "avait éclos."
 
 	para "Où est le"
-	line "#MON?"
+	line "#mon?"
 	done
 
 ShowElmTogepiText1:
-	text "ORME: <PLAY_G>, tu"
+	text "Orme: <PLAY_G>, tu"
 	line "es en pleine"
 	cont "forme!"
 	done
 
 ShowElmTogepiText2:
 	text "Quoi?"
-	line "Ce #MON!?!"
+	line "Ce #mon!?!"
 	done
 
 ShowElmTogepiText3:
-	text "L'OEUF a éclos!"
-	line "Donc les #MON"
+	text "L'Oeuf a éclos!"
+	line "Donc les #mon"
 	cont "naissent à partir"
-	cont "d'OEUFS..."
+	cont "d'Oeufs..."
 
 	para "Mais ce n'est"
 	line "peut-être pas le"
 	cont "cas pour tous les"
-	cont "#MON."
+	cont "#mon."
 
 	para "Et beh, on a"
 	line "encore du boulot"
@@ -1100,7 +1100,7 @@ ElmGiveEverstoneText1:
 	line "Tu aides mes"
 
 	para "recherches sur les"
-	line "#MON!"
+	line "#mon!"
 
 	para "Voilà pour toi!"
 	line "Cadeau!"
@@ -1108,40 +1108,40 @@ ElmGiveEverstoneText1:
 
 ElmGiveEverstoneText2:
 	text "C'est une"
-	line "PIERRE STASE."
+	line "Pierre Stase."
 
 	para "Certaines espèces"
-	line "de #MON évo-"
+	line "de #mon évo-"
 
 	para "luent lorsqu'elles"
 	line "atteignent un"
 	cont "certain niveau."
 
-	para "Un #MON tenant"
-	line "une PIERRE STASE"
+	para "Un #mon tenant"
+	line "une Pierre Stase"
 	cont "n'évoluera pas."
 
 	para "Donne-la à un"
-	line "#MON que tu"
+	line "#mon que tu"
 	cont "ne veux pas faire"
 	cont "évoluer."
 	done
 
 ElmText_CallYou:
-	text "ORME: <PLAY_G>, je"
+	text "Orme: <PLAY_G>, je"
 	line "t'appelle si j'ai"
 	cont "du nouveau."
 	done
 
 AideText_AfterTheft:
 	text "...(soupir)..."
-	line "Ce #MON volé..."
+	line "Ce #mon volé..."
 
 	para "Je me demande"
 	line "comment il va."
 
 	para "On dit qu'un"
-	line "#MON élevé par"
+	line "#mon élevé par"
 
 	para "un méchant p'tit"
 	line "bonhomme tourne"
@@ -1153,27 +1153,27 @@ ElmGiveMasterBallText1:
 	line "Tu aides mes"
 
 	para "recherches sur les"
-	line "#MON!"
+	line "#mon!"
 
 	para "Voilà pour toi!"
 	line "Cadeau!"
 	done
 
 ElmGiveMasterBallText2:
-	text "Cette MASTER BALL"
+	text "Cette Master Ball"
 	line "est la meilleure"
-	cont "des BALLS!"
+	cont "des Balls!"
 
 	para "Elle attrape"
 	line "n'importe quel"
 
-	para "#MON à tous"
+	para "#mon à tous"
 	line "les coups."
 
 	para "On ne la donne"
 	line "qu'aux grands"
 	cont "chercheurs"
-	cont "#MON."
+	cont "#mon."
 
 	para "Tu l'utiliseras"
 	line "mieux que moi,"
@@ -1181,23 +1181,23 @@ ElmGiveMasterBallText2:
 	done
 
 ElmGiveTicketText1:
-	text "ORME: <PLAY_G>!"
+	text "Orme: <PLAY_G>!"
 	line "Te voilà!"
 
 	para "J'ai quelque chose"
 	line "pour toi."
 
 	para "C'est un..."
-	line "PASSE BATEAU!"
+	line "Passe Bateau!"
 
 	para "Tu peux aller"
 	line "attraper des #-"
-	cont "MON à KANTO."
+	cont "mon à Kanto."
 	done
 
 ElmGiveTicketText2:
 	text "Le bateau part"
-	line "d'OLIVILLE."
+	line "d'Oliville."
 
 	para "Mais ça tu le sais"
 	line "déjà, <PLAY_G>."
@@ -1207,14 +1207,14 @@ ElmGiveTicketText2:
 	cont "voyagé."
 
 	para "Dis bonjour au"
-	line "PROF.CHEN à KANTO"
+	line "Prof.Chen à Kanto"
 	cont "pour moi!"
 	done
 
 ElmsLabMonEggText: ; unreferenced
-	text "C'est l'OEUF de"
-	line "#MON que le"
-	cont "PROF.ORME était en"
+	text "C'est l'Oeuf de"
+	line "#mon que le"
+	cont "Prof.Orme était en"
 	cont "train d'étudier."
 	done
 
@@ -1237,7 +1237,7 @@ AideText_TheftTestimony:
 	para "Lorsque je suis"
 	line "allé jeter un"
 	cont "oeil, on avait"
-	cont "volé un #MON."
+	cont "volé un #mon."
 
 	para "C'est impensable,"
 	line "il faut vraiment"
@@ -1246,13 +1246,13 @@ AideText_TheftTestimony:
 	cont "une telle chose!"
 
 	para "...(soupir)..."
-	line "Ce #MON volé."
+	line "Ce #mon volé."
 
 	para "Je me demande"
 	line "comment il va."
 
 	para "On dit que les"
-	line "#MON élevés"
+	line "#mon élevés"
 
 	para "par un méchant de-"
 	line "viennent mauvais."
@@ -1263,30 +1263,30 @@ AideText_GiveYouBalls:
 
 	para "Utilise ceci pour"
 	line "compléter ton"
-	cont "#DEX!"
+	cont "#dex!"
 	done
 
 AideText_ExplainBalls:
 	text "Pour compléter ton"
-	line "#DEX, tu"
+	line "#dex, tu"
 	cont "dois attraper des"
-	cont "#MON."
+	cont "#mon."
 
 	para "Lance des"
-	line "# BALLS sur"
-	cont "les #MON"
+	line "# Balls sur"
+	cont "les #mon"
 	cont "sauvages pour les"
 	cont "attraper."
 	done
 
 ElmsLabOfficerText1:
 	text "J'ai entendu dire"
-	line "qu'un #MON"
+	line "qu'un #mon"
 	cont "a été volé ici..."
 
 	para "Je viens de rece-"
 	line "voir des infos"
-	cont "du PROF.ORME."
+	cont "du Prof.Orme."
 
 	para "Apparemment,"
 	line "c'était un jeune"
@@ -1330,9 +1330,9 @@ ElmsLabTravelTip1Text:
 
 	para "Astuce Voyage 1:"
 
-	para "Appuyez sur START"
+	para "Appuyez sur Start"
 	line "pour ouvrir le"
-	cont "MENU."
+	cont "Menu."
 	done
 
 ElmsLabTravelTip2Text:
@@ -1343,7 +1343,7 @@ ElmsLabTravelTip2Text:
 
 	para "Enregistrez votre"
 	line "périple avec"
-	cont "SAUVER!"
+	cont "Sauver!"
 	done
 
 ElmsLabTravelTip3Text:
@@ -1352,9 +1352,9 @@ ElmsLabTravelTip3Text:
 
 	para "Astuce Voyage 3:"
 
-	para "Ouvrez votre SAC"
+	para "Ouvrez votre Sac"
 	line "et appuyez sur"
-	cont "SELECT pour dé-"
+	cont "Select pour dé-"
 	cont "placer les objets."
 	done
 
@@ -1365,7 +1365,7 @@ ElmsLabTravelTip4Text:
 	para "Astuce Voyage 4:"
 
 	para "Voir les capacités"
-	line "des #MON."
+	line "des #mon."
 	cont "Appuyez sur le"
 	cont "bouton A pour"
 	cont "déplacer les"
@@ -1375,13 +1375,13 @@ ElmsLabTravelTip4Text:
 ElmsLabTrashcanText:
 	text "Il y a le papier"
 	line "d'emballage du"
-	cont "sandwich du PROF."
+	cont "sandwich du Prof."
 	done
 
 ElmsLabPCText:
-	text "OBSERVATIONS SUR"
-	line "L'EVOLUTION DES"
-	cont "#MON"
+	text "Observations sur"
+	line "l'évolution des"
+	cont "#mon"
 
 	para "...C'est ce qu'il"
 	line "y a sur l'écran..."

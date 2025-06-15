@@ -26,13 +26,13 @@ Route43MahoganyGateOfficerText:
 	text "Seuls ceux qui se"
 	line "dirigent vers le"
 
-	para "LAC COLERE passent"
+	para "Lac Colère passent"
 	line "par ici."
 	done
 
 Route43MahoganyGateOfficerRocketsClearedText:
 	text "Personne ne va au"
-	line "LAC COLERE de nos"
+	line "Lac Colère de nos"
 	cont "jours."
 	done
 

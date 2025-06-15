@@ -57,12 +57,12 @@ ReenaGreetNiteText:
 
 ReenaGenericText:
 	text "Hé! Ca va tes"
-	line "#MON?"
+	line "#mon?"
 
 	para "Quoi? Super?"
 	line "Je vois..."
 
-	para "Quoi? Mes #MON?"
+	para "Quoi? Mes #mon?"
 
 	para "Bien sûr qu'ils"
 	line "vont bien! C'est"

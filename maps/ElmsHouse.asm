@@ -39,25 +39,25 @@ ElmsSonText:
 
 	para "Je serai un sacré"
 	line "professeur #-"
-	cont "MON super balèze!"
+	cont "mon super balèze!"
 	done
 
 ElmsHouseLabFoodText: ; unreferenced
 	text "Il y a de la"
 	line "nourriture ici."
 	cont "Ca doit être pour"
-	cont "le LABO."
+	cont "le Labo."
 	done
 
 ElmsHousePokemonFoodText: ; unreferenced
 	text "Il y a de la"
 	line "nourriture ici."
 	cont "Ca doit être pour"
-	cont "les #MON."
+	cont "les #mon."
 	done
 
 ElmsHousePCText:
-	text "Les #MON..."
+	text "Les #mon..."
 	line "D'où viennent-ils?"
 
 	para "Où vont-ils?"
@@ -66,7 +66,7 @@ ElmsHousePCText:
 	para "Pourquoi personne"
 	line "n'a jamais vu une"
 	cont "naissance de"
-	cont "#MON?"
+	cont "#mon?"
 
 	para "Je veux tout"
 	line "savoir!"
@@ -77,7 +77,7 @@ ElmsHousePCText:
 	para "…"
 
 	para "C'est une note"
-	line "du PROF.ORME."
+	line "du Prof.Orme."
 	done
 
 ElmsHouse_MapEvents:

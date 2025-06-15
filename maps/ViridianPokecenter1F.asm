@@ -36,36 +36,36 @@ ViridianPokecenter1FBugCatcherScript:
 
 ViridianPokecenter1FCooltrainerMText:
 	text "Où est donc le"
-	line "CHAMPION de l'ARE-"
+	line "Champion de l'Arè-"
 
-	para "NE de JADIELLE? Je"
+	para "ne de Jadielle? Je"
 	line "veux l'affronter."
 	done
 
 ViridianPokecenter1FCooltrainerMText_BlueReturned:
 	text "Il n'y a pas de"
 	line "dresseurs dans"
-	cont "l'ARENE de"
-	cont "JADIELLE."
+	cont "l'Arène de"
+	cont "Jadielle."
 
-	para "Le CHAMPION dit"
+	para "Le Champion dit"
 	line "qu'il n'en a pas"
 	cont "besoin."
 	done
 
 ViridianPokecenter1FCooltrainerFText:
 	text "On dit qu'il n'y a"
-	line "plus d'ARENE à"
-	cont "CRAMOIS'ILE."
+	line "plus d'Arène à"
+	cont "Cramois'Ile."
 
 	para "Qu'est-il arrivé"
-	line "à AUGUSTE, le"
-	cont "CHAMPION?"
+	line "à Auguste, le"
+	cont "Champion?"
 	done
 
 ViridianPokecenter1FBugCatcherText:
 	text "Je rêve de devenir"
-	line "CHAMPION d'ARENE."
+	line "Champion d'Arène."
 	done
 
 ViridianPokecenter1F_MapEvents:

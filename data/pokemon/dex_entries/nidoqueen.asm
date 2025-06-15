@@ -1,4 +1,4 @@
-	db "PERCEUR@" ; species name
+	db "Perceur@" ; species name
 	db 13 ; height
 	dw 600 ; weight
 

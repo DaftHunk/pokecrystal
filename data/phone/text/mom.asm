@@ -58,7 +58,7 @@ MomOtherAreaText:
 	text "?"
 
 	para "Bonne chance pour"
-	line "ta quête #MON!"
+	line "ta quête #mon!"
 	done
 
 MomDeterminedText:
@@ -128,7 +128,7 @@ MomPhoneNoPokemonText:
 	text "Allô?"
 
 	para "Bonjour <PLAYER>!"
-	line "Le PROF.ORME"
+	line "Le Prof.Orme"
 	cont "t'attend, non?"
 	done
 
@@ -136,7 +136,7 @@ MomPhoneNoPokedexText:
 	text "Allô?"
 
 	para "Bonjour <PLAYER>!"
-	line "Le PROF.ORME"
+	line "Le Prof.Orme"
 	cont "compte sur toi!"
 	cont "C'est bien!"
 	done
@@ -155,7 +155,7 @@ MomPhoneLectureText:
 	text "Allô?"
 
 	para "…… <PLAYER>?"
-	line "Le PROF.ORME dit"
+	line "Le Prof.Orme dit"
 
 	para "que tu fais un"
 	line "long voyage."

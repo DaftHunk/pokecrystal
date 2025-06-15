@@ -16,7 +16,7 @@ TiffanyDefeatedMonText:
 	text_ram wStringBuffer4
 	text "…"
 
-	para "Mon MELOFEE a"
+	para "Mon Mélofée a"
 	line "failli être K.O!"
 
 	para "C'est affreux!"
@@ -34,12 +34,12 @@ TiffanyLostAMonText:
 	text_ram wStringBuffer4
 	text "…"
 
-	para "Mon MELOFEE a eu"
+	para "Mon Mélofée a eu"
 	line "peur alors on"
 	cont "s'est enfui!"
 
 	para "J'ai si peur pour"
-	line "mon MELOFEE."
+	line "mon Mélofée."
 	done
 
 TiffanyBattleRematchText:
@@ -50,7 +50,7 @@ TiffanyBattleRematchText:
 	line "contre moi?"
 
 	para "J'attends avec"
-	line "MELOFEE vers"
+	line "Mélofée vers"
 	cont "@"
 	text_ram wStringBuffer5
 	text "."
@@ -61,7 +61,7 @@ TiffanyItsAwfulText:
 	text "!"
 
 	para "C'est affreux."
-	line "Mon MELOFEE..."
+	line "Mon Mélofée..."
 
 	para "Hein? <PLAY_G>?"
 
@@ -78,10 +78,10 @@ TiffanyHangUpText:
 
 TiffanyFoundItemText:
 	text "J'ai pris des"
-	line "RUBANS ROSES au"
-	cont "CENTRE COMMERCIAL"
-	cont "de DOUBLONVILLE"
-	cont "pour mon MELOFEE."
+	line "Rubans Roses au"
+	cont "Centre Commercial"
+	cont "de Doublonville"
+	cont "pour mon Mélofée."
 
 	para "J'en ai trop! Je"
 	line "t'en donne un!"
@@ -94,14 +94,14 @@ TiffanyFoundItemText:
 
 TiffanyNoItemText:
 	text "J'adore habiller"
-	line "mon MELOFEE!"
+	line "mon Mélofée!"
 	done
 
 TiffanyAsleepText:
 	text "Bah alors?"
 	line "Tu viens?"
 
-	para "MELOFEE s'est"
+	para "Mélofée s'est"
 	line "endormi. Si je le"
 	cont "réveille..."
 
@@ -116,7 +116,7 @@ TiffanyHurryText:
 	line "Tu viens?"
 
 	para "J'ai un truc pour"
-	line "ton MELOFEE."
+	line "ton Mélofée."
 
 	para "Viens vite vers"
 	line "@"

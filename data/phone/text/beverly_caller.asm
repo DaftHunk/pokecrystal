@@ -8,22 +8,23 @@ BeverlyMadeMonEvenCuterText:
 
 BeverlyDefeatedMonText:
 	text "J'ai croisé un"
-	line "SNUBBULL sauvage."
+	line "Snubbull sauvage."
 
-	para "Mon SNUBBULL à"
+	para "Mon Snubbull à"
 	line "moi était bien"
 	cont "plus joli."
 	done
 
 BeverlyLostAMonText:
 	text "J'ai croisé un"
-	line "MARILL sauvage"
+	line "Marill sauvage"
 
 	para "l'autre jour."
 	line "Mais en fait..."
 
 	para "En regardant de"
 	line "près, c'était un"
+
 	para "@"
 	text_ram wStringBuffer4
 	text "."
@@ -37,7 +38,7 @@ BeverlyHangUpText:
 
 BeverlyFoundItemText:
 	text "Mon mari a plein"
-	line "de PEPITES."
+	line "de Pépites."
 
 	para "Si tu veux, je"
 	line "peux t'en donner"
@@ -55,7 +56,7 @@ BeverlyFoundItemText:
 	done
 
 BeverlyLetsChatAboutMonAgainText:
-	text "Tes #MON"
+	text "Tes #mon"
 	line "sont en forme?"
 
 	para "On en parlera plus"
@@ -64,7 +65,7 @@ BeverlyLetsChatAboutMonAgainText:
 
 BeverlyComePickUpText:
 	text "Pardon?"
-	line "Oh, la PEPITE?"
+	line "Oh, la Pépite?"
 
 	para "Y'a pas le feu!"
 	line "Viens me voir à"

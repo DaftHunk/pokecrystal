@@ -61,11 +61,11 @@ PokemonCenterPC:
 	dw HallOfFamePC, .String_HallOfFame
 	dw TurnOffPC,    .String_TurnOff
 
-.String_PlayersPC:  db "PC DE <PLAYER>@"
-.String_BillsPC:    db "PC DE LEO@"
-.String_OaksPC:     db "PC DE CHEN@"
-.String_HallOfFame: db "CELEBRITE@"
-.String_TurnOff:    db "DECONNEXION@"
+.String_PlayersPC:  db "PC de <PLAYER>@"
+.String_BillsPC:    db "PC de Léo@"
+.String_OaksPC:     db "PC de Chen@"
+.String_HallOfFame: db "Célébrité@"
+.String_TurnOff:    db "Déconnexion@"
 
 .WhichPC:
 ; entries correspond to PCPC_* constants
@@ -281,13 +281,13 @@ PlayersPCMenuData:
 	dw PlayerLogOffMenu,       .LogOff
 	dw PlayerLogOffMenu,       .TurnOff
 
-.WithdrawItem: db "RETIRER OBJET@"
-.DepositItem:  db "STOCKER OBJET@"
-.TossItem:     db "JETER OBJET@"
-.MailBox:      db "BOITE LETTRES@"
-.Decoration:   db "DECORATION@"
-.TurnOff:      db "DECONNEXION@"
-.LogOff:       db "DECONNEXION@"
+.WithdrawItem: db "Retirer Objet@"
+.DepositItem:  db "Stocker Objet@"
+.TossItem:     db "Jeter Objet@"
+.MailBox:      db "Boîte Lettres@"
+.Decoration:   db "Décoration@"
+.TurnOff:      db "Déconnexion@"
+.LogOff:       db "Déconnexion@"
 
 .WhichPC:
 ; entries correspond to PLAYERSPC_* constants

@@ -39,7 +39,7 @@ GoodRodHouseBookshelf: ; unreferenced
 	jumpstd PictureBookshelfScript
 
 OfferGoodRodText:
-	text "OLIVILLE est sur"
+	text "Oliville est sur"
 	line "la mer!"
 
 	para "Et si c'est sur la"

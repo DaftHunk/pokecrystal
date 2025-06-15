@@ -143,7 +143,7 @@ KurtSlowpokeWellVictoryMovementData:
 	step_end
 
 SlowpokeWellB1FKurtText:
-	text "FARGAS: Salut,"
+	text "Fargas: Salut,"
 	line "<PLAYER>!"
 
 	para "Le garde a"
@@ -153,7 +153,7 @@ SlowpokeWellB1FKurtText:
 
 	para "Et puis je suis"
 	line "descendu dans le"
-	cont "PUITS."
+	cont "Puits."
 
 	para "Et ben j'me suis"
 	line "planté et... Je"
@@ -162,7 +162,7 @@ SlowpokeWellB1FKurtText:
 	para "Pfff! Si j'étais"
 	line "en forme, mes"
 
-	para "#MON les au-"
+	para "#mon les au-"
 	line "raient punis..."
 
 	para "C'est vraiment"
@@ -174,10 +174,10 @@ SlowpokeWellB1FKurtText:
 	done
 
 KurtLeaveSlowpokeWellText:
-	text "FARGAS: Bravo,"
+	text "Fargas: Bravo,"
 	line "<PLAYER>!"
 
-	para "La TEAM ROCKET a"
+	para "La Team Rocket a"
 	line "décampé."
 
 	para "Mon dos va mieux."
@@ -211,15 +211,15 @@ GruntM29AfterBattleText:
 	text "Bah... Bien sûr"
 	line "qu'on vend des"
 
-	para "queues de RAMOLOSS"
+	para "queues de Ramoloss"
 	line "volées."
 
 	para "On ferait n'impor-"
 	line "te quoi pour le"
 	cont "pognon."
 
-	para "Et oui! La TEAM"
-	line "ROCKET c'est pas"
+	para "Et oui! La Team"
+	line "Rocket c'est pas"
 
 	para "d'la rigolade! On"
 	line "est des méchants!"
@@ -239,7 +239,7 @@ GruntM1BeatenText:
 	done
 
 TrainerGruntM1WhenTalkText:
-	text "La TEAM ROCKET a"
+	text "La Team Rocket a"
 	line "été dissoute il y"
 	cont "a trois ans..."
 
@@ -254,8 +254,8 @@ TrainerGruntM1WhenTalkText:
 
 GruntM2SeenText:
 	text "Arrêter de voler"
-	line "les QUEUES de"
-	cont "RAMOLOSS?"
+	line "les Queues de"
+	cont "Ramoloss?"
 
 	para "Et notre réputa-"
 	line "tion, tu y as"
@@ -269,16 +269,16 @@ GruntM2BeatenText:
 
 GruntM2AfterBattleText:
 	text "On a besoin de"
-	line "sous à la TEAM"
-	cont "ROCKET..."
+	line "sous à la Team"
+	cont "Rocket..."
 
 	para "C'est pas facile"
-	line "d'être un SBIRE!"
+	line "d'être un Sbire!"
 	done
 
 GruntF1SeenText:
 	text "Arrêter de voler"
-	line "les QUEUES?"
+	line "les Queues?"
 
 	para "C'est ça, oui..."
 	line "T'as raison..."
@@ -289,8 +289,8 @@ GruntF1BeatenText:
 	done
 
 GruntF1AfterBattleText:
-	text "Les QUEUES de"
-	line "RAMOLOSS?"
+	text "Les Queues de"
+	line "Ramoloss?"
 	cont "Ca repousse vite!"
 
 	para "Alors on peut les"
@@ -298,28 +298,28 @@ GruntF1AfterBattleText:
 	done
 
 SlowpokeWellB1FSlowpokeWithMailText:
-	text "Un RAMOLOSS sans"
-	line "QUEUE..."
+	text "Un Ramoloss sans"
+	line "Queue..."
 
 	para "Hein? Il a une"
-	line "LETTRE. On la lit?"
+	line "Lettre. On la lit?"
 	done
 
 SlowpokeWellB1FSlowpokeMailText:
 	text "<PLAYER> lit la"
-	line "LETTRE."
+	line "Lettre."
 
 	para "Sois sage et occu-"
 	line "pe-toi bien de la"
 
 	para "maison avec pépé"
-	line "et RAMOLOSS."
+	line "et Ramoloss."
 
 	para "Bisous. Papa."
 	done
 
 SlowpokeWellB1FTaillessSlowpokeText:
-	text "Un RAMOLOSS à la"
+	text "Un Ramoloss à la"
 	line "queue coupée..."
 	done
 

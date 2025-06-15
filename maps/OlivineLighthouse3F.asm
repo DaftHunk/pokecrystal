@@ -63,7 +63,7 @@ BirdKeeperTheoAfterBattleText:
 	line "pour monter?"
 
 	para "Je veux voir le"
-	line "#MON malade,"
+	line "#mon malade,"
 
 	para "mais j'arrive pas"
 	line "à monter..."
@@ -81,15 +81,15 @@ SailorTerrellBeatenText:
 	done
 
 SailorTerrellAfterBattleText:
-	text "Je vais à l'ARENE"
+	text "Je vais à l'Arène"
 	line "à chaque fois que"
 	cont "je viens à"
-	cont "OLIVILLE."
+	cont "Oliville."
 
 	para "Le type des #-"
-	line "MON du CHAMPION"
+	line "mon du Champion"
 
-	para "d'ARENE a changé"
+	para "d'Arène a changé"
 	line "récemment."
 	done
 
@@ -106,9 +106,9 @@ GentlemanPrestonBeatenText:
 	done
 
 GentlemanPrestonAfterBattleText:
-	text "JASMINE utilisait"
-	line "des #MON de la"
-	cont "roche comme ONIX."
+	text "Jasmine utilisait"
+	line "des #mon de la"
+	cont "Roche comme Onix."
 	done
 
 OlivineLighthouse3F_MapEvents:

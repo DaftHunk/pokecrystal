@@ -20,15 +20,15 @@ Route5PokefanMText:
 	line "fermée tant que le"
 
 	para "problème à la"
-	line "CENTRALE ne sera"
+	line "Centrale ne sera"
 	cont "pas résolu."
 	done
 
 Route5UndergroundPathSignText:
-	text "SOUTERRAIN"
+	text "Souterrain"
 
-	para "AZURIA -"
-	line "CARMIN SUR MER"
+	para "Azuria -"
+	line "Carmin sur Mer"
 	done
 
 HouseForSaleSignText:

@@ -56,11 +56,11 @@ TiffanyGreetNiteText:
 	done
 
 TiffanyGenericText:
-	text "Tes #MON"
+	text "Tes #mon"
 	line "vont bien?"
 
 	para "Tu les amènes au"
-	line "CENTRE #MON"
+	line "Centre #mon"
 	cont "tous les jours?"
 
 	para "Vas-y mollo avec"
@@ -72,6 +72,6 @@ TiffanyGenericText:
 	line "est tout mimi."
 
 	para "Je le porte au"
-	line "CENTRE #MON"
+	line "Centre #mon"
 	cont "tous les jours."
 	done

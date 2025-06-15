@@ -35,41 +35,41 @@ LavenderPokecenter1FYoungsterScript:
 	end
 
 LavenderPokecenter1FGentlemanText:
-	text "Au Nord de LAVAN-"
-	line "VILLE se trouve la"
+	text "Au Nord de Lavan-"
+	line "ville se trouve la"
 
-	para "GROTTE. Traverse-"
+	para "Grotte. Traverse-"
 	line "la pour accéder"
-	cont "à la CENTRALE."
+	cont "à la Centrale."
 	done
 
 LavenderPokecenter1FTeacherText:
 	text "Une émission de"
 	line "radio diffuse des"
 	cont "mélodies jouées à"
-	cont "la # FLUTE."
+	cont "la # Flûte."
 
 	para "Oh? Il faut un"
-	line "CPN EXPAN. à ta"
+	line "Cpn.Expan. à ta"
 	cont "radio pour pouvoir"
 	cont "l'écouter."
 	done
 
 LavenderPokecenter1FYoungsterText:
-	text "Si la CENTRALE ne"
+	text "Si la Centrale ne"
 	line "marche pas, le"
 
-	para "TRAIN MAGNET ne"
+	para "Train Magnet ne"
 	line "peut pas circuler."
 
-	para "La STATION RADIO"
+	para "La Station Radio"
 	line "ne peut rien"
 	cont "émettre non plus."
 	done
 
 LavenderPokecenter1FYoungsterText_ReturnedMachinePart:
-	text "Le DIRECTEUR de la"
-	line "STATION de RADIO"
+	text "Le Directeur de la"
+	line "Station de Radio"
 	cont "était content."
 
 	para "Il dit que les"
@@ -77,7 +77,7 @@ LavenderPokecenter1FYoungsterText_ReturnedMachinePart:
 
 	para "reprendre depuis"
 	line "la réparation de"
-	cont "la CENTRALE."
+	cont "la Centrale."
 	done
 
 LavenderPokecenter1F_MapEvents:

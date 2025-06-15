@@ -3,7 +3,7 @@ TullyAnswerPhoneText:
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
-
+	
 	para "Oh, bonjour,"
 	line "<PLAY_G>."
 	done

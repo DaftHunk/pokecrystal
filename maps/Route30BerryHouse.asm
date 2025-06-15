@@ -28,12 +28,12 @@ Route30BerryHouseBookshelf:
 
 Route30BerrySpeechHouseMonEatBerriesText:
 	text "Tu sais, les #-"
-	line "MON mangent des"
-	cont "BAIES."
+	line "mon mangent des"
+	cont "Baies."
 
-	para "Eh ben mes #MON"
+	para "Eh ben mes #mon"
 	line "se sont soignés en"
-	cont "mangeant une BAIE."
+	cont "mangeant une Baie."
 
 	para "Tiens! Je t'en"
 	line "donne une!"
@@ -42,7 +42,7 @@ Route30BerrySpeechHouseMonEatBerriesText:
 Route30BerrySpeechHouseCheckTreesText:
 	text "Regarde dans les"
 	line "arbres pour des"
-	cont "BAIES."
+	cont "Baies."
 	done
 
 Route30BerryHouse_MapEvents:

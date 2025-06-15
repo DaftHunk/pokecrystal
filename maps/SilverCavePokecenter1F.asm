@@ -18,12 +18,12 @@ SilverCavePokecenter1FGrannyText:
 	line "recherchent le"
 
 	para "pouvoir grimpent"
-	line "le MONT ARGENT"
+	line "le Mont Argent"
 	cont "malgré ses nom-"
 	cont "breux dangers."
 
 	para "Avec leurs"
-	line "#MON les plus"
+	line "#mon les plus"
 
 	para "forts, ils pensent"
 	line "pouvoir aller"

@@ -106,22 +106,22 @@ RadioTower4FStudio2Sign:
 RadioTower4FFisherText:
 	text "J'écoutais la ra-"
 	line "dio tout en visi-"
-	cont "tant les RUINES."
+	cont "tant les Ruines."
 
 	para "J'y ai entendu une"
 	line "émission étrange."
 	done
 
 RadioTower4FDJMaryText:
-	text "LULA: Pourquoi?"
+	text "Lula: Pourquoi?"
 	line "Pourquoi tant de"
 	cont "haine?"
 
-	para "MIAOUSS, à l'aide!"
+	para "Miaouss, à l'aide!"
 	done
 
 RadioTower4FDJMaryText_ClearedRockets:
-	text "LULA: Oh! Tu es"
+	text "Lula: Oh! Tu es"
 	line "formidable!"
 
 	para "Veux-tu de ceci"
@@ -129,29 +129,29 @@ RadioTower4FDJMaryText_ClearedRockets:
 	done
 
 RadioTower4FDJMaryText_GivePinkBow:
-	text "LULA: C'est pour"
-	line "les #MON qui"
+	text "Lula: C'est pour"
+	line "les #mon qui"
 
 	para "connaissent des"
 	line "techniques du type"
-	cont "NORMAL."
+	cont "Normal."
 	done
 
 RadioTower4FDJMaryText_After:
-	text "LULA: Ecoute mon"
+	text "Lula: Ecoute mon"
 	line "émission avec le"
 
-	para "PROF.CHEN: la"
-	line "CHRONIQUE #MON."
+	para "Prof.Chen: la"
+	line "Chronique #mon."
 	done
 
 RadioTowerMeowthText:
-	text "MIAOUSS: Miaou..."
+	text "Miaouss: Miaou..."
 	done
 
 GruntM10SeenText:
 	text "Tu comptes sauver"
-	line "le DIRECTEUR?"
+	line "le Directeur?"
 
 	para "Je crois que ça va"
 	line "pas être possible."
@@ -170,7 +170,7 @@ GruntM10AfterBattleText:
 Executivem2SeenText:
 	text "Stop! On m'appelle"
 	line "la forteresse de"
-	cont "la TEAM ROCKET!"
+	cont "la Team Rocket!"
 
 	para "Pas un pas de"
 	line "plus, poussin!"
@@ -193,7 +193,7 @@ Executivem2AfterBattleText:
 
 GruntF4SeenText:
 	text "Quoi? Est-ce que"
-	line "les #MON sont"
+	line "les #mon sont"
 	cont "mignons?"
 
 	para "Les miens seront"
@@ -212,14 +212,14 @@ GruntF4AfterBattleText:
 	text "Je m'aime!"
 	line "Je m'aime!"
 
-	para "Les #MON"
+	para "Les #mon"
 	line "ça sert à rien!"
 	done
 
 ScientistRichSeenText:
 	text "Parfait."
 
-	para "Cette TOUR RADIO"
+	para "Cette Tour Radio"
 	line "sera parfaite pour"
 	cont "nos plans."
 	done
@@ -234,15 +234,15 @@ ScientistRichBeatenText:
 ScientistRichAfterBattleText:
 	text "Penses-tu vraiment"
 	line "pouvoir stopper"
-	cont "la TEAM ROCKET?"
+	cont "la Team Rocket?"
 	done
 
 RadioTower4FProductionSignText:
-	text "3EME PRODUCTION"
+	text "3ème Production"
 	done
 
 RadioTower4FStudio2SignText:
-	text "3EME STUDIO 2"
+	text "3ème Studio 2"
 	done
 
 RadioTower4F_MapEvents:

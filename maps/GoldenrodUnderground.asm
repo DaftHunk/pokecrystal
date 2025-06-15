@@ -420,11 +420,11 @@ GoldenrodUndergroundHiddenAntidote:
 
 SupernerdEricSeenText:
 	text "Je me suis fait"
-	line "virer du CASINO."
+	line "virer du Casino."
 
 	para "J'étais juste en"
 	line "train de tricher"
-	cont "avec mon #MON!"
+	cont "avec mon #mon!"
 	done
 
 SupernerdEricBeatenText:
@@ -440,7 +440,7 @@ SupernerdEricAfterBattleText:
 SupernerdTeruSeenText:
 	text "Fais-tu attention"
 	line "aux types de #-"
-	cont "MON pendant les"
+	cont "mon pendant les"
 	cont "combats?"
 
 	para "Apprends les fai-"
@@ -458,14 +458,14 @@ SupernerdTeruBeatenText:
 SupernerdTeruAfterBattleText:
 	text "Je connais tous"
 	line "les types de #-"
-	cont "MON."
+	cont "mon."
 
 	para "Mais je n'en uti-"
 	line "lise qu'un seul."
 	done
 
 PokemaniacIssacSeenText:
-	text "Mes #MON se"
+	text "Mes #mon se"
 	line "sont fait"
 	cont "toiletter!"
 
@@ -479,7 +479,7 @@ PokemaniacIssacBeatenText:
 	done
 
 PokemaniacIssacAfterBattleText:
-	text "Tes #MON t'ai-"
+	text "Tes #mon t'ai-"
 	line "meront plus si tu"
 
 	para "les fais toilet-"
@@ -487,7 +487,7 @@ PokemaniacIssacAfterBattleText:
 	done
 
 PokemaniacDonaldSeenText:
-	text "Tu as des #MON"
+	text "Tu as des #mon"
 	line "rares avec toi,"
 	cont "je me trompe?"
 
@@ -501,16 +501,16 @@ PokemaniacDonaldBeatenText:
 
 PokemaniacDonaldAfterBattleText:
 	text "Tu remplis un"
-	line "#DEX? Voilà"
+	line "#dex? Voilà"
 	cont "un conseil."
 
-	para "MARIO, le MONTA-"
-	line "GNARD de la ROUTE"
+	para "Mario, le Monta-"
+	line "gnard de la Route"
 	cont "33 est sympa."
 
 	para "Il t'appellera"
 	line "s'il voit des"
-	cont "#MON rares."
+	cont "#mon rares."
 	done
 
 GoldenrodUndergroundTheDoorsLockedText:
@@ -522,22 +522,22 @@ GoldenrodUndergroundTheDoorIsOpenText:
 	done
 
 GoldenrodUndergroundBasementKeyOpenedDoorText:
-	text "La CLE SOUS-SOL a"
+	text "La Clé Sous-Sol a"
 	line "ouvert la porte."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherOfferHaircutText:
 	text "Bienvenue! Je"
 
-	para "m'occupe du SALON"
-	line "#MON!"
+	para "m'occupe du Salon"
+	line "#mon!"
 
 	para "Je suis l'aîné et"
 	line "le meilleur des"
-	cont "FRERES COIFFEURS."
+	cont "Frères Coiffeurs."
 
 	para "Je peux toiletter"
-	line "tes #MON pour"
+	line "tes #mon pour"
 	cont "juste 500¥."
 
 	para "Veux-tu que je"
@@ -545,7 +545,7 @@ GoldenrodUndergroundOlderHaircutBrotherOfferHaircutText:
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherAskWhichMonText:
-	text "Quel #MON veux-"
+	text "Quel #mon veux-"
 	line "tu me confier?"
 	done
 
@@ -576,15 +576,15 @@ GoldenrodUndergroundOlderHaircutBrotherOneHaircutADayText:
 
 GoldenrodUndergroundYoungerHaircutBrotherOfferHaircutText:
 	text "Bienvenue au"
-	line "SALON #MON!"
+	line "Salon #mon!"
 
 	para "Je suis le cadet"
 	line "et le moins cher"
-	cont "des FRERES"
-	cont "COIFFEURS."
+	cont "des Frères"
+	cont "Coiffeurs."
 
 	para "J'peux m'occuper"
-	line "de tes #MON"
+	line "de tes #mon"
 	cont "pour 300¥."
 
 	para "Alors? Ca te dit"
@@ -592,7 +592,7 @@ GoldenrodUndergroundYoungerHaircutBrotherOfferHaircutText:
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherAskWhichMonText:
-	text "De quel #MON"
+	text "De quel #mon"
 	line "je m'occupe?"
 	done
 
@@ -647,8 +647,8 @@ GoldenrodUndergroundWeAreNotOpenTodayText:
 	done
 
 GoldenrodUndergroundNoEntryText:
-	text "ENTREE"
-	line "INTERDITE"
+	text "Entrée"
+	line "Interdite"
 	done
 
 GoldenrodUnderground_MapEvents:

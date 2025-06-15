@@ -1,4 +1,4 @@
-	db "VOLCAN@" ; species name
+	db "Volcan@" ; species name
 	db 9 ; height
 	dw 190 ; weight
 

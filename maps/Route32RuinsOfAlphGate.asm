@@ -18,7 +18,7 @@ Route32RuinsOfAlphGateYoungsterScript:
 	jumptextfaceplayer Route32RuinsOfAlphGateYoungsterText
 
 Route32RuinsOfAlphGateOfficerText:
-	text "RUINES D'ALPHA"
+	text "Ruines d'Alpha"
 
 	para "Un site touristi-"
 	line "que interactif."
@@ -29,7 +29,7 @@ Route32RuinsOfAlphGateOfficerText:
 
 Route32RuinsOfAlphGatePokefanMText:
 	text "Tu étudies les"
-	line "RUINES D'ALPHA?"
+	line "Ruines d'Alpha?"
 
 	para "Tu aimes la"
 	line "science, toi!"

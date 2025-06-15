@@ -76,7 +76,7 @@ ArnieSwarmText:
 
 ArnieHaventSeenRareMonText:
 	text "Je n'ai pas vu de"
-	line "#MON rares"
+	line "#mon rares"
 	cont "dernièrement..."
 
 	para "Mais ils ne sont"
@@ -98,8 +98,8 @@ ArnieHurryText:
 	line "oui ou zut?"
 
 	para "Tu vas voir un"
-	line "YANMA!"
+	line "Yamna!"
 
-	para "Viens sur la ROUTE"
+	para "Viens sur la Route"
 	line "35 maintenant!"
 	done

@@ -1,4 +1,4 @@
-	db "BLOQUEUR@" ; species name
+	db "Bloqueur@" ; species name
 	db 13 ; height
 	dw 545 ; weight
 

@@ -67,18 +67,18 @@ PewterCityFruitTree2:
 	fruittree FRUITTREE_PEWTER_CITY_2
 
 PewterCityCooltrainerFText:
-	text "As-tu vu l'ARENE"
-	line "d'ARGENTA?"
+	text "As-tu vu l'Arène"
+	line "d'Argenta?"
 
-	para "Le CHAMPION a des"
-	line "#MON de roche."
+	para "Le Champion a des"
+	line "#mon de Roche."
 	done
 
 PewterCityBugCatcherText:
 	text "La nuit, les"
-	line "MELOFEE sortent"
-	cont "pour jouer au MONT"
-	cont "SELENITE."
+	line "Mélofée sortent"
+	cont "pour jouer au Mont"
+	cont "Selenite."
 
 	para "Mais pas toutes"
 	line "les nuits."
@@ -86,12 +86,12 @@ PewterCityBugCatcherText:
 
 PewterCityGrampsText:
 	text "Ah, tu viens de"
-	line "JOHTO, toi?"
+	line "Johto, toi?"
 
 	para "Moi aussi je me"
 	line "baladais dans"
 
-	para "JOHTO étant plus"
+	para "Johto étant plus"
 	line "jeune."
 
 	para "Tu me rappelles"
@@ -99,7 +99,7 @@ PewterCityGrampsText:
 
 	para "Tiens. Voilà un"
 	line "objet que j'ai"
-	cont "trouvé à JOHTO."
+	cont "trouvé à Johto."
 	done
 
 PewterCityGrampsText_GotSilverWing:
@@ -112,25 +112,25 @@ PewterCityGrampsText_GotSilverWing:
 	done
 
 PewterCitySignText:
-	text "ARGENTA"
+	text "Argenta"
 	line "Grise comme le roc"
 	done
 
 PewterGymSignText:
-	text "CHAMPION d'ARENE"
-	line "d'ARGENTA:"
-	cont "PIERRE"
+	text "Champion d'Arène"
+	line "d'Argenta:"
+	cont "Pierre"
 
 	para "Le dresseur dur"
-	line "comme la roche"
+	line "comme la Roche"
 	done
 
 PewterMuseumSignText:
 	text "Il y a une affiche"
 	line "ici..."
 
-	para "Le MUSEE DES"
-	line "SCIENCES d'ARGENTA"
+	para "Le Musée des"
+	line "Sciences d'Argenta"
 	cont "est fermé pour"
 	cont "cause de"
 	cont "rénovations..."
@@ -140,15 +140,15 @@ PewterCityMtMoonGiftShopSignText:
 	text "Il y a une affiche"
 	line "ici..."
 
-	para "La BOUTIQUE de"
-	line "SOUVENIRS du MONT"
-	cont "SELENITE est"
+	para "La Boutique de"
+	line "Souvenirs du Mont"
+	cont "Selenite est"
 	cont "ouverte!"
 	done
 
 PewterCityWelcomeSignText:
 	text "Bienvenue à"
-	line "ARGENTA!"
+	line "Argenta!"
 	done
 
 PewterCity_MapEvents:

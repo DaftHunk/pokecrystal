@@ -3,7 +3,7 @@ ArnieAskNumber1Text:
 	line "l'impression qu'il"
 
 	para "y a plus de #-"
-	line "MON rares dans le"
+	line "mon rares dans le"
 	cont "coin?"
 
 	para "Moi, je les cher-"
@@ -21,7 +21,7 @@ ArnieAskNumber1Text:
 ArnieAskNumber2Text:
 	text "J'aime prévenir"
 	line "tout le monde si"
-	cont "je vois un #MON"
+	cont "je vois un #mon"
 	cont "rare."
 
 	para "Donne-moi donc"
@@ -30,7 +30,7 @@ ArnieAskNumber2Text:
 
 ArnieNumberAcceptedText:
 	text "Si je rencontre un"
-	line "#MON spécial,"
+	line "#mon spécial,"
 
 	para "je t'appelle tout"
 	line "de suite!"

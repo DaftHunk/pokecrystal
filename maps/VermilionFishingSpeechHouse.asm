@@ -17,28 +17,28 @@ FishingDudesHouseBookshelf: ; unreferenced
 
 FishingDudeText:
 	text "Moi chuis le"
-	line "GARS QUI PECHE,"
-	cont "l'aîné des FRERES"
-	cont "PECHEURS."
+	line "Gars qui Pêche,"
+	cont "l'aîné des Frères"
+	cont "Pêcheurs."
 
-	para "As-tu vu le MAITRE"
-	line "PECHEUR au LAC"
-	cont "COLERE?"
+	para "As-tu vu le Maître"
+	line "Pêcheur au Lac"
+	cont "Colère?"
 
 	para "Il rêve de voir le"
-	line "plus grand MAGI-"
-	cont "CARPE du monde."
+	line "plus grand Magi-"
+	cont "carpe du monde."
 
 	para "Si ça t'embête pas"
 	line "trop, peux-tu lui"
 
 	para "montrer les"
-	line "MAGICARPE que"
+	line "Magicarpe que"
 	cont "tu attrapes?"
 
 	para "Qui sait, tu"
 	line "attraperas peut-"
-	cont "être le MAGICARPE"
+	cont "être le Magicarpe"
 	cont "de ses rêves."
 	done
 

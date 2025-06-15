@@ -121,14 +121,14 @@ PokemaniacAndrewBeatenText:
 
 PokemaniacAndrewAfterBattleText:
 	text "Seul avec mes"
-	line "#MON. C'est"
+	line "#mon. C'est"
 	cont "la fête."
 	done
 
 PokemaniacCalvinSeenText:
 	text "Je suis venu ici"
 	line "pour mes études"
-	cont "sur les #MON."
+	cont "sur les #mon."
 
 	para "Je vais te montrer"
 	line "tout ça..."
@@ -147,7 +147,7 @@ PokemaniacCalvinAfterBattleText:
 
 	para "Je serai aussi"
 	line "célèbre que le"
-	cont "PROF.ORME!"
+	cont "Prof.Orme!"
 	done
 
 UnionCaveB1F_MapEvents:

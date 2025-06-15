@@ -104,7 +104,7 @@ GoldenrodDeptStoreB1FBlackBelt3Text:
 	done
 
 GoldenrodDeptStoreB1FMachokeText:
-	text "MACHOPEUR: Maacho!"
+	text "Machopeur: Maacho!"
 	done
 
 GoldenrodDeptStoreB1F_MapEvents:

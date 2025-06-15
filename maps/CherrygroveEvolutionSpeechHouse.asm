@@ -25,7 +25,7 @@ CherrygroveEvolutionSpeechHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 CherrygroveEvolutionSpeechHouseYoungsterText:
-	text "Les #MON"
+	text "Les #mon"
 	line "gagnent de l'expé-"
 
 	para "rience et évoluent"
@@ -33,7 +33,7 @@ CherrygroveEvolutionSpeechHouseYoungsterText:
 	done
 
 CherrygroveEvolutionSpeechHouseLassText:
-	text "Les #MON"
+	text "Les #mon"
 	line "évoluent?"
 
 	para "Je serais curieuse"

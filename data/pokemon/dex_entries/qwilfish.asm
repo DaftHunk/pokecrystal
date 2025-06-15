@@ -1,4 +1,4 @@
-	db "BOUBOULE@" ; species name
+	db "Bouboule@" ; species name
 	db 5 ; height
 	dw 39 ; weight
 

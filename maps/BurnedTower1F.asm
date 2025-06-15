@@ -165,7 +165,7 @@ BurnedTowerRival_BeforeText:
 	para "Je suis venu pour"
 	line "trouver une sorte"
 
-	para "de #MON légen-"
+	para "de #mon légen-"
 	line "daire..."
 
 	para "Mais y'a rien ici!"
@@ -182,6 +182,7 @@ BurnedTowerRival_BeforeText:
 
 BurnedTowerRival_WinText:
 	text "...Pfff!"
+
 	para "Aucun intérêt."
 	done
 
@@ -189,7 +190,7 @@ BurnedTowerRival_AfterText1:
 	text "Pff...minable."
 
 	para "T'auras jamais un"
-	line "#MON légendaire"
+	line "#mon légendaire"
 
 	para "de toute façon."
 	line "T'es zéro."
@@ -219,12 +220,12 @@ BurnedTowerRival_AfterText2:
 	done
 
 BurnedTower1FEusineIntroText:
-	text "EUSINE: Mon nom"
-	line "est EUSINE."
+	text "Eusine: Mon nom"
+	line "est Eusine."
 
 	para "Je poursuis un"
-	line "#MON du nom de"
-	cont "SUICUNE."
+	line "#mon du nom de"
+	cont "Suicune."
 
 	para "Et toi c'est quoi?"
 
@@ -232,38 +233,38 @@ BurnedTower1FEusineIntroText:
 	line "de te connaître!"
 
 	para "On raconte que"
-	line "SUICUNE est dans"
+	line "Suicune est dans"
 
-	para "cette TOUR CEN-"
-	line "DREE..."
+	para "cette Tour Cen-"
+	line "Drée..."
 
 	para "Mais où???"
 	done
 
 BurnedTower1FEusineText:
 	text "On raconte que"
-	line "SUICUNE est dans"
+	line "Suicune est dans"
 
-	para "cette TOUR CEN-"
-	line "DREE..."
+	para "cette Tour Cen-"
+	line "Drée..."
 
 	para "Mais où???"
 	done
 
 BurnedTower1FMortyText:
-	text "MORTIMER: Le CHAM-"
-	line "PION de ROSALIA"
+	text "Mortimer: Le Cham-"
+	line "pion de Rosalia"
 
 	para "doit étudier les"
-	line "#MON légen-"
+	line "#mon légen-"
 
-	para "daires: SUICUNE,"
-	line "ENTEI et RAIKOU."
+	para "daires: Suicune,"
+	line "Entei et Raikou."
 
-	para "EUSINE est ici."
+	para "Eusine est ici."
 	line "J'ai décidé de"
 
-	para "fouiller la TOUR"
+	para "fouiller la Tour"
 	line "avec lui."
 	done
 

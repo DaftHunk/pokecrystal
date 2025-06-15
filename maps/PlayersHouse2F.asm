@@ -93,24 +93,24 @@ PlayersHousePCScript:
 	end
 
 PlayersRadioText1:
-	text "La CHRONIQUE PKMN"
-	line "du PROF.CHEN!"
+	text "La Chronique <PKMN>"
+	line "du Prof.Chen!"
 	cont "Ecoutez-nous la"
 	cont "prochaine fois!"
 	done
 
 PlayersRadioText2:
-	text "ANTENNE #MON!"
+	text "Antenne #mon!"
 	done
 
 PlayersRadioText3:
-	text "Ici DJ LULA, la"
+	text "Ici DJ Lula, la"
 	line "co-présentatrice!"
 	done
 
 PlayersRadioText4:
-	text "#MON!"
-	line "ANTENNE #MON..."
+	text "#mon!"
+	line "Antenne #mon..."
 	done
 
 PlayersHouse2F_MapEvents:

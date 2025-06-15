@@ -1,4 +1,4 @@
-	db "CANARD@" ; species name
+	db "Canard@" ; species name
 	db 8 ; height
 	dw 196 ; weight
 

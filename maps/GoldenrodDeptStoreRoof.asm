@@ -135,7 +135,7 @@ GoldenrodDeptStoreRoofPokefanMText:
 	line "sur moi..."
 
 	para "Je vais peut-être"
-	line "vendre les BAIES"
+	line "vendre les Baies"
 	cont "que j'ai trouvées."
 	done
 
@@ -143,19 +143,19 @@ GoldenrodDeptStoreRoofTeacherText:
 	text "Oh! Tout est si"
 	line "bon marché!"
 
-	para "Mon SAC est plein"
+	para "Mon Sac est plein"
 	line "à craquer!"
 	done
 
 GoldenrodDeptStoreRoofBugCatcherText:
-	text "Mes #MON sont"
-	line "toujours empoison-"
+	text "Mes #mon sont"
+	line "toujours Empoison-"
 
-	para "nés ou paralysés"
+	para "nés ou Paralysés"
 	line "au mauvais moment."
 
 	para "Je vais donc ache-"
-	line "ter TOTAL SOIN."
+	line "ter Total Soin."
 
 	para "Il en reste,"
 	line "tu crois?"
@@ -177,7 +177,7 @@ Binoculars2Text:
 	line "se battent sur"
 	cont "la route!"
 
-	para "Un #MON crache"
+	para "Un #mon crache"
 	line "des feuilles!"
 
 	para "Ca me donne envie"
@@ -185,12 +185,12 @@ Binoculars2Text:
 	done
 
 Binoculars3Text:
-	text "Un PECHEUR a"
+	text "Un Pêcheur a"
 	line "attrapé des"
-	cont "MAGICARPE..."
+	cont "Magicarpe..."
 
 	para "Ils font tous"
-	line "TREMPETTE!"
+	line "Trempette!"
 
 	para "Y'a de l'eau"
 	line "partout!"
@@ -198,7 +198,7 @@ Binoculars3Text:
 
 PokeDollVendingMachineText:
 	text "Une machine à"
-	line "poupées #MON?"
+	line "poupées #mon?"
 
 	para "Mettre des sous"
 	line "et tourner..."

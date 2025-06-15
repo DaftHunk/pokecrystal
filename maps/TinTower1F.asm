@@ -308,7 +308,7 @@ TinTower1FSage3EntersMovement:
 	step_end
 
 TinTower1FEusineSuicuneText:
-	text "EUSINE: Bravo!"
+	text "Eusine: Bravo!"
 	line "Trop fort!"
 
 	para "Je n'ai jamais vu"
@@ -317,16 +317,16 @@ TinTower1FEusineSuicuneText:
 	para "Alors ça..."
 	line "J'suis soufflé."
 
-	para "SUICUNE est fort,"
+	para "Suicune est fort,"
 	line "mais tu l'es"
 
 	para "encore plus,"
 	line "<PLAYER>."
 
-	para "On dit que SUICUNE"
+	para "On dit que Suicune"
 	line "a le pouvoir d'in-"
 
-	para "voquer un #MON"
+	para "voquer un #mon"
 	line "aux couleurs de"
 	cont "l'arc-en-ciel."
 
@@ -354,17 +354,17 @@ TinTower1FSage1Text:
 	line "légende..."
 
 	para "Lorsque les âmes"
-	line "des #MON et des"
+	line "des #mon et des"
 
 	para "humains se réunis-"
-	line "sent, un #MON"
+	line "sent, un #mon"
 
 	para "aux couleurs de"
 	line "l'arc-en-ciel des-"
 	cont "cend des cieux..."
 
 	para "Est-il possible"
-	line "que les #MON"
+	line "que les #mon"
 
 	para "légendaires met-"
 	line "tent les humains"
@@ -372,10 +372,10 @@ TinTower1FSage1Text:
 	done
 
 TinTower1FSage2Text:
-	text "Lorsque la TOUR de"
-	line "CUIVRE brûla,"
+	text "Lorsque la Tour de"
+	line "Cuivre brûla,"
 
-	para "trois #MON sans"
+	para "trois #mon sans"
 	line "nom ont, paraît-"
 
 	para "il, péri dans les"
@@ -383,22 +383,22 @@ TinTower1FSage2Text:
 
 	para "Toutefois..."
 
-	para "Un #MON couleur"
+	para "Un #mon couleur"
 	line "arc-en-ciel..."
 
 	para "Ou plus précisé-"
 	line "ment..."
 
-	para "HO-OH, descendit"
+	para "Ho-oh, descendit"
 	line "du ciel et redonna"
 
 	para "la vie aux trois"
-	line "#MON."
+	line "#mon."
 
 	para "Ils se nomment..."
 
-	para "SUICUNE, ENTEI et"
-	line "RAIKOU."
+	para "Suicune, Entei et"
+	line "Raikou."
 
 	para "Et voilà ce qu'on"
 	line "raconte."
@@ -406,12 +406,12 @@ TinTower1FSage2Text:
 
 TinTower1FSage3Text:
 	text "On dit que les"
-	line "deux TOURS furent"
+	line "deux Tours furent"
 
 	para "construites pour"
 	line "sceller l'amitié"
 
-	para "entre #MON et"
+	para "entre #mon et"
 	line "humains."
 
 	para "C'était il y a"
@@ -422,9 +422,9 @@ TinTower1FSage3Text:
 	done
 
 TinTower1FSage4Text1:
-	text "HO-OH a dû arriver"
-	line "ici, à la TOUR"
-	cont "FERRAILLE!"
+	text "Ho-oh a dû arriver"
+	line "ici, à la Tour"
+	cont "Ferraille!"
 	done
 
 TinTower1FSage5Text1:
@@ -448,7 +448,7 @@ TinTower1FEusineHoOhText:
 	text "Je le savais."
 
 	para "Je savais que tu"
-	line "verrais le #MON"
+	line "verrais le #mon"
 
 	para "arc-en-ciel,"
 	line "<PLAYER>."
@@ -462,21 +462,21 @@ TinTower1FEusineHoOhText:
 	line "à étudier pour"
 
 	para "être un célèbre"
-	line "#MANIAC!"
+	line "#maniac!"
 	done
 
 TinTower1FSage4Text2:
-	text "Les #MON légen-"
+	text "Les #mon légen-"
 	line "daires sont censés"
 
 	para "posséder trois"
 	line "pouvoirs..."
 
 	para "La foudre qui a"
-	line "frappé la TOUR."
+	line "frappé la Tour."
 
 	para "Le feu qui a brûlé"
-	line "la TOUR."
+	line "la Tour."
 
 	para "Et la pluie qui a"
 	line "éteint le feu..."
@@ -484,7 +484,7 @@ TinTower1FSage4Text2:
 
 TinTower1FSage5Text3:
 	text "Lorsque les #-"
-	line "MON légendaires"
+	line "mon légendaires"
 	cont "sont apparus..."
 
 	para "Ils pétrifièrent"
@@ -498,7 +498,7 @@ TinTower1FSage5Text3:
 	line "cru bon de les"
 	cont "attaquer..."
 
-	para "Les #MON légen-"
+	para "Les #mon légen-"
 	line "daires, conscients"
 
 	para "de leur puissance,"
@@ -507,21 +507,21 @@ TinTower1FSage5Text3:
 
 TinTower1FSage6Text2:
 	text "On dit que le"
-	line "#MON légendai-"
+	line "#mon légendai-"
 
-	para "re SUICUNE est le"
+	para "re Suicune est le"
 	line "plus proche de"
-	cont "HO-OH."
+	cont "Ho-oh."
 
 	para "Il y aurait aussi"
 	line "un lien avec les"
 
-	para "#MON connus"
+	para "#mon connus"
 	line "sous le nom de..."
-	cont "ZARBI."
+	cont "Zarbi."
 
-	para "Les ZARBI et"
-	line "SUICUNE doivent"
+	para "Les Zarbi et"
+	line "Suicune doivent"
 
 	para "être liés en un"
 	line "sens..."

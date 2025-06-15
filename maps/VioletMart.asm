@@ -21,7 +21,7 @@ VioletMartCooltrainerMScript:
 	jumptextfaceplayer VioletMartCooltrainerMText
 
 VioletMartGrannyText:
-	text "Le premier #MON"
+	text "Le premier #mon"
 	line "que tu attrapes"
 	cont "peut être tout"
 	cont "rikiki."
@@ -34,15 +34,15 @@ VioletMartGrannyText:
 	line "pour laquelle il"
 	cont "est primordial de"
 	cont "bercer d'amour ses"
-	cont "#MON."
+	cont "#mon."
 	done
 
 VioletMartCooltrainerMText:
-	text "Les #MON"
+	text "Les #mon"
 	line "peuvent porter des"
 	cont "objets comme les"
-	cont "POTIONS ou les"
-	cont "ANTIDOTES."
+	cont "Potions ou les"
+	cont "AntidoteS."
 
 	para "Mais ils semblent"
 	line "ne pas comprendre"

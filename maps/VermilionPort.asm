@@ -239,8 +239,8 @@ VermilionPortCantBoardText:
 
 VermilionPortAskBoardingText:
 	text "Bienvenue sur le"
-	line "BATEAU EXPRESS:"
-	cont "L'AQUARIA."
+	line "Bateau Express:"
+	cont "L'Aquaria."
 
 	para "Allez-vous monter"
 	line "à bord?"
@@ -248,7 +248,7 @@ VermilionPortAskBoardingText:
 
 VermilionPortAskTicketText:
 	text "Puis-je voir votre"
-	line "PASSE BATEAU?"
+	line "Passe Bateau?"
 	done
 
 VermilionPortComeAgainText:
@@ -257,7 +257,7 @@ VermilionPortComeAgainText:
 
 VermilionPortSSTicketText:
 	text "<PLAYER> montre"
-	line "son PASSE BATEAU."
+	line "son Passe Bateau."
 
 	para "Parfait."
 	line "Merci bien!"
@@ -266,36 +266,36 @@ VermilionPortSSTicketText:
 VermilionPortNoTicketText:
 	text "<PLAYER> voudrait"
 	line "bien montrer son"
-	cont "PASSE BATEAU..."
+	cont "Passe Bateau..."
 
 	para "Mais..."
-	line "Pas de TICKET!"
+	line "Pas de Ticket!"
 
 	para "Désolé!"
 	line "On ne monte à bord"
 
 	para "que sur présenta-"
-	line "tion d'un PASSE."
+	line "tion d'un Passe."
 	done
 
 VermilionPortSailWednesdayText:
-	text "Le BATEAU EXPRESS"
-	line "partira mercredi"
+	text "Le Bateau Express"
+	line "partira Mercredi"
 	cont "prochain."
 	done
 
 VermilionPortSailSundayText:
-	text "Le BATEAU EXPRESS"
-	line "partira dimanche"
+	text "Le Bateau Express"
+	line "partira Dimanche"
 	cont "prochain."
 	done
 
 VermilionPortSuperNerdText:
 	text "Tu viens de"
-	line "JOHTO?"
+	line "Johto?"
 
 	para "On dit qu'il y a"
-	line "plein de #MON"
+	line "plein de #mon"
 	cont "rares là-bas."
 	done
 

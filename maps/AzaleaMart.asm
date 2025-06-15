@@ -22,28 +22,28 @@ AzaleaMartBugCatcherScript:
 
 AzaleaMartCooltrainerMText:
 	text "Il n'y a pas"
-	line "de SUPER BALLS."
+	line "de Super Balls."
 
-	para "Les # BALLS"
+	para "Les # Balls"
 	line "devront faire"
 	cont "l'affaire."
 
 	para "J'aimerais que"
-	line "FARGAS me fabri-"
+	line "Fargas me fabri-"
 	cont "que quelques unes"
-	cont "de ses BALLS"
+	cont "de ses Balls"
 	cont "artisanales."
 	done
 
 AzaleaMartBugCatcherText:
-	text "Une SUPER BALL est"
+	text "Une Super Ball est"
 	line "plus efficace"
-	cont "qu'une # BALL"
+	cont "qu'une # Ball"
 	cont "pour attraper les"
-	cont "#MON."
+	cont "#mon."
 
 	para "Mais celles de"
-	line "FARGAS sont plus"
+	line "Fargas sont plus"
 	cont "efficaces quelque-"
 	cont "fois."
 	done

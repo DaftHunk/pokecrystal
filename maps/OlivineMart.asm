@@ -22,7 +22,7 @@ OlivineMartLassScript:
 
 OlivineMartCooltrainerFText:
 	text "Est-ce que ton"
-	line "#MON connait"
+	line "#mon connait"
 
 	para "la capacité qui"
 	line "permet de trans-"
@@ -31,13 +31,13 @@ OlivineMartCooltrainerFText:
 	done
 
 OlivineMartLassText:
-	text "Mon PAPILUSION"
+	text "Mon Papilusion"
 	line "vient de mon petit"
 	cont "copain de l'autre"
 	cont "côté de la mer."
 
 	para "Il nous transporte"
-	line "nos LETTRES."
+	line "nos Lettres."
 
 	para "Tu veux savoir ce"
 	line "qui est écrit?"

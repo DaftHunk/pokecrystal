@@ -11,10 +11,10 @@ Route8SaffronGateOfficerScript:
 
 Route8SaffronGateOfficerText:
 	text "As-tu visité"
-	line "LAVANVILLE?"
+	line "Lavanville?"
 
 	para "Il y a une grande"
-	line "TOUR RADIO là-bas."
+	line "Tour Radio là-bas."
 	done
 
 Route8SaffronGate_MapEvents:

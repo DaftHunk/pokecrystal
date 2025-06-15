@@ -112,11 +112,11 @@ DrawPokedexSearchResultsWindow:
 	ret
 
 .esults_D
-; (RESULTAT)
-	db   " RECHERCHE"
+; (Résultat)
+	db   " Recherche"
 	next ""
 ; (### TROU)
-	next "VE(S)!@"
+	next "vé(s)!@"
 
 DrawDexEntryScreenRightEdge:
 	ldh a, [hBGMapAddress]

@@ -797,37 +797,47 @@ Pokecenter2FMovementData_ReceptionistStepsRightLooksLeft_2:
 	step_end
 
 Text_BattleReceptionistMobile:
-	text_start
+	text "Voulez-vous com-"
+	line "battre par Câble"
+
+	para "Link ou par télé-"
+	line "phone mobile?"
 	done
 
 Text_TradeReceptionistMobile:
-	text_start
+	text "Voulez-vous éch-"
+	line "anger par Câble"
+
+	para "Link ou par télé-"
+	line "phone mobile?"
 	done
 
 Text_ThisWayToMobileRoom: ; unreferenced
-	text_start
+	text "Par ici, la Salle"
+	line "Mobile."
 	done
 
 Text_BattleReceptionistIntro:
 	text "Bienvenue au"
-	line "COLISEE du CLUB"
-	cont "LINK."
-
+	line "Colisée du Club"
+	cont "#com."
+	
 	para "Vous pouvez y"
 	line "affronter un(e)"
 	cont "ami(e)."
-
+	
 	para "Voulez-vous"
 	line "combattre?"
 	done
 
 Text_TradeReceptionistIntro:
 	text "Bienvenue au"
-	line "CENTRE TROC."
+	line "Centre Troc du"
+	cont "Club #com."
 
 	para "Vous pouvez y"
 	line "faire des échanges"
-	cont "de #MON avec"
+	cont "de #mon avec"
 	cont "un(e) ami(e)."
 
 	para "Voulez-vous"
@@ -836,12 +846,13 @@ Text_TradeReceptionistIntro:
 
 Text_TimeCapsuleReceptionistIntro:
 	text "Bienvenue au"
-	line "BLOC TEMPOREL."
+	line "Bloc Temporel du"
+	cont "Club #com."
 
 	para "Vous pouvez voya-"
 	line "ger dans le temps"
 	cont "et échanger vos"
-	cont "#MON."
+	cont "#mon."
 
 	para "Voulez-vous faire"
 	line "des échanges vers"
@@ -929,23 +940,23 @@ Text_RejectMonWithMail:
 	line "prendre @"
 	text_ram wStringBuffer1
 	text_start
-	cont "avec une LETTRE."
+	cont "avec une Lettre."
 	prompt
 
 Text_TimeCapsuleClosed:
-	text "Le BLOC TEMPOREL"
+	text "Le Bloc Temporel"
 	line "est en réparation."
 	done
 
 Text_TradeRoomClosed:
-	text "La MACHINE à"
-	line "ECHANGES est en"
+	text "La Machine à"
+	line "EchangeS est en"
 	cont "réparation."
 	done
 
 Text_BattleRoomClosed:
-	text "La MACHINE à"
-	line "COMBATS est en"
+	text "La Machine à"
+	line "CombatS est en"
 	cont "réparation."
 	done
 
@@ -963,14 +974,14 @@ Text_MysteryGiftDeliveryGuy_HereYouGo:
 
 Text_MysteryGiftDeliveryGuy_Outro:
 	text "A bientôt."
-	done
+	prompt
 
 Text_MysteryGiftDeliveryGuy_NoRoom:
 	text "Oh, tu n'as pas"
 	line "de place."
 
-	para "Va dans un CENTRE"
-	line "#MON pour"
+	para "Va dans un Centre"
+	line "#mon pour"
 
 	para "le récupérer."
 	done
@@ -995,7 +1006,25 @@ Text_LikeTheLook:
 	done
 
 Text_BrokeStadiumRules:
-	text_start
+	text "Excusez-moi!"
+
+	para "Selon les règles"
+	line "Stade, veuillez"
+
+	para "emmener six #-"
+	line "mon différents,"
+	cont "excluant les"
+	cont "Oeufs."
+
+	para "Les #mon doivent"
+	line "être différents."
+
+	para "De plus, ils ne"
+	line "peuvent tenir d'"
+	cont "objets identiques."
+
+	para "Revenez quand vous"
+	line "êtes prêt(e)."
 	done
 
 Pokecenter2F_MapEvents:

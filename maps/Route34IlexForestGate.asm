@@ -89,10 +89,10 @@ Route34IlexForestGateTeacherReturnsMovement:
 
 Route34IlexForestGateTeacherText:
 	text "Oh! Tu fais"
-	line "un #DEX?"
+	line "un #dex?"
 
 	para "Ca doit être dur"
-	line "quand les #MON"
+	line "quand les #mon"
 
 	para "ne veulent pas"
 	line "apparaître..."
@@ -100,27 +100,27 @@ Route34IlexForestGateTeacherText:
 	done
 
 Route34IlexForestGateTeacher_GotSweetScent:
-	text "C'est DOUX PARFUM."
+	text "C'est Doux Parfum."
 
 	para "Utilise-le quand"
-	line "un #MON peut"
+	line "un #mon peut"
 	cont "apparaître."
 
-	para "Le #MON sera"
+	para "Le #mon sera"
 	line "charmé."
 	done
 
 Route34IlexForestGateTeacher_ForestIsRestless:
 	text "Il y a un problème"
-	line "dans le BOIS AUX"
-	cont "CHENES..."
+	line "dans le Bois aux"
+	cont "Chênes..."
 
 	para "Evite d'y aller"
 	line "pour l'instant."
 	done
 
 Route34IlexForestGateButterfreeText:
-	text "PAPILUSION: Piiii!"
+	text "Papilusion: Piiii!"
 	done
 
 Route34IlexForestGateLassText:
@@ -128,13 +128,13 @@ Route34IlexForestGateLassText:
 	line "en l'honneur du"
 	cont "gardien?"
 
-	para "Il protège le BOIS"
+	para "Il protège le Bois"
 	line "depuis la nuit des"
 	cont "temps."
 
 	para "Ca doit être"
-	line "un #MON de"
-	cont "type PLANTE."
+	line "un #mon de"
+	cont "type Plante."
 	done
 
 Route34IlexForestGate_MapEvents:

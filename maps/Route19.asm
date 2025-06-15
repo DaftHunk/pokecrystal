@@ -123,7 +123,7 @@ SwimmermHaroldAfterBattleText:
 
 SwimmermTuckerSeenText:
 	text "Pfff...pfff..."
-	line "PARMANIE..n'est.."
+	line "Parmanie..n'est.."
 
 	para "plus...très..."
 	line "loin...!"
@@ -136,7 +136,7 @@ SwimmermTuckerBeatenText:
 SwimmermTuckerAfterBattleText:
 	text "J'ai demandé à ma"
 	line "copine de nager"
-	cont "jusqu'à PARMANIE."
+	cont "jusqu'à Parmanie."
 	done
 
 SwimmerfDawnSeenText:
@@ -149,8 +149,8 @@ SwimmerfDawnBeatenText:
 	done
 
 SwimmerfDawnAfterBattleText:
-	text "PARMANIE et les"
-	line "ILES ECUME sont à"
+	text "Parmanie et les"
+	line "Iles Ecume sont à"
 
 	para "deux coups de"
 	line "brasse..."
@@ -187,10 +187,10 @@ Route19Fisher1Text:
 	cont "de travaux."
 
 	para "Pour aller à"
-	line "CRAMOIS'ILE, va au"
+	line "Cramois'Ile, va au"
 
-	para "Sud de BOURG"
-	line "PALETTE."
+	para "Sud de Bourg"
+	line "Palette."
 	done
 
 Route19Fisher1Text_RocksCleared:
@@ -214,19 +214,19 @@ Route19Fisher2Text_RocksCleared:
 	done
 
 Route19SignText:
-	text "ROUTE 19"
+	text "Route 19"
 
-	para "PARMANIE -"
-	line "ILES ECUME"
+	para "Parmanie -"
+	line "Iles Ecume"
 	done
 
 CarefulSwimmingSignText:
 	text "Nagez prudemment"
 	line "si vous vous"
 	cont "dirigez vers les"
-	cont "ILES ECUME."
+	cont "Iles Ecume."
 
-	para "POLICE de PARMANIE"
+	para "Police de Parmanie"
 	done
 
 Route19_MapEvents:

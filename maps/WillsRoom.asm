@@ -80,20 +80,20 @@ WillsRoom_EnterMovement:
 
 WillScript_WillBeforeText:
 	text "Bienvenue à la"
-	line "LIGUE #MON,"
+	line "Ligue #mon,"
 	cont "<PLAYER>."
 
 	para "Je me présente:"
 	line "mon nom est"
-	cont "CLEMENT."
+	cont "Clement."
 
 	para "Je sais tout."
 	line "J'ai tout vu."
 
-	para "Mes #MON PSY"
+	para "Mes #mon Psy"
 	line "sont trop forts."
 
-	para "Le CONSEIL des 4"
+	para "Le Conseil des 4"
 	line "m'a accueilli en"
 	cont "son sein."
 
@@ -124,7 +124,7 @@ WillScript_WillDefeatText:
 	line "Continue ta route"
 
 	para "et découvre la"
-	line "force du CONSEIL"
+	line "force du Conseil"
 	cont "des 4!"
 	done
 

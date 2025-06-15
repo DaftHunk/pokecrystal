@@ -132,7 +132,7 @@ FastShipLazySailorLeavesMovement2:
 	step_end
 
 CooltrainermSeanSeenText:
-	text "Je vais à KANTO"
+	text "Je vais à Kanto"
 	line "pour m'entraîner."
 	done
 
@@ -142,9 +142,9 @@ CooltrainermSeanBeatenText:
 
 CooltrainermSeanAfterBattleText:
 	text "Les dresseurs de"
-	line "JOHTO peuvent af-"
-	cont "fronter les CHAM-"
-	cont "PIONS de KANTO."
+	line "Johto peuvent af-"
+	cont "fronter les Cham-"
+	cont "pions de Kanto."
 	done
 
 CooltrainerfCarolSeenText:
@@ -162,9 +162,9 @@ CooltrainerfCarolAfterBattleText:
 	done
 
 PokemaniacEthanSeenText:
-	text "Tu connais PETRA?"
+	text "Tu connais Petra?"
 	line "C'est un super DJ"
-	cont "de KANTO."
+	cont "de Kanto."
 	done
 
 PokemaniacEthanBeatenText:
@@ -172,12 +172,12 @@ PokemaniacEthanBeatenText:
 	done
 
 PokemaniacEthanAfterBattleText:
-	text "PETRA est cool"
-	line "mais LULA est top!"
+	text "Petra est cool"
+	line "mais Lula est top!"
 
 	para "J'veux connaître"
 	line "les stations de"
-	cont "radio de JOHTO!"
+	cont "radio de Johto!"
 	done
 
 HikerNolandSeenText:
@@ -193,7 +193,7 @@ HikerNolandBeatenText:
 HikerNolandAfterBattleText:
 	text "Tu crois qu'il y a"
 	line "de belles monta-"
-	cont "gnes à KANTO?"
+	cont "gnes à Kanto?"
 	done
 
 SailorStanlySeenText:

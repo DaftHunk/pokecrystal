@@ -1,4 +1,4 @@
-	db "TETARD@" ; species name
+	db "Tétard@" ; species name
 	db 13 ; height
 	dw 540 ; weight
 

@@ -1196,11 +1196,11 @@ StatStrings:
 	dw .speed
 	dw .special
 
-.health  db "VIE@"
-.attack  db "ATTAQUE@"
-.defense db "DEFENSE@"
-.speed   db "VITESSE@"
-.special db "SPECIAL@"
+.health  db "PV@"
+.attack  db "Attaque@"
+.defense db "Défense@"
+.speed   db "Vitesse@"
+.special db "Spécial@"
 
 GetStatExpRelativePointer:
 	ld a, [wCurItem]

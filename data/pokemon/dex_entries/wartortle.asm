@@ -1,4 +1,4 @@
-	db "TORTUE@" ; species name
+	db "Tortue@" ; species name
 	db 10 ; height
 	dw 225 ; weight
 

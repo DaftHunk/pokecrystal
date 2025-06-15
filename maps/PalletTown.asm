@@ -32,7 +32,7 @@ BluesHouseSign:
 
 PalletTownTeacherText:
 	text "J'entraîne des"
-	line "#MON. Ils sont"
+	line "#mon. Ils sont"
 
 	para "mes gardes du"
 	line "corps."
@@ -44,29 +44,29 @@ PalletTownFisherText:
 
 	para "On peut maintenant"
 	line "échanger des #-"
-	cont "MON à travers le"
+	cont "mon à travers le"
 	cont "temps comme des"
 	cont "e-mails."
 	done
 
 PalletTownSignText:
-	text "BOURG PALETTE"
+	text "Bourg Palette"
 
 	para "Calme, paix et"
 	line "pureté"
 	done
 
 RedsHouseSignText:
-	text "CHEZ RED"
+	text "Chez Red"
 	done
 
 OaksLabSignText:
-	text "LABO #MON"
-	line "de CHEN"
+	text "Labo #mon"
+	line "de Chen"
 	done
 
 BluesHouseSignText:
-	text "CHEZ BLUE"
+	text "Chez Blue"
 	done
 
 PalletTown_MapEvents:

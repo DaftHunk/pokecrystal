@@ -12,9 +12,9 @@ Route38EcruteakGateOfficerScript:
 Route38EcruteakGateOfficerText:
 	text "Tu viens d'où?"
 
-	para "BOURG GEON?"
+	para "Bourg Geon?"
 
-	para "Le PROF.ORME"
+	para "Le Prof.Orme"
 	line "y vit, non?"
 
 	para "Tu viens de loin,"

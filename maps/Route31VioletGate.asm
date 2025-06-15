@@ -16,7 +16,7 @@ Route31VioletGateCooltrainerFScript:
 Route31VioletGateOfficerText:
 	text "Salut toi!"
 	line "As-tu visité la"
-	cont "TOUR CHETIFLOR?"
+	cont "Tour Chétiflor?"
 	done
 
 Route31VioletGateCooltrainerFText:

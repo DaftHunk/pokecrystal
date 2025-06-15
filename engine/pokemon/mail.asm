@@ -561,7 +561,7 @@ MailboxPC:
 .SubMenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "LIRE LETTRE@"
-	db "METTRE DANS SAC@"
-	db "CONFIER LETTRE@"
-	db "RETOUR@"
+	db "Lire Lettre@"
+	db "Mettre dans Sac@"
+	db "Confier Lettre@"
+	db "Retour@"

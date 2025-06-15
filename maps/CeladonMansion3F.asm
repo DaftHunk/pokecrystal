@@ -84,17 +84,17 @@ CeladonMansion3FReferenceMaterial:
 GameFreakGameDesignerText:
 	text "Mmmmoui?"
 
-	para "Je suis le DESI-"
-	line "GNER du JEU!"
+	para "Je suis le Desi-"
+	line "gner du Jeu!"
 
 	para "Continue à remplir"
-	line "ton #DEX!"
+	line "ton #dex!"
 	done
 
 GameFreakGameDesignerCompletedPokedexText:
 	text "Whoa! Super!"
 	line "Tu as complété ton"
-	cont "#DEX!"
+	cont "#dex!"
 
 	para "Formidable!"
 	done
@@ -104,37 +104,37 @@ GameFreakGameDesignerPauseForDiplomaText:
 	done
 
 GameFreakGameDesignerAfterDiplomaText:
-	text "L'ARTISTE GRAPHI-"
-	line "QUE va imprimer un"
-	cont "DIPLOME pour toi."
+	text "L'Artiste Graphi-"
+	line "que va imprimer un"
+	cont "Diplôme pour toi."
 
 	para "Va te vanter, mon"
 	line "petit."
 	done
 
 GameFreakGraphicArtistText:
-	text "Je suis l'ARTISTE"
-	line "GRAPHIQUE."
+	text "Je suis l'Artiste"
+	line "Graphique."
 
 	para "J'ai fait ton"
 	line "dessin!"
 	done
 
 GameFreakGraphicArtistPrintDiplomaText:
-	text "Je suis l'ARTISTE"
-	line "GRAPHIQUE."
+	text "Je suis l'Artiste"
+	line "Graphique."
 
 	para "Tu as complété"
-	line "ton #DEX?"
+	line "ton #dex?"
 
 	para "Tu veux que j'im-"
-	line "prime ton DIPLOME?"
+	line "prime ton Diplôme?"
 	done
 
 GameFreakGraphicArtistRefusedText:
 	text "Appelle-moi si tu"
 	line "veux que j'imprime"
-	cont "ton DIPLOME."
+	cont "ton Diplôme."
 	done
 
 GameFreakGraphicArtistErrorText:
@@ -145,17 +145,17 @@ GameFreakGraphicArtistErrorText:
 
 GameFreakProgrammerText:
 	text "Moi? Je suis le"
-	line "PROGRAMMEUR."
+	line "Programmeur."
 
 	para "Joue aux machines"
 	line "à sous!"
 	done
 
 GameFreakCharacterDesignerText:
-	text "Les JUMELLES sont"
+	text "Les Jumelles sont"
 	line "pas trop mimi?"
 
-	para "JASMINE est trop"
+	para "Jasmine est trop"
 	line "jolie, non?"
 
 	para "Je...les aime!"
@@ -163,8 +163,8 @@ GameFreakCharacterDesignerText:
 
 CeladonMansion3FDevRoomSignText:
 	text "GAME FREAK"
-	line "SALLE de"
-	cont "DEVELOPPEMENT"
+	line "Salle de"
+	cont "Développement"
 	done
 
 CeladonMansion3FDrawingText:
@@ -184,7 +184,7 @@ CeladonMansion3FReferenceMaterialText:
 	text "Il y a plein de"
 	line "produits dérivés."
 	cont "Il y a même une"
-	cont "# POUPEE."
+	cont "# Poupée."
 	done
 
 CeladonMansion3F_MapEvents:

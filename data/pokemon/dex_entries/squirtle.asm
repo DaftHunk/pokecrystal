@@ -1,4 +1,4 @@
-	db "MINITORTUE@" ; species name
+	db "Minitortue@" ; species name
 	db 5 ; height
 	dw 90 ; weight
 

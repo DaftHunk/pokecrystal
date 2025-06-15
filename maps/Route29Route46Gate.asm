@@ -25,7 +25,7 @@ Route29Route46GateOfficerText:
 	done
 
 Route29Route46GateYoungsterText:
-	text "Des #MON diffé-"
+	text "Des #mon diffé-"
 	line "rents apparaissent"
 	cont "plus loin."
 

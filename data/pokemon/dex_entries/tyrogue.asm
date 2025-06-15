@@ -1,4 +1,4 @@
-	db "BAGARREUR@" ; species name
+	db "Bagarreur@" ; species name
 	db 7 ; height
 	dw 210 ; weight
 

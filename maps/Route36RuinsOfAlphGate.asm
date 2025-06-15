@@ -29,7 +29,7 @@ Route36RuinsOfAlphGateGrampsText:
 	line "lui que personne"
 
 	para "ne visite les"
-	line "RUINES D'ALPHA."
+	line "Ruines d'Alpha."
 	done
 
 Route36RuinsOfAlphGate_MapEvents:

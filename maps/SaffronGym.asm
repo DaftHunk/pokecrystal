@@ -113,22 +113,22 @@ SaffronGymStatue:
 	jumpstd GymStatue2Script
 
 SabrinaIntroText:
-	text "MORGANE: Je savais"
+	text "Morgane: Je savais"
 	line "que tu viendrais."
 
 	para "J'ai eu une vision"
 	line "il y a trois ans."
 
 	para "T'en veux après"
-	line "mon BADGE, non?"
+	line "mon Badge, non?"
 
 	para "Je n'aime pas com-"
 	line "battre mais en"
 
-	para "tant que CHAMPION-"
-	line "NE, je me dois de"
+	para "tant que Champion-"
+	line "ne, je me dois de"
 
-	para "confier mon BADGE"
+	para "confier mon Badge"
 	line "à celui ou celle"
 	cont "qui le mérite."
 
@@ -138,7 +138,7 @@ SabrinaIntroText:
 	done
 
 SabrinaWinLossText:
-	text "MORGANE: Ta force"
+	text "Morgane: Ta force"
 	line "est grande..."
 
 	para "Je ne l'avais pas"
@@ -151,18 +151,18 @@ SabrinaWinLossText:
 	line "moque pas trop..."
 
 	para "Bon. Tu as bien"
-	line "mérité le BADGE"
-	cont "MARAIS."
+	line "mérité le Badge"
+	cont "Marais."
 	done
 
 ReceivedMarshBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE MARAIS."
+	line "le Badge Marais."
 	done
 
 SabrinaMarshBadgeText:
-	text "MORGANE: Le BADGE"
-	line "MARAIS renforce"
+	text "Morgane: Le Badge"
+	line "Marais renforce"
 
 	para "les pouvoirs"
 	line "occultes..."
@@ -172,13 +172,13 @@ SabrinaMarshBadgeText:
 	cont "gnognotte."
 
 	para "Tu deviendras un"
-	line "MAITRE! Je le"
+	line "Maître! Je le"
 	cont "sens!"
 	done
 
 SabrinaFightDoneText:
-	text "MORGANE: Ton amour"
-	line "pour tes #MON a"
+	text "Morgane: Ton amour"
+	line "pour tes #mon a"
 
 	para "brouillé mes pou-"
 	line "voirs psy..."
@@ -238,9 +238,9 @@ MediumDorisAfterBattleText:
 	done
 
 PsychicJaredSeenText:
-	text "Le DOJO d'à côté"
-	line "était jadis l'ARE-"
-	cont "NE de cette ville."
+	text "Le Dojo d'à côté"
+	line "était jadis l'Arè-"
+	cont "ne de cette ville."
 	done
 
 PsychicJaredBeatenText:
@@ -248,11 +248,11 @@ PsychicJaredBeatenText:
 	done
 
 PsychicJaredAfterBattleText:
-	text "Le ROI du KARATE,"
-	line "le maître du DOJO"
+	text "Le Roi du Karaté,"
+	line "le maître du Dojo"
 
 	para "a été battu par"
-	line "MORGANE."
+	line "Morgane."
 	done
 
 SaffronGymGuideText:
@@ -263,8 +263,8 @@ SaffronGymGuideText:
 	line "comme toi sait"
 
 	para "comment battre des"
-	line "#MON du type"
-	cont "PSY, non?"
+	line "#mon du type"
+	cont "Psy, non?"
 
 	para "Tu vas faire un"
 	line "beau combat!"

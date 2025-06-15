@@ -1,4 +1,4 @@
-	db "COLOSSE@" ; species name
+	db "Colosse@" ; species name
 	db 15 ; height
 	dw 705 ; weight
 

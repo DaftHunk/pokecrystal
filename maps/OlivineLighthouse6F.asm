@@ -160,8 +160,8 @@ OlivineLighthouseJasmineLeavesRightMovement:
 	step_end
 
 JasmineCianwoodPharmacyText:
-	text "JASMINE: ... Ce"
-	line "#MON gardait la"
+	text "Jasmine: ... Ce"
+	line "#mon gardait la"
 
 	para "mer éclairée toute"
 	line "la nuit."
@@ -171,14 +171,14 @@ JasmineCianwoodPharmacyText:
 	cont "manque d'air..."
 
 	para "On dit qu'il y a"
-	line "une bonne PHARMA-"
-	cont "CIE à IRISIA..."
+	line "une bonne Pharma-"
+	cont "cie à Irisia..."
 
 	para "Mais c'est à l'au-"
 	line "tre bout des mers!"
 
 	para "Et je dois m'occu-"
-	line "per de PHARY..."
+	line "per de Phary..."
 	done
 
 JasmineGetSomeMedicineText:
@@ -188,36 +188,36 @@ JasmineGetSomeMedicineText:
 	done
 
 JasmineCureAmphyText:
-	text "JASMINE: ...Ce mé-"
+	text "Jasmine: ...Ce mé-"
 	line "dicament va-t-il"
-	cont "soigner PHARY?"
+	cont "soigner Phary?"
 	done
 
 PlayerHandedSecretpotionText:
 	text "<PLAYER> donne"
-	line "la POTIONSECRET à"
-	cont "JASMINE."
+	line "la PotionSecret à"
+	cont "Jasmine."
 	done
 
 JasmineDontBeOffendedText:
-	text "JASMINE: Heu..."
+	text "Jasmine: Heu..."
 	line "Le prends pas mal"
 	cont "mais..."
 
-	para "PHARY n'accepte"
+	para "Phary n'accepte"
 	line "que ce que JE lui"
 	cont "donne..."
 	done
 
 JasmineAmphyHowAreYouFeelingText:
-	text "JASMINE: ..."
+	text "Jasmine: ..."
 
-	para "PHARY, comment te"
+	para "Phary, comment te"
 	line "sens-tu?"
 	done
 
 JasmineThankYouText:
-	text "JASMINE: Oh, je"
+	text "Jasmine: Oh, je"
 	line "suis si soulagée!"
 
 	para "C'est... C'est"
@@ -227,19 +227,19 @@ JasmineThankYouText:
 	line "mon poussin."
 
 	para "Je vais retourner"
-	line "à l'ARENE..."
+	line "à l'Arène..."
 	done
 
 JasmineISeeText:
-	text "JASMINE: Je vois."
+	text "Jasmine: Je vois."
 	done
 
 JasmineAmphyHangOnText:
-	text "Courage, PHARY!"
+	text "Courage, Phary!"
 	done
 
 AmphyPalPalooText:
-	text "PHARY: ..."
+	text "Phary: ..."
 	line "...Pha! Phaaa..."
 	done
 
@@ -249,7 +249,7 @@ AmphyBreathingLaboredText:
 	done
 
 AmphyPaluPaluluText:
-	text "PHARY: Phapha!"
+	text "Phary: Phapha!"
 	line "Phaaaaaa!"
 	done
 

@@ -35,11 +35,11 @@ TrainerHouseIllegibleBook:
 	jumptext TrainerHouseIllegibleText
 
 TrainerHouse1FReceptionistText:
-	text "Bienvenue au CLUB"
-	line "des DRESSEURS,"
+	text "Bienvenue au Club"
+	line "des Dresseurs,"
 
 	para "l'attraction de"
-	line "JADIELLE."
+	line "Jadielle."
 
 	para "Nous accueillons"
 	line "les dresseurs."
@@ -52,9 +52,9 @@ TrainerHouse1FReceptionistText:
 	done
 
 TrainerHouse1FCooltrainerMText:
-	text "JADIELLE est la"
+	text "Jadielle est la"
 	line "ville voisine du"
-	cont "PLATEAU INDIGO."
+	cont "Plateau Indigo."
 
 	para "Elle a été cons-"
 	line "truite à cet en-"
@@ -63,7 +63,7 @@ TrainerHouse1FCooltrainerMText:
 	line "passage important"
 
 	para "des dresseurs vers"
-	line "le PLATEAU."
+	line "le Plateau."
 	done
 
 TrainerHouse1FCooltrainerFText:
@@ -75,24 +75,24 @@ TrainerHouse1FCooltrainerFText:
 	line "voir comment se"
 
 	para "débrouille un"
-	line "dresseur de JOHTO."
+	line "dresseur de Johto."
 	done
 
 TrainerHouse1FYoungsterText:
 	text "A mon avis, on ne"
 	line "peut pas devenir"
 
-	para "un MAITRE sans"
+	para "un Maître sans"
 	line "avoir tout vu et"
 
 	para "combattu tout le"
 	line "monde."
 
-	para "Le MAITRE de"
-	line "PALETTE a voyagé"
+	para "Le Maître de"
+	line "Palette a voyagé"
 
 	para "dans tous les"
-	line "coins de KANTO."
+	line "coins de Kanto."
 	done
 
 TrainerHouse1FGentlemanText:
@@ -106,8 +106,8 @@ TrainerHouseSign1Text:
 	line "traînement se dé-"
 
 	para "roulent en bas,"
-	line "dans le HALL d'EN-"
-	cont "TRAINEMENT."
+	line "dans le Hall d'En-"
+	cont "trainement."
 
 	para "Les bons dresseurs"
 	line "y sont invités."
@@ -133,7 +133,7 @@ TrainerHouseIllegibleText:
 	para "On dirait des tra-"
 	line "cés faits par un"
 
-	para "ONIX..."
+	para "Onix..."
 	line "C'est illisible..."
 	done
 

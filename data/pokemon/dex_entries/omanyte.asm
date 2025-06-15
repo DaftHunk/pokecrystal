@@ -1,4 +1,4 @@
-	db "SPIRALE@" ; species name
+	db "Spirale@" ; species name
 	db 4 ; height
 	dw 75 ; weight
 

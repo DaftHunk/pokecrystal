@@ -1,4 +1,4 @@
-	db "JET@" ; species name
+	db "Jet@" ; species name
 	db 6 ; height
 	dw 120 ; weight
 

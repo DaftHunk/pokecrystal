@@ -25,19 +25,19 @@ Route7SaffronGuardScript:
 Route7SaffronGuardPowerPlantText:
 	text "Sais-tu qu'il y a"
 	line "eu un accident à"
-	cont "la CENTRALE?"
+	cont "la Centrale?"
 
 	para "C'est à l'Est,"
 	line "près de"
-	cont "LAVANVILLE."
+	cont "Lavanville."
 	done
 
 Route7SaffronGuardSeriousText:
-	text "J'suis un GARDE."
+	text "J'suis un Garde."
 	line "J'en suis fier."
 
 	para "Hé! T'as un"
-	line "#DEX!"
+	line "#dex!"
 
 	para "OK. Tu peux"
 	line "passer."

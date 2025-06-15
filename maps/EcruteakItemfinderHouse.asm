@@ -58,7 +58,7 @@ ItemFinderHouseRadio:
 EcruteakItemfinderAdventureText:
 	text "Ah! Tu fais les"
 	line "400 coups avec tes"
-	cont "#MON?"
+	cont "#mon?"
 
 	para "Mais qu'est-ce"
 	line "qu'une aventure"
@@ -86,8 +86,8 @@ ItemfinderExplanationText:
 	line "d'objets cachés"
 	cont "par terre."
 
-	para "Utilise CHERCH'"
-	line "OBJET pour voir"
+	para "Utilise Cherch'"
+	line "Objet pour voir"
 
 	para "s'il y a un objet"
 	line "par terre près de"
@@ -104,8 +104,8 @@ ItemfinderExplanationText:
 	line "tendu dire qu'il y"
 
 	para "a des objets dans"
-	line "la TOUR CENDREE"
-	cont "de ROSALIA."
+	line "la Tour Cendrée"
+	cont "de Rosalia."
 	done
 
 EcruteakItemfinderToEachHisOwnText:
@@ -114,26 +114,26 @@ EcruteakItemfinderToEachHisOwnText:
 	done
 
 EcruteakHistoryBookText:
-	text "HISTOIRE de"
-	line "ROSALIA"
+	text "Histoire de"
+	line "Rosalia"
 
 	para "Désirez-vous lire?"
 	done
 
 EcruteakTwoTowersText:
 	text "Il existait deux"
-	line "tours à ROSALIA."
+	line "tours à Rosalia."
 
 	para "Chacune d'elle"
 	line "était le perchoir"
 	cont "d'un puissant"
-	cont "#MON volant."
+	cont "#mon volant."
 
 	para "Mais l'une des"
 	line "tours a complète-"
 	cont "ment brûlé."
 
-	para "Les deux #MON"
+	para "Les deux #mon"
 	line "n'ont jamais été"
 	cont "revus depuis..."
 
@@ -141,10 +141,10 @@ EcruteakTwoTowersText:
 	done
 
 EcruteakThreeMonText:
-	text "ROSALIA était"
+	text "Rosalia était"
 	line "aussi la demeure"
 
-	para "de trois #MON"
+	para "de trois #mon"
 	line "qui couraient"
 	cont "autour de la"
 	cont "ville."

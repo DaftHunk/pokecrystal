@@ -158,10 +158,10 @@ MahoganyMart1FRageCandyBarText: ; unreferenced
 	text "Salut, toi!"
 
 	para "Ca te dirait du"
-	line "BONBON RAGE?"
+	line "Bonbon Rage?"
 
 	para "C'est cool d'en"
-	line "manger à ACAJOU!"
+	line "manger à Acajou!"
 	done
 
 MahoganyMart1FPharmacistText_LanceEntered:
@@ -175,24 +175,24 @@ MahoganyMart1FBlackBeltText:
 	line "pas mal pour moi!"
 	cont "Hé hé!"
 
-	para "Les MAGICARPE ne"
+	para "Les Magicarpe ne"
 	line "valent rien mais"
 
-	para "les LEVIATOR rap-"
+	para "les Léviator rap-"
 	line "portent gros!"
 	done
 
 MahoganyMart1FBlackBeltText_LanceEntered:
 	text "Gueuhhh..."
 
-	para "Les #MON dragon"
+	para "Les #mon dragon"
 	line "de ce type sont"
 	cont "super forts..."
 	done
 
 MahoganyMart1FLanceDragoniteHyperBeamText:
-	text "PETER: DRACOLOSSE,"
-	line "ULTRALASER."
+	text "Peter: Dracolosse,"
+	line "Ultralaser."
 	done
 
 MahoganyMart1FLanceRadioText:
@@ -212,7 +212,7 @@ MahoganyMart1FLanceStairsText:
 	done
 
 MahoganyMart1FLanceSplitUpText:
-	text "PETER: <PLAY_G>,"
+	text "Peter: <PLAY_G>,"
 	line "nous ferions mieux"
 
 	para "de nous séparer."

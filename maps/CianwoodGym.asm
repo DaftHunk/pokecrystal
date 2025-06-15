@@ -155,7 +155,7 @@ ChuckIntroText1:
 	cont "que je suis une"
 	cont "bête!"
 
-	para "Mes #MON"
+	para "Mes #mon"
 	line "explosent la roche"
 	cont "et fracassent les"
 	cont "os!"
@@ -164,7 +164,7 @@ ChuckIntroText1:
 	done
 
 ChuckIntroText2:
-	text "CHUCK: Blurrp!"
+	text "Chuck: Blurrp!"
 	line "............."
 
 	para "Aaaarrgh!"
@@ -178,7 +178,7 @@ ChuckIntroText3:
 	para "De quoi?"
 	line "Ca n'a rien à voir"
 
-	para "avec les #MON?"
+	para "avec les #mon?"
 	line "Je sais!"
 
 	para "Allez, en position"
@@ -193,33 +193,33 @@ ChuckLossText:
 	line "te dire un truc?"
 	cont "Je pense que tu"
 	cont "mérites le bon"
-	cont "vieux BADGE CHOC!"
+	cont "vieux Badge Choc!"
 	done
 
 GetStormBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE CHOC."
+	line "le Badge Choc."
 	done
 
 ChuckExplainBadgeText:
-	text "Avec le BADGE CHOC"
-	line "tous les #MON"
+	text "Avec le Badge Choc"
+	line "tous les #mon"
 
 	para "jusqu'au niveau 70"
 	line "et même les échan-"
 	cont "gés t'obéiront."
 
 	para "Il permet aussi à"
-	line "tes #MON"
+	line "tes #mon"
 
-	para "d'utiliser VOL"
+	para "d'utiliser Vol"
 	line "hors des combats."
 
 	para "Tiens, attrape ça!"
 	done
 
 ChuckExplainTMText:
-	text "C'est DYNAMOPOING."
+	text "C'est Dynamopoing."
 
 	para "Ca ne touche pas"
 	line "toujours mais"
@@ -246,7 +246,7 @@ ChuckAfterText:
 	done
 
 BlackbeltYoshiSeenText:
-	text "Mes #MON et moi"
+	text "Mes #mon et moi"
 	line "sommes liés par"
 	cont "une grande amitié."
 
@@ -263,7 +263,7 @@ BlackbeltYoshiAfterText:
 	line "sembles avoir lié"
 	cont "une très forte"
 	cont "complicité avec"
-	cont "tes #MON!"
+	cont "tes #mon!"
 	done
 
 BlackbeltLaoSeenText:
@@ -279,10 +279,10 @@ BlackbeltLaoBeatenText:
 	done
 
 BlackbeltLaoAfterText:
-	text "Les #MON de"
+	text "Les #mon de"
 	line "combat sont un"
 	cont "peu effrayés par"
-	cont "les #MON"
+	cont "les #mon"
 	cont "psy..."
 	done
 
@@ -308,7 +308,7 @@ BlackbeltNobAfterText:
 BlackbeltLungSeenText:
 	text "Mes poings de ouf"
 	line "vont terrasser tes"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 BlackbeltLungBeatenText:
@@ -316,7 +316,7 @@ BlackbeltLungBeatenText:
 	done
 
 BlackbeltLungAfterText:
-	text "Mes #MON ont"
+	text "Mes #mon ont"
 	line "perdu, ma fierté"
 	cont "en a pris un coup!"
 	done

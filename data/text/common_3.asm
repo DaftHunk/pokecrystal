@@ -15,7 +15,7 @@ _OakText7::
 	para "Un monde de rêve,"
 	line "de dangers et de"
 
-	para "#MON t'attend!"
+	para "#mon t'attend!"
 	line "En avant!"
 
 	para "..."
@@ -57,7 +57,7 @@ _LinkTradeCantBattleText::
 	text "Vous ne pourrez"
 	line "pas combattre si"
 	cont "vous échangez ce"
-	cont "#MON."
+	cont "#mon."
 	prompt
 
 _LinkAbnormalMonText::
@@ -77,51 +77,112 @@ _LinkAskTradeForText::
 	done
 
 _MobileBattleMustPickThreeMonText::
-	text_start
+	text "Pour lancer un"
+	line "combat mobile,"
+
+	para "vous devez choisir"
+	line "une équipe de"
+	cont "trois #mon."
+
+	para "Est-ce OK?"
 	done
 
 _MobileBattleMoreInfoText::
-	text_start
+	text "Besoin de plus"
+	line "d'infos sur les"
+	cont "combats mobile?"
 	done
 
 _MobileBattleRulesText::
-	text_start
+	text "Pour un combat"
+	line "mobile, choisissez"
+	cont "trois #mon."
+
+	para "Le temps maximal"
+	line "de jeu journalier"
+
+	para "est de 10 minutes"
+	line "pour chaque joueur"
+	cont "connecté."
+
+	para "Si un combat n'est"
+	line "pas fini dans la"
+
+	para "limite de temps,"
+	line "le joueur avec"
+
+	para "le moins de #-"
+	line "mon K.O. gagnera."
+
+	para "Si un match est"
+	line "nul, l'équipe qui"
+
+	para "a perdu le moins"
+	line "de PV gagnera."
 	done
 
 _WouldYouLikeToMobileBattleText::
-	text_start
+	text "Il reste @"
+	text_decimal wStringBuffer2, 1, 2
+	text " min."
+	line "aujourd'hui."
+
+	para "Voulez-vous"
+	line "combattre?"
 	done
 
 _WantAQuickMobileBattleText::
+	text "Il ne reste que @"
+	text_decimal wStringBuffer2, 1, 2
 	text_start
+	line "min. aujourd'hui."
+
+	para "Voulez-vous un"
+	line "combat rapide?"
 	done
 
 _WantToRushThroughAMobileBattleText::
-	text_start
+	text "Il ne reste que 1"
+	line "min. aujourd'hui!"
+
+	para "Voulez-vous hâter"
+	line "par un combat?"
 	done
 
 _PleaseTryAgainTomorrowText::
-	text_start
-	done
+    text "Il reste moins de"
+    line "1 min. aujourd'hui!"
+
+    para "Réessayez demain"
+    line "s.v.p."
+    done
 
 _TryAgainUsingSameSettingsText::
-	text_start
+	text "Réessayer avec les"
+	line "mêmes paramètres?"
 	done
 
 _MobileBattleLessThanOneMinuteLeftText::
-	text_start
+	text "Il reste moins de"
+	line "1 min. aujourd'hui!"
 	done
 
 _MobileBattleNoTimeLeftForLinkingText::
-	text_start
+	text "Plus de temps res-"
+	line "tant pour une co."
 	done
 
 _PickThreeMonForMobileBattleText::
-	text_start
+	text "Choisir trois"
+	line "#mon pour le"
+	cont "combat."
 	done
 
 _MobileBattleRemainingTimeText::
-	text_start
+	text "Il reste @"
+	text_decimal wStringBuffer2, 1, 2
+	text " min."
+	line "aujourd'hui."
 	done
 
 _WouldYouLikeToSaveTheGameText::
@@ -130,7 +191,7 @@ _WouldYouLikeToSaveTheGameText::
 	done
 
 _SavingDontTurnOffThePowerText::
-	text "SAUVEGARDE..."
+	text "Sauvegarde..."
 	line "NE PAS ETEINDRE."
 	done
 
@@ -158,14 +219,14 @@ _SaveFileCorruptedText::
 
 _ChangeBoxSaveText::
 	text "En changeant de"
-	line "BOITE #MON,"
+	line "Boîte #mon,"
 	cont "les données sont"
 	cont "sauvegardées. OK?"
 	done
 
 _MoveMonWOMailSaveText::
 	text "A chaque déplace-"
-	line "ment de #MON,"
+	line "ment de #mon,"
 	cont "les données sont"
 	cont "sauvegardées. OK?"
 	done
@@ -224,7 +285,7 @@ _SeerSeeAllText::
 	line "Je vois tout."
 
 	para "Je sais tout de"
-	line "tes #MON!"
+	line "tes #mon!"
 	done
 
 _SeerCantTellAThingText::
@@ -301,7 +362,7 @@ _SeerNoLocationText::
 _SeerEggText::
 	text "Hé!"
 
-	para "C'est un OEUF!"
+	para "C'est un Oeuf!"
 
 	para "On ne peut encore"
 	line "rien dire dessus."
@@ -318,7 +379,7 @@ _SeerMoreCareText::
 
 	para "Il serait sage de"
 	line "prendre plus soin"
-	cont "de tes #MON."
+	cont "de tes #mon."
 	done
 
 _SeerMoreConfidentText::
@@ -369,7 +430,7 @@ _SeerImpressedText::
 	line "temps que je n'a-"
 
 	para "vais pas vu un"
-	line "#MON aussi fort"
+	line "#mon aussi fort"
 	cont "que ce @"
 	text_ram wSeerNickname
 	text "."
@@ -434,7 +495,7 @@ _HerbShopLadyIntroText::
 	para "C'est bien bon"
 	line "mais un peu amer."
 
-	para "Ton #MON ne va"
+	para "Ton #mon ne va"
 	line "peut-être pas"
 	cont "aimer."
 
@@ -461,7 +522,7 @@ _HerbalLadyThanksText::
 	done
 
 _HerbalLadyPackFullText::
-	text "Ton SAC est"
+	text "Ton Sac est"
 	line "plein."
 	done
 
@@ -499,7 +560,7 @@ _BargainShopThanksText::
 	done
 
 _BargainShopPackFullText::
-	text "Oh! Ton SAC"
+	text "Oh! Ton Sac"
 	line "est super plein."
 	done
 
@@ -620,7 +681,7 @@ _MartBoughtText::
 
 _SlotsBetHowManyCoinsText::
 	text "Combien"
-	line "de jetons?"
+	line "de Jetons?"
 	done
 
 _SlotsStartText::
@@ -629,12 +690,12 @@ _SlotsStartText::
 
 _SlotsNotEnoughCoinsText::
 	text "Pas assez de"
-	line "jetons."
+	line "Jetons."
 	prompt
 
 _SlotsRanOutOfCoinsText::
 	text "Zut... plus de"
-	line "jetons..."
+	line "Jetons..."
 	done
 
 _SlotsPlayAgainText::
@@ -645,7 +706,7 @@ _SlotsLinedUpText::
 	text "en ligne!"
 	line "@"
 	text_ram wStringBuffer2
-	text " jetons!"
+	text " Jetons!"
 	done
 
 _SlotsDarnText::
@@ -653,11 +714,29 @@ _SlotsDarnText::
 	done
 
 _MobileStadiumEntryText::
-	text_start
+	text "Vous pouvez lire"
+	line "ici les données"
+
+	para "utilisées par le"
+	line "Stade Mobile du"
+
+	para "jeu Nintendo 64"
+	line "#mon Stadium."
+
+	para "Lire les données?"
 	done
 
 _MobileStadiumSuccessText::
-	text_start
+	text "Envoi des données"
+	line "terminé. Allez"
+	
+	para "voir vos combats"
+	line "Stade Mobile sur"
+	
+	para "#mon Stadium  2"
+	line "(jeu Nintendo 64)."
+	
+	para ""
 	done
 
 _MainMenuTimeUnknownText::
@@ -665,63 +744,144 @@ _MainMenuTimeUnknownText::
 	done
 
 _DeleteSavedLoginPasswordText::
-	text_start
+	text "Effacer le Mot de"
+	line "Passe sauvegardé?"
 	done
 
 _DeletedTheLoginPasswordText::
-	text_start
+	text "Mot de Passe"
+	line "effacé."
 	done
 
 _MobilePickThreeMonForBattleText::
-	text_start
+	text "Choisir trois"
+	line "#mon pour le"
+	cont "combat."
 	prompt
 
 _MobileUseTheseThreeMonText::
-	text_start
+	text_ram wMobileParticipant1Nickname
+	text ","
+	line "@"
+	text_ram wMobileParticipant2Nickname
+	text " et"
+	cont "@"
+	text_ram wMobileParticipant3Nickname
+	text "."
+
+	para "Utiliser ces"
+	line "trois?"
 	done
 
 _MobileOnlyThreeMonMayEnterText::
-	text_start
+	text "Ne choisir que"
+	line "trois #mon."
 	prompt
 
 _MobileCardFolderIntro1Text::
-	text_start
+	text "le Fichier Carte"
+	line "contient votre"
+
+	para "Carte et celles"
+	line "de vos amis."
+
+	para "Une Carte contient"
+	line "des informations"
+
+	para "comme le nom, le"
+	line "numéro de mobile"
+	cont "et le profile"
+	cont "d'une personne."
+
+	para ""
 	done
 
 _MobileCardFolderIntro2Text::
-	text_start
+	text "Voici votre Carte."
+
+	para "Une fois votre"
+	line "numéro de mobile"
+
+	para "ajouté, vous pour-"
+	line "rez échanger votre"
+	cont "Carte avec vos"
+	cont "amis."
+
+	para ""
 	done
 
 _MobileCardFolderIntro3Text::
-	text_start
+	text "Si vous possedez"
+	line "la Carte d'un(e)"
+
+	para "ami(e), vous pou-"
+	line "vez les appeler"
+
+	para "via votre mobile"
+	line "depuis le premier"
+
+	para "étage de tous les"
+	line "Centres #mon."
+
+	para ""
 	done
 
 _MobileCardFolderIntro4Text::
-	text_start
+	text "Pour que votre"
+	line "collection de"
+	
+	para "Cartes soit en"
+	line "sécurité, il faut"
+	cont "un Mot de Passe."
+	
+	para ""
 	done
 
 _MobileCardFolderAskDeleteText::
-	text_start
+	text "Le Fichier Carte,"
+	line "une fois jeté, ne"
+	
+	para "pourra pas être"
+	line "récupéré. Cela"
+	cont "inclut le Fichier,"
+	
+	para "les Cartes qu'il"
+	line "contient, et son"
+	cont "Mot de Passe."
 	done
 
 _MobileCardFolderDeleteAreYouSureText::
-	text_start
+	text "Etes vous sûrs que"
+	line "vous voulez le"
+	
+	para "supprimer?"
 	done
 
 _MobileCardFolderDeletedText::
-	text_start
+	text "Le Fichier Carte"
+	line "a bien été jeté."
+	
+	para ""
 	done
 
 _MobileCardFolderAskOpenOldText::
-	text_start
+	text "Le Fichier Carte"
+	line "de votre dernière"
+	cont "aventure existe"
+	cont "toujours."
+
+	para "Souhaitez-vous"
+	line "l'ouvrir?"
 	done
 
 _MobileCardFolderAskDeleteOldText::
-	text_start
+	text "Jeter l'ancien"
+	line "Fichier Carte?"
 	done
 
 _MobileCardFolderFinishRegisteringCardsText::
-	text_start
+	text "Finir d'enregistrer"
+	line "vos Cartes?"
 	done
 
 _PhoneWrongNumberText::
@@ -757,7 +917,7 @@ _SpaceSpaceColonText:: ; unreferenced
 
 _PasswordAskResetText::
 	text "Mot de passe OK."
-	line "Choisir CONTINUER"
+	line "Choisir Continuer"
 	cont "& réinitialiser"
 	cont "les paramètres."
 	prompt
@@ -867,12 +1027,12 @@ _MoveCantForgetHMText::
 
 _CardFlipPlayWithThreeCoinsText::
 	text "Jouer avec 3"
-	line "jetons?"
+	line "Jetons?"
 	done
 
 _CardFlipNotEnoughCoinsText::
 	text "Pas assez de"
-	line "jetons."
+	line "Jetons."
 	prompt
 
 _CardFlipChooseACardText::
@@ -978,16 +1138,16 @@ _BattleTowerReturnWhenReadyText::
 
 _NeedAtLeastThreeMonText::
 	text "Il vous faut au"
-	line "moins 3 #MON."
+	line "moins 3 #mon."
 	prompt
 
 _EggDoesNotQualifyText::
-	text "Un OEUF ne peut"
+	text "Un Oeuf ne peut"
 	line "être inscrit."
 	prompt
 
 _OnlyThreeMonMayBeEnteredText::
-	text "Seuls 3 #MON"
+	text "Seuls 3 #mon"
 	line "peuvent être"
 	cont "enregistrés."
 
@@ -997,7 +1157,7 @@ _OnlyThreeMonMayBeEnteredText::
 _TheMonMustAllBeDifferentKindsText::
 	text "Les @"
 	text_ram wStringBuffer2
-	text " #MON"
+	text " #mon"
 	line "doivent être de"
 	cont "types différents."
 
@@ -1007,7 +1167,7 @@ _TheMonMustAllBeDifferentKindsText::
 _TheMonMustNotHoldTheSameItemsText::
 	text "Les @"
 	text_ram wStringBuffer2
-	text " #MON"
+	text " #mon"
 	line "ne doivent pas"
 	cont "tenir les mêmes"
 	cont "objets."
@@ -1017,24 +1177,24 @@ _TheMonMustNotHoldTheSameItemsText::
 
 _YouCantTakeAnEggText::
 	text "On ne peut pas"
-	line "prendre d'OEUF!"
+	line "prendre d'Oeuf!"
 	prompt
 
 _BallDodgedText::
 	text "Il a évité la"
 	line "BALL!"
 
-	para "Ce #MON ne se"
+	para "Ce #mon ne se"
 	line "laisse pas faire!"
 	prompt
 
 _BallMissedText::
 	text "Vous manquez le"
-	line "#MON!"
+	line "#mon!"
 	prompt
 
 _BallBrokeFreeText::
-	text "Oh non! Le #MON"
+	text "Oh non! Le #mon"
 	line "s'est libéré!"
 	prompt
 
@@ -1072,7 +1232,7 @@ _WaitButtonText::
 _BallSentToPCText::
 	text_ram wMonOrItemNameBuffer
 	text " est en-"
-	line "voyé au PC de LEO."
+	line "voyé au PC de Léo."
 	prompt
 
 _NewDexDataText::
@@ -1080,7 +1240,7 @@ _NewDexDataText::
 	line "@"
 	text_ram wEnemyMonNickname
 	text " est"
-	cont "ajouté au #DEX.@"
+	cont "ajouté au #dex.@"
 	sound_slot_machine_start
 	text_promptbutton
 	text_end
@@ -1104,32 +1264,32 @@ _ItemStatRoseText::
 
 _ItemCantUseOnMonText::
 	text "Inutilisable sur"
-	line "ce #MON."
+	line "ce #mon."
 	prompt
 
 _RepelUsedEarlierIsStillInEffectText::
-	text "Le REPOUSSE utili-"
+	text "Le Repousse utili-"
 	line "sé auparavant est"
 	cont "toujours effectif."
 	prompt
 
 _PlayedFluteText::
 	text "Vous jouez de la"
-	line "#FLUTE."
+	line "#Flûte."
 
 	para "Ouais..."
 	line "Super musique!"
 	prompt
 
 _FluteWakeUpText::
-	text "Tous les #MON"
-	line "endormis se"
-	cont "réveillent."
+	text "Tous les #mon"
+	line "Endormis se"
+	cont "Réveillent."
 	prompt
 
 Text_PlayedPokeFlute::
 	text "<PLAYER> joue de la"
-	line "#FLUTE.@"
+	line "#Flûte.@"
 	text_promptbutton
 	text_end
 
@@ -1197,11 +1357,11 @@ _ItemLooksBitterText::
 
 _ItemCantUseOnEggText::
 	text "C'est inutilisable"
-	line "sur un OEUF."
+	line "sur un Oeuf."
 	prompt
 
 _ItemOakWarningText::
-	text "CHEN: <PLAYER>!"
+	text "Chen: <PLAYER>!"
 	line "Ce n'est pas le"
 	cont "moment d'utiliser"
 	cont "ce truc!"
@@ -1240,7 +1400,7 @@ _ItemCantGetOnText::
 	prompt
 
 _BallBoxFullText::
-	text "La BOITE #MON"
+	text "La Boîte #mon"
 	line "est pleine. C'est"
 	cont "inutilisable pour"
 	cont "l'instant."
@@ -1277,7 +1437,7 @@ _KnowsMoveText::
 	prompt
 
 _MoveKnowsOneText::
-	text "Ce #MON ne"
+	text "Ce #mon ne"
 	line "connaît qu'une"
 	cont "seule capacité."
 	done
@@ -1290,12 +1450,12 @@ _AskDeleteMoveText::
 	done
 
 _DeleterForgotMoveText::
-	text "Le #MON a ou-"
+	text "Le #mon a ou-"
 	line "blié la capacité!"
 	done
 
 _DeleterEggText::
-	text "Un OEUF n'a pas de"
+	text "Un Oeuf n'a pas de"
 	line "capacité!"
 	done
 
@@ -1311,21 +1471,21 @@ _DeleterAskWhichMoveText::
 
 _DeleterIntroText::
 	text "Et oui! Moi j'suis"
-	line "le TYPE QUI EFFACE"
-	cont "LES CAPACITES!!!"
+	line "le Type qui Efface"
+	cont "les Capacités!!!"
 
 	para "Je peux persuader"
-	line "les #MON"
+	line "les #mon"
 	cont "d'oublier leurs"
 	cont "capacités."
 
 	para "Dois-je m'occuper"
 	line "de l'un de tes"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 _DeleterAskWhichMonText::
-	text "Quel #MON?"
+	text "Quel #mon?"
 	prompt
 
 _DSTIsThatOKText::
@@ -1372,6 +1532,6 @@ _TimesetAskAdjustDSTText::
 _MomLostGearBookletText::
 	text "J'ai perdu la"
 	line "notice du"
-	cont "#MATOS."
+	cont "#matos."
 	cont "Reviens plus tard."
 	prompt

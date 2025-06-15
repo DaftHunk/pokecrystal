@@ -10,8 +10,8 @@ Route5UndergroundPathEntranceTeacherScript:
 	jumptextfaceplayer Route5UndergroundPathEntranceTeacherText
 
 Route5UndergroundPathEntranceTeacherText:
-	text "Les villes de JOH-"
-	line "TO sont des tré-"
+	text "Les villes de Joh-"
+	line "to sont des tré-"
 
 	para "sors historiques."
 	line "Je veux les voir!"

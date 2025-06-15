@@ -54,7 +54,7 @@ PokefanmCarterSeenText:
 	text "J'ai eu du mal à"
 	line "attraper mes #-"
 
-	para "MON rares et super"
+	para "mon rares et super"
 	line "jolis."
 	done
 
@@ -63,8 +63,8 @@ PokefanmCarterBeatenText:
 	done
 
 PokefanmCarterAfterBattleText:
-	text "CARAPUCE, SALAME-"
-	line "CHE et BULBIZARRE:"
+	text "Carapuce, Salamè-"
+	line "che et Bulbizarre:"
 
 	para "c'est une équipe"
 	line "diversifiée."
@@ -73,7 +73,7 @@ PokefanmCarterAfterBattleText:
 BirdKeeperRoySeenText:
 	text "Je rêve de voler"
 	line "avec mes amis les"
-	cont "#MON oiseaux."
+	cont "#mon oiseaux."
 	done
 
 BirdKeeperRoyBeatenText:
@@ -82,17 +82,17 @@ BirdKeeperRoyBeatenText:
 	done
 
 BirdKeeperRoyAfterBattleText:
-	text "Tu as des #MON"
+	text "Tu as des #mon"
 	line "qui ont appris la"
 
-	para "CS VOL, non? Tu as"
+	para "CS Vol, non? Tu as"
 	line "trop de chance."
 	done
 
 PokefanmTrevorSeenText:
 	text "Le savais-tu?"
 
-	para "Les #MON sont"
+	para "Les #mon sont"
 	line "plus amicaux s'ils"
 
 	para "sont entraînés"
@@ -102,7 +102,7 @@ PokefanmTrevorSeenText:
 
 PokefanmTrevorBeatenText:
 	text "Où ai-je rencontré"
-	line "ce PSYKOKWAK?"
+	line "ce Psykokwak?"
 	done
 
 PokefanmTrevorAfterBattleText:
@@ -110,7 +110,7 @@ PokefanmTrevorAfterBattleText:
 	line "de savoir où l'on"
 
 	para "a trouvé nos"
-	line "#MON?"
+	line "#mon?"
 	done
 
 Route14_MapEvents:

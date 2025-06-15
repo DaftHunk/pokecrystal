@@ -187,7 +187,7 @@ NewBarkTown_RivalReturnsToTheShadowsMovement:
 	step_end
 
 Text_GearIsImpressive:
-	text "Oh! Ton #MATOS"
+	text "Oh! Ton #matos"
 	line "est balèze!"
 
 	para "C'est ta mère qui"
@@ -206,9 +206,9 @@ Text_WhatDoYouThinkYoureDoing:
 Text_ItsDangerousToGoAlone:
 	text "C'est dangereux de"
 	line "sortir sans un"
-	cont "#MON!"
+	cont "#mon!"
 
-	para "Des #MON sauva-"
+	para "Des #mon sauva-"
 	line "ges sortent des"
 
 	para "herbes sur la rou-"
@@ -217,7 +217,7 @@ Text_ItsDangerousToGoAlone:
 	done
 
 Text_YourMonIsAdorable:
-	text "Oh! Ton #MON"
+	text "Oh! Ton #mon"
 	line "est adorable!"
 	cont "Je veux le même!"
 	done
@@ -234,7 +234,7 @@ Text_TellMomIfLeaving:
 Text_CallMomOnGear:
 	text "Appelle ta maman"
 	line "avec ton #-"
-	cont "MATOS et donne-lui"
+	cont "matos et donne-lui"
 
 	para "de tes nouvelles."
 	done
@@ -243,17 +243,17 @@ Text_ElmDiscoveredNewMon:
 	text "Yo, <PLAYER>!"
 
 	para "Il paraît que le"
-	line "PROF.ORME a décou-"
+	line "Prof.Orme a décou-"
 	cont "vert de nouveaux"
-	cont "#MON."
+	cont "#mon."
 	done
 
 NewBarkTownRivalText1:
 	text "................"
 
 	para "Voici donc le cé-"
-	line "lèbre LABO #MON"
-	cont "du PROF.ORME..."
+	line "lèbre Labo #mon"
+	cont "du Prof.Orme..."
 	done
 
 NewBarkTownRivalText2:
@@ -262,7 +262,7 @@ NewBarkTownRivalText2:
 	done
 
 NewBarkTownSignText:
-	text "BOURG GEON"
+	text "Bourg Geon"
 
 	para "La ville où"
 	line "souffle le vent"
@@ -270,17 +270,17 @@ NewBarkTownSignText:
 	done
 
 NewBarkTownPlayersHouseSignText:
-	text "MAISON DE <PLAYER>"
+	text "Maison de <PLAYER>"
 	done
 
 NewBarkTownElmsLabSignText:
-	text "LABO #MON du"
-	line "PROF.ORME"
+	text "Labo #mon du"
+	line "Prof.Orme"
 	done
 
 NewBarkTownElmsHouseSignText:
-	text "MAISON DU"
-	line "PROF.ORME"
+	text "Maison du"
+	line "Prof.Orme"
 	done
 
 NewBarkTown_MapEvents:

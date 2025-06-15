@@ -26,28 +26,36 @@ CeruleanPokecenter1FSuperNerdText:
 	text "Pour les combats,"
 	line "je préfère utili-"
 
-	para "ser des #MON"
+	para "ser des #mon"
 	line "que j'ai entraînés"
 
 	para "plutôt que des"
-	line "#MON plus forts"
+	line "#mon plus forts"
 	cont "que je viens"
 	cont "d'attraper."
 	done
 
 CeruleanPokecenter1FSuperNerdText_Mobile:
-	text_start
+	text "Do you battle by"
+	line "mobile phone?"
+
+	para "If time runs out"
+	line "during a battle,"
+
+	para "waiting to see who"
+	line "won is really"
+	cont "nerve wracking."
 	done
 
 CeruleanPokecenter1FGymGuideText:
-	text "Le TRAIN MAGNET"
+	text "Le Train Magnet"
 	line "fait du 550!"
 
-	para "Il va de KANTO"
-	line "à JOHTO en un"
+	para "Il va de Kanto"
+	line "à Johto en un"
 	cont "rien de temps."
 
-	para "Aller à JOHTO est"
+	para "Aller à Johto est"
 	line "alors très facile."
 	done
 

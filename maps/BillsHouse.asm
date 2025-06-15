@@ -210,11 +210,11 @@ BillsGrandpa:
 	end
 
 BillsGrandpaIntroText:
-	text "Tu connais LEO?"
+	text "Tu connais Léo?"
 	line "C'est mon"
 	cont "petit-fils."
 
-	para "Il est à JOHTO."
+	para "Il est à Johto."
 	line "Il s'occupe de PC."
 
 	para "Alors moi je m'oc-"
@@ -223,7 +223,7 @@ BillsGrandpaIntroText:
 
 BillsGrandpaAskToSeeMonText:
 	text "Si tu as ce #-"
-	line "MON, peux-tu me"
+	line "mon, peux-tu me"
 	cont "le montrer?"
 	done
 
@@ -262,7 +262,7 @@ BillsGrandpaComeAgainText:
 BillsGrandpaShownAllThePokemonText:
 	text "Merci de me mon-"
 	line "trer autant de"
-	cont "#MON tout mimi."
+	cont "#mon tout mimi."
 
 	para "C'est vraiment"
 	line "très amusant. Ma"
@@ -275,15 +275,15 @@ BillsGrandpaWrongPokemonText:
 	text "Hmm?"
 
 	para "Ce n'est pas le"
-	line "#MON dont on"
+	line "#mon dont on"
 	cont "m'a parlé."
 	done
 
 BillsGrandpaLickitungText:
-	text "LEO mon petit-fils"
+	text "Léo mon petit-fils"
 	line "m'a parlé d'un"
 
-	para "#MON avec une"
+	para "#mon avec une"
 	line "longue langue."
 	done
 
@@ -291,14 +291,14 @@ BillsGrandpaOddishText:
 	text "Mon petit-fils m'a"
 	line "parlé d'un #-"
 
-	para "MON vert et rond"
+	para "mon vert et rond"
 	line "avec des feuilles"
 	cont "sur sa tête."
 	done
 
 BillsGrandpaStaryuText:
 	text "Connais-tu un"
-	line "#MON marin avec"
+	line "#mon marin avec"
 
 	para "une sphère rouge"
 	line "dans le corps?"
@@ -315,32 +315,32 @@ BillsGrandpaStaryuText:
 	done
 
 BillsGrandpaGrowlitheText:
-	text "LEO m'a parlé d'un"
-	line "#MON très loyal"
+	text "Léo m'a parlé d'un"
+	line "#mon très loyal"
 
 	para "envers son dres-"
 	line "seur."
 
-	para "On dit qu'il HURLE"
+	para "On dit qu'il hurle"
 	line "très bien."
 	done
 
 BillsGrandpaVulpixText:
 	text "On m'a parlé d'un"
-	line "joli #MON à"
+	line "joli #mon à"
 	cont "six queues."
 
 	para "J'aimerais tant"
 	line "caresser un #-"
-	cont "MON comme ça."
+	cont "mon comme ça."
 	done
 
 BillsGrandpaPichuText:
 	text "Tu connais ce"
-	line "#MON super"
+	line "#mon super"
 	cont "populaire?"
 
-	para "Ce #MON qui"
+	para "Ce #mon qui"
 	line "a un corps jaune"
 	cont "et des joues"
 	cont "rouges..."

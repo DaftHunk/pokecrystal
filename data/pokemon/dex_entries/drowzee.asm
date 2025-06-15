@@ -1,4 +1,4 @@
-	db "HYPNOSE@" ; species name
+	db "Hypnose@" ; species name
 	db 10 ; height
 	dw 324 ; weight
 

@@ -59,7 +59,7 @@ ParryGreetNiteText:
 	done
 
 ParryGenericText:
-	text "Tes #MON"
+	text "Tes #mon"
 	line "ont la pêche?"
 
 	para "Mon @"

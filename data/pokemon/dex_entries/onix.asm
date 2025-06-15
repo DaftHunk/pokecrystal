@@ -1,4 +1,4 @@
-	db "SERPENROC@" ; species name
+	db "Serpenroc@" ; species name
 	db 88 ; height
 	dw 2100 ; weight
 

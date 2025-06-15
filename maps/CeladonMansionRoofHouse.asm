@@ -56,7 +56,7 @@ CeladonMansionRoofHousePharmacistStoryText:
 	line "un petit garçon"
 
 	para "qui reçut une nou-"
-	line "velle BICYCLETTE."
+	line "velle Bicyclette."
 
 	para "Il voulut l'essa-"
 	line "yer tout de suite."
@@ -100,7 +100,7 @@ CeladonMansionRoofHousePharmacistStoryText:
 
 	para "Il montait en fait"
 	line "la pente de la"
-	cont "PISTE CYCLABLE!"
+	cont "Piste Cyclable!"
 
 	para "..."
 	line "Super histoire!"
@@ -113,7 +113,7 @@ CeladonMansionRoofHousePharmacistStoryText:
 	done
 
 CeladonMansionRoofHousePharmacistCurseText:
-	text "CT03: MALEDICTION."
+	text "CT03: Malédiction."
 
 	para "Une capacité"
 	line "terrifiante qui"

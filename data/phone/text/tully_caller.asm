@@ -16,7 +16,7 @@ TullyDefeatedMonText:
 	text "!"
 
 	para "Il était"
-	line "ENORME!"
+	line "Enorme!"
 
 	para "Par téléphone,"
 	line "c'est dur à"
@@ -30,7 +30,7 @@ TullyLostAMonText:
 	text "!"
 
 	para "Il était"
-	line "ENORME!"
+	line "Enorme!"
 
 	para "Par téléphone,"
 	line "c'est dur à"
@@ -79,7 +79,7 @@ TullyNoItemText:
 	done
 
 TullyForwardText:
-	text "Ici AMEDEE..."
+	text "Ici Amédée..."
 
 	para "<PLAY_G>? Quoi?"
 	line "T'es où?"

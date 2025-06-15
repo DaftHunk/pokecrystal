@@ -64,7 +64,7 @@ TullyGiftText:
 	done
 
 TullyPackFullText:
-	text "Ton SAC est plein?"
+	text "Ton Sac est plein?"
 
 	para "Reviens plus tard,"
 	line "alors."

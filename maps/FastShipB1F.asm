@@ -235,7 +235,7 @@ FastShipB1FOnDutySailorText:
 FastShipB1FOnDutySailorRefusedText:
 	text "Oh, ben..."
 
-	para "Le CAPITAINE va"
+	para "Le Capitaine va"
 	line "être furax..."
 	done
 
@@ -262,7 +262,7 @@ FastShipB1FOnDutySailorDirectionsText:
 	para "Les escaliers au"
 	line "bout mènent à la"
 	cont "cabine du"
-	cont "CAPITAINE."
+	cont "Capitaine."
 	done
 
 SailorJeffSeenText:
@@ -291,12 +291,12 @@ PicnickerDebraBeatenText:
 	done
 
 PicnickerDebraAfterBattleText:
-	text "SAFRANIA, CELADO-"
-	line "POLE... On dit"
+	text "Safrania, Célado-"
+	line "pole... On dit"
 
 	para "qu'il y a plein"
 	line "de grandes villes"
-	cont "à KANTO."
+	cont "à Kanto."
 	done
 
 JugglerFritzSeenText:
@@ -313,8 +313,8 @@ JugglerFritzAfterBattleText:
 	text "La mer c'est fini"
 	line "pour moi. Je vais"
 
-	para "prendre le TRAIN"
-	line "MAGNET la prochai-"
+	para "prendre le Train"
+	line "Magnet la prochai-"
 	cont "ne fois."
 	done
 
@@ -330,10 +330,10 @@ SailorGarrettBeatenText:
 
 SailorGarrettAfterBattleText:
 	text "Les passagers"
-	line "sont de CARMIN"
+	line "sont de Carmin"
 
-	para "SUR MER et aussi"
-	line "d'OLIVILLE."
+	para "sur Mer et aussi"
+	line "d'Oliville."
 	done
 
 FisherJonahSeenText:
@@ -352,7 +352,7 @@ FisherJonahBeatenText:
 
 FisherJonahAfterBattleText:
 	text "Je vais pêcher au"
-	line "port de CARMIN."
+	line "port de Carmin."
 	done
 
 BlackbeltWaiSeenText:
@@ -368,8 +368,8 @@ BlackbeltWaiBeatenText:
 
 BlackbeltWaiAfterBattleText:
 	text "Je n'ai pas trouvé"
-	line "le ROI du KARATE à"
-	cont "JOHTO."
+	line "le Roi du Karaté à"
+	cont "Johto."
 
 	para "On dit qu'il s'en-"
 	line "traîne dans une"
@@ -380,7 +380,7 @@ SailorKennethSeenText:
 	text "J'suis un marin!"
 
 	para "J'entraîne aussi"
-	line "des #MON pour"
+	line "des #mon pour"
 	cont "devenir un boss!"
 	done
 
@@ -389,11 +389,11 @@ SailorKennethBeatenText:
 	done
 
 SailorKennethAfterBattleText:
-	text "Tant de BADGES!"
+	text "Tant de Badges!"
 	line "Tu as alors battu"
 
-	para "les CHAMPIONS des"
-	line "ARENES..."
+	para "les Champions des"
+	line "Arènes..."
 
 	para "Normal que tu sois"
 	line "balèze!"
@@ -410,13 +410,13 @@ TeacherShirleyBeatenText:
 
 TeacherShirleyAfterBattleText:
 	text "On va tous aux"
-	line "RUINES près de"
-	cont "MAUVILLE."
+	line "Ruines près de"
+	cont "Mauville."
 	done
 
 SchoolboyNateSeenText:
 	text "Tu connais les"
-	line "RUINES d'ALPHA?"
+	line "Ruines d'Alpha?"
 	done
 
 SchoolboyNateBeatenText:
@@ -426,13 +426,13 @@ SchoolboyNateBeatenText:
 SchoolboyNateAfterBattleText:
 	text "Les radios captent"
 	line "d'étranges signaux"
-	cont "dans les RUINES."
+	cont "dans les Ruines."
 	done
 
 SchoolboyRickySeenText:
 	text "Il y a d'étranges"
 	line "panneaux dans les"
-	cont "RUINES d'ALPHA."
+	cont "Ruines d'Alpha."
 	done
 
 SchoolboyRickyBeatenText:

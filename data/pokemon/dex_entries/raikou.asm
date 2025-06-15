@@ -1,9 +1,9 @@
-	db "FOUDRE@" ; species name
+	db "Foudre@" ; species name
 	db 19 ; height
 	dw 1780 ; weight
 
 	db   "Ce terrible #-"
-	next "MON emmagasine de"
+	next "mon emmagasine de"
 	next "l'énergie puis"
 
 	page "court en lançant"

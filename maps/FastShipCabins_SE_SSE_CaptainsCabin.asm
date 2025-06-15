@@ -249,7 +249,7 @@ SSAquaCaptainExhaustingText:
 
 SSAquaCaptainHowDoYouLikeText:
 	text "Tu aimes bien"
-	line "l'AQUARIA?"
+	line "l'Aquaria?"
 
 	para "Il vole sur les"
 	line "vagues..."
@@ -290,7 +290,7 @@ SSAquaGrandpaTravellingText:
 	done
 
 SSAquaGranddaughterCaptainPlayWithMeText:
-	text "Hé CAPITAINE! Tu"
+	text "Hé Capitaine! Tu"
 	line "joues avec moi?"
 
 	para "Vazy steuplait!"
@@ -316,7 +316,7 @@ SSAquaGranddaughterWasPlayingMText:
 	text "Me voilà pépé!"
 	line "Je jouais avec le"
 
-	para "CAPITAINE et ce"
+	para "Capitaine et ce"
 	line "garçon!"
 	done
 
@@ -324,7 +324,7 @@ SSAquaGranddaughterWasPlayingFText:
 	text "Me voilà pépé!"
 	line "Je jouais avec le"
 
-	para "CAPITAINE et cette"
+	para "Capitaine et cette"
 	line "fille!"
 	done
 
@@ -395,31 +395,31 @@ PsychicRodneyBeatenText:
 PsychicRodneyAfterBattleText:
 	text "Je sais: tu peux"
 	line "écouter la radio"
-	cont "de JOHTO sur le"
-	cont "BATEAU EXPRESS."
+	cont "de Johto sur le"
+	cont "Bateau Express."
 	done
 
 PokefanmJeremySeenText:
 	text "Qu'en penses-tu?"
-	line "Mes #MON sont"
+	line "Mes #mon sont"
 	cont "beaux, non?"
 	done
 
 PokefanmJeremyBeatenText:
 	text "Oh, non! Mes beaux"
-	line "#MON!"
+	line "#mon!"
 	done
 
 PokefanmJeremyAfterBattleText:
 	text "Je dois aller au"
-	line "SALON #MON et"
+	line "Salon #mon et"
 	cont "les toiletter!"
 	done
 
 PokefanfGeorgiaSeenText:
 	text "Je vais faire mes"
-	line "courses au GRAND"
-	cont "MAGASIN et puis..."
+	line "courses au Grand"
+	cont "Magasin et puis..."
 	done
 
 PokefanfGeorgiaBeatenText:
@@ -430,13 +430,13 @@ PokefanfGeorgiaBeatenText:
 PokefanfGeorgiaAfterBattleText:
 	text "Ah oui! Je dois"
 	line "aller chercher mon"
-	cont "#MON à la"
-	cont "PENSION!"
+	cont "#mon à la"
+	cont "Pension!"
 	done
 
 SupernerdShawnSeenText:
 	text "Quels types de"
-	line "# BALLS as-tu"
+	line "# Balls as-tu"
 	cont "sur toi?"
 	done
 
@@ -447,15 +447,15 @@ SupernerdShawnBeatenText:
 
 SupernerdShawnAfterBattleText:
 	text "Il faut utiliser"
-	line "les bonnes BALLS"
+	line "les bonnes Balls"
 	cont "en fonction de la"
 	cont "situation."
 	done
 
 SSAquaHasArrivedVermilionText:
-	text "Le BATEAU EXPRESS"
-	line "AQUARIA est arrivé"
-	cont "à CARMIN SUR MER."
+	text "Le Bateau Express"
+	line "Aquaria est arrivé"
+	cont "à Carmin sur Mer."
 	done
 
 FastShipCabins_SE_SSE_CaptainsCabin_MapEvents:

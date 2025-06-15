@@ -200,7 +200,7 @@ CopycatSpinAroundMovementData:
 
 CopycatText_Male_1:
 	text "<PLAYER>: Salut! Tu"
-	line "aimes les #MON?"
+	line "aimes les #mon?"
 
 	para "<PLAYER>: Non. Toi."
 	line "Tu les aimes?"
@@ -210,7 +210,7 @@ CopycatText_Male_1:
 	done
 
 CopycatText_QuickMimicking:
-	text "COPIEUSE: Hmm?"
+	text "Copieuse: Hmm?"
 	line "Arrêter de copier?"
 
 	para "Mais... C'est"
@@ -222,22 +222,22 @@ CopycatText_Male_2:
 	line "On dit que tu as"
 
 	para "perdu ta #"
-	line "POUPEE préférée."
+	line "Poupée préférée."
 
 	para "<PLAYER>: Si je la"
 	line "trouves, tu me"
-	cont "donnes un PASSE?"
+	cont "donnes un Passe?"
 
 	para "<PLAYER>: Je vais"
 	line "la chercher."
 
 	para "Tu l'as perdue en"
-	line "allant à CARMIN"
-	cont "SUR MER?"
+	line "allant à Carmin"
+	cont "sur Mer?"
 	done
 
 CopycatText_Worried:
-	text "COPIEUSE: Pardon?"
+	text "Copieuse: Pardon?"
 
 	para "Tu ne veux pas"
 	line "que je te dise"
@@ -249,9 +249,9 @@ CopycatText_Worried:
 	done
 
 CopycatText_GiveDoll:
-	text "COPIEUSE: Hé!"
+	text "Copieuse: Hé!"
 	line "C'est ma #"
-	cont "POUPEE MELOFEE!"
+	cont "Poupée Mélofée!"
 
 	para "Elle est un peu"
 	line "déchirée près de"
@@ -262,27 +262,27 @@ CopycatText_GiveDoll:
 
 CopycatText_GivePass:
 	text "OK. Voilà le"
-	line "PASSE du TRAIN"
+	line "Passe du Train"
 	cont "comme promis!"
 	done
 
 CopycatText_ExplainPass:
-	text "COPIEUSE: C'est le"
-	line "PASSE pour le"
-	cont "TRAIN MAGNET."
+	text "Copieuse: C'est le"
+	line "Passe pour le"
+	cont "Train Magnet."
 
 	para "On me l'a donné"
 	line "quand ils ont tout"
 
 	para "cassé ma maison"
 	line "pour construire la"
-	cont "STATION."
+	cont "Station."
 	done
 
 CopycatText_Male_3:
 	text "<PLAYER>: Salut!"
 	line "Merci pour le"
-	cont "PASSE!"
+	cont "Passe!"
 
 	para "<PLAYER>: Pardon?"
 
@@ -292,14 +292,14 @@ CopycatText_Male_3:
 	done
 
 CopycatText_ItsAScream:
-	text "COPIEUSE: Copier"
+	text "Copieuse: Copier"
 	line "c'est mortel!"
 	done
 
 CopycatText_Female_1:
 	text "<PLAYER>: Salut!"
 	line "Tu aimes les"
-	cont "#MON, non?"
+	cont "#mon, non?"
 
 	para "<PLAYER>: Non, pas"
 	line "moi. Toi."
@@ -313,23 +313,23 @@ CopycatText_Female_2:
 	line "On dit que tu as"
 
 	para "perdu ta #"
-	line "POUPEE préférée."
+	line "Poupée préférée."
 
 	para "<PLAYER>: Si je la"
 	line "trouve, tu me"
-	cont "donnes un PASSE?"
+	cont "donnes un Passe?"
 
 	para "<PLAYER>: Je vais"
 	line "la chercher."
 
 	para "Tu l'as perdue en"
-	line "allant à CARMIN"
-	cont "SUR MER?"
+	line "allant à Carmin"
+	cont "sur Mer?"
 	done
 
 CopycatText_Female_3:
 	text "<PLAYER>: Merci"
-	line "pour le PASSE!"
+	line "pour le Passe!"
 
 	para "<PLAYER>: ...Quoi?"
 
@@ -341,7 +341,7 @@ CopycatText_Female_3:
 	done
 
 CopycatsDodrioText1:
-	text "DODRIO: Driii!"
+	text "Dudrio: Driii!"
 	done
 
 CopycatsDodrioText2:
@@ -353,7 +353,7 @@ CopycatsDodrioText2:
 	done
 
 CopycatsHouse2FDollText:
-	text "C'est un #MON"
+	text "C'est un #mon"
 	line "super rare! Hein?"
 
 	para "Une poupée..."

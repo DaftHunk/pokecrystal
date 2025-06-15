@@ -90,7 +90,7 @@ CherrygroveCityGuideGent:
 	end
 
 .mapcardname
-	db "CPN CARTE@"
+	db "Cpn.Carte@"
 
 .No:
 	writetext GuideGentNoText
@@ -353,11 +353,11 @@ GuideGentTourText1:
 	done
 
 GuideGentPokecenterText:
-	text "C'est un CENTRE"
-	line "#MON. On y"
+	text "C'est un Centre"
+	line "#mon. On y"
 
 	para "soigne les #-"
-	line "MON en moins de"
+	line "mon en moins de"
 	cont "temps qu'il n'en"
 	cont "faut pour le dire!"
 
@@ -370,33 +370,33 @@ GuideGentPokecenterText:
 	done
 
 GuideGentMartText:
-	text "C'est une BOUTIQUE"
-	line "#MON."
+	text "C'est une Boutique"
+	line "#mon."
 
 	para "On y vend des"
-	line "BALLS permettant"
+	line "Balls permettant"
 
 	para "de capturer les"
-	line "#MON et"
+	line "#mon et"
 	cont "plein d'autres"
 	cont "objets utiles."
 	done
 
 GuideGentRoute30Text:
-	text "La ROUTE 30 est"
+	text "La Route 30 est"
 	line "par-là."
 
 	para "Les dresseurs"
 	line "s'y affrontent"
 
-	para "avec leurs #MON"
+	para "avec leurs #mon"
 	line "favoris."
 	done
 
 GuideGentSeaText:
 	text "Voici la mer."
 
-	para "Certains #MON"
+	para "Certains #mon"
 	line "se trouvent"
 	cont "uniquement dans"
 	cont "l'eau."
@@ -414,17 +414,17 @@ GuideGentGiftText:
 	done
 
 GotMapCardText:
-	text "Le #MATOS de"
+	text "Le #matos de"
 	line "<PLAYER> contient"
 	cont "maintenant une"
-	cont "CARTE!"
+	cont "Carte!"
 	done
 
 GuideGentPokegearText:
-	text "Le #MATOS"
+	text "Le #matos"
 	line "est plus utile"
 	cont "lorsqu'on y ajou-"
-	cont "te des COUPONS."
+	cont "te des Coupons."
 
 	para "Je te souhaite"
 	line "bonne chance!"
@@ -441,8 +441,8 @@ GuideGentNoText:
 CherrygroveRivalText_Seen:
 	text "<……> <……> <……>"
 
-	para "Tu as un #MON"
-	line "du LABO."
+	para "Tu as un #mon"
+	line "du Labo."
 
 	para "Du gâchis, ouais!"
 	line "Une mauviette"
@@ -454,7 +454,7 @@ CherrygroveRivalText_Seen:
 	line "J't'aime pas."
 
 	para "Je vais te montrer"
-	line "le bon #MON"
+	line "le bon #mon"
 	cont "que j'ai moi!"
 	done
 
@@ -470,7 +470,7 @@ CherrygroveRivalText_YouLost:
 
 	para "Je serai le plus"
 	line "grand dresseur de"
-	cont "#MON du"
+	cont "#mon du"
 	cont "monde."
 	done
 
@@ -486,31 +486,31 @@ CherrygroveRivalText_YouWon:
 
 	para "Je serai le plus"
 	line "grand dresseur de"
-	cont "#MON du"
+	cont "#mon du"
 	cont "monde."
 	done
 
 CherrygroveTeacherText_NoMapCard:
 	text "As-tu parlé au"
 	line "vieil homme près"
-	cont "du CENTRE"
-	cont "#MON?"
+	cont "du Centre"
+	cont "#mon?"
 
 	para "Il déposera une"
-	line "CARTE de JOHTO"
+	line "Carte de Johto"
 	cont "dans ton"
-	cont "#MATOS."
+	cont "#matos."
 	done
 
 CherrygroveTeacherText_HaveMapCard:
 	text "C'est trop bien"
 	line "de se balader avec"
-	cont "ses #MON!"
+	cont "ses #mon!"
 	done
 
 CherrygroveYoungsterText_NoPokedex:
 	text "La maison de"
-	line "M.#MON est un"
+	line "M.#mon est un"
 	cont "peu plus loin."
 	done
 
@@ -520,23 +520,23 @@ CherrygroveYoungsterText_HavePokedex:
 	cont "dresseurs sur la"
 	cont "route."
 
-	para "Mes #MON ont"
+	para "Mes #mon ont"
 	line "perdu avec honneur"
 
 	para "mais bon, le"
 	line "résultat est là."
 	cont "Je dois aller vite"
 	cont "fait dans un"
-	cont "CENTRE #MON."
+	cont "Centre #mon."
 	done
 
 MysticWaterGuyTextBefore:
-	text "Le #MON que"
+	text "Le #mon que"
 	line "j'ai attrapé avait"
 	cont "un objet."
 
 	para "Je crois que c'est"
-	line "de l'EAU MYSTIQUE."
+	line "de l'Eau Mystique."
 
 	para "Je n'en ai pas"
 	line "besoin..."
@@ -549,14 +549,14 @@ MysticWaterGuyTextAfter:
 	done
 
 CherrygroveCitySignText:
-	text "VILLE GRIOTTE"
+	text "Ville Griotte"
 
 	para "La ville aux"
 	line "fleurs parfumées"
 	done
 
 GuideGentsHouseSignText:
-	text "MAISON DES GUIDES"
+	text "Maison des Guides"
 	done
 
 CherrygroveCity_MapEvents:

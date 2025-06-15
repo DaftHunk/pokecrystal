@@ -56,7 +56,7 @@ JoseGreetNiteText:
 	done
 
 JoseGenericText:
-	text "Tes #MON"
+	text "Tes #mon"
 	line "sont en forme?"
 
 	para "Mon @"

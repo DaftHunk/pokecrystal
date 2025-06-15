@@ -197,7 +197,7 @@ RocketText_TollFee:
 	line "bouchon!"
 
 	para "Le péage est de"
-	line "{d:ROUTE43GATE_TOLL}¥."
+	line "1000¥."
 	done
 
 RocketText_ThankYou:
@@ -216,8 +216,8 @@ RocketText_MakingABundle:
 	para "Tout le monde veut"
 	line "voir ce qu'il se"
 
-	para "passe au LAC"
-	line "COLERE."
+	para "passe au Lac"
+	line "Colère."
 	done
 
 OfficerText_FoundTM:

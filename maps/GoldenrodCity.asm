@@ -101,10 +101,10 @@ MoveTutorScript:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "LANCE-FLAMME@"
-	db "TONNERRE@"
-	db "LASER GLACE@"
-	db "RETOUR@"
+	db "Lance-Flamme@"
+	db "Tonnerre@"
+	db "Laser Glace@"
+	db "Retour@"
 
 .Refused:
 	writetext GoldenrodCityMoveTutorAwwButTheyreAmazingText
@@ -283,17 +283,17 @@ GoldenrodCityMoveTutorWalkAroundPlayerThenEnterGameCornerMovement:
 
 GoldenrodCityPokefanMText:
 	text "Ils ont construit"
-	line "une nouvelle TOUR"
+	line "une nouvelle Tour"
 
-	para "RADIO pour rempla-"
+	para "Radio pour rempla-"
 	line "cer l'ancienne."
 	done
 
 GoldenrodCityYoungster1Text:
 	text "Je sais qu'il y a"
-	line "un nouveau CYCLES"
+	line "un nouveau Cycles"
 
-	para "A GOGO, mais je ne"
+	para "A Gogo, mais je ne"
 	line "le trouve pas."
 	done
 
@@ -302,7 +302,7 @@ GoldenrodCityCooltrainerF1Text:
 	line "est habillé"
 
 	para "comme un membre de"
-	line "la TEAM ROCKET!"
+	line "la Team Rocket!"
 	cont "Quel bêta!"
 	done
 
@@ -310,13 +310,13 @@ GoldenrodCityCooltrainerF1Text_ClearedRadioTower:
 	text "Cet homme faisait"
 	line "vraiment partie de"
 
-	para "la TEAM ROCKET?"
+	para "la Team Rocket?"
 	line "J'y crois pas!"
 	done
 
 GoldenrodCityCooltrainerF2Text:
-	text "La TOUR RADIO de"
-	line "DOUBLONVILLE est"
+	text "La Tour Radio de"
+	line "Doublonville est"
 	cont "un point de"
 	cont "repère."
 
@@ -326,14 +326,14 @@ GoldenrodCityCooltrainerF2Text:
 	cont "moment."
 
 	para "Ils te modifieront"
-	line "ton #MATOS"
+	line "ton #matos"
 
 	para "pour t'en servir"
 	line "comme radio."
 	done
 
 GoldenrodCityCooltrainerF2Text_GotRadioCard:
-	text "Oh, ton #MATOS"
+	text "Oh, ton #matos"
 	line "fait radio!"
 	done
 
@@ -344,18 +344,18 @@ GoldenrodCityYoungster2Text:
 	line "pour avoir joué"
 
 	para "au sous-sol du"
-	line "CENTRE COMMERCIAL."
+	line "Centre Commercial."
 	done
 
 GoldenrodCityLassText:
 	text "L'homme de cette"
 	line "maison note les"
 	cont "noms de tes"
-	cont "#MON."
+	cont "#mon."
 
 	para "Il peut même"
 	line "renommer tes"
-	cont "#MON."
+	cont "#mon."
 	done
 
 GoldenrodCityGrampsText:
@@ -368,7 +368,7 @@ GoldenrodCityGrampsText:
 
 GoldenrodCityRocketScoutText1:
 	text "C'est donc ça la"
-	line "TOUR RADIO..."
+	line "Tour Radio..."
 	done
 
 GoldenrodCityRocketScoutText2:
@@ -382,15 +382,15 @@ GoldenrodCityRocket1Text:
 	done
 
 GoldenrodCityRocket2Text:
-	text "Envahir la TOUR"
-	line "RADIO..."
+	text "Envahir la Tour"
+	line "Radio..."
 
 	para "Quoi? Mais c'est"
 	line "pas tes oignons!"
 	done
 
 GoldenrodCityRocket3Text:
-	text "Les #MON? Ils"
+	text "Les #mon? Ils"
 	line "ne servent qu'à"
 
 	para "amasser des tonnes"
@@ -415,39 +415,39 @@ GoldenrodCityRocket5Text:
 GoldenrodCityRocket6Text:
 	text "Viens te frotter à"
 	line "la terreur de la"
-	cont "TEAM ROCKET!"
+	cont "Team Rocket!"
 	done
 
 GoldenrodCityStationSignText:
-	text "STATION de"
-	line "DOUBLONVILLE"
+	text "Station de"
+	line "Doublonville"
 	done
 
 GoldenrodCityRadioTowerSignText:
-	text "TOUR RADIO de"
-	line "DOUBLONVILLE"
+	text "Tour Radio de"
+	line "Doublonville"
 	done
 
 GoldenrodDeptStoreSignText:
 	text "Marchandises de"
 	line "premier choix pour"
-	cont "#MON!"
+	cont "#mon!"
 
-	para "CENTRE COMMERCIAL"
-	line "de DOUBLONVILLE"
+	para "Centre Commercial"
+	line "de Doublonville"
 	done
 
 GoldenrodGymSignText:
-	text "CHAMPION d'ARENE"
-	line "de DOUBLONVILLE:"
-	cont "BLANCHE"
+	text "Champion d'Arène"
+	line "de Doublonville:"
+	cont "Blanche"
 
 	para "La fille qui est"
 	line "trop, trop bien!"
 	done
 
 GoldenrodCitySignText:
-	text "DOUBLONVILLE"
+	text "Doublonville"
 
 	para "La ville festive"
 	line "qui fleure bon la"
@@ -458,46 +458,47 @@ GoldenrodCityBikeShopSignText:
 	text "Dans la vie pour"
 	line "avancer faut"
 	cont "pédaler!"
-	cont "CYCLES A GOGO"
+	cont "Cycles à Gogo"
 	done
 
 GoldenrodCityGameCornerSignText:
 	text "Votre espace de"
 	line "jeux!"
 
-	para "CASINO de"
-	line "DOUBLONVILLE"
+	para "Casino de"
+	line "Doublonville"
 	done
 
 GoldenrodCityNameRaterSignText:
-	text "LE NOTEUR DE NOM"
+	text "Le Noteur de Nom"
 
 	para "Evaluez le surnom"
-	line "de votre #MON"
+	line "de votre #mon"
 	done
 
 GoldenrodCityUndergroundSignNorthText:
-	text "ENTREE du"
-	line "SOUTERRAIN"
+	text "Entrée du"
+	line "Souterrain"
 	done
 
 GoldenrodCityUndergroundSignSouthText:
-	text "ENTREE du"
-	line "SOUTERRAIN"
+	text "Entrée du"
+	line "Souterrain"
 	done
 
 GoldenrodCityPokeComCenterSignText: ; unreferenced
-	text_start
-	done
+    text "Astuces Mobile!"
+    line "Centre #com"
+    done
 
 GoldenrodCityFlowerShopSignText:
 	text "Une fleur, la vie!"
-	line "FLEURISTE"
+	line "Fleuriste"
 	done
 
 GoldenrodCityMoveTutorAskTeachAMoveText:
 	text "Je peux apprendre"
-	line "à tes #MON de"
+	line "à tes #mon de"
 	cont "super capacités."
 
 	para "Ca t'intéresse?"
@@ -505,7 +506,7 @@ GoldenrodCityMoveTutorAskTeachAMoveText:
 
 GoldenrodCityMoveTutorAsk4000CoinsOkayText:
 	text "Ca te coûtera"
-	line "4000 jetons. OK?"
+	line "4000 Jetons. OK?"
 	done
 
 GoldenrodCityMoveTutorAwwButTheyreAmazingText:
@@ -547,7 +548,7 @@ GoldenrodCityMoveTutorBButText:
 
 GoldenrodCityMoveTutorYouDontHaveEnoughCoinsText:
 	text "Pas assez de"
-	line "jetons..."
+	line "Jetons..."
 	done
 
 GoldenrodCityMoveTutorMoveText:

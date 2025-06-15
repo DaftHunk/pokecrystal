@@ -1,4 +1,4 @@
-	db "LECHEUR@" ; species name
+	db "Lécheur@" ; species name
 	db 12 ; height
 	dw 655 ; weight
 

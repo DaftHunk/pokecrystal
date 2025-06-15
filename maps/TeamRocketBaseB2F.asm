@@ -569,7 +569,7 @@ RocketBaseBossFThrashText:
 
 	para "C'est contre la"
 	line "politique de la"
-	cont "TEAM ROCKET."
+	cont "Team Rocket."
 
 	para "Même si t'es super"
 	line "méga balèze, tu ne"
@@ -598,13 +598,13 @@ RocketBaseBossDontMeddleText:
 	line "Il est où? Hein?"
 
 	para "Avec le remplaçant"
-	line "du boss GIOVANNI,"
+	line "du boss Giovanni,"
 
 	para "je vais te montrer"
 	line "qu'il faut pas"
 
 	para "venir se frotter"
-	line "à la TEAM ROCKET!"
+	line "à la Team Rocket!"
 	done
 
 RocketBaseBossWinText:
@@ -614,10 +614,10 @@ RocketBaseBossWinText:
 	para "Ca craint."
 
 	para "Si tu venais à la"
-	line "TEAM ROCKET, tu"
+	line "Team Rocket, tu"
 
 	para "deviendrais vite"
-	line "CAID."
+	line "Caïd."
 	done
 
 RocketBaseBossRetreatText:
@@ -639,8 +639,8 @@ RocketBaseBossRetreatText:
 	para "Tu vas vite com-"
 	line "prendre la puis-"
 
-	para "sance de la TEAM"
-	line "ROCKET."
+	para "sance de la Team"
+	line "Rocket."
 
 	para "Amuse-toi tant"
 	line "qu'il est temps."
@@ -649,11 +649,11 @@ RocketBaseBossRetreatText:
 	done
 
 RocketBaseLancePostBattleText:
-	text "PETER: Terminé!"
+	text "Peter: Terminé!"
 	line "On a battu tous"
 
 	para "les gars de la"
-	line "ROCKET du coin."
+	line "Rocket du coin."
 
 	para "Mais je m'inquiète"
 	line "à propos du jeune"
@@ -688,7 +688,7 @@ RockerBaseLanceElectrodeFaintText:
 	line "choix: il faut"
 
 	para "mettre K.O. tous"
-	line "les ELECTRODE."
+	line "les Electrode."
 
 	para "Cela devrait arrê-"
 	line "ter cette machine"
@@ -697,7 +697,7 @@ RockerBaseLanceElectrodeFaintText:
 	line "le signal."
 
 	para "Ce n'est pas la"
-	line "faute des #MON,"
+	line "faute des #mon,"
 
 	para "ça me met donc un"
 	line "peu mal à l'aise."
@@ -708,23 +708,23 @@ RockerBaseLanceElectrodeFaintText:
 	done
 
 RocketBaseLancesSideText:
-	text "PETER: Je m'occupe"
+	text "Peter: Je m'occupe"
 	line "de ce côté."
 	done
 
 RocketBaseLanceElectrodeDoneText:
-	text "PETER: Cet étrange"
+	text "Peter: Cet étrange"
 	line "signal s'est enfin"
 	cont "arrêté."
 
-	para "Le LAC doit être"
+	para "Le Lac doit être"
 	line "normal à nouveau."
 
 	para "Tu es formidable!"
 	line "Je te remercie au"
 
 	para "nom de tous les"
-	line "#MON."
+	line "#mon."
 
 	para "Au fait. Voilà"
 	line "pour toi."
@@ -740,10 +740,10 @@ RocketBaseReceivedHM06Text: ; unreferenced
 	done
 
 RocketBaseLanceWhirlpoolText:
-	text "C'est SIPHON. Don-"
+	text "C'est Siphon. Don-"
 	line "ne-le à un #-"
 
-	para "MON pour traverser"
+	para "mon pour traverser"
 	line "les rapides."
 
 	para "Mais souviens-toi"
@@ -753,8 +753,8 @@ RocketBaseLanceWhirlpoolText:
 	line "liser sur la carte"
 
 	para "qu'en ayant le"
-	line "BADGE de l'ARENE"
-	cont "d'ACAJOU."
+	line "Badge de l'Arène"
+	cont "d'Acajou."
 	done
 
 RocketBaseLanceMonMasterText:
@@ -763,7 +763,7 @@ RocketBaseLanceMonMasterText:
 	para "Devenir le meil-"
 	line "leur dresseur"
 
-	para "#MON prend du"
+	para "#mon prend du"
 	line "temps et est"
 	cont "très difficile..."
 
@@ -786,10 +786,10 @@ RocketBaseLanceMonMasterText:
 	done
 
 LanceHealsText1:
-	text "PETER: Tu vas"
+	text "Peter: Tu vas"
 	line "bien?"
 
-	para "Tes #MON sont"
+	para "Tes #mon sont"
 	line "très fatigués."
 
 	para "Tiens, soigne-les"
@@ -798,9 +798,9 @@ LanceHealsText1:
 	done
 
 LanceHealsText2:
-	text "PETER: <PLAY_G>,"
+	text "Peter: <PLAY_G>,"
 	line "ensemble pour"
-	cont "les #MON!"
+	cont "les #mon!"
 	done
 
 GruntM17SeenText:
@@ -811,8 +811,8 @@ GruntM17SeenText:
 	line "Il faut un mot de"
 
 	para "passe connu seule-"
-	line "ment de la TEAM"
-	cont "ROCKET."
+	line "ment de la Team"
+	cont "Rocket."
 	done
 
 GruntM17BeatenText:
@@ -821,7 +821,7 @@ GruntM17BeatenText:
 
 GruntM17AfterBattleText:
 	text "Hé... J'suis juste"
-	line "un SBIRE."
+	line "un Sbire."
 
 	para "J'le connais pas"
 	line "le mot de passe..."

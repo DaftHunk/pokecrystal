@@ -37,8 +37,8 @@ SuperRodHouseBookshelf: ; unreferenced
 
 OfferSuperRodText:
 	text "Je suis le petit"
-	line "frère du MAITRE"
-	cont "PECHEUR."
+	line "frère du Maître"
+	cont "Pêcheur."
 
 	para "Tu aimes la pêche,"
 	line "toi! Ca se voit."
@@ -53,7 +53,7 @@ GiveSuperRodText:
 
 	para "Tiens boudiou!"
 	line "Prends ça: c'est"
-	cont "la MEGA CANNE."
+	cont "la Mega Canne."
 	done
 
 GaveSuperRodText:
@@ -64,9 +64,9 @@ GaveSuperRodText:
 	para "Souviens-toi: tu"
 	line "peux attraper plu-"
 
-	para "sieurs #MON"
+	para "sieurs #mon"
 	line "grâce à différen-"
-	cont "tes CANNES."
+	cont "tes Cannes."
 	done
 
 DontWantSuperRodText:

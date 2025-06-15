@@ -1,4 +1,4 @@
-	db "RAT@" ; species name
+	db "Rat@" ; species name
 	db 7 ; height
 	dw 185 ; weight
 

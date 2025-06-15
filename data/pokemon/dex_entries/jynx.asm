@@ -1,4 +1,4 @@
-	db "HUMANOIDE@" ; species name
+	db "Humanoïde@" ; species name
 	db 14 ; height
 	dw 406 ; weight
 

@@ -1,4 +1,4 @@
-	db "VENEPIC@" ; species name
+	db "Vénépic@" ; species name
 	db 5 ; height
 	dw 90 ; weight
 

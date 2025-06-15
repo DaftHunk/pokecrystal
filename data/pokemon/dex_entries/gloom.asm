@@ -1,4 +1,4 @@
-	db "RACINE@" ; species name
+	db "Racine@" ; species name
 	db 8 ; height
 	dw 86 ; weight
 

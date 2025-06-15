@@ -1,4 +1,4 @@
-	db "MAXI CORNE@" ; species name
+	db "Maxi Corne@" ; species name
 	db 14 ; height
 	dw 712 ; weight
 

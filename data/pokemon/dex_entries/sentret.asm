@@ -1,4 +1,4 @@
-	db "ESPION@" ; species name
+	db "Espion@" ; species name
 	db 8 ; height
 	dw 60 ; weight
 

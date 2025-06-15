@@ -159,18 +159,18 @@ RadioTower3FSuperNerdText:
 	line "enregistrement de"
 
 	para "tous les cris de"
-	line "#MON connus."
+	line "#mon connus."
 
 	para "Nous en avons près"
 	line "de 200 différents."
 	done
 
 RadioTower3FGymGuideText_Rockets:
-	text "Les #MON sont"
+	text "Les #mon sont"
 	line "les amis adorés"
 	cont "des dresseurs."
 
-	para "La TEAM ROCKET"
+	para "La Team Rocket"
 	line "tente de les con-"
 
 	para "trôler... C'est"
@@ -190,11 +190,11 @@ RadioTower3FGymGuideText:
 	done
 
 RadioTower3FCooltrainerFPleaseSaveDirectorText:
-	text "Le chef de la TEAM"
-	line "ROCKET s'est en-"
+	text "Le chef de la Team"
+	line "Rocket s'est en-"
 	cont "fermé."
 
-	para "Mais le DIRECTEUR"
+	para "Mais le Directeur"
 	line "peut ouvrir."
 
 	para "Il est au"
@@ -204,7 +204,7 @@ RadioTower3FCooltrainerFPleaseSaveDirectorText:
 	done
 
 RadioTower3FCooltrainerFIsDirectorSafeText:
-	text "Le DIRECTEUR est-"
+	text "Le Directeur est-"
 	line "il en sécurité?"
 	done
 
@@ -217,9 +217,9 @@ RadioTower3FCooltrainerFYoureMyHeroText:
 	done
 
 RadioTower3FCooltrainerFItsSunnyDayText:
-	text "C'est le ZENITH."
+	text "C'est le Zénith."
 	line "Il renforce les"
-	cont "attaques de FEU"
+	cont "attaques de Feu"
 	cont "pendant un moment."
 	done
 
@@ -234,7 +234,7 @@ GruntM7SeenText:
 
 	para "Je dois casser"
 	line "tous ceux qui sont"
-	cont "contre la ROCKET!"
+	cont "contre la Rocket!"
 	done
 
 GruntM7BeatenText:
@@ -251,7 +251,7 @@ GruntM7AfterBattleText:
 
 GruntM8SeenText:
 	text "Commander les"
-	line "#MON pour le"
+	line "#mon pour le"
 	cont "crime, c'est cool."
 	done
 
@@ -263,7 +263,7 @@ GruntM8AfterBattleText:
 	text "Pfff... Je me sens"
 	line "super inutile!"
 
-	para "Mes #MON sont"
+	para "Mes #mon sont"
 	line "nuls et moches!"
 	done
 
@@ -282,7 +282,7 @@ GruntM9BeatenText:
 GruntM9AfterBattleText:
 	text "Quoi?! Tu as"
 	line "échappé à nos hom-"
-	cont "mes du SOUTERRAIN?"
+	cont "mes du Souterrain?"
 
 	para "Comment t'as fait?"
 	done
@@ -309,21 +309,21 @@ ScientistMarcAfterBattleText:
 
 RadioTower3FCardKeySlotText:
 	text "Un lecteur de"
-	line "CARTE MAGN."
+	line "Carte Magn."
 	done
 
 InsertedTheCardKeyText:
 	text "<PLAYER> insère"
-	line "la CARTE MAGN."
+	line "la Carte Magn."
 	done
 
 RadioTower3FPersonnelSignText:
-	text "2EME PERSONNEL"
+	text "2ème Personnel"
 	done
 
 RadioTower3FPokemonMusicSignText:
-	text "MUSIQUE #MON"
-	line "avec DJ BEN"
+	text "Musique #mon"
+	line "avec DJ Ben"
 	done
 
 RadioTower3F_MapEvents:

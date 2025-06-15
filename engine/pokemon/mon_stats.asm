@@ -114,11 +114,11 @@ PrintTempMonStats:
 	ret
 
 .StatNames:
-	db   "ATTAQUE"
-	next "DEFENSE"
-	next "ATQ.SPE."
-	next "DEF.SPE."
-	next "VITESSE@"
+	db   "Attaque"
+	next "Défense"
+	next "Atq.Spé."
+	next "Déf.Spé."
+	next "Vitesse@"
 
 GetGender:
 ; Return the gender of a given monster (wCurPartyMon/wCurOTMon/wCurWildMon).
@@ -424,11 +424,11 @@ PlaceNonFaintStatus:
 	pop de
 	ret
 
-SlpString: db "SOM@"
-PsnString: db "PSN@"
-BrnString: db "BRU@"
-FrzString: db "GEL@"
-ParString: db "PAR@"
+SlpString: db "Som@"
+PsnString: db "Psn@"
+BrnString: db "Brû@"
+FrzString: db "Gel@"
+ParString: db "Par@"
 
 ListMoves:
 ; List moves at hl, spaced every [wListMovesLineSpacing] tiles.

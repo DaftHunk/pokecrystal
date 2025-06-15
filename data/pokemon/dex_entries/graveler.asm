@@ -1,4 +1,4 @@
-	db "ROCHE@" ; species name
+	db "Roche@" ; species name
 	db 10 ; height
 	dw 1050 ; weight
 

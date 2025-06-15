@@ -45,7 +45,7 @@ RalphGreetNiteText:
 
 RalphGenericText:
 	text "Tu prends soin de"
-	line "tes #MON?"
+	line "tes #mon?"
 
 	para "Sois sympa avec"
 	line "tes petits amis!"

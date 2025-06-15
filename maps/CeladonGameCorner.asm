@@ -74,7 +74,7 @@ CeladonGameCornerFisherScript:
 	end
 
 .coinname
-	db "JETON@"
+	db "Jeton@"
 
 .NoCoinCase:
 	writetext CeladonGameCornerFisherNoCoinCaseText
@@ -150,7 +150,7 @@ CeladonGameCornerReceptionistText:
 	text "Bienvenue!"
 
 	para "On peut échanger"
-	line "les jetons contre"
+	line "les Jetons contre"
 
 	para "de bô prix juste"
 	line "à côté."
@@ -208,15 +208,15 @@ CeladonGameCornerFisherText2:
 
 CeladonGameCornerFisherNoCoinCaseText:
 	text "Hé! Tu n'as pas de"
-	line "BOITE JETON."
+	line "Boîte Jeton."
 
 	para "Et comment je vais"
 	line "te donner des"
-	cont "jetons, moi?"
+	cont "Jetons, moi?"
 	done
 
 CeladonGameCornerFisherFullCoinCaseText:
-	text "Hé! Ta BOITE JETON"
+	text "Hé! Ta Boîte Jeton"
 	line "est pleine."
 
 	para "Tu dois avoir une"
@@ -230,9 +230,9 @@ CeladonGymGuideText:
 	para "Tu joues aux"
 	line "machines à sous?"
 
-	para "Je veux des jetons"
+	para "Je veux des Jetons"
 	line "pour m'acheter un"
-	cont "#MON."
+	cont "#mon."
 
 	para "Mais c'est pas"
 	line "facile..."
@@ -240,7 +240,7 @@ CeladonGymGuideText:
 
 CeladonGameCornerGrampsText:
 	text "Hmmm... La ligne"
-	line "PIKACHU a plus de"
+	line "Pikachu a plus de"
 
 	para "chances mais..."
 	line "Que faire?"

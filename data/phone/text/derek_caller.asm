@@ -3,7 +3,6 @@ DerekCheekPinchingText:
 	line "Mon @"
 	text_ram wStringBuffer4
 	text_start
-
 	para "sourit quand je"
 	line "lui pince la"
 	cont "joue."
@@ -16,7 +15,7 @@ DerekCheekPinchingText:
 
 DerekDefeatedMonText:
 	text "Oh, dernièrement"
-	line "mon PIKACHU a"
+	line "mon Pikachu a"
 	cont "battu un"
 	cont "@"
 	text_ram wStringBuffer4
@@ -29,10 +28,10 @@ DerekDefeatedMonText:
 
 	para "C'est dingue, non?"
 
-	para "Mon PIKACHU est"
+	para "Mon Pikachu est"
 	line "trop fort!"
 
-	para "Mon PIKACHU est le"
+	para "Mon Pikachu est le"
 	line "plus grand!"
 	done
 
@@ -65,28 +64,28 @@ DerekBugCatchingContestText:
 	para "Tu y vas, toi?"
 
 	para "Je vais y aller"
-	line "avec PIKACHU pour"
+	line "avec Pikachu pour"
 	cont "montrer sa jolie"
 	cont "frimousse."
 	done
 
 DerekFoundItemText:
-	text "J'ai une PEPITE"
+	text "J'ai une Pépite"
 	line "pour toi."
 
-	para "Mon PIKACHU"
+	para "Mon Pikachu"
 	line "l'adore..."
 
-	para "Ton PIKACHU va"
+	para "Ton Pikachu va"
 	line "aussi l'adorer!"
 	done
 
 DerekLetsGetTogetherText:
 	text "Comment va ton"
-	line "PIKACHU?"
+	line "Pikachu?"
 
 	para "On se voit et on"
-	line "parle de PIKACHU,"
+	line "parle de Pikachu,"
 	cont "OK?"
 	done
 

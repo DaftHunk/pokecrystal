@@ -79,8 +79,8 @@ BrunosRoom_EnterMovement:
 	step_end
 
 BrunoScript_BrunoBeforeText:
-	text "Je suis ALDO du"
-	line "CONSEIL des 4."
+	text "Je suis Aldo du"
+	line "Conseil des 4."
 
 	para "Mon truc à moi"
 	line "c'est de m'entraî-"

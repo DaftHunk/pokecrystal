@@ -65,7 +65,7 @@ Route11HiddenRevive:
 
 YoungsterOwenSeenText:
 	text "Y'a pas de triche"
-	line "à #MON."
+	line "à #mon."
 
 	para "Etre honnête, ça"
 	line "c'est chouette!"
@@ -98,7 +98,7 @@ YoungsterJasonBeatenText:
 
 YoungsterJasonAfterBattleText:
 	text "Je vais choper"
-	line "d'autres #MON"
+	line "d'autres #mon"
 	cont "dans les herbes."
 	done
 
@@ -112,7 +112,7 @@ PsychicHermanBeatenText:
 
 PsychicHermanAfterBattleText:
 	text "…"
-
+	
 	para "J'ai perdu les"
 	line "yeux fermés..."
 	done
@@ -134,12 +134,12 @@ PsychicFidelAfterBattleText:
 	line "Psychisme..."
 
 	para "Ta confiance en"
-	line "tes #MON est"
+	line "tes #mon est"
 	cont "ta force."
 	done
 
 Route11SignText:
-	text "ROUTE 11"
+	text "Route 11"
 	done
 
 Route11_MapEvents:

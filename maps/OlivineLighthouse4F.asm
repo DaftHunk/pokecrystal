@@ -30,9 +30,9 @@ TrainerSailorKent:
 	end
 
 SailorKentSeenText:
-	text "JASMINE doit"
+	text "Jasmine doit"
 	line "s'inquiéter à pro-"
-	cont "pos du #MON."
+	cont "pos du #mon."
 
 	para "Elle ne sourit"
 	line "même plus."
@@ -47,13 +47,13 @@ SailorKentAfterBattleText:
 	text "Au fait, je crois"
 	line "qu'il y a une bon-"
 
-	para "ne PHARMACIE à"
-	line "IRISIA."
+	para "ne Pharmacie à"
+	line "Irisia."
 	done
 
 LassConnie1SeenText:
-	text "JASMINE est la"
-	line "CHAMPIONNE de"
+	text "Jasmine est la"
+	line "Championne de"
 	cont "cette ville."
 
 	para "Et moi j'suis plus"
@@ -64,20 +64,20 @@ LassConnie1SeenText:
 	done
 
 LassConnie1BeatenText:
-	text "Aaah! Mes #MON!"
+	text "Aaah! Mes #mon!"
 	done
 
 LassConnie1AfterBattleText:
 	text "Chaque dresseur"
 	line "est responsable de"
 	cont "la santé de ses"
-	cont "#MON."
+	cont "#mon."
 
 	para "Je prie pour le"
-	line "#MON, ainsi"
+	line "#mon, ainsi"
 
-	para "JASMINE reviendra"
-	line "à l'ARENE."
+	para "Jasmine reviendra"
+	line "à l'Arène."
 	done
 
 OlivineLighthouse4F_MapEvents:

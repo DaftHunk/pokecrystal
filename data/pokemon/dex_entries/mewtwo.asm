@@ -1,4 +1,4 @@
-	db "GENETIQUE@" ; species name
+	db "Génétique@" ; species name
 	db 20 ; height
 	dw 1220 ; weight
 

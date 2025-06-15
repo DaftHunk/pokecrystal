@@ -111,19 +111,19 @@ CeladonGymStatue:
 	jumpstd GymStatue2Script
 
 ErikaBeforeBattleText:
-	text "ERIKA: Bonjour..."
+	text "Erika: Bonjour..."
 	line "Belle journée,"
 	cont "non?"
 
 	para "C'est beau la vie."
 
-	para "Moi je suis ERIKA,"
-	line "CHAMPIONNE de"
-	cont "l'ARENE de CELADO-"
-	cont "POLE."
+	para "Moi je suis Erika,"
+	line "Championne de"
+	cont "l'Arène de Célado-"
+	cont "pole."
 
 	para "...Oh? Tu viens"
-	line "de JOHTO?"
+	line "de Johto?"
 	cont "C'est bien..."
 
 	para "...Quoi? Tu veux"
@@ -135,23 +135,23 @@ ErikaBeforeBattleText:
 	done
 
 ErikaBeatenText:
-	text "ERIKA: Oh!"
+	text "Erika: Oh!"
 	line "J'ai perdu..."
 
 	para "Toi t'es un p'tit"
 	line "tigre..."
 
 	para "Voilà pour toi: le"
-	line "BADGE PRISME..."
+	line "Badge Prisme..."
 	done
 
 PlayerReceivedRainbowBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE PRISME."
+	line "le Badge Prisme."
 	done
 
 ErikaExplainTMText:
-	text "ERIKA: Quel beau"
+	text "Erika: Quel beau"
 	line "match."
 
 	para "Je tiens à ce que"
@@ -159,21 +159,21 @@ ErikaExplainTMText:
 	cont "belle CT."
 
 	para "C'est la"
-	line "GIGA-SANGSUE."
+	line "Giga-Sangsue."
 
 	para "Cette capacité"
 	line "draine la moitié"
 
 	para "des dégâts infli-"
 	line "gés pour soigner"
-	cont "ton #MON."
+	cont "ton #mon."
 
 	para "Tu verras, c'est"
 	line "très utile..."
 	done
 
 ErikaAfterBattleText:
-	text "ERIKA: Perdre"
+	text "Erika: Perdre"
 	line "fait toujours un"
 	cont "peu mal mais..."
 
@@ -184,7 +184,7 @@ ErikaAfterBattleText:
 
 LassMichelleSeenText:
 	text "Ca t'étonne une"
-	line "ARENE remplie"
+	line "Arène remplie"
 	cont "de filles?"
 	done
 
@@ -210,7 +210,7 @@ PicnickerTanyaBeatenText:
 
 PicnickerTanyaAfterBattleText:
 	text "T'en as plein des"
-	line "BADGES. Comment"
+	line "Badges. Comment"
 
 	para "je pouvais gagner,"
 	line "moi?!"
@@ -229,11 +229,11 @@ BeautyJuliaBeatenText:
 BeautyJuliaAfterBattleText:
 	text "Comment devenir"
 	line "une belle fille"
-	cont "comme ERIKA?"
+	cont "comme Erika?"
 	done
 
 TwinsJoAndZoe1SeenText:
-	text "ERIKA nous a ap-"
+	text "Erika nous a ap-"
 	line "pris plein de"
 	cont "trucs!"
 	done
@@ -243,13 +243,13 @@ TwinsJoAndZoe1BeatenText:
 	done
 
 TwinsJoAndZoe1AfterBattleText:
-	text "ERIKA!"
+	text "Erika!"
 	line "Venge-nous!"
 	done
 
 TwinsJoAndZoe2SeenText:
 	text "On doit protéger"
-	line "la grande ERIKA!"
+	line "la grande Erika!"
 	done
 
 TwinsJoAndZoe2BeatenText:
@@ -257,7 +257,7 @@ TwinsJoAndZoe2BeatenText:
 	done
 
 TwinsJoAndZoe2AfterBattleText:
-	text "ERIKA est bien"
+	text "Erika est bien"
 	line "plus forte!"
 	done
 

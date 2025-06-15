@@ -41,7 +41,7 @@ WiltonPhoneFullText:
 
 WiltonRematchText:
 	text "Argh! Tu as fait"
-	line "fuir PTITARD!"
+	line "fuir Ptitard!"
 	done
 
 WiltonGiftText:
@@ -55,7 +55,7 @@ WiltonGiftText:
 	done
 
 WiltonPackFullText:
-	text "Ton SAC est plein?"
+	text "Ton Sac est plein?"
 
 	para "Je te le donnerai"
 	line "plus tard."

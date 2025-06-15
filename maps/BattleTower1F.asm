@@ -349,17 +349,17 @@ MovementData_BattleTowerBattleRoomPlayerTurnsToFaceNextOpponent:
 
 Text_BattleTowerWelcomesYou:
 	text "Bienvenue à la"
-	line "TOUR DE COMBAT!"
+	line "Tour de Combat!"
 
 	para "Je peux vous faire"
 	line "accéder à une"
-	cont "SALLE DE COMBAT."
+	cont "Salle de Combat."
 	done
 
 Text_WantToGoIntoABattleRoom:
 	text "Voulez-vous aller"
-	line "dans une SALLE"
-	cont "DE COMBAT?"
+	line "dans une Salle"
+	cont "de Combat?"
 	done
 
 Text_RightThisWayToYourBattleRoom:
@@ -367,10 +367,10 @@ Text_RightThisWayToYourBattleRoom:
 	done
 
 Text_BattleTowerIntroduction_1: ; unreferenced
-	text "La TOUR DE COMBAT"
+	text "La Tour de Combat"
 	line "est dédiée aux"
 	cont "combats de"
-	cont "#MON."
+	cont "#mon."
 
 	para "Les dresseurs du"
 	line "monde entier y"
@@ -378,49 +378,49 @@ Text_BattleTowerIntroduction_1: ; unreferenced
 	para "viennent pour"
 	line "s'affronter dans"
 
-	para "des SALLES DE"
-	line "COMBAT."
+	para "des Salles de"
+	line "Combat."
 
 	para "Il existe une mul-"
-	line "titude de SALLES"
-	cont "DE COMBAT."
+	line "titude de SalleS"
+	cont "de Combat."
 
-	para "Chaque SALLE con-"
+	para "Chaque Salle con-"
 	line "tient 7 dresseurs."
 
 	para "Si vous venez à"
 	line "bout des 7 dres-"
 
-	para "seurs d'une SALLE"
+	para "seurs d'une Salle"
 	line "en faisant un re-"
 
 	para "cord, vous pouvez"
-	line "devenir le CHAM-"
-	cont "PION de la SALLE."
+	line "devenir le Cham-"
+	cont "pion de la Salle."
 
-	para "Tous les CHAMPIONS"
+	para "Tous les Champions"
 	line "seront inscrits"
 
-	para "sur les TABLES de"
-	line "l'HONNEUR pour"
+	para "sur les Tables de"
+	line "l'Honneur pour"
 	cont "l'éternité."
 
 	para "Vous pouvez péné-"
-	line "trer dans 5 SALLES"
+	line "trer dans 5 SalleS"
 
-	para "DE COMBAT par"
+	para "de Combat par"
 	line "jour."
 
 	para "Toutefois, vous ne"
 	line "pouvez combattre"
 
 	para "que dans une seule"
-	line "SALLE par jour."
+	line "Salle par jour."
 
 	para "Pour arrêter une"
 	line "session vous"
 
-	para "devez SAUVER,"
+	para "devez Sauver,"
 	line "sinon vous ne"
 
 	para "pourrez pas con-"
@@ -431,23 +431,23 @@ Text_BattleTowerIntroduction_1: ; unreferenced
 	done
 
 Text_BattleTowerIntroduction_2:
-	text "La TOUR DE COMBAT"
+	text "La Tour de Combat"
 	line "a été construite"
 	cont "pour les matches"
-	cont "de #MON."
+	cont "de #mon."
 
 	para "Divers dresseurs"
 	line "viennent s'y af-"
 
 	para "fronter dans les"
-	line "SALLES DE COMBAT"
+	line "Salles de Combat"
 	cont "spéciales."
 
 	para "Il existe beaucoup"
-	line "de SALLES diffé-"
+	line "de SalleS diffé-"
 	cont "rentes."
 
-	para "Chaque SALLE ren-"
+	para "Chaque Salle ren-"
 	line "ferme 7 dresseurs."
 
 	para "Il faut tous les"
@@ -457,21 +457,21 @@ Text_BattleTowerIntroduction_2:
 	para "Pour arrêter une"
 	line "session, il faut"
 
-	para "SAUVER. Dans le"
+	para "Sauver. Dans le"
 	line "cas contraire, on"
 
 	para "ne peut pas re-"
 	line "prendre le défi"
-	cont "d'une SALLE."
+	cont "d'une Salle."
 
 	para ""
 	done
 
 Text_ReceivedAListOfLeadersOnTheHonorRoll:
 	text "Vous avez reçu une"
-	line "liste des CHAM-"
-	cont "PIONS sur les TA-"
-	cont "BLES de l'HONNEUR."
+	line "liste des Cham-"
+	cont "pions sur les Ta-"
+	cont "bles de l'Honneur."
 
 	para ""
 	done
@@ -503,8 +503,8 @@ Text_BeatenAllTheTrainers_Mobile: ; unreferenced
 	para "<PLAYER>. Vous"
 	line "avez une chance"
 
-	para "d'être CHAMPION"
-	line "de SALLE."
+	para "d'être Champion"
+	line "de Salle."
 
 	para ""
 	done
@@ -522,7 +522,7 @@ Text_AskRegisterRecord_Mobile: ; unreferenced
 	line "gistrer votre pro-"
 
 	para "gression avec le"
-	line "CENTRE?"
+	line "Centre?"
 	done
 
 Text_PlayerGotFive:
@@ -535,7 +535,7 @@ Text_PlayerGotFive:
 	text_end
 
 Text_YourPackIsStuffedFull:
-	text "Oups! Le SAC est"
+	text "Oups! Le Sac est"
 	line "plein."
 
 	para "Il faut faire de"
@@ -560,15 +560,15 @@ Text_PleaseStepThisWay:
 
 Text_WouldYouLikeToHearAboutTheBattleTower:
 	text "Voulez-vous tout"
-	line "savoir sur la TOUR"
-	cont "DE COMBAT?"
+	line "savoir sur la Tour"
+	cont "de Combat?"
 	done
 
 Text_CantBeRegistered:
 	text "Votre progression"
 	line "dans la dernière"
 
-	para "SALLE DE COMBAT ne"
+	para "Salle de Combat ne"
 	line "peut pas être en-"
 	cont "registrée. OK?"
 	done
@@ -577,7 +577,7 @@ Text_CantBeRegistered_PreviousRecordDeleted:
 	text "Votre progression"
 	line "dans la dernière"
 
-	para "SALLE DE COMBAT ne"
+	para "Salle de Combat ne"
 	line "peut pas être en-"
 	cont "registrée."
 
@@ -587,19 +587,19 @@ Text_CantBeRegistered_PreviousRecordDeleted:
 	done
 
 Text_CheckTheLeaderHonorRoll: ; unreferenced
-	text "Voir les TABLES de"
-	line "l'HONNEUR?"
+	text "Voir les Tables de"
+	line "l'Honneur?"
 	done
 
 Text_ReadBattleTowerRules:
 	text "Les règles de la"
-	line "TOUR DE COMBAT"
+	line "Tour de Combat"
 
 	para "Lire?"
 	done
 
 Text_BattleTowerRules:
-	text "3 #MON peuvent"
+	text "3 #mon peuvent"
 	line "participer."
 
 	para "Les 3 doivent être"
@@ -609,7 +609,7 @@ Text_BattleTowerRules:
 	line "doivent être aussi"
 	cont "différents."
 
-	para "Certains #MON"
+	para "Certains #mon"
 	line "peuvent avoir des"
 
 	para "restrictions de"
@@ -619,9 +619,9 @@ Text_BattleTowerRules:
 Text_BattleTower_LeftWithoutSaving:
 	text "Excusez-moi!"
 	line "Vous n'avez pas"
-	cont "SAUVE avant de"
-	cont "quitter la SALLE"
-	cont "DE COMBAT."
+	cont "Sauvé avant de"
+	cont "quitter la Salle"
+	cont "de Combat."
 
 	para "Votre défi ne sera"
 	line "donc pas pris en"
@@ -630,7 +630,7 @@ Text_BattleTower_LeftWithoutSaving:
 
 Text_YourMonWillBeHealedToFullHealth:
 	text "Nous allons soi-"
-	line "gner vos #MON."
+	line "gner vos #mon."
 	done
 
 Text_NextUpOpponentNo:
@@ -642,37 +642,37 @@ Text_NextUpOpponentNo:
 
 Text_SaveBeforeConnecting_Mobile: ; unreferenced
 	text "Votre session sera"
-	line "SAUVEE avant la"
+	line "Sauvée avant la"
 
 	para "connexion avec le"
-	line "CENTRE."
+	line "Centre."
 	done
 
 Text_SaveBeforeEnteringBattleRoom:
 	text "Avant d'entrer"
-	line "dans une SALLE de"
+	line "dans une Salle de"
 
-	para "COMBAT, la partie"
-	line "sera SAUVEE."
+	para "Combat, la partie"
+	line "sera Sauvée."
 	done
 
 Text_SaveAndEndTheSession:
-	text "SAUVER et arrêter"
+	text "Sauver et arrêter"
 	line "la session?"
 	done
 
 Text_SaveBeforeReentry:
 	text "Votre progression"
-	line "sera SAUVEE avant"
+	line "sera Sauvée avant"
 
 	para "de retourner dans"
-	line "la dernière SALLE."
+	line "la dernière Salle."
 	done
 
 Text_CancelYourBattleRoomChallenge:
 	text "Annuler le défi"
-	line "des SALLES DE"
-	cont "COMBAT?"
+	line "des Salles de"
+	cont "Combat?"
 	done
 
 Text_RegisterRecordOnFile_Mobile: ; unreferenced
@@ -680,21 +680,21 @@ Text_RegisterRecordOnFile_Mobile: ; unreferenced
 	line "dernier record."
 
 	para "Voulez-vous l'ins-"
-	line "crire au CENTRE?"
+	line "crire au Centre?"
 	done
 
 Text_WeveBeenWaitingForYou:
 	text "Nous vous atten-"
 	line "dions. Par ici"
 
-	para "pour une SALLE DE"
-	line "COMBAT."
+	para "pour une Salle de"
+	line "Combat."
 	done
 
 Text_FiveDayBattleLimit_Mobile:
 	text "Vous ne pouvez"
 	line "accéder qu'à 5"
-	cont "SALLES DE COMBAT"
+	cont "Salles de Combat"
 	cont "par jour."
 
 	para "Revenez demain."
@@ -705,7 +705,7 @@ Text_TooMuchTimeElapsedNoRegister:
 	line "d'enregistrer"
 
 	para "votre progression"
-	line "au CENTRE: trop de"
+	line "au Centre: trop de"
 
 	para "temps s'est écoulé"
 	line "depuis le début de"
@@ -718,7 +718,7 @@ Text_RegisterRecordTimedOut_Mobile: ; unreferenced
 	line "d'enregistrer"
 
 	para "votre progression"
-	line "au CENTRE: trop de"
+	line "au Centre: trop de"
 
 	para "temps s'est écoulé"
 	line "depuis le début de"
@@ -726,7 +726,7 @@ Text_RegisterRecordTimedOut_Mobile: ; unreferenced
 	done
 
 Text_AMonLevelExceeds:
-	text "Un de vos #MON"
+	text "Un de vos #mon"
 	line "ou plus a un ni-"
 	cont "veau au-dessus de"
 	cont "@"
@@ -738,11 +738,11 @@ Text_MayNotEnterABattleRoomUnderL70:
 	text_ram wcd49
 	text " ne"
 	line "peut pas entrer"
-	cont "dans une SALLE DE"
-	cont "COMBAT avant le"
+	cont "dans une Salle de"
+	cont "Combat avant le"
 	cont "N70."
 
-	para "Cette SALLE est"
+	para "Cette Salle est"
 	line "pour les N@"
 	text_decimal wScriptVar, 1, 3
 	text "."
@@ -756,7 +756,7 @@ Text_BattleTowerYoungster:
 
 Text_BattleTowerCooltrainerF:
 	text "Il y a plein de"
-	line "SALLES DE COMBAT!"
+	line "Salles de Combat!"
 	cont "Mais je vais"
 	cont "gagner!"
 	done
@@ -769,7 +769,7 @@ Text_BattleTowerGranny:
 	line "combats..."
 
 	para "Faire tenir un ob-"
-	line "jet à son #MON"
+	line "jet à son #mon"
 	cont "ça aide..."
 	done
 
@@ -779,11 +779,11 @@ Text_BattleTowerBugCatcher:
 
 	para "aller en n'utili-"
 	line "sant que des"
-	cont "#MON insecte."
+	cont "#mon Insecte."
 
 	para "Du moment qu'il"
 	line "n'y a pas de"
-	cont "#MON de feu..."
+	cont "#mon de feu..."
 	done
 
 BattleTower1F_MapEvents:

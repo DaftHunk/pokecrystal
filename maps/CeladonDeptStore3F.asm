@@ -48,49 +48,49 @@ CeladonDeptStore3FDirectory:
 	jumptext CeladonDeptStore3FDirectoryText
 
 CeladonDeptStore3FYoungsterText:
-	text "Sur quel #MON"
+	text "Sur quel #mon"
 	line "je devrais utili-"
 	cont "ser cette CT..."
 	done
 
 CeladonDeptStore3FGameboyKid1Text:
 	text "Oh! J'ai échangé"
-	line "mon #MON sans"
+	line "mon #mon sans"
 
 	para "lui enlever mon"
-	line "EVOLUTOR!"
+	line "Evolutor!"
 	done
 
 CeladonDeptStore3FGameboyKid2Text:
 	text "Ouais! Enfin j'ai"
-	line "un PORYGON!"
+	line "un Porygon!"
 
 	para "Moi j'aime pas les"
 	line "machines à sous."
 
 	para "J'avais jamais"
-	line "assez de jetons..."
+	line "assez de Jetons..."
 
 	para "...Hein???"
 
-	para "Le PORYGON échangé"
+	para "Le Porygon échangé"
 	line "s'est transformé"
 	cont "en un autre #-"
-	cont "MON!"
+	cont "mon!"
 	done
 
 CeladonDeptStore3FSuperNerdText:
-	text "Le MARCHE AUX CT"
+	text "Le Marche aux CT"
 	line "vend des capacités"
 	cont "assez rares."
 	done
 
 CeladonDeptStore3FDirectoryText:
-	text "2EME: MARCHE AUX"
+	text "2ème: Marche aux"
 	line "      CT"
 
 	para "Renforcez vos"
-	line "#MON!"
+	line "#mon!"
 	done
 
 CeladonDeptStore3F_MapEvents:

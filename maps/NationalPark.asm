@@ -310,14 +310,14 @@ NationalParkLassText:
 	line "sac!"
 
 	para "J'ai imprimé mes"
-	line "copains du #DEX"
+	line "copains du #dex"
 
 	para "et je les ai mis"
 	line "sur mon super sac!"
 	done
 
 NationalParkPokefanFText:
-	text "C'est une LETTRE"
+	text "C'est une Lettre"
 	line "de ma fille."
 	cont "C'est cool, hein?"
 	done
@@ -333,7 +333,7 @@ NationalParkTeacher1Text:
 	line "petites manies."
 
 	para "Tu aimes les"
-	line "#MON?"
+	line "#mon?"
 
 	para "Etre élève modèle"
 	line "mérite un petit"
@@ -344,8 +344,8 @@ NationalParkTeacher1Text:
 
 NationalParkTeacher1Text_GotQuickClaw:
 	text "Fais tenir cette"
-	line "VIVE GRIFFE à un"
-	cont "#MON."
+	line "Vive Griffe à un"
+	cont "#mon."
 
 	para "Il frappera plus"
 	line "souvent en premier"
@@ -356,19 +356,19 @@ NationalParkYoungster1Text:
 	text "Je m'amuse avec"
 	line "les autocollants"
 	cont "que j'ai imprimés"
-	cont "de mon #DEX."
+	cont "de mon #dex."
 	done
 
 NationalParkYoungster2Text:
 	text "Je gagne les auto-"
 	line "collants du #-"
-	cont "DEX de l'adversai-"
+	cont "dex de l'adversai-"
 	cont "re si je le bats."
 	done
 
 NationalParkTeacher2Text:
 	text "Je me promène dans"
-	line "le PARC mais je ne"
+	line "le Parc mais je ne"
 
 	para "vais jamais dans"
 	line "l'herbe."
@@ -379,23 +379,23 @@ NationalParkTeacher2Text:
 	done
 
 NationalParkPersianText:
-	text "PERSIAN: Siaaaan!"
+	text "Persian: Siaaaan!"
 	done
 
 NationalParkGameboyKidText:
 	text "J'imprime mon"
-	line "#DEX."
+	line "#dex."
 
 	para "On peut aussi im-"
 	line "primer des trucs"
 
-	para "comme les LETTRES"
-	line "ou les BOITES PC."
+	para "comme les Lettres"
+	line "ou les BoîteS PC."
 	done
 
 SchoolboyJack1SeenText:
 	text "Grand est le monde"
-	line "des #MON."
+	line "des #mon."
 
 	para "Tant de choses"
 	line "sont encore incon-"
@@ -415,16 +415,16 @@ SchoolboyJackTradeMonText:
 
 	para "Par exemple..."
 
-	para "Il y a 50 types"
+	para "Il y a {d:NUM_TMS} types"
 	line "de CT."
 
-	para "Les #MON"
+	para "Les #mon"
 	line "échangés grandis-"
 	cont "sent plus vite."
 	done
 
 PokefanfBeverly1SeenText:
-	text "Mes #MON sont"
+	text "Mes #mon sont"
 	line "les mieux du"
 	cont "mooooonde."
 
@@ -438,26 +438,26 @@ PokefanfBeverly1BeatenText:
 	done
 
 PokefanBeverlyCuteMonText:
-	text "Tes #MON aussi"
+	text "Tes #mon aussi"
 	line "sont très mignons."
 	done
 
 PokefanmWilliamSeenText:
 	text "On adore nos #-"
-	line "MON, même si eux"
+	line "mon, même si eux"
 	cont "nous détestent."
 
 	para "Et c'est ça un"
-	line "vrai FAN."
+	line "VRAI FAN."
 	done
 
 PokefanmWilliamBeatenText:
-	text "M-mon #MON!"
+	text "M-mon #mon!"
 	done
 
 PokefanmWilliamAfterBattleText:
 	text "Je perds le combat"
-	line "mais mes #MON"
+	line "mais mes #mon"
 
 	para "sont de loin les"
 	line "plus beaux."
@@ -465,13 +465,13 @@ PokefanmWilliamAfterBattleText:
 
 PokefanFBeverlyMarillFriendText:
 	text "Une amie a un"
-	line "MARILL!"
+	line "Marill!"
 
 	para "Il est trooooop"
 	line "joli."
 
 	para "Oh, j'en veux un!"
-	line "Un MARILL à moi..."
+	line "Un Marill à moi..."
 	done
 
 LassKriseSeenText:
@@ -493,8 +493,8 @@ LassKriseAfterBattleText:
 	done
 
 NationalParkRelaxationSquareText:
-	text "AIRE DE REPOS du"
-	line "PARC NATUREL"
+	text "Aire de Repos du"
+	line "Parc Naturel"
 	done
 
 NationalParkBattleNoticeText:
@@ -504,17 +504,17 @@ NationalParkBattleNoticeText:
 	para "Se battre unique-"
 	line "ment dans l'herbe."
 
-	para "LE GARDIEN DU"
-	line "PARC NATUREL"
+	para "Le Gardien du"
+	line "Parc Naturel"
 	done
 
 NationalParkTrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
 	para "Imprimer les"
-	line "LETTRES en les"
+	line "Lettres en les"
 	cont "ouvrant et appuyer"
-	cont "sur START."
+	cont "sur Start."
 	done
 
 NationalPark_MapEvents:

@@ -115,43 +115,43 @@ Route37HiddenEther:
 	hiddenitem ETHER, EVENT_ROUTE_37_HIDDEN_ETHER
 
 TwinsAnnandanne1SeenText:
-	text "TEA: LEA et moi"
+	text "Téa: Léa et moi"
 	line "sommes insépara-"
 	cont "bles!"
 	done
 
 TwinsAnnandanne1BeatenText:
-	text "TEA&LEA: ..."
+	text "Téa&Léa: ..."
 	line "Pas possible."
 	done
 
 TwinsAnnandanne1AfterBattleText:
-	text "TEA: Je pense"
+	text "Téa: Je pense"
 	line "comme ma soeur et"
 
-	para "comme mes #MON."
+	para "comme mes #mon."
 	done
 
 TwinsAnnandanne2SeenText:
-	text "LEA: TEA et moi"
+	text "Léa: Téa et moi"
 	line "sommes insépara-"
 	cont "bles!"
 	done
 
 TwinsAnnandanne2BeatenText:
-	text "TEA&LEA: ..."
+	text "Téa&Léa: ..."
 	line "Pas possible."
 	done
 
 TwinsAnnandanne2AfterBattleText:
-	text "LEA: Nous ressen-"
+	text "Léa: Nous ressen-"
 	line "tons les mêmes"
 	cont "choses que nos"
-	cont "#MON."
+	cont "#mon."
 	done
 
 PsychicGregSeenText:
-	text "Les #MON ne"
+	text "Les #mon ne"
 	line "peuvent rien faire"
 	cont "s'ils dorment."
 
@@ -166,17 +166,17 @@ PsychicGregBeatenText:
 
 PsychicGregAfterBattleText:
 	text "Endormir ou para-"
-	line "lyser les #MON"
+	line "lyser les #mon"
 	cont "est super utile"
 	cont "en combat."
 	done
 
 MeetSunnyText:
-	text "DIMITRI: Salut!"
+	text "Dimitri: Salut!"
 
-	para "Moi c'est DIMITRI"
-	line "du dimanche. Et on"
-	cont "est dimanche!"
+	para "Moi c'est Dimitri"
+	line "du Dimanche. Et on"
+	cont "est Dimanche!"
 	done
 
 SunnyGivesGiftText1:
@@ -190,7 +190,7 @@ SunnyGivesGiftText2:
 	done
 
 SunnyGaveGiftText:
-	text "DIMITRI: Ca..."
+	text "Dimitri: Ca..."
 
 	para "Heu..."
 
@@ -202,33 +202,33 @@ SunnyGaveGiftText:
 	line "souviens!"
 
 	para "C'est pour un"
-	line "#MON à capaci-"
+	line "#mon à capaci-"
 	cont "tés électriques."
 
-	para "Ma soeur LUCIE"
+	para "Ma soeur Lucie"
 	line "dit que ça les"
 	cont "améliore!"
 	done
 
 SunnySundayText:
-	text "DIMITRI: Mes frè-"
+	text "Dimitri: Mes frè-"
 	line "res et soeurs sont"
-	cont "LUCIE, MARIE,"
-	cont "HOMER, JEROME,"
-	cont "VANESSA et SAMUEL."
+	cont "Lucie, Marie,"
+	cont "Homer, Jérôme,"
+	cont "Vanessa et Samuel."
 
 	para "Ils sont tous plus"
 	line "vieux que moi!"
 	done
 
 SunnyNotSundayText:
-	text "DIMITRI: On est"
-	line "pas dimanche?"
+	text "Dimitri: On est"
+	line "pas Dimanche?"
 	cont "Heu! Je sais plus!"
 	done
 
 Route37SignText:
-	text "ROUTE 37"
+	text "Route 37"
 	done
 
 Route37_MapEvents:

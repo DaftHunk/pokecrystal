@@ -1,4 +1,4 @@
-	db "MINOISEAU@" ; species name
+	db "Minoiseau@" ; species name
 	db 3 ; height
 	dw 18 ; weight
 
@@ -7,5 +7,5 @@
 	next "l'herbe pour faire"
 
 	page "sortir tous les"
-	next "insectes."
+	next "Insectes."
 	next "@"

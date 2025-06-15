@@ -45,6 +45,7 @@ GinaPhoneFullText:
 
 GinaRematchText:
 	text "Je t'attendais!"
+
 	para "J'ai fait des"
 	line "progrès!"
 	done
@@ -58,7 +59,7 @@ GinaGiftText:
 	done
 
 GinaPackFullText:
-	text "Ton SAC est plein"
+	text "Ton Sac est plein"
 	line "à craquer."
 
 	para "Je vais garder ça"

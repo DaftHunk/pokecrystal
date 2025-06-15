@@ -233,7 +233,7 @@ if DEF(_DEBUG)
 	jp StatsScreen_JoypadAction
 
 .HatchSoonString:
-	db "▶HATCH SOON!@"
+	db "▶Eclot bientôt!@"
 endc
 
 StatsScreen_LoadPage:
@@ -706,23 +706,23 @@ LoadPinkPage:
 	ret
 
 .Status_Type:
-	db   "STATUT/"
-	next "TYPE/@"
+	db   "Statut/"
+	next "Type/@"
 
 .OK_str:
 	db "OK@"
 
 .ExpPointStr:
-	db "PTS EXP.@"
+	db "Pts.Exp.@"
 
 .LevelUpStr:
-	db "PROCH.NIV.@"
+	db "Proch.Niv.@"
 
 .ToStr:
 	db "▶@"
 
 .PkrsStr:
-	db "#RUS@"
+	db "#rus@"
 
 LoadGreenPage:
 	ld de, .Item
@@ -761,13 +761,13 @@ LoadGreenPage:
 	ret
 
 .Item:
-	db "OBJET/@"
+	db "Objet/@"
 
 .ThreeDashes:
 	db "---@"
 
 .Move:
-	db "CAPACITE/@"
+	db "Capacité/@"
 
 LoadBluePage:
 	call .PlaceOTInfo
@@ -1023,7 +1023,7 @@ if DEF(_DEBUG)
 	jr .placed_push_start
 
 .PushStartString:
-	db "▶PUSH START.@"
+	db "▶PUSH Start.@"
 
 .placed_push_start
 endc
@@ -1058,7 +1058,7 @@ endc
 	ret
 
 EggString:
-	db "OEUF@"
+	db "Oeuf@"
 
 FiveQMarkString:
 	db "?????@"
@@ -1081,7 +1081,7 @@ EggMoreTimeString:
 	next "encore un peu.@"
 
 EggALotMoreTimeString:
-	db   "Cet OEUF va mettre"
+	db   "Cet Oeuf va mettre"
 	next "du temps à éclore!@"
 
 StatsScreen_AnimateEgg:

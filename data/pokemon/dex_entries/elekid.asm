@@ -1,4 +1,4 @@
-	db "ELECTRIQUE@" ; species name
+	db "Electrique@" ; species name
 	db 6 ; height
 	dw 235 ; weight
 

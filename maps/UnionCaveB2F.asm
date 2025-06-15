@@ -92,7 +92,7 @@ CooltrainermNickBeatenText:
 	done
 
 CooltrainermNickAfterBattleText:
-	text "Tes #MON ont"
+	text "Tes #mon ont"
 	line "la super classe!"
 	cont "Et c'est bien."
 
@@ -118,7 +118,7 @@ CooltrainerfGwenAfterBattleText:
 
 CooltrainerfEmmaSeenText:
 	text "J'irais n'importe"
-	line "où avec le #MON"
+	line "où avec le #mon"
 	cont "de mes rêves."
 
 	para "C'est ça la beauté"
@@ -132,12 +132,12 @@ CooltrainerfEmmaBeatenText:
 
 CooltrainerfEmmaAfterBattleText:
 	text "Une fois par se-"
-	line "maine, un #MON"
+	line "maine, un #mon"
 	cont "vient au bord de"
 	cont "l'eau."
 
 	para "Je veux le voir"
-	line "ce #MON!!!"
+	line "ce #mon!!!"
 	done
 
 UnionCaveB2F_MapEvents:

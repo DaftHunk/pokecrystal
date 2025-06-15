@@ -3,7 +3,7 @@ WiltonAnswerPhoneText:
 	line "Ici @"
 	text_ram wStringBuffer3
 	text "…"
-
+	
 	para "Ah, <PLAY_G>."
 	done
 
@@ -29,7 +29,7 @@ WiltonGreetText:
 	text "C'est @"
 	text_ram wStringBuffer3
 	text "…"
-
+	
 	para "Tu as un moment?"
 	done
 
@@ -37,7 +37,7 @@ WiltonGreetDayText:
 	text "C'est @"
 	text_ram wStringBuffer3
 	text "…"
-
+	
 	para "Tu as un moment?"
 	done
 
@@ -45,12 +45,11 @@ WiltonGreetNiteText:
 	text "C'est @"
 	text_ram wStringBuffer3
 	text "…"
-
+	
 	para "Il est trop tard?"
-	done
 
 WiltonGenericText:
-	text "Tes #MON"
+	text "Tes #mon"
 	line "ont grandi?"
 
 	para "Mon @"

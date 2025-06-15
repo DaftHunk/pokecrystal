@@ -46,7 +46,7 @@ JoeyRematchText:
 	done
 
 JoeyPackFullText:
-	text "Attends! Ton SAC"
+	text "Attends! Ton Sac"
 	line "est super plein!"
 
 	para "On fait ça une"

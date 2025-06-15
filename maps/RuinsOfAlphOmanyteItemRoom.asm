@@ -27,7 +27,7 @@ RuinsOfAlphOmanyteItemRoomAncientReplica:
 RuinsOfAlphOmanyteItemRoomAncientReplicaText:
 	text "C'est la réplique"
 	line "d'un ancien #-"
-	cont "MON."
+	cont "mon."
 	done
 
 RuinsOfAlphOmanyteItemRoom_MapEvents:

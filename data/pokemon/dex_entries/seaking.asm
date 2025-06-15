@@ -1,4 +1,4 @@
-	db "POISSON@" ; species name
+	db "Poisson@" ; species name
 	db 13 ; height
 	dw 390 ; weight
 

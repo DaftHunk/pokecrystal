@@ -1,4 +1,4 @@
-	db "TERRIFIANT@" ; species name
+	db "Terrifiant@" ; species name
 	db 65 ; height
 	dw 2350 ; weight
 

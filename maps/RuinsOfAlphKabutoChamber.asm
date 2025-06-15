@@ -152,7 +152,7 @@ RuinsOfAlphKabutoChamberReceptionistText:
 	para "Des panneaux cou-"
 	line "lissants représen-"
 
-	para "tent un #MON"
+	para "tent un #mon"
 	line "dessiné par les"
 	cont "anciens."
 
@@ -162,7 +162,7 @@ RuinsOfAlphKabutoChamberReceptionistText:
 
 	para "A droite se trouve"
 	line "la description du"
-	cont "#MON."
+	cont "#mon."
 
 	para "Au fond des scien-"
 	line "tifiques analysent"
@@ -209,7 +209,7 @@ RuinsOfAlphKabutoChamberUnusedText: ; unreferenced
 	line "Je crois qu'ils"
 	line "font apparaître"
 
-	para "des #MON..."
+	para "des #mon..."
 	line "Mais ce n'est pas"
 	cont "sûr..."
 	done
@@ -222,7 +222,7 @@ RuinsOfAlphKabutoChamberWallPatternLeftText:
 
 RuinsOfAlphKabutoChamberUnownText: ; unreferenced
 	text "C'est du texte"
-	line "ZARBI!"
+	line "Zarbi!"
 	done
 
 RuinsOfAlphKabutoChamberWallPatternRightText:
@@ -239,11 +239,11 @@ RuinsOfAlphKabutoChamberWallHoleText:
 RuinsOfAlphKabutoChamberAncientReplicaText:
 	text "C'est la réplique"
 	line "d'un ancien #-"
-	cont "MON."
+	cont "mon."
 	done
 
 RuinsOfAlphKabutoChamberDescriptionText:
-	text "Un #MON qui se"
+	text "Un #mon qui se"
 	line "cachait au fond"
 
 	para "des mers. Les yeux"

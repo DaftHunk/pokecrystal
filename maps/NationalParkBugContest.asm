@@ -116,64 +116,64 @@ NationalParkBugContestHiddenFullHeal:
 	hiddenitem FULL_HEAL, EVENT_NATIONAL_PARK_HIDDEN_FULL_HEAL
 
 BugCatchingContestant1AText:
-	text "JEAN-RAOUL: Je"
+	text "Jean-Raoul: Je"
 	line "vais gagner! Viens"
 	cont "pas m'embêter."
 	done
 
 BugCatchingContestant2AText:
-	text "ODILON: Mon"
-	line "PARASECT endort"
-	cont "avec SPORE."
+	text "Odilon: Mon"
+	line "Parasect endort"
+	cont "avec Spore."
 	done
 
 BugCatchingContestant3AText:
-	text "NICK: J'élève des"
-	line "#MON rapides"
+	text "Nick: J'élève des"
+	line "#mon rapides"
 	cont "pour le combat."
 	done
 
 BugCatchingContestant4AText:
-	text "MARCEL: Gagner ne"
+	text "Marcel: Gagner ne"
 	line "m'intéresse pas"
 	cont "vraiment."
 
 	para "Je cherche juste"
-	line "les #MON rares."
+	line "les #mon rares."
 	done
 
 BugCatchingContestant5AText:
-	text "FOULQUE: Chut! Tu"
+	text "Foulque: Chut! Tu"
 	line "vas faire fuir"
 
-	para "INSECATEUR. Parle-"
+	para "Insecateur. Parle-"
 	line "moi plus tard."
 	done
 
 BugCatchingContestant6AText:
-	text "RENE: Il faut"
+	text "René: Il faut"
 	line "d'abord affaiblir"
 
-	para "un #MON insecte"
+	para "un #mon Insecte"
 	line "puis lancer une"
-	cont "# BALL."
+	cont "# Ball."
 	done
 
 BugCatchingContestant7AText:
-	text "SANDY: Pardon?"
+	text "Sandy: Pardon?"
 
 	para "Tu trouves ça bi-"
 	line "zarre qu'une fille"
 
 	para "attrape des #-"
-	line "MON insecte?"
+	line "mon Insecte?"
 	done
 
 BugCatchingContestant8AText:
-	text "ARNAUD: Je collec-"
-	line "tionne les #MON"
+	text "Arnaud: Je collec-"
+	line "tionne les #mon"
 
-	para "insecte depuis ma"
+	para "Insecte depuis ma"
 	line "tendre enfance."
 
 	para "Ma défaite est"
@@ -181,16 +181,16 @@ BugCatchingContestant8AText:
 	done
 
 BugCatchingContestant9AText:
-	text "GONTRAND: Si tu as"
+	text "Gontrand: Si tu as"
 	line "le temps de parler"
 
 	para "va chercher des"
-	line "#MON insecte."
+	line "#mon Insecte."
 	done
 
 BugCatchingContestant10AText:
-	text "CYRIL: J'ai étudié"
-	line "les #MON insec-"
+	text "Cyril: J'ai étudié"
+	line "les #mon insec-"
 	cont "te à fond."
 
 	para "Je vais gagner..."
@@ -198,8 +198,8 @@ BugCatchingContestant10AText:
 	done
 
 NationalParkBugContestRelaxationSquareText:
-	text "AIRE DE REPOS du"
-	line "PARC NATUREL"
+	text "Aire de Repos du"
+	line "Parc Naturel"
 	done
 
 NationalParkBugContestBattleNoticeText:
@@ -209,17 +209,17 @@ NationalParkBugContestBattleNoticeText:
 	para "Se battre unique-"
 	line "ment dans l'herbe."
 
-	para "LE GARDIEN DU"
-	line "PARC NATUREL"
+	para "Le Gardien du"
+	line "Parc Naturel"
 	done
 
 NationalParkBugContestTrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
 	para "Imprimer les"
-	line "LETTRES en les"
+	line "Lettres en les"
 	cont "ouvrant et appuyer"
-	cont "sur START."
+	cont "sur Start."
 	done
 
 NationalParkBugContest_MapEvents:

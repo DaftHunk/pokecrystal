@@ -29,14 +29,14 @@ CeladonDeptStore4FElevatorButton:
 
 CeladonDeptStore4FSuperNerdText:
 	text "Je vais acheter"
-	line "une LETR SURF pour"
+	line "une Letr.Surf pour"
 	cont "l'envoyer à ma"
 	cont "copine."
 	done
 
 CeladonDeptStore4FYoungsterText:
 	text "On ne trouve des"
-	line "LETR CHARMANT"
+	line "Letr.Charmant"
 	cont "qu'ici."
 	done
 
@@ -44,8 +44,8 @@ CeladonDeptStore4FDirectoryText:
 	text "Offrir, c'est"
 	line "merveilleux!"
 
-	para "3EME: CADEAUX DU"
-	line "      SAGE"
+	para "3ème: Cadeaux du"
+	line "      Sage"
 	done
 
 CeladonDeptStore4F_MapEvents:

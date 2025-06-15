@@ -143,12 +143,12 @@ MahoganyTownRageCandyBarMerchantReturnsMovement:
 RageCandyBarMerchantTryOneText:
 	text "Salut toi!"
 
-	para "T'es pas d'ACAJOU,"
+	para "T'es pas d'Acajou,"
 	line "toi."
 
 	para "Alors tu DOIS"
-	line "essayer le BONBON"
-	cont "RAGE!"
+	line "essayer le Bonbon"
+	cont "Rage!"
 
 	para "300¥ et c'est à"
 	line "toi! OK?"
@@ -174,7 +174,7 @@ RageCandyBarMerchantNoRoomText:
 
 RageCandyBarMerchantSoldOutText:
 	text "Rupture de stock"
-	line "de BONBON RAGE."
+	line "de Bonbon Rage."
 
 	para "Je fais mes"
 	line "valises, alors du"
@@ -183,14 +183,14 @@ RageCandyBarMerchantSoldOutText:
 
 MahoganyTownGrampsText:
 	text "Sors-tu pour voir"
-	line "le LEVIATOR"
-	cont "déchaîné au LAC?"
+	line "le Léviator"
+	cont "déchaîné au Lac?"
 	done
 
 MahoganyTownGrampsText_ClearedRocketHideout:
-	text "Des MAGICARPE sont"
-	line "revenus au LAC"
-	cont "COLERE."
+	text "Des Magicarpe sont"
+	line "revenus au Lac"
+	cont "Colère."
 
 	para "Ca devrait faire"
 	line "plaisir aux"
@@ -206,7 +206,7 @@ MahoganyTownFisherText:
 
 	para "Tu devrais aller"
 	line "au Nord et voir"
-	cont "le LAC COLERE."
+	cont "le Lac Colère."
 	done
 
 MahoganyTownLassText:
@@ -218,7 +218,7 @@ MahoganyTownLassText:
 	done
 
 MahoganyTownSignText:
-	text "ACAJOU"
+	text "Acajou"
 
 	para "Bienvenue chez"
 	line "le grand ninja"
@@ -226,14 +226,14 @@ MahoganyTownSignText:
 
 MahoganyTownRagecandybarSignText:
 	text "Pendant votre"
-	line "visite d'ACAJOU,"
-	cont "essayez un BONBON"
-	cont "RAGE!"
+	line "visite d'Acajou,"
+	cont "essayez un Bonbon"
+	cont "Rage!"
 	done
 
 MahoganyGymSignText:
-	text "CHAMPION d'ARENE"
-	line "d'ACAJOU: FREDO"
+	text "Champion d'Arène"
+	line "d'Acajou: Fredo"
 
 	para "Le prof. qui"
 	line "venait du froid"

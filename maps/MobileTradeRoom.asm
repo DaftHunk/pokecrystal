@@ -28,7 +28,8 @@ MobileTradeRoomConsoleScript:
 	end
 
 MobileTradeRoom_EstablishingCommsText:
-	text_start
+	text "Etablissement des"
+	line "communications…"
 	done
 
 MobileTradeRoom_MapEvents:

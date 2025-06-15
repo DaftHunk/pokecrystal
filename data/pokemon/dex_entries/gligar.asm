@@ -1,4 +1,4 @@
-	db "SCORPIVOL@" ; species name
+	db "Scorpivol@" ; species name
 	db 11 ; height
 	dw 648 ; weight
 

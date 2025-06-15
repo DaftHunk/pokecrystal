@@ -20,7 +20,7 @@ CyclingRoadSign:
 	jumptext CyclingRoadSignText
 
 CyclingRoadSignText:
-	text "PISTE CYCLABLE"
+	text "Piste Cyclable"
 
 	para "Une descente"
 	line "d'enfer!"

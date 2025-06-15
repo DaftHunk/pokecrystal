@@ -78,47 +78,51 @@ Text_GrampsLookingForYou:
 	done
 
 Text_DayCareManTalksAboutEggTicket: ; unreferenced
-	text "Je suis le type"
-	line "de la PENSION."
+	text "Je suis le Type de"
+	line "la Pension."
 
-	para "There's something"
-	line "new in GOLDENROD"
+	para "Il y a quelque"
+	line "chose de nouveau"
+	cont "à Doublonville."
 
-	para "called the TRADE"
-	line "CORNER."
+	para "Ca s'appelle le"
+	line "Coin Troc!"
+	
+	para "On m'a donné un"
+	line "Ticket Oeuf"
 
-	para "I was given an EGG"
-	line "TICKET that can be"
+	para "qui peut être"
+	line "échangé contre un"
 
-	para "traded in for a"
-	line "ODD EGG."
+	para "Oeuf Bizarre."
+	line "Mais vu qu'on gère"
 
-	para "But since we run a"
-	line "DAY-CARE, we don't"
+	para "une pension, on en"
+	line "a pas besoin."
 
-	para "need it. You may"
-	line "as well have it."
+	para "Tiens, t'as qu'à"
+	line "le prendre."
 	done
 
 DayCareManText_GiveOddEgg:
-	text "Je suis le TYPE de"
-	line "la PENSION."
+	text "Je suis le Type de"
+	line "la Pension."
 
 	para "Tu connais les"
-	line "OEUFS?"
+	line "Oeufs?"
 
 	para "J'élevais des"
-	line "#MON avec ma"
+	line "#mon avec ma"
 	cont "femme..."
 
 	para "Et puis on a trou-"
-	line "vé un OEUF!"
+	line "vé un Oeuf!"
 
 	para "C'est pas trop"
 	line "dingue, ça?"
 
 	para "Bon. Tu le veux"
-	line "cet OEUF?"
+	line "cet Oeuf?"
 	cont "Tu peux le garder!"
 	done
 
@@ -128,19 +132,19 @@ DayCareText_ComeAgain: ; unreferenced
 
 DayCareText_GotOddEgg:
 	text "<PLAYER> reçoit"
-	line "OEUF BIZARRE!"
+	line "Oeuf Bizarre!"
 	done
 
 DayCareText_DescribeOddEgg:
 	text "J'ai trouvé ça"
 	line "en m'occupant du"
 
-	para "#MON de"
+	para "#mon de"
 	line "quelqu'un."
 
 	para "Mais le dresseur"
 	line "ne veut pas de"
-	cont "l'OEUF..."
+	cont "l'Oeuf..."
 	done
 
 DayCareText_PartyFull:

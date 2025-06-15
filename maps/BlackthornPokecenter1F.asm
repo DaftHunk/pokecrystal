@@ -23,10 +23,10 @@ BlackthornPokecenter1FCooltrainerMScript:
 
 BlackthornPokecenter1FGentlemanText:
 	text "Au fin fond du"
-	line "PLATEAU INDIGO se"
+	line "Plateau Indigo se"
 
-	para "trouve la LIGUE"
-	line "#MON."
+	para "trouve la Ligue"
+	line "#mon."
 
 	para "On dit que seuls"
 	line "les meilleurs"
@@ -40,11 +40,11 @@ BlackthornPokecenter1FTwinText:
 	line "capacité que je"
 
 	para "voulais donner à"
-	line "mon #MON..."
+	line "mon #mon..."
 
 	para "Alors j'ai demandé"
-	line "au TYPE QUI EFFACE"
-	cont "LES CAPACITES de"
+	line "au Type qui Efface"
+	cont "les Capacités de"
 	cont "lui faire oublier"
 	cont "une CS."
 	done

@@ -155,7 +155,7 @@ GoldenrodGameCornerTMVendorMenuHeader:
 	db "CT25    5500@"
 	db "CT14    5500@"
 	db "CT38    5500@"
-	db "RETOUR@"
+	db "Retour@"
 
 GoldenrodGameCornerPrizeMonVendorScript:
 	faceplayer
@@ -238,10 +238,10 @@ GoldenrodGameCornerPrizeMonVendorScript:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "ABRA        100@"
-	db "OSSELAIT    800@"
-	db "QULBUTOKE  1500@"
-	db "RETOUR@"
+	db "Abra        100@"
+	db "Osselait    800@"
+	db "Qulbutoke  1500@"
+	db "Retour@"
 
 GoldenrodGameCornerPharmacistScript:
 	faceplayer
@@ -323,7 +323,7 @@ GoldenrodGameCornerPrizeVendorIntroText:
 	text "Bienvenue!"
 
 	para "On échange les"
-	line "jetons contre de"
+	line "Jetons contre de"
 	cont "fabuleux prix!"
 	done
 
@@ -344,7 +344,7 @@ GoldenrodGameCornerPrizeVendorHereYouGoText:
 
 GoldenrodGameCornerPrizeVendorNeedMoreCoinsText:
 	text "Désolé! Il faut"
-	line "plus de jetons."
+	line "plus de Jetons."
 	done
 
 GoldenrodGameCornerPrizeVendorNoMoreRoomText:
@@ -355,13 +355,13 @@ GoldenrodGameCornerPrizeVendorNoMoreRoomText:
 
 GoldenrodGameCornerPrizeVendorQuitText:
 	text "OK. Economise"
-	line "tes jetons et"
+	line "tes Jetons et"
 	cont "reviens plus tard!"
 	done
 
 GoldenrodGameCornerPrizeVendorNoCoinCaseText:
 	text "Oh? Tu n'as pas"
-	line "de BOITE JETON."
+	line "de Boîte Jeton."
 	done
 
 GoldenrodGameCornerPharmacistText:
@@ -381,7 +381,7 @@ GoldenrodGameCornerPokefanM1Text:
 	para "Y'a beaucoup plus"
 	line "de suspense qu'"
 	cont "avec celles de"
-	cont "CELADOPOLE."
+	cont "Céladopole."
 	done
 
 GoldenrodGameCornerCooltrainerMText:
@@ -413,13 +413,13 @@ GoldenrodGameCornerCooltrainerFText:
 
 GoldenrodGameCornerGentlemanText:
 	text "J'ai appris"
-	line "BLIZZARD à mon"
-	cont "#MON."
+	line "Blizzard à mon"
+	cont "#mon."
 
 	para "J'ai eu du mal à"
 	line "récolter assez de"
 
-	para "jetons mais ça"
+	para "Jetons mais ça"
 	line "valait le coup."
 	done
 
@@ -435,14 +435,14 @@ GoldenrodGameCornerPokefanM2Text:
 	line "faire. Quand t'es"
 
 	para "nul, t'es nul!!"
-	line "J'ai jeté ma BOITE"
-	cont "JETON dans le"
-	cont "SOUTERRAIN."
+	line "J'ai jeté ma Boîte"
+	cont "Jeton dans le"
+	cont "Souterrain."
 	done
 
 MoveTutorInsideText:
 	text "Wahahah! Encore"
-	line "des jetons!"
+	line "des Jetons!"
 	done
 
 GoldenrodGameCornerLeftTheirDrinkText:

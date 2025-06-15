@@ -100,7 +100,7 @@ ViridianCityCoffeeGrampsQuestionText:
 	line "mais je suis un"
 
 	para "expert en capture"
-	line "de #MON."
+	line "de #mon."
 
 	para "Tu me crois, hein?"
 	done
@@ -124,21 +124,21 @@ ViridianCityCoffeeGrampsDoubtedText:
 	done
 
 ViridianCityGrampsNearGymText:
-	text "Cette ARENE vient"
+	text "Cette Arène vient"
 	line "juste d'avoir un"
-	cont "CHAMPION officiel."
+	cont "Champion officiel."
 
 	para "Un jeune homme de"
-	line "PALETTE est devenu"
+	line "Palette est devenu"
 
-	para "le CHAMPION mais"
+	para "le Champion mais"
 	line "il se balade"
 	cont "beaucoup."
 	done
 
 ViridianCityGrampsNearGymBlueReturnedText:
 	text "Vas-tu affronter"
-	line "le CHAMPION?"
+	line "le Champion?"
 
 	para "Bonne chance."
 	line "T'en auras besoin."
@@ -151,7 +151,7 @@ ViridianCityDreamEaterFisherText:
 	line "le soleil."
 
 	para "...J'ai rêvé d'un"
-	line "SOPORIFIK en train"
+	line "Soporifik en train"
 
 	para "de manger mes"
 	line "songes. Bizarre!"
@@ -169,7 +169,7 @@ ViridianCityDreamEaterFisherText:
 
 ViridianCityDreamEaterFisherGotDreamEaterText:
 	text "CT42 contient"
-	line "DEVOREVE..."
+	line "Dévorêve..."
 
 	para "...Zzzzz..."
 	done
@@ -178,20 +178,20 @@ ViridianCityYoungsterText:
 	text "On dit qu'il y a"
 	line "plein d'objets sur"
 
-	para "le sol de la FORET"
-	line "DE JADE."
+	para "le sol de la Forêt"
+	line "de Jade."
 	done
 
 ViridianCitySignText:
-	text "JADIELLE"
+	text "Jadielle"
 
 	para "Le paradis vert"
 	line "éternel"
 	done
 
 ViridianGymSignText:
-	text "CHAMPION d'ARENE"
-	line "de JADIELLE:"
+	text "Champion d'Arène"
+	line "de Jadielle:"
 	cont "..."
 
 	para "Le reste est"
@@ -200,14 +200,14 @@ ViridianGymSignText:
 
 ViridianCityWelcomeSignText:
 	text "Bienvenue à"
-	line "JADIELLE, la porte"
+	line "Jadielle, la porte"
 
-	para "vers le PLATEAU"
-	line "INDIGO"
+	para "vers le Plateau"
+	line "Indigo"
 	done
 
 TrainerHouseSignText:
-	text "CLUB des DRESSEURS"
+	text "Club des Dresseurs"
 
 	para "Réservé aux"
 	line "meilleurs"

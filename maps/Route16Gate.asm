@@ -34,7 +34,7 @@ Route16GateCannotPassMovement:
 	step_end
 
 Route16GateOfficerText:
-	text "La PISTE CYCLABLE"
+	text "La Piste Cyclable"
 	line "commence ici."
 
 	para "C'est une descente"
@@ -53,10 +53,10 @@ Route16GateCannotPassText:
 	text "Hé! Oh! Stop!"
 
 	para "Tu peux pas aller"
-	line "sur la PISTE CY-"
+	line "sur la Piste Cy-"
 
-	para "CLABLE sans une"
-	line "BICYCLETTE!"
+	para "clable sans une"
+	line "Bicyclette!"
 	done
 
 Route16Gate_MapEvents:

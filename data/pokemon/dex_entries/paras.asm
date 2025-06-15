@@ -1,4 +1,4 @@
-	db "CHAMPIGNON@" ; species name
+	db "Champignon@" ; species name
 	db 3 ; height
 	dw 54 ; weight
 

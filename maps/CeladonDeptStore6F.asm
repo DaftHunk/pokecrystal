@@ -90,10 +90,10 @@ CeladonDeptStore6FVendingMachine:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "EAU FRAICHE  {d:CELADONDEPTSTORE6F_FRESH_WATER_PRICE}¥@"
-	db "SODA COOL    {d:CELADONDEPTSTORE6F_SODA_POP_PRICE}¥@"
-	db "LIMONADE     {d:CELADONDEPTSTORE6F_LEMONADE_PRICE}¥@"
-	db "RETOUR@"
+	db "Eau Fraiche  {d:CELADONDEPTSTORE6F_FRESH_WATER_PRICE}¥@"
+	db "Soda Cool    {d:CELADONDEPTSTORE6F_SODA_POP_PRICE}¥@"
+	db "Limonade     {d:CELADONDEPTSTORE6F_LEMONADE_PRICE}¥@"
+	db "Retour@"
 
 CeladonDeptStore6FDirectory:
 	jumptext CeladonDeptStore6FDirectoryText
@@ -144,8 +144,8 @@ CeladonDeptStore6FYoungsterText:
 	done
 
 CeladonDeptStore6FDirectoryText:
-	text "5EME: ESPACE TOIT"
-	line "DISTRIBUTEURS"
+	text "5ème: Espace Toit"
+	line "Distributeurs"
 	done
 
 CeladonDeptStore6F_MapEvents:

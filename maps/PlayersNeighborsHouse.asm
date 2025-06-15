@@ -45,16 +45,16 @@ PlayersNeighborsHouseRadioScript:
 	end
 
 PlayersNeighborsDaughterText:
-	text "PIKACHU est un"
-	line "#MON évolué."
+	text "Pikachu est un"
+	line "#mon évolué."
 
 	para "Les découvertes du"
-	line "PROF.ORME sont"
+	line "Prof.Orme sont"
 	cont "incroyables."
 
 	para "Ses recherches sur"
 	line "l'évolution des"
-	cont "#MON sont"
+	cont "#mon sont"
 	cont "brillantes."
 
 	para "(soupir)"
@@ -67,33 +67,33 @@ PlayersNeighborText:
 	text "Ma fille veut"
 	line "devenir l'assis-"
 
-	para "tante du PROF."
-	line "ORME."
+	para "tante du Prof."
+	line "Orme."
 
 	para "Elle adoooore les"
-	line "#MON!"
+	line "#mon!"
 	cont "Et moi aussi!"
 	done
 
 PlayerNeighborRadioText1:
-	text "La CHRONIQUE PKMN"
-	line "du PROF.CHEN!"
+	text "La Chronique <PKMN>"
+	line "du Prof.Chen!"
 	cont "Bientôt de retour"
 	cont "sur les ondes!"
 	done
 
 PlayerNeighborRadioText2:
-	text "ANTENNE #MON!"
+	text "Antenne #mon!"
 	done
 
 PlayerNeighborRadioText3:
-	text "Ici DJ LULA, votre"
+	text "Ici DJ Lula, votre"
 	line "co-présentatrice!"
 	done
 
 PlayerNeighborRadioText4:
-	text "#MON!"
-	line "ANTENNE #MON..."
+	text "#mon!"
+	line "Antenne #mon..."
 	done
 
 PlayersNeighborsHouse_MapEvents:

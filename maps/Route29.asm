@@ -247,7 +247,7 @@ DudeMovementData2b:
 	step_end
 
 CatchingTutorialBoxFullText:
-	text "Les #MON se"
+	text "Les #mon se"
 	line "cachent dans"
 
 	para "l'herbe. Ils sur-"
@@ -257,13 +257,13 @@ CatchingTutorialBoxFullText:
 
 CatchingTutorialIntroText:
 	text "J'te connais toi."
-	line "Combien de #MON"
+	line "Combien de #mon"
 	cont "as-tu attrapés?"
 
 	para "Veux-tu que je te"
 	line "montre comment at-"
 	cont "traper des"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 CatchingTutorialDebriefText:
@@ -272,7 +272,7 @@ CatchingTutorialDebriefText:
 
 	para "Si tu affaiblis"
 	line "d'abord le #-"
-	cont "MON, il sera plus"
+	cont "mon, il sera plus"
 	cont "facile à attraper."
 	done
 
@@ -283,19 +283,19 @@ CatchingTutorialDeclinedText:
 	line "dois beaucoup mar-"
 
 	para "cher pour attraper"
-	line "des #MON."
+	line "des #mon."
 	done
 
 CatchingTutorialRepeatText:
 	text "Hein? Tu veux que"
 	line "je te montre com-"
 	cont "ment attraper des"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 Route29YoungsterText:
 	text "Salut. Comment"
-	line "vont tes #MON?"
+	line "vont tes #mon?"
 
 	para "S'ils sont fati-"
 	line "gués ou incapables"
@@ -310,7 +310,7 @@ Route29TeacherText:
 	cont "faire peur."
 
 	para "Mais tu peux aller"
-	line "à BOURG GEON sans"
+	line "à Bourg Geon sans"
 
 	para "marcher dans les"
 	line "hautes herbes."
@@ -326,7 +326,7 @@ Route29FisherText:
 
 Route29CooltrainerMText_WaitingForDay: ; unreferenced
 	text "J'attends les"
-	line "#MON qui n'ap-"
+	line "#mon qui n'ap-"
 
 	para "paraissent que la"
 	line "journée."
@@ -334,7 +334,7 @@ Route29CooltrainerMText_WaitingForDay: ; unreferenced
 
 Route29CooltrainerMText_WaitingForNight:
 	text "J'attends les"
-	line "#MON qui n'ap-"
+	line "#mon qui n'ap-"
 
 	para "paraissent que la"
 	line "nuit."
@@ -342,14 +342,14 @@ Route29CooltrainerMText_WaitingForNight:
 
 Route29CooltrainerMText_WaitingForMorning:
 	text "J'attends les"
-	line "#MON qui n'ap-"
+	line "#mon qui n'ap-"
 
 	para "paraissent que le"
 	line "matin."
 	done
 
 MeetTuscanyText:
-	text "MARIE: Il me sem-"
+	text "Marie: Il me sem-"
 	line "ble que c'est la"
 
 	para "première fois que"
@@ -357,7 +357,7 @@ MeetTuscanyText:
 
 	para "Permets-moi de me"
 	line "présenter. Je suis"
-	cont "MARIE du mardi."
+	cont "Marie du Mardi."
 	done
 
 TuscanyGivesGiftText:
@@ -365,29 +365,29 @@ TuscanyGivesGiftText:
 	line "Permets-moi"
 
 	para "de t'offrir..."
-	line "Un RUBAN ROSE."
+	line "Un Ruban Rose."
 	done
 
 TuscanyGaveGiftText:
-	text "MARIE: C'est"
+	text "Marie: C'est"
 	line "ravissant, tu ne"
 	cont "trouves pas?"
 
 	para "Il améliore les"
 	line "capacités de type"
-	cont "NORMAL."
+	cont "Normal."
 
 	para "Je suis sûre qu'il"
 	line "te sera utile."
 	done
 
 TuscanyTuesdayText:
-	text "MARIE: As-tu"
-	line "rencontré LUCIE,"
+	text "Marie: As-tu"
+	line "rencontré Lucie,"
 	cont "ma grande soeur?"
 
 	para "Ou mon petit frère"
-	line "HOMER?"
+	line "Homer?"
 
 	para "Je suis la deuxiè-"
 	line "me des sept en-"
@@ -395,23 +395,23 @@ TuscanyTuesdayText:
 	done
 
 TuscanyNotTuesdayText:
-	text "MARIE: Aujourd'hui"
-	line "n'est pas mardi."
+	text "Marie: Aujourd'hui"
+	line "n'est pas Mardi."
 	cont "C'est dommage..."
 	done
 
 Route29Sign1Text:
-	text "ROUTE 29"
+	text "Route 29"
 
-	para "VILLE GRIOTTE -"
-	line "BOURG GEON"
+	para "Ville Griotte -"
+	line "Bourg Geon"
 	done
 
 Route29Sign2Text:
-	text "ROUTE 29"
+	text "Route 29"
 
-	para "VILLE GRIOTTE -"
-	line "BOURG GEON"
+	para "Ville Griotte -"
+	line "Bourg Geon"
 	done
 
 Route29_MapEvents:

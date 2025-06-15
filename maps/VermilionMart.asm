@@ -21,9 +21,9 @@ VermilionMartBeautyScript:
 	jumptextfaceplayer VermilionMartBeautyText
 
 VermilionMartSuperNerdText:
-	text "La TEAM ROCKET"
+	text "La Team Rocket"
 	line "n'est plus à"
-	cont "KANTO."
+	cont "Kanto."
 
 	para "Ca pour une"
 	line "nouvelle..."
@@ -32,7 +32,7 @@ VermilionMartSuperNerdText:
 VermilionMartBeautyText:
 	text "J'aimerais faire"
 	line "du shopping à"
-	cont "SAFRANIA."
+	cont "Safrania."
 	done
 
 VermilionMart_MapEvents:

@@ -85,7 +85,7 @@ Route9HiddenEther:
 
 CamperDeanSeenText:
 	text "Je viens pour ex-"
-	line "plorer la GROTTE."
+	line "plorer la Grotte."
 	done
 
 CamperDeanBeatenText:
@@ -93,15 +93,15 @@ CamperDeanBeatenText:
 	done
 
 CamperDeanAfterBattleText:
-	text "Mes #MON ont"
+	text "Mes #mon ont"
 	line "été blessés avant"
 
 	para "d'entrer dans la"
-	line "GROTTE."
+	line "Grotte."
 
 	para "Je devrais les"
-	line "amener à un CENTRE"
-	cont "#MON..."
+	line "amener à un Centre"
+	cont "#mon..."
 	done
 
 PicnickerHeidiSeenText:
@@ -158,12 +158,12 @@ PicnickerEdnaAfterBattleText:
 
 HikerTimSeenText:
 	text "Elle descend du"
-	line "MONT ARGENT à"
+	line "Mont Argent à"
 	cont "cheval..."
 	cont "La la la la la..."
 
-	para "Le MONT ARGENT est"
-	line "à JOHTO, non?"
+	para "Le Mont Argent est"
+	line "à Johto, non?"
 	done
 
 HikerTimBeatenText:
@@ -191,16 +191,16 @@ HikerSidneyBeatenText:
 	done
 
 HikerSidneyAfterBattleText:
-	text "La CENTRALE est de"
+	text "La Centrale est de"
 	line "l'autre côté d'une"
 	cont "rivière."
 	done
 
 Route9SignText:
-	text "ROUTE 9"
+	text "Route 9"
 
-	para "AZURIA -"
-	line "GROTTE"
+	para "Azuria -"
+	line "Grotte"
 	done
 
 Route9_MapEvents:

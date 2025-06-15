@@ -353,17 +353,17 @@ RadioTower2FTeacherText:
 	text "Les berceuses de"
 	line "la radio peuvent"
 	cont "endormir les"
-	cont "#MON."
+	cont "#mon."
 	done
 
 RadioTower2FTeacherText_Rockets:
 	text "Pourquoi veulent-"
 	line "ils contrôler la"
-	cont "TOUR RADIO?"
+	cont "Tour Radio?"
 	done
 
 RadioTowerJigglypuffText:
-	text "RONDOUDOU:"
+	text "Rondoudou:"
 	line "Douuu..."
 	done
 
@@ -375,7 +375,7 @@ RadioTower2FBlackBelt1Text:
 	para "Cette mesure vient"
 	line "d'être appliquée."
 
-	para "Le DIRECTEUR ne"
+	para "Le Directeur ne"
 	line "va pas bien..."
 	done
 
@@ -383,14 +383,14 @@ RadioTower2FBlackBelt2Text:
 	text "Vous pouvez vous"
 	line "balader."
 
-	para "Le DIRECTEUR est"
+	para "Le Directeur est"
 	line "agréable. Comme"
 	cont "avant, quoi."
 	done
 
 GruntM4SeenText:
 	text "Il y a trois ans,"
-	line "la TEAM ROCKET a"
+	line "la Team Rocket a"
 	cont "été obligée de se"
 	cont "dissoudre."
 
@@ -410,10 +410,10 @@ GruntM4AfterBattleText:
 	done
 
 GruntM5SeenText:
-	text "On est la TEAM"
-	line "ROCKET, on est les"
+	text "On est la Team"
+	line "Rocket, on est les"
 	cont "exploiteurs de"
-	cont "#MON!"
+	cont "#mon!"
 
 	para "On est des pas"
 	line "beaux méchants qui"
@@ -441,7 +441,7 @@ GruntM6BeatenText:
 	done
 
 GruntM6AfterBattleText:
-	text "Nos CAIDS sont en"
+	text "Nos Caïds sont en"
 	line "train de contrôler"
 	cont "cet endroit."
 
@@ -475,12 +475,12 @@ GruntF2AfterBattleText:
 	done
 
 RadioTower2FBuenaShowIntroductionText:
-	text "BUENA: Salut!"
-	line "Je suis BUENA!"
+	text "Buena: Salut!"
+	line "Je suis Buena!"
 
 	para "Connais-tu l'émis-"
-	line "sion LE MOT DE"
-	cont "PASSE?"
+	line "sion LE Mot de"
+	cont "Passe?"
 
 	para "Si tu peux me"
 	line "donner le mot de"
@@ -505,13 +505,13 @@ RadioTower2FBuenaShowIntroductionText:
 	done
 
 RadioTower2FBuenaTuneInToMyShowText:
-	text "BUENA: Ecoutez"
+	text "Buena: Ecoutez"
 	line "tous l'émission"
-	cont "du MOT DE PASSE!"
+	cont "du Mot de Passe!"
 	done
 
 RadioTower2FBuenaDoYouKnowPasswordText:
-	text "BUENA: Bonjour!"
+	text "Buena: Bonjour!"
 	line "As-tu écouté mon"
 	cont "émission?"
 
@@ -521,7 +521,7 @@ RadioTower2FBuenaDoYouKnowPasswordText:
 	done
 
 RadioTower2FBuenaJoinTheShowText:
-	text "BUENA: Oh!"
+	text "Buena: Oh!"
 	line "Merci!"
 
 	para "Quel est ton nom,"
@@ -534,7 +534,7 @@ RadioTower2FBuenaJoinTheShowText:
 	done
 
 RadioTower2FBuenaEveryoneSayPasswordText:
-	text "BUENA: Tout le"
+	text "Buena: Tout le"
 	line "monde est prêt?"
 
 	para "Il faut crier le"
@@ -545,7 +545,7 @@ RadioTower2FBuenaEveryoneSayPasswordText:
 	done
 
 RadioTower2FBuenaComeBackAfterListeningText:
-	text "BUENA: Reviens"
+	text "Buena: Reviens"
 	line "après avoir écouté"
 
 	para "mon émission, OK?"
@@ -553,7 +553,7 @@ RadioTower2FBuenaComeBackAfterListeningText:
 	done
 
 RadioTower2FBuenaAlreadyPlayedText:
-	text "BUENA: Désolée..."
+	text "Buena: Désolée..."
 
 	para "Tu n'as qu'un"
 	line "essai par jour."
@@ -563,7 +563,7 @@ RadioTower2FBuenaAlreadyPlayedText:
 	done
 
 RadioTower2FBuenaCorrectAnswerText:
-	text "BUENA: OUAIIIS!"
+	text "Buena: OUAIIIS!"
 	line "C'est exact!"
 
 	para "Tu as donc écouté"
@@ -574,7 +574,7 @@ RadioTower2FBuenaCorrectAnswerText:
 	done
 
 RadioTower2FBuenaDidYouForgetText:
-	text "BUENA: ..."
+	text "Buena: ..."
 	line "Pas du tout."
 
 	para "Tu as oublié le"
@@ -582,7 +582,7 @@ RadioTower2FBuenaDidYouForgetText:
 	done
 
 RadioTower2FBuenaThanksForComingText:
-	text "BUENA: Notre"
+	text "Buena: Notre"
 	line "candidat était"
 
 	para "<PLAY_G>."
@@ -593,14 +593,14 @@ RadioTower2FBuenaThanksForComingText:
 	done
 
 RadioTower2FBuenaPasswordIsHelpText:
-	text "BUENA: De quoi?"
+	text "Buena: De quoi?"
 	line "Le mot de passe?"
 
 	para "AU SECOURS!"
 	done
 
 RadioTower2FBuenaCardIsFullText:
-	text "BUENA: Ta carte"
+	text "Buena: Ta carte"
 	line "est pleine."
 
 	para "Va donc empocher"
@@ -608,8 +608,8 @@ RadioTower2FBuenaCardIsFullText:
 	done
 
 RadioTower2FBuenaTuneInAfterSixText:
-	text "BUENA: Ecoutez le"
-	line "MOT DE PASSE tous"
+	text "Buena: Ecoutez le"
+	line "Mot de Passe tous"
 
 	para "les soirs de 18"
 	line "heures à minuit!"
@@ -618,9 +618,9 @@ RadioTower2FBuenaTuneInAfterSixText:
 	done
 
 RadioTower2FBuenaNoBlueCardText:
-	text "BUENA: Oh? Tu n'as"
+	text "Buena: Oh? Tu n'as"
 	line "pas amené ta"
-	cont "CARTE BLEUE?"
+	cont "Carte Bleue?"
 
 	para "Je ne peux pas te"
 	line "donner de points"
@@ -628,10 +628,10 @@ RadioTower2FBuenaNoBlueCardText:
 	done
 
 RadioTower2FBuenaOfferPhoneNumberText:
-	text "BUENA: Oh! Ta"
-	line "CARTE BLEUE a un"
+	text "Buena: Oh! Ta"
+	line "Carte Bleue a un"
 
-	para "total de {d:BLUE_CARD_POINT_CAP} pts"
+	para "total de 30 {d:BLUE_CARD_POINT_CAP}"
 	line "aujourd'hui!"
 
 	para "Hmmm... Il n'y a"
@@ -649,28 +649,28 @@ RadioTower2FBuenaOfferPhoneNumberText:
 	done
 
 RadioTower2FBuenaOfferNumberAgainText:
-	text "BUENA: <PLAY_G>,"
+	text "Buena: <PLAY_G>,"
 	line "veux-tu mon numéro"
 	cont "de téléphone?"
 	done
 
 RadioTower2FRegisteredBuenasNumberText:
 	text "<PLAYER> enregistre"
-	line "le No. de BUENA."
+	line "le No. de Buena."
 	done
 
 RadioTower2FBuenaCallMeText:
-	text "BUENA: Appelle-moi"
+	text "Buena: Appelle-moi"
 	line "vite!"
 	done
 
 RadioTower2FBuenaSadRejectedText:
-	text "BUENA:..."
+	text "Buena:..."
 	line "C'est spécial..."
 	done
 
 RadioTower2FBuenaYourPhoneIsFullText:
-	text "BUENA: <PLAY_G>,"
+	text "Buena: <PLAY_G>,"
 	line "il n'y a plus de"
 
 	para "place sur ton"
@@ -687,19 +687,19 @@ RadioTower2FBuenaReceptionistNoCardText:
 	text "Tu ne peux pas"
 	line "échanger tes"
 	cont "points sans ta"
-	cont "CARTE BLEUE."
+	cont "Carte Bleue."
 
 	para "N'oublie pas ta"
-	line "CARTE BLEUE!"
+	line "Carte Bleue!"
 	done
 
 RadioTower2FSalesSignText:
-	text "1ER VENTES"
+	text "1er Ventes"
 	done
 
 RadioTower2FOaksPKMNTalkSignText:
-	text "CHRONIQUE #MON"
-	line "DU PROF.CHEN"
+	text "Chronique #mon"
+	line "DU Prof.Chen"
 
 	para "L'émission star"
 	line "à l'antenne!"
@@ -710,7 +710,7 @@ RadioTower2FPokemonRadioSignText:
 	line "Pour chacun"
 	cont "Le soir"
 	cont "Comme le matin"
-	cont "RADIO #MON"
+	cont "Radio #mon"
 	cont "C'est bien..."
 	done
 

@@ -22,11 +22,11 @@ FightingDojoFocusBand:
 FightingDojoBlackBeltText:
 	text "Bonjour!"
 
-	para "Le ROI du KARATE,"
-	line "le maître du DOJO"
+	para "Le Roi du Karaté,"
+	line "le maître du Dojo"
 
 	para "est dans une grot-"
-	line "te de JOHTO pour"
+	line "te de Johto pour"
 	cont "s'entraîner."
 	done
 

@@ -1,4 +1,4 @@
-	db "CHAMPIGNON@" ; species name
+	db "Champignon@" ; species name
 	db 10 ; height
 	dw 295 ; weight
 
@@ -8,4 +8,4 @@
 
 	page "rer, il laisse des"
 	next "spores sur l'oeuf"
-	next "de l'insecte.@"
+	next "de l'Insecte.@"

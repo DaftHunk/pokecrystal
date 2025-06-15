@@ -75,7 +75,7 @@ CatchTutorial::
 	ret
 
 .Dude:
-	db "COPAIN@"
+	db "Copain@"
 
 .AutoInput:
 	db NO_INPUT, $ff ; end

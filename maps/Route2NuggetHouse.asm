@@ -40,7 +40,7 @@ Route2NuggetHouseFisherText:
 	done
 
 Route2NuggetHouseFisherText_GotNugget:
-	text "C'est une PEPITE."
+	text "C'est une Pépite."
 
 	para "Tu verras, ça vaut"
 	line "du pognon!"

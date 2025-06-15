@@ -189,18 +189,18 @@ ChucksWifeEasierToFlyText:
 	para "Ce serait plus"
 	line "facile si tes"
 
-	para "#MON savaient"
+	para "#mon savaient"
 	line "voler."
 	done
 
 ChucksWifeBeatChuckText:
 	text "Mais tu ne peux"
-	line "pas utiliser VOL"
-	cont "sans le BADGE de"
+	line "pas utiliser Vol"
+	cont "sans le Badge de"
 	cont "cette ville."
 
 	para "Si tu bats le"
-	line "CHAMPION d'ARENE"
+	line "Champion d'Arène"
 	cont "du coin, reviens"
 	cont "me voir."
 
@@ -209,16 +209,16 @@ ChucksWifeBeatChuckText:
 	done
 
 ChucksWifeGiveHMText:
-	text "C'est le BADGE de"
-	line "l'ARENE D'IRISIA!"
+	text "C'est le Badge de"
+	line "l'Arène D'Irisia!"
 
 	para "Voilà pour toi:"
 	line "une CS."
 	done
 
 ChucksWifeFlySpeechText:
-	text "Apprends VOL à ton"
-	line "#MON."
+	text "Apprends Vol à ton"
+	line "#mon."
 
 	para "Tu pourras voler"
 	line "tout de suite et"
@@ -241,10 +241,10 @@ ChucksWifeChubbyText:
 	done
 
 CianwoodCityYoungsterText:
-	text "En utilisant VOL,"
+	text "En utilisant Vol,"
 	line "tu peux revenir à"
 
-	para "OLIVILLE en un"
+	para "Oliville en un"
 	line "instant."
 	done
 
@@ -258,25 +258,25 @@ CianwoodCityPokefanMText:
 	line "être quelque"
 	cont "chose."
 
-	para "Ton #MON peut"
-	line "utiliser ECLATE-"
-	cont "ROC pour les"
+	para "Ton #mon peut"
+	line "utiliser Eclate-"
+	cont "Roc pour les"
 	cont "détruire."
 	done
 
 CianwoodCityLassText:
-	text "CHUCK, le"
-	line "CHAMPION d'ARENE"
+	text "Chuck, le"
+	line "Champion d'Arène"
 
 	para "s'entraîne avec"
-	line "ses #MON de"
-	cont "type COMBAT."
+	line "ses #mon de"
+	cont "type Combat."
 	done
 
 CianwoodCityUnusedText:
 	text "Il y a plusieurs"
 	line "îles entre ici et"
-	cont "OLIVILLE."
+	cont "Oliville."
 
 	para "Une créature mari-"
 	line "ne mythique est"
@@ -284,19 +284,19 @@ CianwoodCityUnusedText:
 	done
 
 EusineSuicuneText:
-	text "EUSINE: Hé!"
+	text "Eusine: Hé!"
 	line "<PLAYER>!"
 
 	para "C'était pas"
-	line "SUICUNE?"
+	line "Suicune?"
 
 	para "Je l'ai juste"
 	line "aperçu mais j'ai"
 
-	para "vu SUICUNE courir"
+	para "vu Suicune courir"
 	line "sur les vagues."
 
-	para "SUICUNE est siiii"
+	para "Suicune est siiii"
 	line "bôôô et vaillant!"
 
 	para "Il court et tra-"
@@ -308,14 +308,14 @@ EusineSuicuneText:
 	para "C'est dingue..."
 
 	para "Je veux voir"
-	line "SUICUNE de près..."
+	line "Suicune de près..."
 
 	para "C'est décidé."
 
 	para "Je vais t'affron-"
 	line "ter pour montrer"
 	cont "mon talent à"
-	cont "SUICUNE!"
+	cont "Suicune!"
 
 	para "Mais si c'est"
 	line "logique!"
@@ -331,14 +331,14 @@ EusineAfterText:
 	text "Tu es formidable,"
 	line "<PLAYER>!"
 
-	para "Les #MON"
+	para "Les #mon"
 	line "doivent t'adorer."
 
 	para "Je comprends tout."
 
 	para "Je vais encore"
 	line "traquer le grand"
-	cont "SUICUNE."
+	cont "Suicune."
 
 	para "On se reverra."
 
@@ -346,7 +346,7 @@ EusineAfterText:
 	done
 
 CianwoodCitySignText:
-	text "IRISIA"
+	text "Irisia"
 
 	para "Un port entouré"
 	line "d'une mer bien"
@@ -354,8 +354,8 @@ CianwoodCitySignText:
 	done
 
 CianwoodGymSignText:
-	text "CHAMPION d'ARENE"
-	line "d'IRISIA: CHUCK"
+	text "Champion d'Arène"
+	line "d'Irisia: Chuck"
 
 	para "Ses poings parlent"
 	line "pour lui"
@@ -365,23 +365,23 @@ CianwoodPharmacySignText:
 	text "500 ans de"
 	line "Tradition"
 
-	para "PHARMACIE d'IRISIA"
+	para "Pharmacie d'Irisia"
 
 	para "Malades..."
 	line "Venez nombreux!"
 	done
 
 CianwoodPhotoStudioSignText:
-	text "STUDIO PHOTO"
-	line "D'IRISIA"
+	text "Studio Photo"
+	line "D'Irisia"
 
 	para "Une petite photo"
 	line "souvenir!"
 	done
 
 CianwoodPokeSeerSignText:
-	text "#DEVIN"
-	line "TOUT DROIT"
+	text "#devin"
+	line "Tout droit"
 	done
 
 CianwoodCity_MapEvents:

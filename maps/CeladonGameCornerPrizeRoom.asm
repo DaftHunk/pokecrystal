@@ -119,7 +119,7 @@ CeladonPrizeRoom_TMMenuHeader:
 	db "CT32    {d:CELADONGAMECORNERPRIZEROOM_TM32_COINS}@"
 	db "CT29    {d:CELADONGAMECORNERPRIZEROOM_TM29_COINS}@"
 	db "CT15    {d:CELADONGAMECORNERPRIZEROOM_TM15_COINS}@"
-	db "RETOUR@"
+	db "Retour@"
 
 CeladonGameCornerPrizeRoomPokemonVendor:
 	faceplayer
@@ -202,15 +202,15 @@ CeladonGameCornerPrizeRoomPokemonVendor:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "PIKACHU    {d:CELADONGAMECORNERPRIZEROOM_PIKACHU_COINS}@"
-	db "PORYGON    {d:CELADONGAMECORNERPRIZEROOM_PORYGON_COINS}@"
-	db "EMBRYLEX   {d:CELADONGAMECORNERPRIZEROOM_LARVITAR_COINS}@"
-	db "RETOUR@"
+	db "Pikachu    {d:CELADONGAMECORNERPRIZEROOM_PIKACHU_COINS}@"
+	db "Porygon    {d:CELADONGAMECORNERPRIZEROOM_PORYGON_COINS}@"
+	db "Embrylex   {d:CELADONGAMECORNERPRIZEROOM_LARVITAR_COINS}@"
+	db "Retour@"
 
 CeladonGameCornerPrizeRoomGentlemanText:
-	text "Je voulais PORYGON"
+	text "Je voulais Porygon"
 	line "mais il me manque"
-	cont "100 jetons..."
+	cont "100 Jetons..."
 	done
 
 CeladonGameCornerPrizeRoomPharmacistText:
@@ -228,7 +228,7 @@ CeladonPrizeRoom_PrizeVendorIntroText:
 	text "Bienvenue!"
 
 	para "On échange les"
-	line "jetons contre"
+	line "Jetons contre"
 
 	para "de bô prix!"
 	done
@@ -249,7 +249,7 @@ CeladonPrizeRoom_HereYouGoText:
 
 CeladonPrizeRoom_NotEnoughCoinsText:
 	text "Pas assez de"
-	line "jetons."
+	line "Jetons."
 	done
 
 CeladonPrizeRoom_NotEnoughRoomText:
@@ -258,12 +258,12 @@ CeladonPrizeRoom_NotEnoughRoomText:
 
 CeladonPrizeRoom_ComeAgainText:
 	text "Oh. Il faut amener"
-	line "tous les jetons!"
+	line "tous les Jetons!"
 	done
 
 CeladonPrizeRoom_NoCoinCaseText:
 	text "Oh? Pas de"
-	line "BOITE JETON!"
+	line "Boîte Jeton!"
 	done
 
 CeladonGameCornerPrizeRoom_MapEvents:

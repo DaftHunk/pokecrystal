@@ -159,8 +159,8 @@ Fisher3Text_MunchMunch:
 Fisher3Text_GoldenrodIsBest:
 	text "Ici la nourriture"
 	line "est bonne mais"
-	cont "celle de DOUBLON-"
-	cont "VILLE est la meil-"
+	cont "celle de Doublon-"
+	cont "ville est la meil-"
 	cont "leure de toutes."
 	done
 
@@ -170,10 +170,10 @@ TeacherText_CrunchCrunch:
 
 TeacherText_NoCoinCase:
 	text "Personne ne te"
-	line "donnera de BOITE"
+	line "donnera de Boîte"
 
-	para "JETON, ici. Va"
-	line "voir à JOHTO."
+	para "Jeton, ici. Va"
+	line "voir à Johto."
 	done
 
 TeacherText_KeepEating:

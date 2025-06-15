@@ -1,4 +1,4 @@
-	db "LATTEUR@" ; species name
+	db "Latteur@" ; species name
 	db 15 ; height
 	dw 498 ; weight
 

@@ -225,52 +225,52 @@ CeruleanGymGruntByeText:
 CeruleanGymNote1Text:
 	text "Sortie pour un"
 	line "moment..."
-	cont "ONDINE, CHAMPIONNE"
+	cont "Ondine, Championne"
 	done
 
 CeruleanGymNote2Text:
-	text "ONDINE est partie,"
+	text "Ondine est partie,"
 	line "alors nous aussi."
-	cont "Les DRESSEURS de"
-	cont "l'ARENE"
+	cont "Les Dresseurs de"
+	cont "l'Arène"
 	done
 
 MistyIntroText:
-	text "ONDINE: Je"
+	text "Ondine: Je"
 	line "t'attendais, toi!"
 
 	para "Tu as peut-être"
-	line "des BADGES de"
+	line "des Badges de"
 
-	para "JOHTO, mais tu vas"
+	para "Johto, mais tu vas"
 	line "quand même te"
 	cont "prendre une"
 	cont "sacrée raclée."
 
-	para "Mes #MON"
+	para "Mes #mon"
 	line "aquatiques sont"
 	cont "trop forts!"
 	done
 
 MistyWinLossText:
-	text "ONDINE: OK. T'es"
+	text "Ondine: OK. T'es"
 	line "pas naze..."
 
 	para "Je le reconnais..."
 
 	para "Tiens. V'là le"
-	line "BADGECASCADE."
+	line "BadgeCascade."
 	done
 
 ReceivedCascadeBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGECASCADE."
+	line "le BadgeCascade."
 	done
 
 MistyFightDoneText:
-	text "ONDINE: Y a-t-il"
+	text "Ondine: Y a-t-il"
 	line "des dresseurs"
-	cont "doués à JOHTO? Un"
+	cont "doués à Johto? Un"
 	cont "peu comme toi..."
 
 	para "Je vais y aller"
@@ -310,7 +310,7 @@ SwimmerfBrianaAfterBattleText:
 	text "Ne crâne pas"
 	line "trop..."
 
-	para "ONDINE va te faire"
+	para "Ondine va te faire"
 	line "mal..."
 	done
 
@@ -326,7 +326,7 @@ SwimmermParkerBeatenText:
 	done
 
 SwimmermParkerAfterBattleText:
-	text "ONDINE s'est bien"
+	text "Ondine s'est bien"
 	line "améliorée depuis"
 	cont "un certain temps."
 
@@ -339,7 +339,7 @@ CeruleanGymGuideText:
 	text "Hé! Graine de"
 	line "star!"
 
-	para "Quand ONDINE était"
+	para "Quand Ondine était"
 	line "partie, j'suis"
 	cont "allé me balader."
 	cont "Hé hé hé!"

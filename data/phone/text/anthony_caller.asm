@@ -3,7 +3,7 @@ AnthonyMonAteSomeBerriesText:
 	line "vu @"
 	text_ram wStringBuffer4
 	text_start
-	cont "manger des BAIES."
+	cont "manger des Baies."
 
 	para "Il avait l'air"
 	line "d'aimer ça, alors"
@@ -42,7 +42,7 @@ AnthonyLostAMonText:
 
 	para "J'ai été dis-"
 	line "trait par un"
-	cont "CANON qui passait."
+	cont "Canon qui passait."
 
 	para "Comme quoi..."
 	line "Y'a des filles,"
@@ -95,11 +95,11 @@ AnthonySwarmText:
 	line "J'en ai pas vu là"
 
 	para "où il y a des"
-	line "#MON puissants."
+	line "#mon puissants."
 	done
 
 AnthonyWasntPayingAttentionText:
-	text "Des #MON rares?"
+	text "Des #mon rares?"
 
 	para "Désolé!"
 	line "Je ne fais pas"
@@ -120,13 +120,13 @@ AnthonyReminderText:
 
 AnthonyHurryText:
 	text "Allô? Quoi? Où"
-	line "est INSOLOURDO?"
+	line "est Insolourdo?"
 
-	para "ANTRE NOIRE! Vite!"
+	para "Antre Noire! Vite!"
 
 	para "Il n'apparaît pas"
 	line "s'il y a trop de"
 
-	para "#MON puissants"
+	para "#mon puissants"
 	line "dans le coin."
 	done

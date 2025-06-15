@@ -25,20 +25,20 @@ CeladonDeptStore1FElevatorButton:
 
 CeladonDeptStore1FReceptionistText:
 	text "Bienvenue au"
-	line "CENTRE COMMERCIAL"
-	cont "de CELADOPOLE!"
+	line "Centre Commercial"
+	cont "de Céladopole!"
 
 	para "Les informations"
 	line "sont sur le mur."
 	done
 
 CeladonDeptStore1FGentlemanText:
-	text "Ce CENTRE COMMER-"
-	line "CIAL appartient à"
+	text "Ce Centre Commer-"
+	line "cial appartient à"
 
 	para "la même chaîne que"
-	line "celui de DOUBLON-"
-	cont "VILLE."
+	line "celui de Doublon-"
+	cont "ville."
 
 	para "Ils ont été réno-"
 	line "vés en même temps."
@@ -56,21 +56,21 @@ CeladonDeptStore1FTeacherText:
 	done
 
 CeladonDeptStore1FDirectoryText:
-	text "RDC:  COMPTOIR"
-	line "      SERVICE"
+	text "RdC:  Comptoir"
+	line "      Service"
 
-	para "1ER:  MARCHE DU"
-	line "      DRESSEUR"
+	para "1er:  Marche du"
+	line "      Dresseur"
 
-	para "2EME: MARCHE AUX"
+	para "2ème: Marche aux"
 	line "      CT"
 
-	para "3EME: CADEAUX DU"
-	line "      SAGE"
+	para "3ème: Cadeaux du"
+	line "      Sage"
 
-	para "4EME: POTIONS, etc"
+	para "4ème: Potions, etc"
 
-	para "5EME: ESPACE TOIT"
+	para "5ème: Espace Toit"
 	done
 
 CeladonDeptStore1F_MapEvents:

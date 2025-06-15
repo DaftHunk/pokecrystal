@@ -28,11 +28,11 @@ Route6SaffronGuardScript:
 
 Route6SaffronGuardWelcomeText:
 	text "Bienvenue à"
-	line "SAFRANIA, la ville"
-	cont "du TRAIN MAGNET!"
+	line "Safrania, la ville"
+	cont "du Train Magnet!"
 
 	para "...Enfin..."
-	line "Le TRAIN MAGNET ne"
+	line "Le Train Magnet ne"
 
 	para "fonctionne pas en"
 	line "ce moment."
@@ -41,13 +41,13 @@ Route6SaffronGuardWelcomeText:
 	line "courant depuis le"
 
 	para "problème de la"
-	line "CENTRALE."
+	line "Centrale."
 	done
 
 Route6SaffronGuardMagnetTrainText:
-	text "Le TRAIN MAGNET"
+	text "Le Train Magnet"
 	line "est la fierté de"
-	cont "SAFRANIA."
+	cont "Safrania."
 	done
 
 Route6SaffronGate_MapEvents:

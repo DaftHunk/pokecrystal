@@ -1,5 +1,5 @@
 WadeAreYourMonGrowingText:
-	text "Tes #MON ont"
+	text "Tes #mon ont"
 	line "progressé?"
 
 	para "Les miens font"
@@ -70,7 +70,7 @@ WadeHangUpText:
 WadeBugCatchingContestText:
 	text "Il y a le Concours"
 	line "de Capture au"
-	cont "PARC aujourd'hui."
+	cont "Parc aujourd'hui."
 
 	para "Tu y vas,"
 	line "<PLAY_G>?"
@@ -81,7 +81,7 @@ WadeBugCatchingContestText:
 
 WadeFoundItemText:
 	text "J'ai trouvé tout"
-	line "plein de BAIES."
+	line "plein de Baies."
 
 	para "Je peux t'en"
 	line "donner."
@@ -93,7 +93,7 @@ WadeFoundItemText:
 	done
 
 WadeNoBerriesText:
-	text "Hein? Des BAIES?"
+	text "Hein? Des Baies?"
 
 	para "J'en ai pas"
 	line "encore."

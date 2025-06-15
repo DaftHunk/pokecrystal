@@ -1,4 +1,4 @@
-	db "TAUPE@" ; species name
+	db "Taupe@" ; species name
 	db 2 ; height
 	dw 8 ; weight
 

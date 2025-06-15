@@ -55,9 +55,9 @@ PokecomCenterAdminOfficeMobileComputer1:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "#　つうしん　クラブ@" ; # COM CLUB
-	db "モバイルセンター@" ; MOBILE CENTER
-	db "やめる@" ; QUIT
+	db "Club #com@" ; # COM Club
+	db "Centre Mobile@" ; MOBILE CENTER
+	db "Annuler@" ; QUIT
 
 PokecomCenterAdminOfficeMobileComputer2:
 	opentext
@@ -97,51 +97,178 @@ PokecomCenterAdminOfficeMobileComputer2:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "でんわ<WO>つかうとき@" ; Use phone
-	db "でんわ<GA>つながらないとき@" ; Don't use phone
-	db "やめる@" ; QUIT
+	db "Mode d'Emploi@" ; Use phone
+	db "Problèmes@" ; Don't use phone
+	db "Annuler@" ; QUIT
 
 PokecomCenterAdminOfficeMobileComputer3:
 	jumptext PokecomCenterAdminOfficeMobileComputer3Text
 
 PokecomCenterAdminOfficeMobileScientist1Text:
-	text_start
+	text "Le Centre #com"
+	line "et Centre Mobile"
+
+	para "ont été construits"
+	line "pour permettre aux"
+
+	para "dresseurs de se"
+	line "battre, échanger,"
+
+	para "ou juste se lier"
+	line "d'amitié avec de"
+	cont "parfaits inconnus."
 	done
 
 PokecomCenterAdminOfficeMobileScientist2Text:
-	text_start
+	text "Ta toute première"
+	line "connexion mobile,"
+
+	para "c'est comme faire"
+	line "le grand saut!"
+
+	para "Mon premier essai,"
+	line "moi, il m'a laissé"
+	cont "tout surexcité!"
 	done
 
 PokecomCenterAdminOfficeMobileScientist3Text:
-	text_start
+	text "Ce bâtiment a"
+	line "pu voir le jour"
+
+	para "grâce aux avancées"
+	line "de la technologie"
+	cont "sans-fil."
 	done
 
 PokecomCenterAdminOfficeMobileComputer1Text:
-	text_start
-	done
+    text "Adaptateur Mobile"
+    line "et comment bien"
+
+    para "s'en servir. Un"
+    line "guide pratique…"
+    done
 
 PokecomCenterAdminOfficeMobileComputer1Text_PokeComClub:
-	text_start
+	text "Un Club #com se"
+	line "trouve au premier"
+
+	para "étage de tout les"
+	line "Centres #mon."
+
+	para "De là, vous pouvez"
+	line "vous battre ou"
+
+	para "échanger avec vos"
+	line "amis qui vivent"
+
+	para "loin de chez vous,"
+	line "grâce à un"
+	cont "Adaptateur Mobile."
+
+	para "Une connexion avec"
+	line "vos amis nécessite"
+
+	para "que vous ayez tous"
+	line "deux le même type"
+	cont "d'Adaptateur."
 	done
 
 PokecomCenterAdminOfficeMobileComputer1Text_MobileCenter:
-	text_start
+	text "Pour utiliser le"
+	line "Coin Troc ou les"
+	
+	para "Infos #mon vous"
+	line "devez contacter le"
+	cont "Centre Mobile."
+	
+	para "Une inscription au"
+	line "Centre Mobile est"
+	
+	para "nécessaire avant"
+	line "de vous connecter."
 	done
 
 PokecomCenterAdminOfficeMobileComputer2Text:
-	text_start
+	text "Comment utiliser"
+	line "son téléphone. Un"
+	cont "guide pratique…"
 	done
 
 PokecomCenterAdminOfficeMobileComputer2Text_UsePhone:
-	text_start
+	text "Vérifiez que votre"
+	line "téléphone et votre"
+
+	para "Adaptateur Mobile"
+	line "soient reliés"
+	cont "correctement."
+
+	para "Vérifiez que le"
+	line "signal sans-fil du"
+	
+	para "téléphone soit"
+	line "suffisant."
+
+	para "Ne raccrochez pas"
+	line "le téléphone lors"
+	cont "d'une connexion."
 	done
 
 PokecomCenterAdminOfficeMobileComputer2Text_DontUsePhone:
-	text_start
-	done
+    text "Si le serveur est"
+    line "surchargé, il est"
+
+    para "possible que vous"
+    line "ne puissiez pas"
+    cont "vous connecter."        
+
+    para "Si cela arrive,"
+    line "tentez de rappeler"
+    cont "plus tard."        
+
+    para "S'il vous est"
+    line "impossible de vous"
+
+    para "connecter, ou si"
+    line "vous ne comprenez"
+
+    para "pas les messages"
+    line "d'erreur, relisez"
+    
+    para "la manuel, ou"
+    line "appelez un centre"
+    cont "de support."
+    done
 
 PokecomCenterAdminOfficeMobileComputer3Text:
-	text_start
+	text "L'administration a"
+	line "reçu un e-mail!"
+	cont "Voyons voir…"
+
+	para "<……> <……> <……>"
+
+	para "Chers employés du"
+	line "Centre #com…"
+
+	para "Grâce à la magie"
+	line "du sans-fil, les"
+
+	para "dresseurs #mon"
+	line "de notre belle"
+
+	para "région peuvent"
+	line "enfin communiquer"
+	cont "entre eux."
+
+	para "Avançons main dans"
+	line "la main vers un"
+	
+	para "future où les"
+	line "dresseurs de par"
+
+	para "le monde pourront"
+	line "parler entre eux!"
+
+	para "<……> <……> <……>"
 	done
 
 PokecomCenterAdminOfficeMobile_MapEvents:

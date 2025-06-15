@@ -74,21 +74,21 @@ PewterGymStatue:
 	jumpstd GymStatue2Script
 
 BrockIntroText:
-	text "PIERRE: C'est pas"
+	text "Pierre: C'est pas"
 	line "tous les jours"
 
 	para "qu'on reçoit de la"
 	line "visite de quelqu'"
-	cont "un de JOHTO."
+	cont "un de Johto."
 
-	para "Moi c'est PIERRE,"
-	line "le CHAMPION de"
+	para "Moi c'est Pierre,"
+	line "le Champion de"
 
-	para "l'ARENE d'ARGENTA."
+	para "l'Arène d'Argenta."
 	line "J'adore les #-"
-	cont "MON de la roche."
+	cont "mon de la Roche."
 
-	para "Mes #MON sont"
+	para "Mes #mon sont"
 	line "insensibles à la"
 
 	para "plupart des atta-"
@@ -102,8 +102,8 @@ BrockIntroText:
 	done
 
 BrockWinLossText:
-	text "PIERRE: Tes #-"
-	line "MON ont pu passer"
+	text "Pierre: Tes #-"
+	line "mon ont pu passer"
 	cont "ma défense de"
 	cont "pierre..."
 
@@ -112,29 +112,29 @@ BrockWinLossText:
 	cont "pensais..."
 
 	para "Tiens... Prends"
-	line "ce BADGE."
+	line "ce Badge."
 	done
 
 ReceivedBoulderBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE ROCHE."
+	line "le Badge Roche."
 	done
 
 BrockBoulderBadgeText:
-	text "PIERRE: <PLAY_G>,"
+	text "Pierre: <PLAY_G>,"
 	line "merci. J'ai aimé"
 
 	para "me battre contre"
 	line "toi, même si je"
 	cont "l'ai mauvaise."
 
-	para "Ce BADGE ROCHE"
+	para "Ce Badge Roche"
 	line "renforcera tes"
-	cont "#MON."
+	cont "#mon."
 	done
 
 BrockFightDoneText:
-	text "PIERRE: Grand est"
+	text "Pierre: Grand est"
 	line "le monde. Beaucoup"
 
 	para "de dresseurs tu"
@@ -148,12 +148,12 @@ BrockFightDoneText:
 
 CamperJerrySeenText:
 	text "Les dresseurs de"
-	line "cette ARENE utili-"
-	cont "sent des #MON"
-	cont "du type ROCHE."
+	line "cette Arène utili-"
+	cont "sent des #mon"
+	cont "du type Roche."
 
 	para "Cet élément a une"
-	line "grande DEFENSE."
+	line "grande Défense."
 
 	para "Les combats ris-"
 	line "quent de durer"
@@ -167,7 +167,7 @@ CamperJerryBeatenText:
 
 CamperJerryAfterBattleText:
 	text "Hé toi! Dresseur"
-	line "de JOHTO! PIERRE"
+	line "de Johto! Pierre"
 
 	para "est super fort! Il"
 	line "va te punir la"
@@ -179,21 +179,21 @@ PewterGymGuideText:
 	line "star! Tu"
 
 	para "affrontes les"
-	line "CHAMPIONS de"
-	cont "KANTO, non?"
+	line "Champions de"
+	cont "Kanto, non?"
 
 	para "Ils sont tout"
 	line "aussi forts et"
 
 	para "déterminés que"
-	line "ceux de JOHTO."
+	line "ceux de Johto."
 	done
 
 PewterGymGuideWinText:
 	text "Hé! Graine de"
 	line "star! Cette"
 
-	para "ARENE ne t'a pas"
+	para "Arène ne t'a pas"
 	line "posé trop de"
 	cont "problèmes..."
 

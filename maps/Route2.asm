@@ -80,7 +80,7 @@ Route2HiddenRevive:
 	hiddenitem REVIVE, EVENT_ROUTE_2_HIDDEN_REVIVE
 
 BugCatcherRobSeenText:
-	text "Mes #MON in-"
+	text "Mes #mon in-"
 	line "secte sont forts."
 	cont "Tu vas perdre!"
 	done
@@ -91,7 +91,7 @@ BugCatcherRobBeatenText:
 
 BugCatcherRobAfterBattleText:
 	text "Je vais chercher"
-	line "des #MON insec-"
+	line "des #mon insec-"
 	cont "te plus forts."
 	done
 
@@ -116,7 +116,7 @@ BugCatcherEdAfterBattleText:
 BugCatcherDougSeenText:
 	text "Pourquoi les fil-"
 	line "les n'aiment pas"
-	cont "les #MON insec-"
+	cont "les #mon insec-"
 	cont "te? C'est quoi"
 	cont "cette question?"
 	done
@@ -126,7 +126,7 @@ BugCatcherDougBeatenText:
 	done
 
 BugCatcherDougAfterBattleText:
-	text "Les insectes ça"
+	text "Les Insectes ça"
 	line "fait chprouit"
 
 	para "quand tu appuies"
@@ -137,14 +137,14 @@ BugCatcherDougAfterBattleText:
 	done
 
 Route2SignText:
-	text "ROUTE 2"
+	text "Route 2"
 
-	para "JADIELLE -"
-	line "ARGENTA"
+	para "Jadielle -"
+	line "Argenta"
 	done
 
 Route2DiglettsCaveSignText:
-	text "CAVE TAUPIQUEUR"
+	text "Cave Taupiqueur"
 	done
 
 Route2_MapEvents:

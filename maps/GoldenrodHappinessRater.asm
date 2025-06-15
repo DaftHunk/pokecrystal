@@ -71,7 +71,7 @@ HappinessRatersHouseRadio:
 
 GoldenrodHappinessRaterTeacherText:
 	text "Si tu traites tes"
-	line "#MON avec"
+	line "#mon avec"
 
 	para "amour, ils te le"
 	line "rendront bien."
@@ -127,20 +127,20 @@ GoldenrodHappinessRaterPokefanMText:
 	text "Je ne fais que"
 	line "perdre les combats"
 
-	para "avec mes #MON,"
+	para "avec mes #mon,"
 	line "ils sont tout le"
 	cont "temps K.O..."
 
 	para "C'est peut-être"
 	line "pour ça que mes"
-	cont "#MON ne"
+	cont "#mon ne"
 	cont "m'aiment pas trop!"
 	done
 
 GoldenrodHappinessRaterTwinText:
 	text "Lorsque j'utilise"
 	line "un objet sur mes"
-	cont "#MON, ça"
+	cont "#mon, ça"
 	cont "fait des trucs"
 	cont "cool!"
 	done

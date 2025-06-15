@@ -37,16 +37,16 @@ CianwoodPokecenter1FSuperNerdScript:
 
 CianwoodPokecenter1FLassText:
 	text "As-tu rencontré le"
-	line "#MANIAC?"
+	line "#maniac?"
 
 	para "Il se vante sans"
 	line "cesse sur ses"
-	cont "#MON rares."
+	cont "#mon rares."
 	done
 
 CianwoodGymGuideText:
 	text "Les dresseurs de"
-	line "l'ARENE sont des"
+	line "l'Arène sont des"
 	cont "grosses brutes."
 
 	para "Je veux pas qu'ils"
@@ -54,12 +54,12 @@ CianwoodGymGuideText:
 	cont "moi."
 
 	para "Un conseil: le"
-	line "CHAMPION utilise"
-	cont "le type COMBAT."
+	line "Champion utilise"
+	cont "le type Combat."
 
 	para "Tu devrais donc"
 	line "utiliser des"
-	cont "#MON PSY."
+	cont "#mon Psy."
 
 	para "Mets son équipe"
 	line "K.O. avant qu'elle"
@@ -68,11 +68,11 @@ CianwoodGymGuideText:
 	line "force."
 
 	para "Et les rochers au"
-	line "milieu de l'ARENE?"
+	line "milieu de l'Arène?"
 
 	para "Bouge-les correc-"
 	line "tement pour accé-"
-	cont "der au CHAMPION."
+	cont "der au Champion."
 
 	para "Si tu ne peux plus"
 	line "progresser, sors."
@@ -85,17 +85,37 @@ CianwoodGymGuideWinText:
 	cont "qu'en te voyant!"
 	done
 
-CianwoodPokecenter1FUnusedText1: ; unreferenced
-	text_start
+CianwoodPokecenter1FPreMobileText: ; unreferenced
+	text "T'as jamais envie"
+	line "de frimer devant"
+
+	para "tes amis avec tes"
+	line "#mon?"
+
+	para "J'adorerais mon-"
+	line "trer les #mon"
+
+	para "que j'ai élevé à"
+	line "mon pote de" 
+	cont "Mauville."
 	done
 
-CianwoodPokecenter1FUnusedText2: ; unreferenced
-	text_start
+CianwoodPokecenter1FMobileText: ; unreferenced
+	text "J'ai combattu mon"
+	line "pote de Mauville"
+
+	para "en me connectant"
+	line "avec l'Adaptateur"
+	cont "Mobile."
+
+	para "J'perds 5-7 contre"
+	line "contre lui. Faut"
+	cont "que j'm'entraine!"
 	done
 
 CianwoodPokecenter1FSuperNerdText:
 	text "J'adore frimer"
-	line "avec mes #MON."
+	line "avec mes #mon."
 
 	para "Et toi?"
 	line "C'est ton truc?"
@@ -104,7 +124,7 @@ CianwoodPokecenter1FSuperNerdText:
 	line "plein de combats"
 
 	para "et frimer avec"
-	line "mes jolis #MON!"
+	line "mes jolis #mon!"
 	done
 
 CianwoodPokecenter1F_MapEvents:

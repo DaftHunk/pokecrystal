@@ -11,7 +11,7 @@ VermilionDiglettsCaveSpeechHouseGentlemanScript:
 
 VermilionDiglettsCaveSpeechHouseGentlemanText:
 	text "Pendant des années"
-	line "les TAUPIQUEUR ont"
+	line "les Taupiqueur ont"
 	cont "creusé un énorme"
 	cont "tunnel."
 

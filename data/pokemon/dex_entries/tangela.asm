@@ -1,4 +1,4 @@
-	db "VIGNE@" ; species name
+	db "Vigne@" ; species name
 	db 10 ; height
 	dw 350 ; weight
 

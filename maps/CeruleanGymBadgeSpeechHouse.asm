@@ -11,8 +11,8 @@ CeruleanGymBadgeSpeechHousePokefanMScript:
 
 CeruleanGymBadgeSpeechHousePokefanMText:
 	text "Tu collectionnes"
-	line "les BADGES des"
-	cont "ARENES de KANTO?"
+	line "les Badges des"
+	cont "Arènes de Kanto?"
 	done
 
 CeruleanGymBadgeSpeechHouse_MapEvents:

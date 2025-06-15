@@ -3,12 +3,12 @@ WadeAskNumber1Text:
 	line "Je t'aime!"
 
 	para "Je cherche des"
-	line "#MON ici"
+	line "#mon ici"
 	cont "tous les jours."
 
 	para "Dans l'herbe je"
 	line "trouve plein de"
-	cont "BAIES."
+	cont "Baies."
 
 	para "Si tu veux, je"
 	line "peux t'en donner."
@@ -20,7 +20,7 @@ WadeAskNumber1Text:
 WadeAskNumber2Text:
 	text "Dans l'herbe je"
 	line "trouve plein de"
-	cont "BAIES."
+	cont "Baies."
 
 	para "Si tu veux, je"
 	line "peux t'en donner."
@@ -61,7 +61,7 @@ WadeGiftText:
 	done
 
 WadePackFullText:
-	text "Ton SAC est plein."
+	text "Ton Sac est plein."
 	line "Dommage, ça."
 
 	para "Reviens plus tard,"

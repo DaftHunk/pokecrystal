@@ -103,7 +103,7 @@ VermilionGymStatue:
 	jumpstd GymStatue2Script
 
 LtSurgeIntroText:
-	text "BOB: Hé toi!"
+	text "Bob: Hé toi!"
 	line "Le lutin!"
 
 	para "On peut dire que"
@@ -113,7 +113,7 @@ LtSurgeIntroText:
 	line "cher des noises!"
 
 	para "Moi j'suis le boss"
-	line "des #MON"
+	line "des #mon"
 	cont "électriques!"
 
 	para "Je n'ai jamais"
@@ -125,25 +125,25 @@ LtSurgeIntroText:
 	done
 
 LtSurgeWinLossText:
-	text "BOB: Arrrgh!"
+	text "Bob: Arrrgh!"
 	line "Trop fort!"
 
 	para "OK. Voilà ton"
-	line "BADGE FOUDRE!"
+	line "Badge Foudre!"
 	done
 
 ReceivedThunderBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE FOUDRE."
+	line "le Badge Foudre."
 	done
 
 LtSurgeThunderBadgeText:
-	text "BOB: Le BADGE FOU-"
-	line "DRE augmente la"
-	cont "VITESSE de tes"
-	cont "#MON."
+	text "Bob: Le Badge Fou-"
+	line "dre augmente la"
+	cont "Vitesse de tes"
+	cont "#mon."
 
-	para "Ce BADGE est la"
+	para "Ce Badge est la"
 	line "preuve de ta vic-"
 
 	para "toire. Porte-le"
@@ -151,38 +151,38 @@ LtSurgeThunderBadgeText:
 	done
 
 LtSurgeFightDoneText:
-	text "BOB: Hé toi!"
+	text "Bob: Hé toi!"
 	line "Tu tiens le coup?"
 
-	para "Moi et mes #MON"
+	para "Moi et mes #mon"
 	line "on a la pêche!"
 	done
 
 GentlemanGregorySeenText:
 	text "Tu viens défier le"
-	line "MAJOR BOB?"
+	line "Major Bob?"
 
 	para "C'est ce qu'on va"
 	line "voir!"
 	done
 
 GentlemanGregoryBeatenText:
-	text "Pardon, MAJOR"
-	line "BOB!"
+	text "Pardon, Major"
+	line "Bob!"
 	done
 
 GentlemanGregoryAfterBattleText:
 	text "A l'armée, le"
-	line "MAJOR BOB m'a"
+	line "Major Bob m'a"
 	cont "sauvé la vie."
 	done
 
 GuitaristVincentSeenText:
-	text "Le MAJOR BOB a foi"
+	text "Le Major Bob a foi"
 	line "en mes talents de"
 
 	para "dresseur de #-"
-	line "MON électriques."
+	line "mon électriques."
 
 	para "Tu crois pouvoir"
 	line "me battre?"
@@ -194,7 +194,7 @@ GuitaristVincentBeatenText:
 
 GuitaristVincentAfterBattleText:
 	text "Si les pièges de"
-	line "l'ARENE marchaient"
+	line "l'Arène marchaient"
 	cont "tu en aurais bavé!"
 	done
 
@@ -212,8 +212,8 @@ JugglerHortonAfterBattleText:
 	text "Ne te réjouis pas"
 	line "trop de m'avoir"
 
-	para "battu. Le MAJOR"
-	line "BOB, c'est pas la"
+	para "battu. Le Major"
+	line "Bob, c'est pas la"
 	cont "même limonade."
 	done
 
@@ -223,11 +223,11 @@ VermilionGymGuideText:
 
 	para "Tu sais quoi..."
 
-	para "Le MAJOR BOB qui"
+	para "Le Major Bob qui"
 	line "est très prudent,"
 
 	para "a posé des pièges"
-	line "dans l'ARENE."
+	line "dans l'Arène."
 
 	para "Mais...hé hé..."
 	line "les pièges ne sont"
@@ -235,7 +235,7 @@ VermilionGymGuideText:
 
 	para "Tu n'auras donc"
 	line "aucun problème à"
-	cont "voir le MAJOR BOB."
+	cont "voir le Major Bob."
 	done
 
 VermilionGymGuideWinText:

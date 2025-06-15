@@ -22,12 +22,12 @@ PewterMartSuperNerdScript:
 
 PewterMartYoungsterText:
 	text "Hé! Mate un peu"
-	line "mon LEVIATOR!"
+	line "mon Léviator!"
 
 	para "Je l'ai eu en en-"
 	line "traînant mon"
 
-	para "MAGICARPE. Il est"
+	para "Magicarpe. Il est"
 	line "super balèze!!!"
 	done
 
@@ -35,11 +35,11 @@ PewterMartSuperNerdText:
 	text "Il y avait un type"
 	line "tout vieux et bi-"
 	cont "zarre qui vendait"
-	cont "des MAGICARPE."
+	cont "des Magicarpe."
 
 	para "Il recommandait"
-	line "les MAGICARPE du"
-	cont "LAC COLERE."
+	line "les Magicarpe du"
+	cont "Lac Colère."
 	done
 
 PewterMart_MapEvents:

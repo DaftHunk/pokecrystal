@@ -61,12 +61,12 @@ SeafoamGymGuideScript:
 	end
 
 BlaineIntroText:
-	text "AUGUSTE: Waaah!"
+	text "Auguste: Waaah!"
 
-	para "Mon ARENE de CRA-"
-	line "MOIS'ILE a brûlé."
+	para "Mon Arène de Cra-"
+	line "mois'Ile a brûlé."
 
-	para "Moi et mes #MON"
+	para "Moi et mes #mon"
 	line "de feu n'avons"
 
 	para "plus de maison à"
@@ -75,50 +75,50 @@ BlaineIntroText:
 	para "Waaah!"
 
 	para "Mais je suis tou-"
-	line "jours un CHAMPION!"
+	line "jours un Champion!"
 
 	para "Et je fais la loi"
 	line "dans cette grotte."
 
 	para "Bats-moi et je te"
-	line "donnerai un BADGE."
+	line "donnerai un Badge."
 	cont "Promis!"
 
 	para "J'espère que tu as"
-	line "de l'ANTI-BRULE!"
+	line "de l'Anti-Brûle!"
 	done
 
 BlaineWinLossText:
-	text "AUGUSTE: Bien."
+	text "Auguste: Bien."
 	line "J'ai perdu."
 
 	para "Tu as mérité le"
-	line "BADGE VOLCAN!"
+	line "Badge Volcan!"
 	done
 
 ReceivedVolcanoBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE VOLCAN."
+	line "le Badge Volcan."
 	done
 
 BlaineAfterBattleText:
-	text "AUGUSTE: Je perds"
+	text "Auguste: Je perds"
 	line "cette fois mais la"
 
 	para "prochaine, je"
 	line "serai vainqueur."
 
 	para "Je vais recons-"
-	line "truire mon ARENE à"
+	line "truire mon Arène à"
 
-	para "CRAMOIS'ILE et"
+	para "Cramois'Ile et"
 	line "nous combattrons à"
 	cont "nouveau."
 	done
 
 BlaineFightDoneText:
-	text "AUGUSTE: Mes"
-	line "#MON de feu"
+	text "Auguste: Mes"
+	line "#mon de feu"
 
 	para "seront invincibles"
 	line "tu verras!"
@@ -132,8 +132,8 @@ SeafoamGymGuideWinText:
 
 	para "Désolé!"
 
-	para "L'ARENE de CRAMOI-"
-	line "S'ILE était fermée"
+	para "L'Arène de Cramoi-"
+	line "s'Ile était fermée"
 
 	para "alors je savais"
 	line "pas où te trouver."
@@ -146,11 +146,11 @@ SeafoamGymGuideWinText:
 	done
 
 SeafoamGymGuideWinText2:
-	text "Une ARENE #MON"
+	text "Une Arène #mon"
 	line "peut être n'impor-"
 
 	para "te où tant que le"
-	line "CHAMPION est là."
+	line "Champion est là."
 
 	para "Pas besoin d'un"
 	line "toit."

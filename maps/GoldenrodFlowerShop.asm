@@ -85,7 +85,7 @@ FlowerShopRadio: ; unreferenced
 GoldenrodFlowerShopTeacherMySisterWentToSeeWigglyTreeRoute36Text:
 	text "As-tu vu l'arbre"
 	line "qui gigote sur la"
-	cont "ROUTE 36?"
+	cont "Route 36?"
 
 	para "Ma petite soeur"
 	line "a absolument tenu"
@@ -110,11 +110,11 @@ GoldenrodFlowerShopTeacherAskWantToBorrowWaterBottleText:
 
 GoldenrodFlowerShopTeacherHeresTheSquirtbottleText:
 	text "Oh? Tu as battu"
-	line "BLANCHE..."
+	line "Blanche..."
 
 	para "Pas de problème"
 	line "alors. Voilà la"
-	cont "CARAPUCE A O!"
+	cont "Carapuce à O!"
 	done
 
 GoldenrodFlowerShopTeacherDontDoAnythingDangerousText:
@@ -136,7 +136,7 @@ GoldenrodFlowerShopFloriaWonderIfSisWillLendWaterBottleText:
 	cont "que c'était dange-"
 	cont "reux."
 
-	para "Si je bats BLANCHE"
+	para "Si je bats Blanche"
 	line "elle me prêtera"
 
 	para "sa bouteille!"
@@ -145,13 +145,13 @@ GoldenrodFlowerShopFloriaWonderIfSisWillLendWaterBottleText:
 
 GoldenrodFlowerShopFloriaYouBeatWhitneyText:
 	text "Tu as battu"
-	line "BLANCHE? Cool!"
+	line "Blanche? Cool!"
 	done
 
 GoldenrodFlowerShopFloriaItReallyWasAMonText:
 	text "Alors c'était"
 	line "vraiment un"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 GoldenrodFlowerShop_MapEvents:

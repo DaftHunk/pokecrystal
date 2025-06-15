@@ -22,7 +22,7 @@ CianwoodLugiaSpeechHouseBookshelf:
 
 CianwoodLugiaSpeechHouseTeacherText:
 	text "Tu viens"
-	line "d'OLIVILLE?"
+	line "d'Oliville?"
 
 	para "Tu te rappelles"
 	line "des quatre îles"
@@ -39,7 +39,7 @@ CianwoodLugiaSpeechHouseLassText:
 	line "voir il faut abso-"
 
 	para "lument avoir"
-	line "l'AILE ARGENT."
+	line "l'Aile Argent."
 
 	para "Elle doit avoir la"
 	line "même odeur que la"

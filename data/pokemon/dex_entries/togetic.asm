@@ -1,4 +1,4 @@
-	db "BONHEUR@" ; species name
+	db "Bonheur@" ; species name
 	db 6 ; height
 	dw 32 ; weight
 

@@ -202,10 +202,10 @@ PlateauRivalLeavesMovement:
 	step_end
 
 IndigoPlateauPokecenter1FCooltrainerMText:
-	text "A la LIGUE #MON"
+	text "A la Ligue #mon"
 	line "tu rencontreras le"
 
-	para "terrible CONSEIL"
+	para "terrible Conseil"
 	line "des 4."
 
 	para "Tu devras battre"
@@ -219,13 +219,13 @@ PlateauRivalText1:
 	text "Minute!"
 
 	para "Tu vas relever le"
-	line "défi de la LIGUE"
-	cont "#MON?"
+	line "défi de la Ligue"
+	cont "#mon?"
 
 	para "T'es pas bien dans"
 	line "ta tête, toi?"
 
-	para "Mes #MON sur-"
+	para "Mes #mon sur-"
 	line "entraînés vont te"
 
 	para "casser les reins."
@@ -237,7 +237,7 @@ PlateauRivalText1:
 
 PlateauRivalWinText:
 	text "......"
-
+	
 	para "OK. J'ai perdu..."
 	done
 
@@ -258,22 +258,22 @@ PlateauRivalLoseText:
 
 	para "Avec mes copains,"
 	line "je vais devenir"
-	cont "un MAITRE!"
+	cont "un Maître!"
 	done
 
 TeleportGuyText1:
 	text "Ah! Tu défies le"
-	line "CONSEIL des 4?"
+	line "Conseil des 4?"
 
 	para "Tu crois avoir"
 	line "les épaules?"
 
 	para "Si tu veux encore"
 	line "t'entraîner, mon"
-	cont "ABRA peut t'aider."
+	cont "Abra peut t'aider."
 
 	para "Il peut te"
-	line "TELEPORTER chez"
+	line "Téléporter chez"
 	cont "toi."
 
 	para "Veux-tu retourner"
@@ -291,7 +291,7 @@ TeleportGuyNoText:
 	done
 
 AbraText:
-	text "ABRA: Aabra..."
+	text "Abra: Aabra..."
 	done
 
 IndigoPlateauPokecenter1F_MapEvents:

@@ -1,4 +1,4 @@
-	db "HERBE@" ; species name
+	db "Herbe@" ; species name
 	db 18 ; height
 	dw 1005 ; weight
 

@@ -1,6 +1,6 @@
 BrentRareTradeText:
 	text "Oh! J'ai eu un"
-	line "#MON super"
+	line "#mon super"
 	cont "rare en faisant"
 	cont "un échange."
 
@@ -23,15 +23,15 @@ BrentDefeatedMonText:
 
 BrentLostAMonText:
 	text "Oh! J'ai vu mon"
-	line "premier #MON"
+	line "premier #mon"
 	cont "rare il y"
 	cont "a une heure."
 
 	para "Manque de pot..."
 	line "Je n'avais plus de"
-	cont "# BALLS..."
+	cont "# Balls..."
 
-	para "LEO se ficherait"
+	para "Léo se ficherait"
 	line "bien de moi!"
 	done
 
@@ -41,7 +41,7 @@ BrentBattleRematchText:
 	cont "tente?"
 
 	para "Tu verras alors"
-	line "mon #MON rare!"
+	line "mon #mon rare!"
 
 	para "Viens vers..."
 	line "@"
@@ -55,69 +55,69 @@ BrentHangUpText:
 
 BrentFatherGossipText:
 	text "Tu savais que le"
-	line "père de LEO était"
-	cont "un #MANIAC?"
+	line "père de Léo était"
+	cont "un #maniac?"
 	done
 
 BrentGrandpaGossipText:
 	text "Tu savais que le"
-	line "grand-père de LEO"
+	line "grand-père de Léo"
 
 	para "n'était pas un"
-	line "#MANIAC?"
+	line "#maniac?"
 	done
 
 BrentGoldenrodGossipText:
-	text "Tu savais que LEO"
+	text "Tu savais que Léo"
 	line "était né à"
-	cont "DOUBLONVILLE?"
+	cont "Doublonville?"
 	done
 
 BrentRoute25GossipText:
-	text "Tu savais que LEO"
+	text "Tu savais que Léo"
 	line "vivait sur la"
-	cont "ROUTE 25 à KANTO?"
+	cont "Route 25 à Kanto?"
 	done
 
 BrentAbraGossipText:
 	text "Tu savais que le"
-	line "premier #MON"
-	cont "de LEO a attrapé"
-	cont "est un ABRA?"
+	line "premier #mon"
+	cont "de Léo a attrapé"
+	cont "est un Abra?"
 	done
 
 BrentSisterGossipText:
-	text "Tu savais que LEO"
+	text "Tu savais que Léo"
 	line "avait une petite"
 	cont "soeur?"
 	done
 
 BrentMilkGossipText:
-	text "Tu savais que LEO"
-	line "détestait le LAIT?"
+	text "Tu savais que Léo"
+	line "détestait le Lait?"
 	done
 
 BrentBattlingGossipText:
-	text "Tu savais que LEO"
+	text "Tu savais que Léo"
 	line "était une tache en"
 	cont "combat?"
 	done
 
 BrentFlowerShopGossipText:
-	text "Tu savais que LEO"
+	text "Tu savais que Léo"
 	line "draguait la"
-	cont "FLEURISTE?"
+	cont "Fleuriste?"
 	done
 
 BrentKimonoGirlGossipText:
 	text "Tu savais que la"
-	line "mère de LEO était"
-	cont "une KIMONO?"
+	line "mère de Léo était"
+	cont "une Kimono?"
 	done
 
 BrentSorryImTooBusyText:
 	text "Tu veux en savoir"
-	line "plus sur LEO?"
+	line "plus sur Léo?"
 
 	para "Je suis trop"
 	line "occupé."
@@ -128,7 +128,7 @@ BrentSorryImTooBusyText:
 
 BrentReminderText:
 	text "Tu veux voir mes"
-	line "#MON rares?"
+	line "#mon rares?"
 
 	para "Viens vers"
 	line "@"

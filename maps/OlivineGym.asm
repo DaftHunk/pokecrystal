@@ -94,7 +94,7 @@ OlivineGymStatue:
 
 Jasmine_SteelTypeIntro:
 	text "...Merci pour ton"
-	line "aide au PHARE..."
+	line "aide au Phare..."
 
 	para "Mais c'est un peu"
 	line "différent."
@@ -102,19 +102,19 @@ Jasmine_SteelTypeIntro:
 	para "Permets-moi de me"
 	line "présenter."
 
-	para "Je suis JASMINE la"
-	line "CHAMPIONNE d'ARENE"
+	para "Je suis Jasmine la"
+	line "Championne d'Arène"
 	cont "et j'utilise les"
-	cont "#MON de type"
-	cont "ACIER."
+	cont "#mon de type"
+	cont "Acier."
 
 	para "...Ca te dit"
 	line "quelque chose le"
-	cont "type ACIER?"
+	cont "type Acier?"
 
 	para "C'est un tout"
 	line "nouveau type de"
-	cont "#MON."
+	cont "#mon."
 
 	para "Hum...? Je peux"
 	line "commencer?"
@@ -131,20 +131,20 @@ Jasmine_BetterTrainer:
 	para "En accord avec les"
 	line "règles de la"
 
-	para "LIGUE, je te"
-	line "confie ce BADGE."
+	para "Ligue, je te"
+	line "confie ce Badge."
 	done
 
 Text_ReceivedMineralBadge:
 	text "<PLAYER> reçoit"
-	line "le BADGEMINERAL."
+	line "le BadgeMineral."
 	done
 
 Jasmine_BadgeSpeech:
-	text "Le BADGEMINERAL"
+	text "Le BadgeMineral"
 	line "augmente la"
-	cont "DEFENSE de tes"
-	cont "#MON."
+	cont "Défense de tes"
+	cont "#mon."
 
 	para "Prends donc ceci"
 	line "aussi..."
@@ -158,8 +158,8 @@ Text_ReceivedTM09: ; unreferenced
 Jasmine_IronTailSpeech:
 	text "Tu peux utiliser"
 	line "cette CT pour"
-	cont "apprendre QUEUE DE"
-	cont "FER à un #MON."
+	cont "apprendre Queue de"
+	cont "Fer à un #mon."
 	done
 
 Jasmine_GoodLuck:
@@ -169,9 +169,9 @@ Jasmine_GoodLuck:
 	done
 
 OlivineGymGuideText:
-	text "JASMINE utilise le"
+	text "Jasmine utilise le"
 	line "tout nouveau type"
-	cont "ACIER."
+	cont "Acier."
 
 	para "Je ne sais pas"
 	line "grand chose là-"
@@ -181,7 +181,7 @@ OlivineGymGuideText:
 OlivineGymGuideWinText:
 	text "C'est très étrange"
 
-	para "le type ACIER,"
+	para "le type Acier,"
 	line "hein?"
 
 	para "C'est la rencon-"
@@ -190,12 +190,12 @@ OlivineGymGuideWinText:
 	done
 
 OlivineGymGuidePreText:
-	text "JASMINE, la"
-	line "CHAMPIONNE d'ARENE"
-	cont "est au PHARE."
+	text "Jasmine, la"
+	line "Championne d'Arène"
+	cont "est au Phare."
 
 	para "Elle s'occupe du"
-	line "#MON malade."
+	line "#mon malade."
 
 	para "Un dresseur"
 	line "puissant doit"

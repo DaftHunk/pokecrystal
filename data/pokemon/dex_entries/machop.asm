@@ -1,4 +1,4 @@
-	db "COLOSSE@" ; species name
+	db "Colosse@" ; species name
 	db 8 ; height
 	dw 195 ; weight
 
@@ -8,4 +8,4 @@
 
 	page "montagnes. Il peut"
 	next "même soulever un"
-	next "GRAVALANCH.@"
+	next "Gravalanch.@"

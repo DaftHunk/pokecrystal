@@ -22,8 +22,8 @@ SaffronMartCooltrainerFScript:
 
 SaffronMartCooltrainerMText:
 	text "Il y a une grande"
-	line "TOUR RADIO à"
-	cont "LAVANVILLE."
+	line "Tour Radio à"
+	cont "Lavanville."
 	done
 
 SaffronMartCooltrainerFText:

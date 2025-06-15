@@ -35,7 +35,7 @@ RedsHouse1FBookshelf:
 RedsMomText1:
 	text "Salut!"
 
-	para "RED est parti il"
+	para "Red est parti il"
 	line "y a longtemps."
 
 	para "Il n'a même pas"
@@ -51,7 +51,7 @@ RedsMomText1:
 
 RedsMomText2:
 	text "Je me fais du sou-"
-	line "ci pour RED mais"
+	line "ci pour Red mais"
 
 	para "c'est un garçon..."
 	line "Il est indépendant"
@@ -62,7 +62,7 @@ RedsMomText2:
 RedsHouse1FTVText:
 	text "Il y a des émis-"
 	line "sions qui ne pas-"
-	cont "sent pas à JOHTO."
+	cont "sent pas à Johto."
 	done
 
 RedsHouse1F_MapEvents:

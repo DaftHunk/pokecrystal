@@ -1,4 +1,4 @@
-	db "FOUDRE@" ; species name
+	db "Foudre@" ; species name
 	db 8 ; height
 	dw 245 ; weight
 

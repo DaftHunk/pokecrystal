@@ -1,4 +1,4 @@
-	db "STRIDENT@" ; species name
+	db "Strident@" ; species name
 	db 7 ; height
 	dw 10 ; weight
 

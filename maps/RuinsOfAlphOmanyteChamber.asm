@@ -116,7 +116,7 @@ RuinsOfAlphOmanyteChamberWallPatternLeftText:
 
 RuinsOfAlphOmanyteChamberUnownText: ; unreferenced
 	text "C'est du texte"
-	line "ZARBI!"
+	line "Zarbi!"
 	done
 
 RuinsOfAlphOmanyteChamberWallPatternRightText:
@@ -133,11 +133,11 @@ RuinsOfAlphOmanyteChamberWallHoleText:
 RuinsOfAlphOmanyteChamberAncientReplicaText:
 	text "C'est la réplique"
 	line "d'un ancien #-"
-	cont "MON."
+	cont "mon."
 	done
 
 RuinsOfAlphOmanyteChamberDescriptionText:
-	text "Ce #MON glis-"
+	text "Ce #mon glis-"
 	line "sait dans l'eau en"
 
 	para "tordant ses dix"

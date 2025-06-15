@@ -1,9 +1,9 @@
 ToddAskNumber1Text:
 	text "D'ici, je peux"
-	line "voir le CENTRE"
+	line "voir le Centre"
 
-	para "COMMERCIAL de DOU-"
-	line "BLONVILLE. Il y a"
+	para "Commercial de Dou-"
+	line "blonville. Il y a"
 
 	para "des offres spécia-"
 	line "les sur le toit de"
@@ -28,10 +28,10 @@ ToddAskNumber2Text:
 
 ToddNumberAcceptedText:
 	text "Je jette un oeil"
-	line "au CENTRE COMMER-"
+	line "au Centre Commer-"
 
-	para "CIAL de DOUBLON-"
-	line "VILLE tous les"
+	para "cial de Doublon-"
+	line "ville tous les"
 	cont "jours. Je sais ce"
 	cont "qu'il s'y passe."
 	done
@@ -61,7 +61,7 @@ ToddRematchText:
 
 	para "shopping pour"
 	line "entraîner mes"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 ToddSaleText: ; unreferenced
@@ -72,3 +72,4 @@ ToddSaleText: ; unreferenced
 	para "Etre sur le toit,"
 	line "c'est top."
 	done
+

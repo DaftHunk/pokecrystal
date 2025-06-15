@@ -22,17 +22,17 @@ SoulHouseGrannyScript:
 	jumptextfaceplayer SoulHouseGrannyText
 
 MrFujiText:
-	text "M.FUJI:"
+	text "M.Fuji:"
 	line "Bienvenue à toi."
 
 	para "Hmm... Tu as l'air"
 	line "d'être un dresseur"
 
-	para "de #MON doux"
+	para "de #mon doux"
 	line "et attentionné."
 
 	para "Ceux qui aiment"
-	line "les #MON vien-"
+	line "les #mon vien-"
 
 	para "nent ici saluer"
 	line "leur âme."
@@ -47,23 +47,23 @@ MrFujiText:
 
 SoulHouseTeacherText:
 	text "Il y a d'autres"
-	line "tombes de #MON"
+	line "tombes de #mon"
 	cont "ici, je crois."
 
 	para "Beaucoup de pièces"
 	line "ne sont réservées"
-	cont "qu'à M.FUJI."
+	cont "qu'à M.Fuji."
 	done
 
 SoulHouseLassText:
 	text "J'suis venue avec"
 	line "ma môman pour voir"
 	cont "les tombes de"
-	cont "#MON..."
+	cont "#mon..."
 	done
 
 SoulHouseGrannyText:
-	text "Les #MON que"
+	text "Les #mon que"
 	line "j'ai perdus..."
 
 	para "Je les aimais com-"

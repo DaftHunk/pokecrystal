@@ -20,7 +20,7 @@ GuideGentsHouseGuideGentText:
 
 	para "Un p'tit conseil:"
 	line "attrape tous les"
-	cont "#MON!"
+	cont "#mon!"
 
 	para "Traite-les avec"
 	line "la plus grande"

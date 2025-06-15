@@ -37,7 +37,7 @@ Route24RocketScript:
 Route24RocketSeenText:
 	text "Hé toi! Moi"
 	line "yé souis dé la"
-	cont "TEAM ROCKET!"
+	cont "Team Rocket!"
 
 	para "Yé souis de oune"
 	line "autre pays. Mé moi"
@@ -74,27 +74,27 @@ Route24RocketAfterBattleText:
 	text "OK. Moi lé dire"
 	line "la secret."
 
-	para "PARTIE MACH. jé"
+	para "Partie Mach. jé"
 	line "la volé moi."
 
 	para "La planqué aussi"
-	line "dans ARENE AZURIA."
+	line "dans Arène Azuria."
 
 	para "Dans l'eau tu la"
 	line "cherches au"
 	cont "milieu."
 
-	para "Dans l'ARENE, OK?"
+	para "Dans l'Arène, OK?"
 	line "Tout compris?"
 
 	para "Ma toi tu oublies"
 	line "pas moi!"
 
-	para "TEAM ROCKET te"
+	para "Team Rocket te"
 	line "battre!"
 
 	para "Ils viennent de"
-	line "JOHTO mes amis et"
+	line "Johto mes amis et"
 
 	para "ta tête te la"
 	line "cassent, oh oui."
@@ -103,8 +103,8 @@ Route24RocketAfterBattleText:
 Route24RocketDisappearsText:
 	text "..."
 
-	para "Qué dit? TEAM"
-	line "ROCKET cassé?"
+	para "Qué dit? Team"
+	line "Rocket cassé?"
 	cont "Par toi en plous?"
 
 	para "Oh, non! Qué yé"

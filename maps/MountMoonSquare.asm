@@ -126,8 +126,8 @@ ClefairyFleeMovement:
 	step_end
 
 DontLitterSignText:
-	text "SQUARE du MONT"
-	line "SELENITE"
+	text "Square du Mont"
+	line "Selenite"
 	cont "Ne rien jeter"
 	done
 

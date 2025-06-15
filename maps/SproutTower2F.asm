@@ -37,7 +37,7 @@ SproutTower2FXAccuracy:
 	itemball X_ACCURACY
 
 SageNicoSeenText:
-	text "Toutefois, la TOUR"
+	text "Toutefois, la Tour"
 	line "ne cédera pas même"
 	cont "lors d'un grand et"
 	cont "rude combat."
@@ -50,7 +50,7 @@ SageNicoBeatenText:
 
 SageNicoAfterBattleText:
 	text "Le pilier flexible"
-	line "protège la TOUR de"
+	line "protège la Tour de"
 
 	para "tout, même des"
 	line "séismes."
@@ -70,7 +70,7 @@ SageEdmondAfterBattleText:
 	text "J'ai essayé de"
 	line "copier les mouve-"
 
-	para "ments de CHETIFLOR"
+	para "ments de Chétiflor"
 	line "en combat..."
 
 	para "Mais je manque"
@@ -79,7 +79,7 @@ SageEdmondAfterBattleText:
 
 SproutTower2FStatueText:
 	text "Une statue de"
-	line "#MON..."
+	line "#mon..."
 
 	para "Ca a l'air cher"
 	line "et raffiné."

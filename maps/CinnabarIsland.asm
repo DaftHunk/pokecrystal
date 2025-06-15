@@ -45,16 +45,16 @@ CinnabarIslandBlueText:
 	para "T'es dresseur,"
 	line "ça se voit..."
 
-	para "Moi c'est BLUE."
+	para "Moi c'est Blue."
 
-	para "J'ai été un MAITRE"
+	para "J'ai été un Maître"
 	line "pendant un temps."
 
 	para "Enfin, pendant"
 	line "quelques minutes."
 
 	para "Juste avant que"
-	line "RED me batte..."
+	line "Red me batte..."
 
 	para "Je le hais ce"
 	line "type..."
@@ -74,7 +74,7 @@ CinnabarIslandBlueText:
 	para "disparaît d'un"
 	line "coup."
 
-	para "Faire du POKé POKé"
+	para "Faire du # #"
 	line "c'est bien joli"
 
 	para "mais on peut se"
@@ -99,8 +99,8 @@ CinnabarIslandBlueText:
 
 	para "Si tu cherches un"
 	line "bon combat, viens"
-	cont "à l'ARENE de"
-	cont "JADIELLE."
+	cont "à l'Arène de"
+	cont "Jadielle."
 
 	para "Et ça sera ta"
 	line "p'tite fête."
@@ -109,15 +109,15 @@ CinnabarIslandBlueText:
 CinnabarIslandGymSignText:
 	text "Il y a un mot..."
 
-	para "L'ARENE de CRAMOI-"
-	line "S'ILE est déplacée"
-	cont "aux ILES ECUME."
+	para "L'Arène de Cramoi-"
+	line "s'Ile est déplacée"
+	cont "aux Iles Ecume."
 
-	para "AUGUSTE"
+	para "Auguste"
 	done
 
 CinnabarIslandSignText:
-	text "CRAMOIS'ILE"
+	text "Cramois'Ile"
 
 	para "Rouge comme le feu"
 	done

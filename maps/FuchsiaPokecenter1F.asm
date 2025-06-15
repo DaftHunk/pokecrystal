@@ -61,22 +61,22 @@ FuchsiaPokecenter1FJanineImpersonatorSpinMovement:
 FuchsiaPokecenter1FCooltrainerMText:
 	text "Hé! Tu as un nou-"
 	line "veau modèle de"
-	cont "#DEX!"
+	cont "#dex!"
 
-	para "C'est le PROF.CHEN"
+	para "C'est le Prof.Chen"
 	line "qui te l'a filé?"
 	done
 
 FuchsiaPokecenter1FCooltrainerFText:
 	text "J'me suis fait"
-	line "battre à l'ARENE."
+	line "battre à l'Arène."
 
 	para "Toutes les filles"
 	line "s'y ressemblent!"
 	done
 
 FuchsiaPokecenter1FJanineImpersonatorText1:
-	text "J'suis JEANNINE!"
+	text "J'suis Jeannine!"
 	line "Abracadabra!"
 	done
 

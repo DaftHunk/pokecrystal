@@ -1,4 +1,4 @@
-	db "RENARD@" ; species name
+	db "Renard@" ; species name
 	db 11 ; height
 	dw 199 ; weight
 

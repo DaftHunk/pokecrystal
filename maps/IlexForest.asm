@@ -740,15 +740,15 @@ IlexForestApprenticeIntroText:
 	line "va être super"
 	cont "furax!"
 
-	para "Le CANARTICHO qui"
-	line "COUPE des arbres"
+	para "Le Canarticho qui"
+	line "Coupe des arbres"
 
 	para "pour faire du"
 	line "charbon est parti."
 
 	para "Je peux pas le"
 	line "chercher dans le"
-	cont "BOIS AUX CHENES."
+	cont "Bois aux Chênes."
 
 	para "Parce que..."
 	line "J'ai peur..."
@@ -758,29 +758,29 @@ IlexForestApprenticeAfterText:
 	text "Woah! Merci"
 	line "beaucoup!"
 
-	para "Le #MON de mon"
+	para "Le #mon de mon"
 	line "chef n'obéit pas"
 	cont "parce que je n'ai"
-	cont "pas le bon BADGE."
+	cont "pas le bon Badge."
 	done
 
 Text_ItsTheMissingPokemon:
-	text "C'est le #MON"
+	text "C'est le #mon"
 	line "perdu!"
 	done
 
 Text_Kwaaaa:
-	text "CANARTICHO: Kwaa!"
+	text "Canarticho: Kwaa!"
 	done
 
 Text_CharcoalMasterIntro:
-	text "Ah! CANARTICHO!"
+	text "Ah! Canarticho!"
 
 	para "Tu nous l'as"
 	line "retrouvé?"
 
 	para "Sans lui, on ne"
-	line "peut pas COUPER"
+	line "peut pas Couper"
 
 	para "les arbres pour"
 	line "faire du charbon."
@@ -795,16 +795,16 @@ Text_CharcoalMasterIntro:
 	done
 
 Text_CharcoalMasterOutro:
-	text "C'est la CS COUPE."
+	text "C'est la CS Coupe."
 	line "Apprends-la à un"
 
-	para "#MON pour cou-"
+	para "#mon pour cou-"
 	line "per les buissons."
 
 	para "Il te faut le"
-	line "BADGE de l'ARENE"
+	line "Badge de l'Arène"
 
-	para "d'ECORCIA pour"
+	para "d'Ecorcia pour"
 	line "l'utiliser."
 	done
 
@@ -822,7 +822,7 @@ Text_HeadbuttIntro:
 
 	para "Je secoue les"
 	line "arbres avec le"
-	cont "COUP D'BOULE."
+	cont "Coup d'Boule."
 
 	para "C'est marrant."
 	line "Tiens, essaie!"
@@ -830,9 +830,9 @@ Text_HeadbuttIntro:
 
 Text_HeadbuttOutro:
 	text "Cogne les arbres"
-	line "avec un COUP"
-	cont "D'BOULE et des"
-	cont "#MON endormis"
+	line "avec un Coup"
+	cont "s'Boule et des"
+	cont "#mon Endormis"
 	cont "tomberont parfois."
 	done
 
@@ -844,7 +844,7 @@ Text_IlexForestLass:
 	done
 
 IlexForestSignpostText:
-	text "Le BOIS AUX CHENES"
+	text "Le Bois aux Chênes"
 	line "est si dense que"
 
 	para "les feuilles ca-"
@@ -856,8 +856,8 @@ IlexForestSignpostText:
 	done
 
 Text_IlexForestShrine:
-	text "AUTEL du"
-	line "BOIS AUX CHENES..."
+	text "Autel du"
+	line "Bois aux Chênes..."
 
 	para "En l'honneur du"
 	line "protecteur de la"
@@ -865,8 +865,8 @@ Text_IlexForestShrine:
 	done
 
 Text_ShrineCelebiEvent:
-	text "AUTEL du"
-	line "BOIS AUX CHENES..."
+	text "Autel du"
+	line "Bois aux Chênes..."
 
 	para "C'est en l'honneur"
 	line "du gardien de la"
@@ -877,16 +877,16 @@ Text_ShrineCelebiEvent:
 	para "Il y a un trou."
 	line "On dirait que la"
 
-	para "GS BALL peut y"
+	para "GS Ball peut y"
 	line "entrer."
 
 	para "Déposer la"
-	line "GS BALL?"
+	line "GS Ball?"
 	done
 
 Text_InsertGSBall:
 	text "<PLAYER> dépose"
-	line "la GS BALL."
+	line "la GS Ball."
 	done
 
 Text_KurtCaughtCelebi:
@@ -896,14 +896,14 @@ Text_KurtCaughtCelebi:
 	line "génial. Merci!"
 
 	para "Les légendes sur"
-	line "cet AUTEL étaient"
+	line "cet Autel étaient"
 	cont "donc vraies."
 
 	para "Tout ceci est"
 	line "fantastique."
 
 	para "Je vais faire de"
-	line "meilleures BALLS!"
+	line "meilleures Balls!"
 
 	para "Au revoir!"
 	done
@@ -913,23 +913,23 @@ BugCatcherWayneSeenText:
 	line "peur!"
 
 	para "Tu as fait fuir"
-	line "un #MON!"
+	line "un #mon!"
 	done
 
 BugCatcherWayneBeatenText:
 	text "Je n'avais encore"
 	line "jamais vu ce"
-	cont "#MON..."
+	cont "#mon..."
 	done
 
 BugCatcherWayneAfterBattleText:
-	text "Un #MON que je"
+	text "Un #mon que je"
 	line "n'avais jamais vu"
 
 	para "est tombé d'un"
 	line "arbre après avoir"
-	cont "utilisé COUP"
-	cont "D'BOULE."
+	cont "utilisé Coup"
+	cont "s'Boule."
 
 	para "Je devrais faire"
 	line "ça plus souvent."

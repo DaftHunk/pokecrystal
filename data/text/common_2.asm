@@ -4,18 +4,18 @@ _NoPhotoText::
 	done
 
 _EggPhotoText::
-	text "Un OEUF? Je peux"
+	text "Un Oeuf? Je peux"
 	line "pas faire de l'art"
 	cont "avec ça..."
 	done
 
 _NameRaterHelloText::
 	text "B'jour! Je suis le"
-	line "SPECIALISTE des"
+	line "Spécialiste des"
 
-	para "NOMS. Je donne mon"
+	para "Noms. Je donne mon"
 	line "avis sur les noms"
-	cont "des #MON."
+	cont "des #mon."
 
 	para "Veux-tu que je te"
 	line "donne mon avis sur"
@@ -24,7 +24,7 @@ _NameRaterHelloText::
 
 _NameRaterWhichMonText::
 	text "Le nom de quel"
-	line "#MON veux-tu"
+	line "#mon veux-tu"
 	cont "que j'étudie?"
 	prompt
 
@@ -76,7 +76,7 @@ _NameRaterPerfectNameText::
 
 _NameRaterEggText::
 	text "Whoa! C'est juste"
-	line "un OEUF."
+	line "un Oeuf."
 	done
 
 _NameRaterSameNameText::
@@ -91,7 +91,7 @@ _NameRaterSameNameText::
 
 _NameRaterNamedText::
 	text "Parfait. Ce"
-	line "#MON s'appelle"
+	line "#mon s'appelle"
 	cont "donc @"
 	text_ram wStringBuffer1
 	text "."
@@ -108,7 +108,7 @@ _BoostedExpPointsText::
 	line "un bonus de"
 	cont "@"
 	text_decimal wStringBuffer2, 2, 4
-	text " Points EXP!"
+	text " Points Exp!"
 	prompt
 
 _ExpPointsText::
@@ -116,7 +116,7 @@ _ExpPointsText::
 	text_start
 	line "@"
 	text_decimal wStringBuffer2, 2, 4
-	text " Points EXP!"
+	text " Points Exp!"
 	prompt
 
 _GoMonText::
@@ -190,7 +190,7 @@ _ContainedMoveText::
 	line "@"
 	text_ram wStringBuffer2
 	text_start
-	cont "à un #MON?"
+	cont "à un #mon?"
 	done
 
 _TMHMNotCompatibleText::
@@ -234,8 +234,8 @@ _MysteryGiftCommErrorText::
 	prompt
 
 _RetrieveMysteryGiftText::
-	text "CADEAU à récupérer"
-	line "au CENTRE #MON."
+	text "Cadeau à récupérer"
+	line "au Centre #mon."
 	prompt
 
 _YourFriendIsNotReadyText::
@@ -245,11 +245,11 @@ _YourFriendIsNotReadyText::
 
 _MysteryGiftFiveADayText::
 	text "Seulement 5"
-	line "CADEAUX par jour."
+	line "Cadeaux par jour."
 	prompt
 
 _MysteryGiftOneADayText::
-	text "Seulement 1 CADEAU"
+	text "Seulement 1 Cadeau"
 	line "par jour et par"
 	cont "personne."
 	prompt
@@ -274,15 +274,25 @@ _MysteryGiftSentHomeText::
 	prompt
 
 _NameCardReceivedCardText::
-	text_start
+	text "La Carte venant de"
+	line "@"
+	text_ram wMysteryGiftCardHolderName
+	text " a bien été"
+	line "reçue!"
 	prompt
 
 _NameCardListedCardText::
-	text_start
-	prompt
+	text "La Carte venant de"
+	text_ram wMysteryGiftCardHolderName
+	line " a été"
+	cont "classée au no.@"
+	text_decimal wTextDecimalByte, 1, 2
+	text "."
+	prompt	
 
 _NameCardNotRegisteredCardText::
-	text_start
+	text "Cette Carte n'a pas"
+	line "été enregistrée."
 	prompt
 
 _NameCardLinkCancelledText::
@@ -296,7 +306,7 @@ _NameCardLinkCommErrorText::
 	prompt
 
 _BadgeRequiredText::
-	text "Un BADGE est"
+	text "Un Badge est"
 	line "requis."
 	prompt
 
@@ -308,16 +318,16 @@ _CantUseItemText::
 _UseCutText::
 	text_ram wStringBuffer2
 	text_start
-	line "lance COUPE!"
+	line "lance Coupe!"
 	prompt
 
 _CutNothingText::
 	text "Il n'y a rien"
-	line "à COUPER ici."
+	line "à Couper ici."
 	prompt
 
 _BlindingFlashText::
-	text "Un FLASH illumine"
+	text "Un Flash illumine"
 	line "les environs!@"
 	text_promptbutton
 	text_end
@@ -327,28 +337,28 @@ _BlindingFlashText::
 _UsedSurfText::
 	text_ram wStringBuffer2
 	text_start
-	line "lance SURF!"
+	line "lance Surf!"
 	done
 
 _CantSurfText::
 	text "On ne peut pas"
-	line "SURFER ici."
+	line "Surfer ici."
 	prompt
 
 _AlreadySurfingText::
 	text "Vous êtes déjà en"
-	line "train de SURFER!"
+	line "train de Surfer!"
 	prompt
 
 _AskSurfText::
 	text "L'eau est calme..."
-	line "Un coup de SURF?"
+	line "Un coup de Surf?"
 	done
 
 _UseWaterfallText::
 	text_ram wStringBuffer2
 	text_start
-	line "lance CASCADE!"
+	line "lance Cascade!"
 	done
 
 _HugeWaterfallText::
@@ -358,18 +368,18 @@ _HugeWaterfallText::
 
 _AskWaterfallText::
 	text "Voulez-vous uti-"
-	line "liser CASCADE?"
+	line "liser Cascade?"
 	done
 
 _UseDigText::
 	text_ram wStringBuffer2
 	text_start
-	line "lance TUNNEL!"
+	line "lance Tunnel!"
 	done
 
 _UseEscapeRopeText::
 	text "<PLAYER> utilise"
-	line "une CORDE SORTIE."
+	line "une Corde Sortie."
 	done
 
 _CantUseDigText::
@@ -379,7 +389,7 @@ _CantUseDigText::
 
 _TeleportReturnText::
 	text "Retour au dernier"
-	line "CENTRE #MON."
+	line "Centre #mon."
 	done
 
 _CantUseTeleportText::
@@ -388,14 +398,14 @@ _CantUseTeleportText::
 	prompt
 
 _AlreadyUsingStrengthText::
-	text "Un #MON utilise"
-	line "déjà FORCE."
+	text "Un #mon utilise"
+	line "déjà Force."
 	prompt
 
 _UseStrengthText::
 	text_ram wStringBuffer2
 	text_start
-	line "lance FORCE!"
+	line "lance Force!"
 	done
 
 _MoveBoulderText::
@@ -406,11 +416,11 @@ _MoveBoulderText::
 	prompt
 
 _AskStrengthText::
-	text "Un #MON peut"
+	text "Un #mon peut"
 	line "déplacer ça."
 
 	para "Voulez-vous utili-"
-	line "ser FORCE?"
+	line "ser Force?"
 	done
 
 _BouldersMoveText::
@@ -420,21 +430,21 @@ _BouldersMoveText::
 	done
 
 _BouldersMayMoveText::
-	text "Un #MON peut"
+	text "Un #mon peut"
 	line "déplacer ceci."
 	done
 
 _UseWhirlpoolText::
 	text_ram wStringBuffer2
 	text_start
-	line "lance SIPHON!"
+	line "lance Siphon!"
 	prompt
 
 _MayPassWhirlpoolText::
 	text "C'est un terrible"
 	line "siphon!"
 
-	para "Un #MON peut"
+	para "Un #mon peut"
 	line "le traverser."
 	done
 
@@ -443,13 +453,13 @@ _AskWhirlpoolText::
 	line "la route."
 
 	para "Lancer"
-	line "SIPHON?"
+	line "Siphon?"
 	done
 
 _UseHeadbuttText::
 	text_ram wStringBuffer2
 	text " donne"
-	line "un COUP D'BOULE!"
+	line "un Coup d'Boule!"
 	prompt
 
 _HeadbuttNothingText::
@@ -457,21 +467,21 @@ _HeadbuttNothingText::
 	done
 
 _AskHeadbuttText::
-	text "Un #MON peut"
+	text "Un #mon peut"
 	line "être dans l'arbre."
 
 	para "Voulez-vous donner"
-	line "un COUP D'BOULE?"
+	line "un Coup d'Boule?"
 	done
 
 _UseRockSmashText::
 	text_ram wStringBuffer2
 	text_start
-	line "lance ECLATE-ROC!"
+	line "lance Eclate-Roc!"
 	prompt
 
 _MaySmashText::
-	text "Un #MON peut"
+	text "Un #mon peut"
 	line "le briser."
 	done
 
@@ -480,7 +490,7 @@ _AskRockSmashText::
 	line "cassable."
 
 	para "Voulez-vous utili-"
-	line "ser ECLATE-ROC?"
+	line "ser Eclate-Roc?"
 	done
 
 _RodBiteText::
@@ -518,14 +528,14 @@ _GotOffBikeText::
 
 _AskCutText::
 	text "Cet arbre peut"
-	line "être COUPE!"
+	line "être Coupe!"
 
-	para "Lancer COUPE?"
+	para "Lancer Coupe?"
 	done
 
 _CanCutText::
 	text "Cet arbre peut"
-	line "être COUPE!"
+	line "être Coupe!"
 	done
 
 _FoundItemText::
@@ -543,7 +553,7 @@ _CantCarryItemText::
 
 _WhitedOutText::
 	text "<PLAYER> n'a plus"
-	line "de #MON en"
+	line "de #mon en"
 	cont "forme!"
 
 	para "<PLAYER> est"
@@ -551,13 +561,13 @@ _WhitedOutText::
 	done
 
 _ItemfinderItemNearbyText::
-	text "Le CHERCH'OBJET"
+	text "Le Cherch'Objet"
 	line "indique la présen-"
 	cont "ce d'un objet!"
 	prompt
 
 _ItemfinderNopeText::
-	text "Le CHERCH'OBJET"
+	text "Le Cherch'Objet"
 	line "n'a rien trouvé..."
 	cont "Dommage!"
 	prompt
@@ -570,7 +580,7 @@ _PoisonFaintText::
 
 _PoisonWhiteoutText::
 	text "<PLAYER> n'a plus"
-	line "de #MON en"
+	line "de #mon en"
 	cont "forme!"
 
 	para "<PLAYER> est"
@@ -580,7 +590,7 @@ _PoisonWhiteoutText::
 _UseSweetScentText::
 	text_ram wStringBuffer3
 	text_start
-	line "lance DOUX PARFUM!"
+	line "lance Doux Parfum!"
 	done
 
 _SweetScentNothingText::
@@ -597,13 +607,13 @@ _SquirtbottleNothingText::
 	done
 
 _UseSacredAshText::
-	text "Les #MON de"
+	text "Les #mon de"
 	line "<PLAYER> sont tous"
 	cont "soignés!"
 	done
 
 _AnEggCantHoldAnItemText::
-	text "Un OEUF ne peut"
+	text "Un Oeuf ne peut"
 	line "rien porter."
 	prompt
 
@@ -632,7 +642,7 @@ _ThrewAwayText::
 	prompt
 
 _OakThisIsntTheTimeText::
-	text "CHEN: <PLAYER>!"
+	text "Chen: <PLAYER>!"
 	line "Ce n'est pas le"
 	cont "moment d'utiliser"
 	cont "ce truc!"
@@ -640,7 +650,7 @@ _OakThisIsntTheTimeText::
 
 _YouDontHaveAMonText::
 	text "Vous n'avez pas"
-	line "de #MON!"
+	line "de #mon!"
 	prompt
 
 _RegisteredItemText::
@@ -679,6 +689,8 @@ Text_BattleEffectActivate::
 	line "<USER>@"
 	text_end
 
+	text_end ; unreferenced
+
 _BattleStatWentWayUpText::
 	text_pause
 	text "<SCROLL>monte à fond!"
@@ -694,6 +706,8 @@ Text_BattleFoeEffectActivate::
 	text " de"
 	line "<TARGET>@"
 	text_end
+
+	text_end ; unreferenced
 
 _BattleStatSharplyFellText::
 	text_pause
@@ -799,7 +813,7 @@ _BreedClearboxText::
 _BreedEggHatchText::
 	text_ram wStringBuffer1
 	text " sort"
-	line "de son OEUF!@"
+	line "de son Oeuf!@"
 	sound_caught_mon
 	text_promptbutton
 	text_end
@@ -819,7 +833,7 @@ _LeftWithDayCareLadyText::
 	text_start
 	line "qui a été laissé"
 	cont "chez la dame de la"
-	cont "PENSION."
+	cont "Pension."
 	done
 
 _LeftWithDayCareManText::
@@ -828,7 +842,7 @@ _LeftWithDayCareManText::
 	text_start
 	line "qui a été laissé"
 	cont "chez l'homme de la"
-	cont "PENSION."
+	cont "Pension."
 	done
 
 _BreedBrimmingWithEnergyText::
@@ -866,21 +880,21 @@ _BreedShowsInterestText::
 
 _EmptyMailboxText::
 	text "Il n'y a pas de"
-	line "LETTRE ici."
+	line "Lettre ici."
 	prompt
 
 _MailClearedPutAwayText::
-	text "Le COURRIER a été"
+	text "Le Courrier a été"
 	line "rangé."
 	prompt
 
 _MailPackFullText::
-	text "Le SAC est plein."
+	text "Le Sac est plein."
 	prompt
 
 _MailMessageLostText::
 	text "Le message de la"
-	line "LETTRE sera perdu."
+	line "Lettre sera perdu."
 	cont "OK?"
 	done
 
@@ -890,14 +904,14 @@ _MailAlreadyHoldingItemText::
 	prompt
 
 _MailEggText::
-	text "Un OEUF ne peut"
-	line "porter une LETTRE!"
+	text "Un Oeuf ne peut"
+	line "porter une Lettre!"
 	prompt
 
 _MailMovedFromBoxText::
-	text "Cette LETTRE vient"
-	line "de la BOITE AUX"
-	cont "LETTRES."
+	text "Cette Lettre vient"
+	line "de la Boîte aux"
+	cont "Lettres."
 	prompt
 
 _YesPromptText:: ; unreferenced
@@ -920,18 +934,18 @@ _AnimationTypeText:: ; unreferenced
 	text_end ; unreferenced
 
 _MonNumberText:: ; unreferenced
-	text "Numéro #MON?"
+	text "Numéro #mon?"
 	done
 
 _WasSentToBillsPCText::
 	text_ram wStringBuffer1
 	text_start
-	line "va au PC de LEO."
+	line "va au PC de Léo."
 	prompt
 
 _PCGottaHavePokemonText::
 	text "Il faut des"
-	line "#MON à appeler!"
+	line "#mon à appeler!"
 	prompt
 
 _PCWhatText::
@@ -939,28 +953,28 @@ _PCWhatText::
 	done
 
 _PCMonHoldingMailText::
-	text "Il y a un #MON"
-	line "tenant une LETTRE."
+	text "Il y a un #mon"
+	line "tenant une Lettre."
 
-	para "Enlevez la LETTRE"
+	para "Enlevez la Lettre"
 	line "s'il vous plaît."
 	prompt
 
 _PCNoSingleMonText::
 	text "Vous n'avez aucun"
-	line "#MON!"
+	line "#mon!"
 	prompt
 
 _PCCantDepositLastMonText::
 	text "Vous ne pouvez"
 	line "déposer le dernier"
-	cont "#MON!"
+	cont "#mon!"
 	prompt
 
 _PCCantTakeText::
 	text "Vous ne pouvez"
 	line "prendre plus de"
-	cont "#MON."
+	cont "#mon."
 	prompt
 
 _ContestCaughtMonText::
@@ -971,7 +985,7 @@ _ContestCaughtMonText::
 
 _ContestAskSwitchText::
 	text "Changer de"
-	line "#MON?"
+	line "#mon?"
 	done
 
 _ContestAlreadyCaughtText::
@@ -1050,7 +1064,7 @@ _ContestJudging_ThirdPlaceScoreText::
 
 _MagikarpGuruMeasureText::
 	text "Je vais mesurer"
-	line "ce MAGICARPE."
+	line "ce Magicarpe."
 
 	para "Hmm... Il mesure"
 	line "@"
@@ -1059,7 +1073,7 @@ _MagikarpGuruMeasureText::
 	prompt
 
 _KarpGuruRecordText::
-	text "RECORD ACTUEL"
+	text "Record Actuel"
 
 	para "@"
 	text_ram wStringBuffer1
@@ -1091,7 +1105,7 @@ _LuckyNumberMatchPCText::
 	text_ram wStringBuffer1
 	text " dans"
 
-	para "votre BOITE PC"
+	para "votre Boîte PC"
 	line "correspond."
 	prompt
 
@@ -1105,7 +1119,7 @@ _CaughtAskNicknameText::
 
 _PokecenterPCCantUseText::
 	text "Bzzzzt! Il faut un"
-	line "#MON pour"
+	line "#mon pour"
 	cont "utiliser ça!"
 	prompt
 
@@ -1171,11 +1185,11 @@ _PokecenterPCWhoseText::
 	done
 
 _PokecenterBillsPCText::
-	text "PC de LEO"
+	text "PC de Léo"
 	line "connecté."
 
 	para "Gestion Stocks"
-	line "de #MON."
+	line "de #mon."
 	prompt
 
 _PokecenterPlayersPCText::
@@ -1187,11 +1201,11 @@ _PokecenterPlayersPCText::
 	prompt
 
 _PokecenterOaksPCText::
-	text "PC du PROF.CHEN"
+	text "PC du Prof.Chen"
 	line "connecté."
 
 	para "Evaluation du"
-	line "#DEX."
+	line "#dex."
 	prompt
 
 _PokecenterPCOaksClosedText::
@@ -1201,35 +1215,35 @@ _PokecenterPCOaksClosedText::
 
 _OakPCText1::
 	text "Veux-tu que j'éva-"
-	line "lue ton #DEX?"
+	line "lue ton #dex?"
 	done
 
 _OakPCText2::
-	text "Niveau #DEX"
+	text "Niveau #dex"
 	line "actuel:"
 	prompt
 
 _OakPCText3::
 	text_ram wStringBuffer3
-	text " #MON vus"
+	text " #mon vus"
 	line "@"
 	text_ram wStringBuffer4
-	text " #MON pris"
+	text " #mon pris"
 
 	para "Evaluation"
-	line "PROF.CHEN:"
+	line "Prof.Chen:"
 	done
 
 _OakRating01::
 	text "Cherche des #-"
-	line "MON dans les"
+	line "mon dans les"
 	cont "hautes herbes!"
 	done
 
 _OakRating02::
 	text "Bien. Je vois que"
 	line "tu sais te servir"
-	cont "des # BALLS."
+	cont "des # Balls."
 	done
 
 _OakRating03::
@@ -1242,34 +1256,34 @@ _OakRating03::
 
 _OakRating04::
 	text "Tu dois remplir"
-	line "ton #DEX."
+	line "ton #dex."
 
 	para "Attrape plusieurs"
-	line "types de #MON!"
+	line "types de #mon!"
 	done
 
 _OakRating05::
 	text "Tu te donnes du"
 	line "mal, ça se voit."
 
-	para "Ton #DEX se"
+	para "Ton #dex se"
 	line "remplit doucement."
 	done
 
 _OakRating06::
-	text "Certains #MON"
+	text "Certains #mon"
 	line "évoluent seuls,"
 
 	para "d'autres ont be-"
-	line "soin de PIERRES."
+	line "soin de PierreS."
 	done
 
 _OakRating07::
 	text "Est-ce que tu as"
-	line "une CANNE? Tu"
+	line "une Canne? Tu"
 
 	para "peux pêcher des"
-	line "#MON!"
+	line "#mon!"
 	done
 
 _OakRating08::
@@ -1279,7 +1293,7 @@ _OakRating08::
 	done
 
 _OakRating09::
-	text "Certains #MON"
+	text "Certains #mon"
 	line "n'apparaissent"
 
 	para "qu'à certains"
@@ -1288,7 +1302,7 @@ _OakRating09::
 	done
 
 _OakRating10::
-	text "Ton #DEX se"
+	text "Ton #dex se"
 	line "remplit. C'est"
 	cont "bien!"
 	done
@@ -1297,28 +1311,28 @@ _OakRating11::
 	text "Impressionnant!"
 	line "Tu fais évoluer"
 
-	para "tes #MON!"
+	para "tes #mon!"
 	line "Bravo!"
 	done
 
 _OakRating12::
 	text "Tu connais"
-	line "FARGAS? Il fabri-"
-	cont "que des BALLS!"
+	line "Fargas? Il fabri-"
+	cont "que des Balls!"
 	done
 
 _OakRating13::
 	text "Oh! Tu as trouvé"
-	line "plus de #MON"
+	line "plus de #mon"
 
 	para "qu'au dernier"
 	line "recensement du"
-	cont "#DEX."
+	cont "#dex."
 	done
 
 _OakRating14::
 	text "Echanges-tu tes"
-	line "#MON? Il"
+	line "#mon? Il"
 
 	para "faut se faire"
 	line "des amis!"
@@ -1327,13 +1341,13 @@ _OakRating14::
 _OakRating15::
 	text "Whoa! T'as passé"
 	line "la barre des 200!"
-	cont "Ton #DEX est"
+	cont "Ton #dex est"
 	cont "mortel!"
 	done
 
 _OakRating16::
 	text "Tu as trouvé tant"
-	line "de #MON!"
+	line "de #mon!"
 
 	para "Tu aides vraiment"
 	line "mes recherches!"
@@ -1343,12 +1357,12 @@ _OakRating17::
 	text "Magnifique! Tu"
 	line "peux devenir un"
 
-	para "PROF. #MON"
+	para "Prof. #mon"
 	line "dès maintenant!"
 	done
 
 _OakRating18::
-	text "Ton #DEX est"
+	text "Ton #dex est"
 	line "incroyable! Tu"
 
 	para "vas devenir un"
@@ -1356,7 +1370,7 @@ _OakRating18::
 	done
 
 _OakRating19::
-	text "Whoa! Un #DEX"
+	text "Whoa! Un #dex"
 	line "parfait! Mon rêve"
 
 	para "devient réalité!"
@@ -1365,15 +1379,34 @@ _OakRating19::
 
 _OakPCText4::
 	text "Connexion au PC du"
-	line "PROF.CHEN coupée."
+	line "Prof.Chen coupée."
 	done
 
 _TrainerRankingExplanationText:: ; unreferenced
-	text_start
+	text "Classement des"
+	line "dresseurs!"
+	
+	para "La Sauvegarde qui"
+	line "a été envoyée"
+	cont "pourrait finir au"
+	
+	para "classement!"
+
+	para ""
 	done
 
 _TrainerRankingNoDataText:: ; unreferenced
-	text_start
+	text "Il n'y a aucune"
+	line "données de"
+	cont "classement."
+
+	para "Connectez-vous"
+	line "pour obtenir"
+	cont "les données de"
+	cont "classement."
+
+	para ""
+	line ""
 	done
 
 _MemoryGameYeahText::
@@ -1417,7 +1450,7 @@ _ItemsTooImportantText::
 	prompt
 
 _ItemsOakWarningText::
-	text "CHEN: <PLAYER>!"
+	text "Chen: <PLAYER>!"
 	line "Ce n'est pas le"
 	cont "moment d'utiliser"
 	cont "ce truc!"
@@ -1447,7 +1480,7 @@ _PokemonHoldItemText::
 
 _PokemonRemoveMailText::
 	text "Enlever la"
-	line "LETTRE d'abord."
+	line "Lettre d'abord."
 	prompt
 
 _PokemonNotHoldingText::
@@ -1487,12 +1520,12 @@ _ItemCantHeldText::
 	prompt
 
 _MailLoseMessageText::
-	text "La LETTRE perdra"
+	text "La Lettre perdra"
 	line "son message. OK?"
 	done
 
 _MailDetachedText::
-	text "LETTRE enlevée de"
+	text "Lettre enlevée de"
 	line "@"
 	text_ram wStringBuffer1
 	text "."
@@ -1500,22 +1533,22 @@ _MailDetachedText::
 
 _MailNoSpaceText::
 	text "Pas de place pour"
-	line "enlever la LETTRE."
+	line "enlever la Lettre."
 	prompt
 
 _MailAskSendToPCText::
-	text "Envoyer la LETTRE"
+	text "Envoyer la Lettre"
 	line "enlevée au PC?"
 	done
 
 _MailboxFullText::
-	text "La BOITE AUX LET-"
-	line "TRES du PC est"
+	text "La Boîte aux Let-"
+	line "tres du PC est"
 	cont "pleine."
 	prompt
 
 _MailSentToPCText::
-	text "La LETTRE a été"
+	text "La Lettre a été"
 	line "envoyée au PC."
 	prompt
 
@@ -1524,11 +1557,11 @@ _PokemonNotEnoughHPText::
 	prompt
 
 _MayRegisterItemText::
-	text "Un objet du SAC"
+	text "Un objet du Sac"
 	line "peut être enregis-"
 
 	para "tré comme fonction"
-	line "du bouton SELECT."
+	line "du bouton Select."
 	done
 
 _OakText1::
@@ -1536,18 +1569,18 @@ _OakText1::
 	line "l'attente!"
 
 	para "Bienvenue dans le"
-	line "monde de #MON!"
+	line "monde de #mon!"
 
-	para "Mon nom est CHEN."
+	para "Mon nom est Chen."
 
 	para "Mais on m'appelle"
-	line "le PROF.#MON."
+	line "le Prof.#mon."
 	prompt
 
 _OakText2::
 	text "Ce monde est peu-"
 	line "plé de créatures"
-	cont "appelées #MON.@"
+	cont "appelées #mon.@"
 	text_end
 
 _OakText3::
@@ -1557,12 +1590,12 @@ _OakText3::
 	text_end ; unreferenced
 
 _OakText4::
-	text "Humains et #MON"
+	text "Humains et #mon"
 	line "vivent en parfaite"
 	cont "harmonie..."
 
 	para "Certains jouent"
-	line "avec les #MON,"
+	line "avec les #mon,"
 	cont "d'autres font des"
 	cont "combats avec eux."
 	prompt
@@ -1571,7 +1604,7 @@ _OakText5::
 	text "Mais il reste"
 	line "beaucoup à appren-"
 	cont "dre sur nos amis"
-	cont "les #MON."
+	cont "les #mon."
 
 	para "De nombreux mystè-"
 	line "res planent à leur"
@@ -1579,6 +1612,6 @@ _OakText5::
 
 	para "Et c'est pourquoi"
 	line "j'étudie les"
-	cont "#MON tous les"
+	cont "#mon tous les"
 	cont "jours."
 	prompt

@@ -320,7 +320,7 @@ Route44HiddenElixer:
 
 FisherWilton1SeenText:
 	text "Aahh! Tu m'as fait"
-	line "perdre un PTITARD!"
+	line "perdre un Ptitard!"
 
 	para "Tu vas t'excuser,"
 	line "ouais?"
@@ -331,7 +331,7 @@ FisherWilton1BeatenText:
 	done
 
 FisherWiltonHugePoliwagText:
-	text "Ce PTITARD était"
+	text "Ce Ptitard était"
 	line "énorme!"
 
 	para "Il faisait 5 mè-"
@@ -345,7 +345,7 @@ FisherEdgarSeenText:
 	para "Je fais des com-"
 	line "bats, aussi."
 
-	para "Les #MON, je"
+	para "Les #mon, je"
 	line "les aime aussi"
 	cont "pour ça."
 	done
@@ -364,7 +364,7 @@ FisherEdgarAfterBattleText:
 
 BirdKeeperVance1SeenText:
 	text "Tu connais les"
-	line "#MON oiseaux"
+	line "#mon oiseaux"
 	cont "légendaires?"
 	done
 
@@ -374,11 +374,11 @@ BirdKeeperVance1BeatenText:
 	done
 
 BirdKeeperVanceLegendaryBirdsText:
-	text "ARTIKODIN,"
-	line "ELECTHOR et"
+	text "Artikodin,"
+	line "Electhor et"
 
-	para "SULFURA sont les"
-	line "trois #MON oi-"
+	para "Sulfura sont les"
+	line "trois #mon oi-"
 	cont "seaux légendaires."
 
 	para "On dit qu'il y en"
@@ -413,17 +413,17 @@ PsychicPhilAfterBattleText:
 	done
 
 PokemaniacZachSeenText:
-	text "J'veux des #MON"
+	text "J'veux des #mon"
 	line "rares! Yaaaaah!"
 	done
 
 PokemaniacZachBeatenText:
-	text "Oooh, tes #MON"
+	text "Oooh, tes #mon"
 	line "sont siii beaux!"
 	done
 
 PokemaniacZachAfterBattleText:
-	text "Si un #MON est"
+	text "Si un #mon est"
 	line "d'une couleur in-"
 
 	para "habituelle, il a"
@@ -449,10 +449,10 @@ CooltrainermAllenBeatenText:
 
 CooltrainermAllenAfterBattleText:
 	text "Whoa! Tu en as"
-	line "des beaux BADGES."
+	line "des beaux Badges."
 
-	para "MORTIMER de l'ARE-"
-	line "NE de ROSALIA"
+	para "Mortimer de l'Arè-"
+	line "ne de Rosalia"
 
 	para "s'entraîne-t-il"
 	line "toujours?"
@@ -483,16 +483,16 @@ CooltrainerfCybilAfterBattleText:
 	done
 
 Route44Sign1Text:
-	text "ROUTE 44"
-	line "ROUTE DE GLACE"
+	text "Route 44"
+	line "Route de Glace"
 	cont "Tout droit"
 	done
 
 Route44Sign2Text:
-	text "ROUTE 44"
+	text "Route 44"
 
-	para "ACAJOU -"
-	line "EBENELLE"
+	para "Acajou -"
+	line "Ebenelle"
 	done
 
 Route44_MapEvents:

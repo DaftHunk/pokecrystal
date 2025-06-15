@@ -1,4 +1,4 @@
-	db "UNICORNE@" ; species name
+	db "Unicorne@" ; species name
 	db 15 ; height
 	dw 540 ; weight
 

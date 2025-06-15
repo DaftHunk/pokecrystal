@@ -243,11 +243,11 @@ LakeOfRageLanceTeleportIntoSkyMovement:
 	step_end
 
 LakeOfRageLanceForcedToEvolveText:
-	text "Ce LAC est rempli"
-	line "de LEVIATOR et"
+	text "Ce Lac est rempli"
+	line "de Léviator et"
 	cont "rien d'autre..."
 
-	para "Les MAGICARPE ont"
+	para "Les Magicarpe ont"
 	line "été forcés"
 	cont "d'évoluer..."
 	done
@@ -257,7 +257,7 @@ LakeOfRageLanceIntroText:
 	line "de la rumeur?"
 
 	para "Tu es <PLAYER>?"
-	line "Moi c'est PETER,"
+	line "Moi c'est Peter,"
 	cont "un dresseur comme"
 	cont "toi."
 
@@ -279,17 +279,17 @@ LakeOfRageLanceIntroText:
 	done
 
 LakeOfRageLanceRadioSignalText:
-	text "PETER: Excellent!"
+	text "Peter: Excellent!"
 
 	para "On dirait que"
 	line "quelque chose"
 	cont "force les"
-	cont "MAGICARPE du LAC"
+	cont "Magicarpe du Lac"
 	cont "à évoluer."
 
 	para "Un mystérieux"
 	line "signal radio vient"
-	cont "d'ACAJOU."
+	cont "d'Acajou."
 
 	para "Je t'y attendrai,"
 	line "<PLAY_G>."
@@ -303,21 +303,21 @@ LakeOfRageLanceRefusedText:
 	done
 
 LakeOfRageLanceAskHelpText:
-	text "PETER: Hum? Vas-tu"
+	text "Peter: Hum? Vas-tu"
 	line "m'aider?"
 	done
 
 LakeOfRageGyaradosCryText:
-	text "LEVIATOR: Tttooor!"
+	text "Léviator: Tttooor!"
 	done
 
 LakeOfRageGotRedScaleText:
 	text "<PLAYER> obtient"
-	line "une ECAILLEROUGE."
+	line "une EcailleRouge."
 	done
 
 LakeOfRageGrampsText:
-	text "Les LEVIATOR sont"
+	text "Les Léviator sont"
 	line "en colère!"
 
 	para "Mauvais présage!"
@@ -325,14 +325,14 @@ LakeOfRageGrampsText:
 
 LakeOfRageGrampsText_ClearedRocketHideout:
 	text "Hahah! Les"
-	line "MAGICARPE mordent!"
+	line "Magicarpe mordent!"
 	done
 
 LakeOfRageSuperNerdText:
-	text "On dit que ce LAC"
+	text "On dit que ce Lac"
 	line "a été fait par"
 	cont "le déchaînement de"
-	cont "LEVIATOR."
+	cont "Léviator."
 
 	para "Je me demande"
 	line "s'il y a un lien"
@@ -343,18 +343,18 @@ LakeOfRageSuperNerdText:
 LakeOfRageCooltrainerFText:
 	text "J'ai la berlue ou"
 	line "quoi? J'ai vu un"
-	cont "LEVIATOR rouge"
-	cont "dans le LAC..."
+	cont "Léviator rouge"
+	cont "dans le Lac..."
 
 	para "Je croyais qu'il"
 	line "n'y avait que des"
-	cont "LEVIATOR bleus?"
+	cont "Léviator bleus?"
 	done
 
 FisherAndreSeenText:
 	text "Laisse-moi donc"
 	line "combattre avec le"
-	cont "#MON que je"
+	cont "#mon que je"
 	cont "viens d'attraper!"
 	done
 
@@ -370,7 +370,7 @@ FisherAndreAfterBattleText:
 	text "J'suis un bon"
 	line "pêcheur, moi."
 	cont "Et j'attrape des"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 FisherRaymondSeenText:
@@ -378,7 +378,7 @@ FisherRaymondSeenText:
 	line "je fais, j'attrape"
 
 	para "toujours le même"
-	line "#MON..."
+	line "#mon..."
 	done
 
 FisherRaymondBeatenText:
@@ -389,7 +389,7 @@ FisherRaymondBeatenText:
 FisherRaymondAfterBattleText:
 	text "Pourquoi je ne"
 	line "peux pas attraper"
-	cont "de bons #MON?"
+	cont "de bons #mon?"
 	done
 
 CooltrainermAaronSeenText:
@@ -408,7 +408,7 @@ CooltrainermAaronBeatenText:
 	done
 
 CooltrainermAaronAfterBattleText:
-	text "Les #MON et"
+	text "Les #mon et"
 	line "leur dresseur"
 
 	para "deviennent forts"
@@ -418,7 +418,7 @@ CooltrainermAaronAfterBattleText:
 
 CooltrainerfLoisSeenText:
 	text "Qu'est-il arrivé"
-	line "au LEVIATOR rouge?"
+	line "au Léviator rouge?"
 
 	para "Il est parti?"
 
@@ -436,18 +436,18 @@ CooltrainerfLoisBeatenText:
 CooltrainerfLoisAfterBattleText:
 	text "Au fait..."
 	line "J'ai vu un"
-	cont "PAPILUSION rose."
+	cont "Papilusion rose."
 	done
 
 MeetWesleyText:
-	text "HOMER: Alors,"
+	text "Homer: Alors,"
 	line "comment va?"
 
-	para "Moi c'est HOMER"
-	line "du mercredi. Et"
+	para "Moi c'est Homer"
+	line "du Mercredi. Et"
 
 	para "aujourd'hui..."
-	line "C'est mercredi!"
+	line "C'est Mercredi!"
 	done
 
 WesleyGivesGiftText:
@@ -457,14 +457,14 @@ WesleyGivesGiftText:
 	done
 
 WesleyGaveGiftText:
-	text "HOMER: La CEINT."
-	line "NOIRE renforce le"
+	text "Homer: La Ceint."
+	line "Noire renforce le"
 	cont "pouvoir des capa-"
-	cont "cités de COMBAT."
+	cont "cités de Combat."
 	done
 
 WesleyWednesdayText:
-	text "HOMER: Avant de"
+	text "Homer: Avant de"
 	line "m'avoir trouvé,"
 
 	para "t'as dû rencontrer"
@@ -476,21 +476,21 @@ WesleyWednesdayText:
 	done
 
 WesleyNotWednesdayText:
-	text "HOMER: On n'est"
-	line "pas mercredi!!!"
+	text "Homer: On n'est"
+	line "pas Mercredi!!!"
 	cont "Dommage!"
 	done
 
 LakeOfRageSignText:
-	text "LAC COLERE,"
+	text "Lac Colère,"
 	line "aussi connu sous"
-	cont "le nom de LAC"
-	cont "LEVIATOR."
+	cont "le nom de Lac"
+	cont "Léviator."
 	done
 
 FishingGurusHouseSignText:
-	text "MAISON DU MAITRE"
-	line "PECHEUR"
+	text "Maison du Maître"
+	line "Pêcheur"
 	done
 
 LakeOfRage_MapEvents:

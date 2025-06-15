@@ -1,4 +1,4 @@
-	db "CHEVAL FEU@" ; species name
+	db "Cheval Feu@" ; species name
 	db 10 ; height
 	dw 300 ; weight
 

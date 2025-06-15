@@ -42,10 +42,10 @@ BattleMenuHeader:
 	dbw BANK(@), NULL
 
 .Text:
-	db "ATTAQ@"
+	db "Attaq@"
 	db "<PKMN>@"
-	db "SAC@"
-	db "FUITE@"
+	db "Sac@"
+	db "Fuite@"
 
 SafariBattleMenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -87,10 +87,10 @@ ContestBattleMenuHeader:
 	dba .PrintParkBallsRemaining
 
 .Text:
-	db "ATTAQ@"
+	db "Attaq@"
 	db "<PKMN>@"
-	db "BALL×  @"
-	db "FUITE@"
+	db "Ball×  @"
+	db "Fuite@"
 
 .PrintParkBallsRemaining:
 	hlcoord 11, 16

@@ -1,4 +1,4 @@
-	db "TROISEAU@" ; species name
+	db "Troiseau@" ; species name
 	db 18 ; height
 	dw 852 ; weight
 

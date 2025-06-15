@@ -1,4 +1,4 @@
-	db "GRAINE@" ; species name
+	db "Graine@" ; species name
 	db 3 ; height
 	dw 18 ; weight
 

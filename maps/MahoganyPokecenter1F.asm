@@ -23,17 +23,17 @@ MahoganyPokecenter1FCooltrainerFScript:
 
 MahoganyPokecenter1FPokefanMText:
 	text "C'est quoi ça? La"
-	line "TEAM ROCKET est de"
+	line "Team Rocket est de"
 	cont "retour?"
 
 	para "J'ai vu des hommes"
-	line "en noir au LAC"
-	cont "COLERE..."
+	line "en noir au Lac"
+	cont "Colère..."
 	done
 
 MahoganyPokecenter1FYoungsterText:
 	text "J'ai empêché mes"
-	line "#MON d'évoluer"
+	line "#mon d'évoluer"
 	cont "trop tôt."
 
 	para "Je leur fais"
@@ -44,7 +44,7 @@ MahoganyPokecenter1FYoungsterText:
 	done
 
 MahoganyPokecenter1FCooltrainerFText:
-	text "Les #MON"
+	text "Les #mon"
 	line "deviennent bien"
 
 	para "plus forts lorsqu'"

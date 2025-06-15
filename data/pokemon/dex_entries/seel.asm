@@ -1,4 +1,4 @@
-	db "OTARIE@" ; species name
+	db "Otarie@" ; species name
 	db 11 ; height
 	dw 900 ; weight
 

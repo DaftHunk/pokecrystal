@@ -158,7 +158,7 @@ RadioTower1FRadioCardWomanScript:
 	end
 
 .RadioCardText:
-	db "COUPON RADIO@"
+	db "Coupon Radio@"
 
 .ReceiveItem:
 	jumpstd ReceiveItemScript
@@ -223,12 +223,12 @@ RadioTower1FReceptionistNoToursText:
 
 RadioTower1FLuckyNumberManAskToPlayText:
 	text "Salut! Es-tu ici"
-	line "pour le SHOW du"
-	cont "BON NUMERO?"
+	line "pour le Show du"
+	cont "Bon Numéro?"
 
 	para "Veux-tu que je re-"
 	line "garde le No. ID de"
-	cont "tes #MON?"
+	cont "tes #mon?"
 
 	para "Si tu as de la"
 	line "chance, tu gagne-"
@@ -256,7 +256,7 @@ RadioTower1FLuckyNumberManDotDotDotText:
 RadioTower1FLuckyNumberManComeAgainText:
 	text "A la prochaine"
 	line "fois pour un au-"
-	cont "tre BON NUMERO."
+	cont "tre Bon Numéro."
 	done
 
 RadioTower1FLuckyNumberManPerfectMatchText:
@@ -268,7 +268,7 @@ RadioTower1FLuckyNumberManPerfectMatchText:
 	line "vainqueur!"
 
 	para "Tu remportes une"
-	line "MASTER BALL!"
+	line "Master Ball!"
 	done
 
 RadioTower1FLuckyNumberManOkayMatchText:
@@ -278,7 +278,7 @@ RadioTower1FLuckyNumberManOkayMatchText:
 
 	para "Tu remportes le"
 	line "deuxième prix:"
-	cont "un MULTI EXP!"
+	cont "un Multi Exp!"
 	done
 
 RadioTower1FLuckyNumberManWeakMatchText:
@@ -288,7 +288,7 @@ RadioTower1FLuckyNumberManWeakMatchText:
 
 	para "Tu remportes le"
 	line "troisième prix:"
-	cont "un PP PLUS!"
+	cont "un PP Plus!"
 	done
 
 RadioTower1FLuckyNumberManNoneOfYourIDNumbersMatchText:
@@ -313,10 +313,10 @@ RadioTower1FRadioCardWomanOfferQuizText:
 	para "Réponds à 5 ques-"
 	line "tions correctement"
 	cont "pour gagner un"
-	cont "COUPON RADIO."
+	cont "Coupon Radio."
 
 	para "Glisse-le dans ton"
-	line "#MATOS pour"
+	line "#matos pour"
 
 	para "écouter la radio"
 	line "n'importe quand."
@@ -329,7 +329,7 @@ RadioTower1FRadioCardWomanQuestion1Text:
 	text "Question 1:"
 
 	para "Y a-t-il un #-"
-	line "MON apparaissant"
+	line "mon apparaissant"
 	cont "uniquement le"
 	cont "matin?"
 	done
@@ -342,8 +342,8 @@ RadioTower1FRadioCardWomanQuestion2Text:
 	line "est-elle correcte?"
 
 	para "On ne peut pas"
-	line "acheter de BAIE à"
-	cont "la BOUTIQUE."
+	line "acheter de Baie à"
+	cont "la Boutique."
 	done
 
 RadioTower1FRadioCardWomanQuestion3Text:
@@ -351,18 +351,18 @@ RadioTower1FRadioCardWomanQuestion3Text:
 	line "Question 3:"
 
 	para "CS01 contient-elle"
-	line "FLASH?"
+	line "Flash?"
 	done
 
 RadioTower1FRadioCardWomanQuestion4Text:
 	text "Tout va bien!"
 	line "Question 4:"
 
-	para "ALBERT est-il le"
-	line "CHAMPION de MAU-"
+	para "Albert est-il le"
+	line "Champion de Mau-"
 
-	para "VILLE et un utili-"
-	line "sateur de #MON"
+	para "ville et un utili-"
+	line "sateur de #mon"
 	cont "oiseaux?"
 	done
 
@@ -371,12 +371,12 @@ RadioTower1FRadioCardWomanQuestion5Text:
 	line "Voici la dernière"
 	cont "question:"
 
-	para "SALAMECHE appa-"
+	para "Salamèche appa-"
 	line "raît-il sur les"
 
 	para "machines à sous au"
-	line "CASINO de DOUBLON-"
-	cont "VILLE?"
+	line "Casino de Doublon-"
+	cont "ville?"
 	done
 
 RadioTower1FRadioCardWomanYouWinText:
@@ -384,11 +384,11 @@ RadioTower1FRadioCardWomanYouWinText:
 	line "Félicitations!"
 
 	para "Voici ton prix: un"
-	line "COUPON RADIO!"
+	line "Coupon Radio!"
 	done
 
 RadioTower1FPokegearIsARadioText:
-	text "Le #MATOS de"
+	text "Le #matos de"
 	line "<PLAYER> peut main-"
 	cont "tenant servir de"
 	cont "radio!"
@@ -414,7 +414,7 @@ RadioTower1FRadioCardWomanNotTakingQuizText:
 	done
 
 RadioTower1FLassText:
-	text "BEN est un super"
+	text "Ben est un super"
 	line "DJ!!!"
 
 	para "Sa voix me fait"
@@ -422,8 +422,8 @@ RadioTower1FLassText:
 	done
 
 RadioTower1FYoungsterText:
-	text "J'adore LULA de la"
-	line "CHRONIQUE #MON."
+	text "J'adore Lula de la"
+	line "Chronique #mon."
 
 	para "En tout cas j'ado-"
 	line "re sa voix..."
@@ -432,14 +432,14 @@ RadioTower1FYoungsterText:
 
 GruntM3SeenText:
 	text "Nous avons enfin"
-	line "envahi la TOUR"
-	cont "RADIO!"
+	line "envahi la Tour"
+	cont "Radio!"
 
 	para "Vous allez tous"
 	line "trembler devant la"
 
 	para "puissance de la"
-	line "TEAM ROCKET!"
+	line "Team Rocket!"
 
 	para "Ya ha ha ah ah!"
 	line "On est méchant!"
@@ -459,25 +459,25 @@ GruntM3AfterBattleText:
 	done
 
 RadioTower1FDirectoryText:
-	text "RDC  RECEPTION"
-	line "1ER  VENTES"
+	text "RDC  Récéption"
+	line "1er  Ventes"
 
-	para "2EME PERSONNEL"
-	line "3EME PRODUCTION"
+	para "2ème Personnel"
+	line "3ème Production"
 
-	para "4EME BUREAU"
-	line "     DIRECTION"
+	para "4ème Bureau"
+	line "     Direction"
 	done
 
 RadioTower1FLuckyChannelSignText:
-	text "ANTENNE LA CHANCE!"
+	text "Antenne la Chance!"
 
 	para "Gagnez grâce aux"
 	line "No. ID de vos"
-	cont "#MON!"
+	cont "#mon!"
 
 	para "Echangez vos #-"
-	line "MON pour avoir"
+	line "mon pour avoir"
 	cont "plus de No. ID!"
 	done
 

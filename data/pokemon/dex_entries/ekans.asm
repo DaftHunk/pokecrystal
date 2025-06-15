@@ -1,4 +1,4 @@
-	db "SERPENT@" ; species name
+	db "Serpent@" ; species name
 	db 20 ; height
 	dw 69 ; weight
 

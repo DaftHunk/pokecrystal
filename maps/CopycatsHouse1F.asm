@@ -40,7 +40,7 @@ CopycatsHouse1FPokefanMText:
 	line "ter les gens."
 
 	para "On l'appelle la"
-	line "COPIEUSE."
+	line "Copieuse."
 	done
 
 CopycatsHouse1FPokefanFText:
@@ -53,7 +53,7 @@ CopycatsHouse1FPokefanFText:
 
 CopycatsHouse1FPokefanFText_ReturnedMachinePart:
 	text "Elle a perdu la"
-	line "# POUPEE qu'un"
+	line "# Poupée qu'un"
 
 	para "garçon lui a don-"
 	line "née il y a 3 ans."
@@ -64,7 +64,7 @@ CopycatsHouse1FPokefanFText_ReturnedMachinePart:
 	done
 
 CopycatsHouse1FBlisseyText:
-	text "LEUPHORIE: Rriii!"
+	text "Leuphorie: Rriii!"
 	done
 
 CopycatsHouse1F_MapEvents:

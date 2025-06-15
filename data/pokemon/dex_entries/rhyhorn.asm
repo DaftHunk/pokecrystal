@@ -1,4 +1,4 @@
-	db "PIQUANT@" ; species name
+	db "Piquant@" ; species name
 	db 10 ; height
 	dw 1150 ; weight
 

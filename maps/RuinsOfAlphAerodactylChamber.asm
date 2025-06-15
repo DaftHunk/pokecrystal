@@ -115,7 +115,7 @@ RuinsOfAlphAerodactylChamberWallPatternLeftText:
 
 RuinsOfAlphAerodactylChamberUnownText: ; unreferenced
 	text "C'est du texte"
-	line "ZARBI!"
+	line "Zarbi!"
 	done
 
 RuinsOfAlphAerodactylChamberWallPatternRightText:
@@ -132,11 +132,11 @@ RuinsOfAlphAerodactylChamberWallHoleText:
 RuinsOfAlphAerodactylChamberAncientReplicaText:
 	text "C'est la réplique"
 	line "d'un ancien #-"
-	cont "MON."
+	cont "mon."
 	done
 
 RuinsOfAlphAerodactylChamberDescriptionText:
-	text "Ce #MON volant"
+	text "Ce #mon volant"
 	line "attaquait ses"
 
 	para "proies de ses"

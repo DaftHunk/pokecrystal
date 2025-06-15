@@ -59,8 +59,8 @@ VictoryRoadGateOfficerText:
 
 VictoryRoadGateNotEnoughBadgesText:
 	text "Tu n'as pas tous"
-	line "les BADGES d'ARENE"
-	cont "de JOHTO."
+	line "les Badges d'Arène"
+	cont "de Johto."
 
 	para "Je ne peux pas"
 	line "te laisser passer."
@@ -69,7 +69,7 @@ VictoryRoadGateNotEnoughBadgesText:
 
 VictoryRoadGateEightBadgesText:
 	text "Oh! Les huit"
-	line "BADGES de JOHTO!"
+	line "Badges de Johto!"
 
 	para "Après vous,"
 	line "votre altesse!"
@@ -77,18 +77,18 @@ VictoryRoadGateEightBadgesText:
 
 VictoryRoadGateLeftBlackBeltText:
 	text "Cette route mène"
-	line "au MONT ARGENT."
+	line "au Mont Argent."
 
 	para "Tu y verras des"
-	line "#MON affreu-"
+	line "#mon affreu-"
 	cont "sement forts."
 	done
 
 VictoryRoadGateRightBlackBeltText:
-	text "Tu vas à la LIGUE"
-	line "#MON, hein?"
+	text "Tu vas à la Ligue"
+	line "#mon, hein?"
 
-	para "Le CONSEIL des 4"
+	para "Le Conseil des 4"
 	line "est super hyper"
 
 	para "méga fort!!! Tu"

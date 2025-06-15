@@ -57,7 +57,7 @@ BeverlyGreetNiteText:
 	done
 
 BeverlyGenericText:
-	text "Tes #MON"
+	text "Tes #mon"
 	line "sont heureux?"
 
 	para "Mon @"

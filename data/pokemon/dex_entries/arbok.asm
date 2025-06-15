@@ -1,8 +1,8 @@
-	db "COBRA@" ; species name
+	db "Cobra@" ; species name
 	db 35 ; height
 	dw 650 ; weight
 
-	db   "Pour apeurer ses"
+	db   "Pour Apeurer ses"
 	next "ennemis, il gonfle"
 	next "sa poitrine et"
 

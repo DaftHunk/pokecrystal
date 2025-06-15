@@ -184,14 +184,14 @@ BridgetWalksAwayMovement:
 
 WhitneyBeforeText:
 	text "Salut!"
-	line "Moi c'est BLANCHE!"
+	line "Moi c'est Blanche!"
 
 	para "Tout le monde aime"
-	line "les #MON, alors"
+	line "les #mon, alors"
 	cont "moi je fais comme"
 	cont "les autres!"
 
-	para "Les #MON sont"
+	para "Les #mon sont"
 	line "super-super"
 	cont "mignons pas vrai?"
 
@@ -229,42 +229,42 @@ WhitneyWhatDoYouWantText:
 
 	para "Quoi? Qu'est-ce"
 	line "que tu veux?"
-	cont "Un BADGE?"
+	cont "Un Badge?"
 
 	para "Oh, d'accord."
 	line "J'avais oublié."
-	cont "Prends le BADGE"
-	cont "PLAINE."
+	cont "Prends le Badge"
+	cont "Plaine."
 	done
 
 PlayerReceivedPlainBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE PLAINE."
+	line "le Badge Plaine."
 	done
 
 WhitneyPlainBadgeText:
-	text "Le BADGE PLAINE"
+	text "Le Badge Plaine"
 	line "permet à tes"
 
-	para "#MON d'utiliser"
-	line "FORCE hors des"
+	para "#mon d'utiliser"
+	line "Force hors des"
 	cont "combats."
 
 	para "Il accroît aussi"
-	line "la VITESSE de tes"
-	cont "#MON."
+	line "la Vitesse de tes"
+	cont "#mon."
 
 	para "Oh, prends aussi"
 	line "ceci!"
 	done
 
 WhitneyAttractText:
-	text "C'est ATTRACTION!"
+	text "C'est Attraction!"
 	line "Cela développe le"
 
 	para "charme et le pou-"
 	line "voir d'attraction"
-	cont "des #MON."
+	cont "des #mon."
 
 	para "N'est-ce pas en"
 	line "parfaite harmonie"
@@ -283,7 +283,7 @@ WhitneyGoodCryText:
 
 LassCarrieSeenText:
 	text "Y sont mignons"
-	line "mes #MON!"
+	line "mes #mon!"
 
 	para "Y sont terribles"
 	line "itou!"
@@ -302,9 +302,9 @@ LassCarrieAfterBattleText:
 
 LassBridgetSeenText:
 	text "Je préfère les"
-	line "#MON mignons"
+	line "#mon mignons"
 	cont "plutôt que les"
-	cont "#MON forts."
+	cont "#mon forts."
 
 	para "Mais j'en ai un"
 	line "multifonction, il"
@@ -318,7 +318,7 @@ LassBridgetBeatenText:
 
 LassBridgetAfterBattleText:
 	text "J'essaie de battre"
-	line "BLANCHE mais..."
+	line "Blanche mais..."
 	cont "C'est déprimant."
 
 	para "Je suis relax! Si"
@@ -332,7 +332,7 @@ LassBridgetAfterBattleText:
 BridgetWhitneyCriesText:
 	text "Oh, non. Tu as"
 	line "fait pleurer"
-	cont "BLANCHE."
+	cont "Blanche."
 
 	para "C'est bon, elle va"
 	line "bientôt se calmer."
@@ -370,13 +370,13 @@ BeautySamanthaSeenText:
 	done
 
 BeautySamanthaBeatenText:
-	text "Noon! Oh, MIAOUSS,"
+	text "Noon! Oh, Miaouss,"
 	line "je suis désolée!"
 	done
 
 BeautySamanthaAfterBattleText:
 	text "J'ai appris à"
-	line "MIAOUSS des"
+	line "Miaouss des"
 	cont "attaques pour"
 	cont "parer chaque type."
 	done
@@ -385,16 +385,16 @@ GoldenrodGymGuideText:
 	text "Hé! Graine de"
 	line "star!"
 
-	para "Cette ARENE est"
+	para "Cette Arène est"
 	line "composée de"
 	cont "dresseurs de #-"
-	cont "MON de type"
-	cont "NORMAL."
+	cont "mon de type"
+	cont "Normal."
 
 	para "Je te conseille"
 	line "d'utiliser des"
-	cont "#MON de type"
-	cont "COMBAT."
+	cont "#mon de type"
+	cont "Combat."
 	done
 
 GoldenrodGymGuideWinText:

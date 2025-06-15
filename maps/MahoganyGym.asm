@@ -148,7 +148,7 @@ MahoganyGymStatue:
 	jumpstd GymStatue2Script
 
 PryceText_Intro:
-	text "Les #MON ont"
+	text "Les #mon ont"
 	line "beaucoup d'aven-"
 
 	para "tures au cours de"
@@ -165,7 +165,7 @@ PryceText_Intro:
 	cont "t'expliquer..."
 
 	para "Je suis avec les"
-	line "#MON depuis"
+	line "#mon depuis"
 
 	para "bien avant ta"
 	line "naissance."
@@ -173,7 +173,7 @@ PryceText_Intro:
 	para "Je ne perds pas"
 	line "facilement."
 
-	para "Moi, FREDO, le"
+	para "Moi, Fredo, le"
 	line "dresseur du froid,"
 
 	para "je vais te montrer"
@@ -194,23 +194,23 @@ PryceText_Impressed:
 	cont "vie."
 
 	para "Tu mérites ce"
-	line "BADGE!"
+	line "Badge!"
 	done
 
 Text_ReceivedGlacierBadge:
 	text "<PLAYER> reçoit"
-	line "le BADGEGLACIER."
+	line "le BadgeGlacier."
 	done
 
 PryceText_GlacierBadgeSpeech:
-	text "Ce BADGE permet à"
-	line "tes #MON de"
+	text "Ce Badge permet à"
+	line "tes #mon de"
 	cont "développer leur"
-	cont "SPECIAL."
+	cont "Spécial."
 
 	para "Il permet aussi"
-	line "à tes #MON"
-	cont "d'utiliser SIPHON"
+	line "à tes #mon"
+	cont "d'utiliser Siphon"
 	cont "pour passer les"
 	cont "tourbillons."
 
@@ -220,12 +220,12 @@ PryceText_GlacierBadgeSpeech:
 
 PryceText_IcyWindSpeech:
 	text "Cette CT contient"
-	line "VENT GLACE."
+	line "Vent Glace."
 
 	para "Il inflige des"
 	line "dégâts et réduit"
 	cont "la vitesse des"
-	cont "#MON."
+	cont "#mon."
 
 	para "Il incarne la"
 	line "rudesse du froid"
@@ -239,7 +239,7 @@ PryceText_CherishYourPokemon:
 	cont "printemps arrive."
 
 	para "Toi et tes #-"
-	line "MON serez ensemble"
+	line "mon serez ensemble"
 	cont "pendant des"
 	cont "années."
 
@@ -248,8 +248,8 @@ PryceText_CherishYourPokemon:
 	done
 
 BoarderRonaldSeenText:
-	text "Je vais geler tes"
-	line "#MON et tu ne"
+	text "Je vais Geler tes"
+	line "#mon et tu ne"
 	cont "pourras plus rien"
 	cont "faire!"
 	done
@@ -265,13 +265,13 @@ BoarderRonaldAfterBattleText:
 	line "existe une capa-"
 
 	para "cité que les #-"
-	line "MON peuvent utili-"
+	line "mon peuvent utili-"
 	cont "ser même en étant"
-	cont "gelés."
+	cont "Gelés."
 	done
 
 BoarderBradSeenText:
-	text "Cette ARENE a le"
+	text "Cette Arène a le"
 	line "sol glissant."
 
 	para "C'est délire, pas"
@@ -288,15 +288,15 @@ BoarderBradBeatenText:
 	done
 
 BoarderBradAfterBattleText:
-	text "Cette ARENE est"
+	text "Cette Arène est"
 	line "superbe. J'adore"
 	cont "surfer avec mes"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 BoarderDouglasSeenText:
 	text "Je connais le"
-	line "secret de FREDO."
+	line "secret de Fredo."
 	done
 
 BoarderDouglasBeatenText:
@@ -306,7 +306,7 @@ BoarderDouglasBeatenText:
 
 BoarderDouglasAfterBattleText:
 	text "Le secret de la"
-	line "force de FREDO..."
+	line "force de Fredo..."
 
 	para "Il médite"
 	line "derrière une"
@@ -320,9 +320,9 @@ BoarderDouglasAfterBattleText:
 
 SkierRoxanneSeenText:
 	text "Pour vaincre"
-	line "FREDO, notre"
+	line "Fredo, notre"
 
-	para "CHAMPION d'ARENE,"
+	para "Champion d'Arène,"
 	line "tu dois penser"
 	cont "avant de patiner."
 	done
@@ -334,11 +334,11 @@ SkierRoxanneBeatenText:
 
 SkierRoxanneAfterBattleText:
 	text "Si tu ne patines"
-	line "pas avec précision"
+	line "pas avec Précision"
 
 	para "tu n'iras pas bien"
 	line "loin dans cette"
-	cont "ARENE."
+	cont "Arène."
 	done
 
 SkierClarissaSeenText:
@@ -357,14 +357,14 @@ SkierClarissaAfterBattleText:
 	done
 
 MahoganyGymGuideText:
-	text "FREDO est un vété-"
+	text "Fredo est un vété-"
 	line "ran qui entraîne"
 
-	para "des #MON depuis"
+	para "des #mon depuis"
 	line "50 ans."
 
 	para "Il prétend être"
-	line "bon pour geler ses"
+	line "bon pour Geler ses"
 
 	para "adversaires avec"
 	line "des attaques de"
@@ -378,7 +378,7 @@ MahoganyGymGuideText:
 	done
 
 MahoganyGymGuideWinText:
-	text "FREDO, c'est quel-"
+	text "Fredo, c'est quel-"
 	line "qu'un, mais toi"
 	cont "t'es pas naze"
 	cont "non plus!"

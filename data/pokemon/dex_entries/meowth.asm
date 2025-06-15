@@ -1,4 +1,4 @@
-	db "CHADEGOUT@" ; species name
+	db "Chadégout@" ; species name
 	db 4 ; height
 	dw 42 ; weight
 

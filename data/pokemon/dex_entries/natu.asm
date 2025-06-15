@@ -1,4 +1,4 @@
-	db "MINOISEAU@" ; species name
+	db "Minoiseau@" ; species name
 	db 2 ; height
 	dw 20 ; weight
 

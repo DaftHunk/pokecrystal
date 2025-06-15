@@ -192,27 +192,27 @@ RuinsOfAlphResearchCenterModifiedDexText:
 	text "Fini!"
 
 	para "J'ai modifié ton"
-	line "#DEX."
+	line "#dex."
 
 	para "J'ai incorporé un"
-	line "autre #DEX"
+	line "autre #dex"
 
 	para "pour enregistrer"
 	line "les données de"
 
-	para "ZARBI dans l'ordre"
+	para "Zarbi dans l'ordre"
 	line "où ses formes"
 	cont "seront capturées."
 	done
 
 RuinsOfAlphResearchCenterDexUpgradedText:
-	text "Le #DEX de"
+	text "Le #dex de"
 	line "<PLAYER> est"
 	cont "amélioré!"
 	done
 
 RuinsOfAlphResearchCenterScientist3Text:
-	text "Les ZARBI capturés"
+	text "Les Zarbi capturés"
 	line "seront tous enre-"
 	cont "gistrés."
 
@@ -223,21 +223,21 @@ RuinsOfAlphResearchCenterScientist3Text:
 RuinsOfAlphResearchCenterScientist3_PrinterAvailable:
 	text "Tu as attrapé tous"
 	line "les types de"
-	cont "ZARBI?"
+	cont "Zarbi?"
 
 	para "Mais c'est super,"
 	line "mon bouchon!"
 
 	para "J'ai préparé l'im-"
 	line "primante pour les"
-	cont "données de ZARBI."
+	cont "données de Zarbi."
 
 	para "Tu peux l'utiliser"
 	line "quand tu veux."
 	done
 
 RuinsOfAlphResearchCenterScientist1Text:
-	text "Les RUINES sont"
+	text "Les Ruines sont"
 	line "vieilles d'environ"
 	cont "1500 ans."
 
@@ -249,15 +249,15 @@ RuinsOfAlphResearchCenterScientist1Text:
 
 RuinsOfAlphResearchCenterScientist1Text_GotUnownDex:
 	text "Combien y a-t-il"
-	line "de #MON diffé-"
+	line "de #mon diffé-"
 	cont "rents dans les"
-	cont "RUINES?"
+	cont "Ruines?"
 	done
 
 RuinsOfAlphResearchCenterScientist1Text_UnownAppeared:
-	text "Des #MON sont"
+	text "Des #mon sont"
 	line "apparus dans les"
-	cont "RUINES?"
+	cont "Ruines?"
 
 	para "Bah ça pour une"
 	line "nouvelle!"
@@ -270,30 +270,30 @@ RuinsOfAlphResearchCenterScientist1Text_GotAllUnown:
 	text "Grâce à ton aide,"
 	line "notre enquête sur"
 
-	para "les RUINES donne"
+	para "les Ruines donne"
 	line "enfin des"
 	cont "résultats."
 
-	para "Les RUINES sem-"
+	para "Les Ruines sem-"
 	line "blent être un re-"
 
 	para "fuge pour les"
-	line "#MON."
+	line "#mon."
 	done
 
 RuinsOfAlphResearchCenterScientist2Text:
 	text "Il y a des figures"
 	line "étranges sur les"
-	cont "murs des RUINES."
+	cont "murs des Ruines."
 
 	para "Elles doivent être"
 	line "la clé du mystère"
-	cont "des RUINES."
+	cont "des Ruines."
 	done
 
 RuinsOfAlphResearchCenterScientist2Text_UnownAppeared:
 	text "Les étranges #-"
-	line "MON des RUINES?"
+	line "mon des Ruines?"
 
 	para "Ils semblent être"
 	line "proches des figu-"
@@ -312,7 +312,7 @@ RuinsOfAlphResearchCenterUnusedText1: ; unreferenced
 
 	para "fait apparaître"
 	line "les signes"
-	cont "dans les RUINES."
+	cont "dans les Ruines."
 
 	para "Nous nous penchons"
 	line "sur la question."
@@ -325,8 +325,8 @@ RuinsOfAlphResearchCenterUnusedText2: ; unreferenced
 	para "Les étranges figu-"
 	line "res sont apparues"
 
-	para "lorsque le CENTRE"
-	line "#COM a été"
+	para "lorsque le Centre"
+	line "#com a été"
 	cont "construit."
 
 	para "Les ondes radio"
@@ -345,17 +345,17 @@ RuinsOfAlphResearchCenterScientist2Text_GotAllUnown:
 	done
 
 RuinsOfAlphResearchCenterComputerText:
-	text "RUINES D'ALPHA"
+	text "Ruines d'Alpha"
 
 	para "Exploration"
 	line "Année 10"
 	done
 
 RuinsOfAlphResearchCenterComputerText_GotAllUnown:
-	text "#MON Mystère"
-	line "Nom: ZARBI"
+	text "#mon Mystère"
+	line "Nom: Zarbi"
 
-	para "Un total de {d:NUM_UNOWN}"
+	para "Un total de 26"
 	line "types découverts."
 	done
 
@@ -366,7 +366,7 @@ RuinsOfAlphResearchCenterPrinterText_DoesntWork:
 	done
 
 RuinsOfAlphResearchCenterUnownPrinterText:
-	text "ZARBI peut être"
+	text "Zarbi peut être"
 	line "imprimé."
 	done
 
@@ -374,9 +374,9 @@ RuinsOfAlphResearchCenterProfSilktreePhotoText:
 	text "C'est une photo du"
 	line "fondateur du"
 
-	para "CENTRE de RECHER-"
-	line "CHE: le PROF."
-	cont "LASOIE."
+	para "Centre de Recher-"
+	line "che: le Prof."
+	cont "Lasoie."
 	done
 
 RuinsOfAlphResearchCenterAcademicBooksText:

@@ -721,4 +721,4 @@ DayCare_InitBreeding:
 	ret
 
 .String_EGG:
-	db "OEUF@"
+	db "Oeuf@"

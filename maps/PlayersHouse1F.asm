@@ -104,7 +104,7 @@ MeetMomTalkedScript:
 	sjump MeetMomScript
 
 PokegearName:
-	db "#MATOS@"
+	db "#matos@"
 
 PlayersHouse1FReceiveItemStd:
 	jumpstd ReceiveItemScript
@@ -214,7 +214,7 @@ ElmsLookingForYouText:
 	text "Ah, <PLAYER>...!"
 	line "Notre voisin, le"
 
-	para "PROF.ORME, te"
+	para "Prof.Orme, te"
 	line "cherchait."
 
 	para "Il voulait que"
@@ -224,7 +224,7 @@ ElmsLookingForYouText:
 	para "Oh! J'allais"
 	line "oublier! Ton"
 
-	para "MATOS #MON est"
+	para "matos #mon est"
 	line "revenu de chez le"
 	cont "réparateur."
 
@@ -232,9 +232,9 @@ ElmsLookingForYouText:
 	done
 
 MomGivesPokegearText:
-	text "Le MATOS #MON,"
+	text "Le matos #mon,"
 	line "ou simplement"
-	cont "#MATOS..."
+	cont "#matos..."
 
 	para "...est primordial"
 	line "si tu veux devenir"
@@ -262,15 +262,15 @@ ComeHomeForDSTText:
 	para "Par ailleurs,"
 	line "sais-tu comment"
 	cont "utiliser le"
-	cont "TELEPHONE?"
+	cont "Téléphone?"
 	done
 
 KnowTheInstructionsText:
 	text "As-tu allumé le"
-	line "#MATOS et"
+	line "#matos et"
 
 	para "sélectionné"
-	line "l'icône TELEPHONE?"
+	line "l'icône Téléphone?"
 	done
 
 DontKnowTheInstructionsText:
@@ -278,9 +278,9 @@ DontKnowTheInstructionsText:
 	line "manuel."
 
 	para "Allume le"
-	line "#MATOS et"
+	line "#matos et"
 	cont "sélectionne"
-	cont "l'icône TELEPHONE."
+	cont "l'icône Téléphone."
 	done
 
 InstructionsNextText:
@@ -298,7 +298,7 @@ InstructionsNextText:
 	done
 
 HurryUpElmIsWaitingText:
-	text "Le PROF.ORME"
+	text "Le Prof.Orme"
 	line "t'attend."
 
 	para "Dépêche-toi, mon"
@@ -308,7 +308,7 @@ HurryUpElmIsWaitingText:
 SoWhatWasProfElmsErrandText:
 	text "Alors, quelle"
 	line "était la commis-"
-	cont "sion du PROF.ORME?"
+	cont "sion du Prof.Orme?"
 
 	para "..."
 
@@ -357,19 +357,19 @@ NeighborText:
 	para "Ma fille veut"
 	line "devenir l'assis-"
 
-	para "tante du PROF."
-	line "ORME."
+	para "tante du Prof."
+	line "Orme."
 
 	para "Elle adoooore les"
-	line "#MON!"
+	line "#mon!"
 	done
 
 PlayersHouse1FStoveText:
 	text "La spécialité de"
 	line "Maman!"
 
-	para "Un bon BURGER"
-	line "style CRAMOIS'ILE!"
+	para "Un bon Burger"
+	line "style Cramois'Ile!"
 	done
 
 PlayersHouse1FSinkText:
@@ -384,9 +384,9 @@ PlayersHouse1FFridgeText:
 	line "qui se trame"
 	cont "dans le frigo..."
 
-	para "De l'EAU FRAICHE"
+	para "De l'Eau Fraiche"
 	line "et de la bonne"
-	cont "LIMONADE!"
+	cont "Limonade!"
 	done
 
 PlayersHouse1FTVText:

@@ -1,4 +1,4 @@
-	db "PEAUPIERRE@" ; species name
+	db "Peaupierre@" ; species name
 	db 6 ; height
 	dw 720 ; weight
 

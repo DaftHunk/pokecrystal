@@ -21,7 +21,7 @@ OlivinePunishmentSpeechHouseBookshelf1:
 
 OlivinePunishmentSpeechHouseDadText:
 	text "Sur le chemin"
-	line "d'IRISIA, il y a"
+	line "d'Irisia, il y a"
 
 	para "quatre îles"
 	line "désertes."

@@ -42,18 +42,18 @@ GoldenrodDeptStore2FElevatorButton:
 GoldenrodDeptStore2FUnusedText1: ; unreferenced
 	text "Nous voulons"
 	line "vendre des objets"
-	cont "pour les #MON."
+	cont "pour les #mon."
 
 	para "Voici un joli"
 	line "cadeau et en plus"
 	cont "c'est gratuit!"
 	cont "Donne-le à un"
-	cont "#MON."
+	cont "#mon."
 	done
 
 GoldenrodDeptStore2FUnusedText2: ; unreferenced
 	text "Faire tenir des"
-	line "objets aux #MON"
+	line "objets aux #mon"
 	cont "pendant le combat"
 	cont "peut te permettre"
 	cont "de prendre l'avan-"
@@ -61,7 +61,7 @@ GoldenrodDeptStore2FUnusedText2: ; unreferenced
 	done
 
 GoldenrodDeptStore2FYoungsterText:
-	text "Le #MATOS"
+	text "Le #matos"
 	line "peut enregistrer"
 	cont "jusqu'à dix"
 	cont "numéros."
@@ -72,18 +72,18 @@ GoldenrodDeptStore2FYoungsterText:
 	done
 
 GoldenrodDeptStore2FCooltrainerFText:
-	text "J'ai eu mon ABRA"
-	line "au CASINO."
+	text "J'ai eu mon Abra"
+	line "au Casino."
 
 	para "Maintenant, c'est"
 	line "mon meilleur ami."
 	done
 
 GoldenrodDeptStore2FGentlemanText:
-	text "Ce CENTRE COMMER-"
-	line "CIAL montre que"
+	text "Ce Centre Commer-"
+	line "cial montre que"
 
-	para "DOUBLONVILLE est"
+	para "Doublonville est"
 	line "une grande ville."
 
 	para "La marchandise est"
@@ -95,8 +95,8 @@ GoldenrodDeptStore2FDirectoryText:
 	text "Votre compagnon de"
 	line "voyage"
 
-	para "1ER  BOUTIQUE"
-	line "     DRESSEUR"
+	para "1er  Boutique"
+	line "     Dresseur"
 	done
 
 GoldenrodDeptStore2F_MapEvents:

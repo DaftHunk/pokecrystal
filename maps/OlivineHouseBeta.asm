@@ -26,15 +26,15 @@ OlivineHouseBetaBookshelf2:
 
 OlivineHouseBetaTeacherText:
 	text "Lorsque mes #-"
-	line "MON sont malades,"
+	line "mon sont malades,"
 
-	para "le PHARMACIEN"
-	line "d'IRISIA me fait"
+	para "le Pharmacien"
+	line "d'Irisia me fait"
 	cont "des médicaments."
 	done
 
 OlivineHouseBetaRhydonText:
-	text "RHINOFEROS: Feros!"
+	text "Rhinoféros: Feros!"
 	done
 
 OlivineHouseBeta_MapEvents:

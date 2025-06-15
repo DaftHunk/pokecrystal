@@ -13,7 +13,7 @@ DiglettsCaveHiddenMaxRevive:
 	hiddenitem MAX_REVIVE, EVENT_DIGLETTS_CAVE_HIDDEN_MAX_REVIVE
 
 DiglettsCavePokefanMText:
-	text "Des TAUPIQUEUR"
+	text "Des Taupiqueur"
 	line "ont surgi du sol"
 
 	para "d'un coup! C'était"

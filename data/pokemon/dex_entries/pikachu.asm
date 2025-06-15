@@ -1,4 +1,4 @@
-	db "SOURIS@" ; species name
+	db "Souris@" ; species name
 	db 4 ; height
 	dw 60 ; weight
 

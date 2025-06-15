@@ -33,8 +33,8 @@ WardensHomeBookshelf:
 
 WardensGranddaughterText1:
 	text "Mon pépé est le"
-	line "GARDIEN du PARC"
-	cont "SAFARI."
+	line "Gardien du Parc"
+	cont "Safari."
 
 	para "Enfin..."
 	line "Il l'était."
@@ -54,7 +54,7 @@ WardensGranddaughterText2:
 	line "déçus d'apprendre"
 
 	para "la fermeture du"
-	line "PARC SAFARI mais"
+	line "Parc Safari mais"
 	cont "pépé est si têtu."
 	done
 
@@ -63,7 +63,7 @@ WardenPhotoText:
 	line "d'un vieil homme"
 
 	para "entouré de"
-	line "#MON."
+	line "#mon."
 	done
 
 SafariZonePhotoText:
@@ -71,7 +71,7 @@ SafariZonePhotoText:
 	line "d'une grande plai-"
 
 	para "ne verdoyante avec"
-	line "des #MON rares"
+	line "des #mon rares"
 	cont "tout partout."
 	done
 

@@ -29,13 +29,13 @@ GoldenrodDeptStore1FElevatorButton:
 
 GoldenrodDeptStore1FReceptionistText:
 	text "Bienvenue au"
-	line "CENTRE COMMERCIAL"
-	cont "de DOUBLONVILLE."
+	line "Centre Commercial"
+	cont "de Doublonville."
 	done
 
 GoldenrodDeptStore1FGentlemanText:
-	text "Le CENTRE COMMER-"
-	line "CIAL a un tas de"
+	text "Le Centre Commer-"
+	line "cial a un tas de"
 	cont "bons produits."
 
 	para "Mais certains"
@@ -43,7 +43,7 @@ GoldenrodDeptStore1FGentlemanText:
 
 	para "disponibles qu'en"
 	line "prix à gagner au"
-	cont "CASINO."
+	cont "Casino."
 	done
 
 GoldenrodDeptStore1FPokefanFText:
@@ -63,23 +63,23 @@ GoldenrodDeptStore1FBugCatcherText:
 	done
 
 GoldenrodDeptStore1FDirectoryText:
-	text "RDC  ACCUEIL"
+	text "RDC  Accueil"
 
-	para "1ER  BOUTIQUE"
-	line "     DRESSEUR"
+	para "1er  Boutique"
+	line "     Dresseur"
 
-	para "2EME COLLECTION"
-	line "     DE COMBAT"
+	para "2ème Collection"
+	line "     de Combat"
 
-	para "3EME PHARMACIE"
+	para "3ème Pharmacie"
 
-	para "4EME Y'A BON LES"
+	para "4ème Y'a bon les"
 	line "     CT"
 
-	para "5EME COIN"
-	line "     TRANQUILLE"
+	para "5ème Coin"
+	line "     Tranquille"
 
-	para "TOIT PANORAMA"
+	para "Toit Panorama"
 	done
 
 GoldenrodDeptStore1F_MapEvents:

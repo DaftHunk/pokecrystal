@@ -1,4 +1,4 @@
-	db "POURRI@" ; species name
+	db "Pourri@" ; species name
 	db 6 ; height
 	dw 205 ; weight
 
@@ -8,4 +8,4 @@
 
 	page "pour créer un nid"
 	next "et peut se boire"
-	next "avec des BAIES.@"
+	next "avec des Baies.@"

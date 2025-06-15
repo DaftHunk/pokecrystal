@@ -76,7 +76,7 @@ CharcoalKilnRadio:
 	jumpstd Radio2Script
 
 CharcoalKilnBossText1:
-	text "Tous les RAMOLOSS"
+	text "Tous les Ramoloss"
 	line "ont disparu"
 	cont "de la ville."
 
@@ -92,13 +92,13 @@ CharcoalKilnBossText1:
 	done
 
 CharcoalKilnBossText2:
-	text "Les RAMOLOSS sont"
+	text "Les Ramoloss sont"
 	line "de retour..."
 
-	para "Mais mon APPRENTI"
+	para "Mais mon Apprenti"
 	line "n'est pas revenu"
-	cont "du BOIS AUX"
-	cont "CHENES."
+	cont "du Bois aux"
+	cont "Chênes."
 
 	para "Où est donc ce"
 	line "dresseur de"
@@ -107,10 +107,10 @@ CharcoalKilnBossText2:
 
 CharcoalKilnBossText3:
 	text "Tu as chassé la"
-	line "TEAM ROCKET et tu"
+	line "Team Rocket et tu"
 
-	para "as visité le BOIS"
-	line "AUX CHENES en"
+	para "as visité le Bois"
+	line "aux Chênes en"
 	cont "solitaire?"
 
 	para "Pas mal!"
@@ -121,7 +121,7 @@ CharcoalKilnBossText3:
 
 CharcoalKilnApprenticeText1:
 	text "Où sont passés"
-	line "les RAMOLOSS?"
+	line "les Ramoloss?"
 
 	para "Sont-ils dehors en"
 	line "train de traîner?"
@@ -133,23 +133,23 @@ CharcoalKilnApprenticeText2:
 	cont "mercier."
 
 	para "J'ai produit ce"
-	line "CHARBON."
+	line "Charbon."
 
-	para "Les #MON de feu"
+	para "Les #mon de feu"
 	line "seront contents"
 	cont "d'en tenir un."
 	done
 
 CharcoalKilnApprenticeText3:
-	text "Les RAMOLOSS sont"
+	text "Les Ramoloss sont"
 	line "de retour et tu as"
 	cont "même retrouvé"
-	cont "CANARTICHO."
+	cont "Canarticho."
 	cont "T'es trop cool!"
 	done
 
 FarfetchdText:
-	text "CANARTICHO: Ticho!"
+	text "Canarticho: Ticho!"
 	done
 
 CharcoalKiln_MapEvents:

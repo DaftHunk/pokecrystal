@@ -602,4 +602,4 @@ HOF_AnimatePlayerPic:
 	ret
 
 .PlayTime:
-	db "TEMPS JEU@"
+	db "Temps Jeu@"

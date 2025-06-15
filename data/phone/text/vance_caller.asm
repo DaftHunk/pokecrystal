@@ -23,9 +23,8 @@ VanceLostAMonText:
 	text_ram wStringBuffer4
 	text_start
 	cont "m'a échappé."
-
 	para "Je voulais lui"
-	line "VOLER après..."
+	line "Voler après..."
 	done
 
 VanceBattleRematchText:
@@ -57,5 +56,5 @@ VanceHurryHurryText:
 	para "@"
 	text_ram wStringBuffer5
 	text "!"
-	line "VOLE! Viens!"
+	line "Vole! Viens!"
 	done

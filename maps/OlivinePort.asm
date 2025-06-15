@@ -296,8 +296,8 @@ OlivinePortCantBoardText:
 
 OlivinePortAskBoardText:
 	text "Bienvenue sur le"
-	line "BATEAU EXPRESS:"
-	cont "L'AQUARIA."
+	line "Bateau Express:"
+	cont "L'Aquaria."
 
 	para "Allez-vous monter"
 	line "à bord?"
@@ -305,7 +305,7 @@ OlivinePortAskBoardText:
 
 OlivinePortAskTicketText:
 	text "Puis-je voir votre"
-	line "PASSE BATEAU?"
+	line "Passe Bateau?"
 	done
 
 OlivinePortComeAgainText:
@@ -314,7 +314,7 @@ OlivinePortComeAgainText:
 
 OlivinePortFlashTicketText:
 	text "<PLAYER> montre"
-	line "son PASSE BATEAU."
+	line "son Passe Bateau."
 
 	para "Parfait."
 	line "Merci bien!"
@@ -323,32 +323,32 @@ OlivinePortFlashTicketText:
 OlivinePortNoTicketText:
 	text "<PLAYER> voudrait"
 	line "bien montrer son"
-	cont "PASSE BATEAU..."
+	cont "Passe Bateau..."
 
 	para "Mais..."
-	line "Pas de TICKET!"
+	line "Pas de Ticket!"
 
 	para "Désolé!"
 	line "On ne monte à bord"
 
 	para "que sur présenta-"
-	line "tion d'un PASSE."
+	line "tion d'un Passe."
 	done
 
 OlivinePortMondayShipText:
-	text "Le BATEAU EXPRESS"
-	line "partira lundi"
+	text "Le Bateau Express"
+	line "partira Lundi"
 	cont "prochain."
 	done
 
 OlivinePortFridayShipText:
-	text "Le BATEAU EXPRESS"
-	line "partira vendredi"
+	text "Le Bateau Express"
+	line "partira Vendredi"
 	cont "prochain."
 	done
 
 OlivinePortFishingGuru1Text:
-	text "Les KOKIYAS sont"
+	text "Les Kokiyas sont"
 	line "faciles à choper"
 
 	para "dans le coin. Ils"
@@ -357,24 +357,24 @@ OlivinePortFishingGuru1Text:
 	done
 
 OlivinePortFishingGuru2Text:
-	text "Combien de CANNES"
+	text "Combien de Cannes"
 	line "as-tu?"
 
-	para "Des CANNES diffé-"
+	para "Des Cannes diffé-"
 	line "rentes attrapent"
-	cont "des #MON diffé-"
+	cont "des #mon diffé-"
 	cont "rents."
 	done
 
 OlivinePortYoungsterText:
-	text "L'AQUARIA a des"
+	text "L'Aquaria a des"
 	line "propulseurs pour"
 	cont "foncer sur l'eau!"
 	done
 
 OlivinePortCooltrainerFText:
 	text "Il y a plein de"
-	line "#MON à KANTO."
+	line "#mon à Kanto."
 
 	para "J'aimerais tant"
 	line "y aller..."

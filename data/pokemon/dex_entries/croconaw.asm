@@ -1,4 +1,4 @@
-	db "MACHOIRE@" ; species name
+	db "Mâchoire@" ; species name
 	db 11 ; height
 	dw 250 ; weight
 

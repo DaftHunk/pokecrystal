@@ -254,7 +254,7 @@ Route26MaxElixer:
 
 CooltrainermJakeSeenText:
 	text "Je me prépare pour"
-	line "la LIGUE #MON."
+	line "la Ligue #mon."
 	done
 
 CooltrainermJakeBeatenText:
@@ -262,7 +262,7 @@ CooltrainermJakeBeatenText:
 	done
 
 CooltrainermJakeAfterBattleText:
-	text "Gagner à la LIGUE"
+	text "Gagner à la Ligue"
 	line "ça doit être dur."
 
 	para "J'ai besoin de"
@@ -270,10 +270,10 @@ CooltrainermJakeAfterBattleText:
 	cont "ment."
 
 	para "On dit que ceux"
-	line "du CONSEIL des 4"
+	line "du Conseil des 4"
 
 	para "sont plus forts"
-	line "que les CHAMPIONS."
+	line "que les Champions."
 	done
 
 CooltrainermGaven3SeenText:
@@ -290,10 +290,10 @@ CooltrainermGaven3BeatenText:
 
 CooltrainermGavenAfterText:
 	text "Pour aller à la"
-	line "LIGUE #MON, tu"
+	line "Ligue #mon, tu"
 
 	para "dois traverser la"
-	line "ROUTE VICTOIRE."
+	line "Route Victoire."
 
 	para "Mais ça ne sera"
 	line "pas facile."
@@ -319,7 +319,7 @@ CooltrainerfJoyceBeatenText:
 
 CooltrainerfJoyceAfterBattleText:
 	text "J'ai battu huit"
-	line "CHAMPIONS d'ARENE"
+	line "Champions d'Arène"
 
 	para "alors j'avais con-"
 	line "fiance en moi."
@@ -343,24 +343,24 @@ CooltrainerfBeth1SeenText:
 
 	para "Ca me faisait de"
 	line "la peine pour ses"
-	cont "#MON."
+	cont "#mon."
 	done
 
 CooltrainerfBeth1BeatenText:
-	text "Les #MON ne"
+	text "Les #mon ne"
 	line "sont pas nos"
 	cont "esclaves."
 	done
 
 CooltrainerfBethAfterText:
-	text "Les #MON sont"
+	text "Les #mon sont"
 	line "des amis pour"
 	cont "la vie."
 	done
 
 PsychicRichardSeenText:
 	text "Whoa! Regarde-moi"
-	line "tous ces BADGES!"
+	line "tous ces Badges!"
 	cont "J'suis bluffé."
 
 	para "Les collectionner"
@@ -373,7 +373,7 @@ PsychicRichardBeatenText:
 	done
 
 PsychicRichardAfterBattleText:
-	text "Humains et #MON"
+	text "Humains et #mon"
 	line "évoluent grâce à"
 	cont "l'expérience."
 
@@ -386,8 +386,8 @@ FisherScottSeenText:
 	line "pleine forme!"
 
 	para "J'me sens capable"
-	line "de battre l'MAITRE"
-	cont "de la LIGUE!"
+	line "de battre l'Maître"
+	cont "de la Ligue!"
 	done
 
 FisherScottBeatenText:
@@ -400,14 +400,14 @@ FisherScottAfterBattleText:
 	line "che, faut jamais"
 
 	para "abandonner à"
-	line "#MON."
+	line "#mon."
 	done
 
 Route26SignText:
-	text "ROUTE 26"
+	text "Route 26"
 
-	para "LIGUE #MON"
-	line "PORTE D'ACCES"
+	para "Ligue #mon"
+	line "Porte d'Accès"
 	done
 
 Route26_MapEvents:

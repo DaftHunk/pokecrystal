@@ -1,4 +1,4 @@
-	db "SOMBRE@" ; species name
+	db "Sombre@" ; species name
 	db 14 ; height
 	dw 350 ; weight
 

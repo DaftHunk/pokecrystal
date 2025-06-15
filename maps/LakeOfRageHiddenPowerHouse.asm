@@ -43,22 +43,22 @@ HiddenPowerGuyText1:
 	para "Laisse-moi parta-"
 	line "ger mon pouvoir"
 
-	para "avec tes #MON."
+	para "avec tes #mon."
 	line "Prends-ça."
 	done
 
 HiddenPowerGuyText2:
 	text "Tu vois? C'est"
-	line "PUIS.CACHEE!"
+	line "Puis.Cachée!"
 
 	para "Elle prolonge la"
 	line "puissance de tes"
-	cont "#MON."
+	cont "#mon."
 
 	para "Rappelle-toi: cela"
 	line "dépend du type et"
 	cont "de la puissance du"
-	cont "#MON utilisé."
+	cont "#mon utilisé."
 	done
 
 HiddenPowerGuyText3:

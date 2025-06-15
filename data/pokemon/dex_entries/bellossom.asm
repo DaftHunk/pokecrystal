@@ -1,8 +1,8 @@
-	db "FLEUR@" ; species name
+	db "Fleur@" ; species name
 	db 4 ; height
 	dw 58 ; weight
 
-	db   "Si des JOLIFLOR"
+	db   "Si des Joliflor"
 	next "dansent ensemble,"
 	next "le frottement de"
 

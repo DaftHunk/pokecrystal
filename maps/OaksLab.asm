@@ -78,11 +78,11 @@ OaksLabPC:
 	jumptext OaksLabPCText
 
 OakWelcomeKantoText:
-	text "CHEN: Ah, <PLAY_G>!"
+	text "Chen: Ah, <PLAY_G>!"
 	line "Merci d'avoir vo-"
 
 	para "yagé jusqu'à"
-	line "KANTO."
+	line "Kanto."
 
 	para "Que penses-tu des"
 	line "dresseurs du coin?"
@@ -90,7 +90,7 @@ OakWelcomeKantoText:
 	done
 
 OakLabDexCheckText:
-	text "Et ton #DEX?"
+	text "Et ton #dex?"
 	line "Ca avance?"
 
 	para "Voyons ça..."
@@ -103,11 +103,11 @@ OakLabGoodbyeText:
 	done
 
 OakOpenMtSilverText:
-	text "CHEN: Woah!"
+	text "Chen: Woah!"
 	line "C'est génial, ça!"
 
 	para "Tu as gagné les"
-	line "BADGES de KANTO!"
+	line "Badges de Kanto!"
 	cont "Bravo!"
 
 	para "J'ai bien fait de"
@@ -119,13 +119,13 @@ OakOpenMtSilverText:
 
 	para "faire en sorte que"
 	line "tu puisses aller"
-	cont "au MONT ARGENT."
+	cont "au Mont Argent."
 
-	para "Le MONT ARGENT est"
+	para "Le Mont Argent est"
 	line "une montagne où"
 
 	para "vivent beaucoup de"
-	line "#MON sauvages."
+	line "#mon sauvages."
 
 	para "Cet endroit est"
 	line "trop dangereux"
@@ -137,33 +137,33 @@ OakOpenMtSilverText:
 	line "exception pour"
 	cont "toi, <PLAY_G>."
 
-	para "Va au PLATEAU"
-	line "INDIGO. Tu pourras"
+	para "Va au Plateau"
+	line "Indigo. Tu pourras"
 
 	para "accéder ensuite au"
-	line "MONT ARGENT."
+	line "Mont Argent."
 	done
 
 OakNoKantoBadgesText:
-	text "CHEN: Hmm? Tu ne"
+	text "Chen: Hmm? Tu ne"
 	line "collectionnes pas"
-	cont "les BADGES des"
-	cont "ARENES de KANTO?"
+	cont "les Badges des"
+	cont "Arènes de Kanto?"
 
-	para "Les CHAMPIONS"
-	line "d'ARENE de KANTO"
+	para "Les Champions"
+	line "d'Arène de Kanto"
 
 	para "sont aussi forts"
-	line "que ceux de JOHTO."
+	line "que ceux de Johto."
 
 	para "Je te conseille de"
 	line "les affronter."
 	done
 
 OakYesKantoBadgesText:
-	text "CHEN: Tu"
+	text "Chen: Tu"
 	line "collectionnes les"
-	cont "BADGES de KANTO."
+	cont "Badges de Kanto."
 
 	para "Cela doit être"
 	line "difficile, mais tu"
@@ -183,11 +183,11 @@ OakYesKantoBadgesText:
 	done
 
 OaksAssistant1Text:
-	text "La CHRONIQUE PKMN"
-	line "du PROF à la radio"
+	text "La Chronique <PKMN>"
+	line "du Prof à la radio"
 
 	para "ne passe pas ici,"
-	line "à KANTO."
+	line "à Kanto."
 
 	para "C'est bête..."
 	line "Je l'aime tant."
@@ -196,29 +196,29 @@ OaksAssistant1Text:
 OaksAssistant2Text:
 	text "Grâce à ton tra-"
 	line "vail sur le #-"
-	cont "DEX, les recher-"
+	cont "dex, les recher-"
 
-	para "ches du PROF ont"
+	para "ches du Prof ont"
 	line "bien progressé."
 	done
 
 OaksAssistant3Text:
 	text "Ne le répète pas,"
-	line "mais la CHRONIQUE"
+	line "mais la Chronique"
 
-	para "#MON du PROF."
-	line "CHEN n'est pas en"
+	para "#mon du Prof."
+	line "Chen n'est pas en"
 	cont "direct."
 	done
 
 OaksLabPoster1Text:
-	text "Appuyer sur START"
-	line "pour le MENU."
+	text "Appuyer sur Start"
+	line "pour le Menu."
 	done
 
 OaksLabPoster2Text:
-	text "L'option SAUVER"
-	line "est sur le MENU."
+	text "L'option Sauver"
+	line "est sur le Menu."
 
 	para "Utilise-la assez"
 	line "souvent."
@@ -234,7 +234,7 @@ OaksLabPCText:
 
 	para "…"
 
-	para "PROF.CHEN, comment"
+	para "Prof.Chen, comment"
 	line "ça va bien?"
 	cont "Ca bosse dur?"
 
@@ -248,7 +248,7 @@ OaksLabPCText:
 	para "Et dire que c'est"
 	line "grâce à nous."
 
-	para "ORME du BOURG GEON"
+	para "Orme du Bourg Geon"
 	line "8-)"
 	done
 

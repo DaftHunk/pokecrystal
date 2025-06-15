@@ -1,14 +1,14 @@
 DerekAskNumber1Text:
-	text "Oh! PIKACHU!"
+	text "Oh! Pikachu!"
 	line "Il est tout mimi!"
 	cont "Il est tout doux!"
 
 	para "Soyons amis! Les"
-	line "fans de PIKACHU"
+	line "fans de Pikachu"
 	cont "sont trop cool!"
 
 	para "On va parler de"
-	line "PIKACHU!"
+	line "Pikachu!"
 
 	para "Je peux avoir ton"
 	line "numéro?"
@@ -16,14 +16,14 @@ DerekAskNumber1Text:
 
 DerekAskNumber2Text:
 	text "On va parler de"
-	line "PIKACHU!"
+	line "Pikachu!"
 
 	para "Je peux avoir ton"
 	line "numéro?"
 	done
 
 DerekNumberAcceptedText:
-	text "PIKACHU est le"
+	text "Pikachu est le"
 	line "meilleur! Si j'ai"
 
 	para "du nouveau, je"
@@ -35,7 +35,7 @@ DerekNumberDeclinedText:
 
 	para "Je suis sûr que"
 	line "tu n'aimes pas"
-	cont "vraiment PIKACHU."
+	cont "vraiment Pikachu."
 	done
 
 DerekPhoneFullText:
@@ -47,7 +47,7 @@ DerekGiftText:
 	text "Je te cherchais!"
 	line "Regarde ça!"
 
-	para "Ton PIKACHU va"
+	para "Ton Pikachu va"
 	line "adorer mon joli"
 	cont "cadeau!"
 	done

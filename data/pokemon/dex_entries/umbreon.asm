@@ -1,4 +1,4 @@
-	db "LUNE@" ; species name
+	db "Lune@" ; species name
 	db 10 ; height
 	dw 270 ; weight
 

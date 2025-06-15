@@ -28,7 +28,7 @@ CianwoodPhotoStudioFishingGuruScript:
 CianwoodPhotoStudioFishingGuruText_Question:
 	text "Mais dis-moi toi,"
 	line "ils sont choux tes"
-	cont "#MON."
+	cont "#mon."
 
 	para "Ca te dirait une"
 	line "petite photo en"

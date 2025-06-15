@@ -1,4 +1,4 @@
-	db "ARMOISEAU@" ; species name
+	db "Armoiseau@" ; species name
 	db 17 ; height
 	dw 505 ; weight
 

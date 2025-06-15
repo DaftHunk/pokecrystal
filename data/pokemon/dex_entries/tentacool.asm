@@ -1,4 +1,4 @@
-	db "MOLLUSQUE@" ; species name
+	db "Mollusque@" ; species name
 	db 9 ; height
 	dw 455 ; weight
 
@@ -8,4 +8,4 @@
 
 	page "qu'il croise de"
 	next "ses tentacules"
-	next "empoisonnées.@"
+	next "Empoisonnées.@"

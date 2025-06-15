@@ -208,7 +208,7 @@ ClairText_Wait:
 	done
 
 ClairText_GiveDragonbreathDragonDen:
-	text "SANDRA: Excuse-moi"
+	text "Sandra: Excuse-moi"
 	line "pour tout."
 
 	para "Tiens. Pour me"
@@ -222,7 +222,7 @@ Text_ReceivedTM24:
 
 ClairText_DescribeDragonbreathDragonDen:
 	text "Elle contient"
-	line "DRACOSOUFFLE."
+	line "Dracosouffle."
 
 	para "Quoi? Non, ça n'a"
 	line "rien à voir avec"
@@ -238,34 +238,34 @@ ClairText_NoRoom:
 	line "de place."
 
 	para "Je retourne à"
-	line "l'ARENE. Fais de"
+	line "l'Arène. Fais de"
 
 	para "la place et re-"
 	line "viens me voir."
 	done
 
 ClairText_WhatsTheMatterDragonDen:
-	text "SANDRA: C'est quoi"
+	text "Sandra: C'est quoi"
 	line "ton problème?"
 
 	para "Tu ne vas pas à"
-	line "la LIGUE #MON?"
+	line "la Ligue #mon?"
 
 	para "Tu sais comment y"
 	line "aller?"
 
 	para "Va jusqu'au"
-	line "BOURG GEON."
+	line "Bourg Geon."
 
-	para "Puis SURFE vers"
+	para "Puis Surfe vers"
 	line "l'est."
 
 	para "Le chemin sera"
 	line "dur."
 
 	para "Ne va pas te faire"
-	line "battre à la LIGUE"
-	cont "#MON!"
+	line "battre à la Ligue"
+	cont "#mon!"
 
 	para "Sinon, j'aurais"
 	line "l'air de quoi,"
@@ -275,12 +275,12 @@ ClairText_WhatsTheMatterDragonDen:
 	done
 
 DragonShrineSignpostText:
-	text "AUTEL DRAGON"
+	text "Autel Dragon"
 
 	para "En l'honneur des"
-	line "#MON dragons"
+	line "#mon dragons"
 	cont "ayant vécu dans"
-	cont "l'ANTRE du DRAGON."
+	cont "l'Antre du Dragon."
 	done
 
 RivalText_Training1:
@@ -291,7 +291,7 @@ RivalText_Training1:
 	line "battrai pas avec"
 	cont "toi maintenant..."
 
-	para "Mes #MON ne"
+	para "Mes #mon ne"
 	line "sont pas prêts."
 
 	para "Et je ne veux pas"
@@ -307,8 +307,12 @@ RivalText_Training1:
 RivalText_Training2:
 	text "......."
 
-	para "Pffouiii..."
+	para "Whew…"
 
+	para "......."
+	
+	para "Pffouiii..."
+	
 	para "Ne croise plus"
 	line "jamais ma route..."
 	done
@@ -323,10 +327,10 @@ CooltrainermDarinBeatenText:
 	done
 
 CooltrainermDarinAfterBattleText:
-	text "Le TEMPLE est la"
+	text "Le Temple est la"
 	line "demeure de notre"
 
-	para "MAITRE, chef du"
+	para "Maître, chef du"
 	line "clan des dragons."
 
 	para "Tu n'as pas le"
@@ -346,13 +350,13 @@ CooltrainerfCaraAfterBattleText:
 	text "Je vais bientôt"
 	line "avoir l'accord du"
 
-	para "MAITRE pour utili-"
+	para "Maître pour utili-"
 	line "ser des dragons."
 
 	para "Et alors, je pour-"
 	line "rai rendre mon"
 
-	para "MAITRE fier en"
+	para "Maître fier en"
 	line "devenant un grand"
 
 	para "dresseur."
@@ -370,7 +374,7 @@ TwinsLeaandpia1BeatenText:
 
 TwinsLeaandpia1AfterBattleText:
 	text "C'est comme com-"
-	line "battre PETER."
+	line "battre Peter."
 	done
 
 TwinsLeaandpia2SeenText:
@@ -384,7 +388,7 @@ TwinsLeaandpia2BeatenText:
 TwinsLeaandpia2AfterBattleText:
 	text "On va le dire."
 
-	para "Le MAITRE ne sera"
+	para "Le Maître ne sera"
 	line "pas content."
 	done
 

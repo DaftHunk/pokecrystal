@@ -1,4 +1,4 @@
-	db "ETOILE@" ; species name
+	db "Etoile@" ; species name
 	db 8 ; height
 	dw 345 ; weight
 

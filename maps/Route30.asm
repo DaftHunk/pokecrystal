@@ -261,7 +261,7 @@ Route30_MikeysRattataAttacksMovement:
 	step_end
 
 Text_UseTackle:
-	text "Allez, RATTATA!"
+	text "Allez, Rattata!"
 
 	para "CHARGE!"
 	done
@@ -276,7 +276,7 @@ YoungsterJoey1SeenText:
 	text "Je viens de perdre"
 	line "et j'essaie donc"
 	cont "d'attraper plus de"
-	cont "#MON."
+	cont "#mon."
 
 	para "Au fait! Tu as"
 	line "l'air faible, toi!"
@@ -290,7 +290,7 @@ YoungsterJoey1BeatenText:
 
 YoungsterJoey1AfterText:
 	text "Dois-je choper"
-	line "plus de #MON"
+	line "plus de #mon"
 
 	para "pour gagner des"
 	line "combats?"
@@ -301,7 +301,7 @@ YoungsterJoey1AfterText:
 
 YoungsterMikeySeenText:
 	text "T'es un dresseur"
-	line "de #MON, non?"
+	line "de #mon, non?"
 
 	para "Alors........."
 	line "COOOOMBAAAAT!"
@@ -335,9 +335,9 @@ BugCatcherDonBeatenText:
 
 BugCatcherDonAfterText:
 	text "J'ai utilisé ma"
-	line "dernière # BALL"
+	line "dernière # Ball"
 	cont "pendant une chasse"
-	cont "au #MON."
+	cont "au #mon."
 
 	para "J'aurais dû en"
 	line "acheter plus..."
@@ -345,7 +345,7 @@ BugCatcherDonAfterText:
 
 Route30YoungsterText_DirectionsToMrPokemonsHouse:
 	text "La maison de"
-	line "M.#MON? C'est"
+	line "M.#mon? C'est"
 	cont "un peu plus loin."
 	done
 
@@ -366,32 +366,32 @@ Route30CooltrainerFText:
 	done
 
 Route30SignText:
-	text "ROUTE 30"
+	text "Route 30"
 
-	para "MAUVILLE -"
-	line "VILLE GRIOTTE"
+	para "Mauville -"
+	line "Ville Griotte"
 	done
 
 MrPokemonsHouseDirectionsSignText:
-	text "CHEZ M.#MON"
+	text "Chez M.#mon"
 	line "C'est tout droit!"
 	done
 
 MrPokemonsHouseSignText:
-	text "CHEZ M.#MON"
+	text "Chez M.#mon"
 	done
 
 Route30TrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
 	para "On ne vole pas les"
-	line "#MON des"
+	line "#mon des"
 	cont "autres!"
 
-	para "Les # BALLS"
+	para "Les # Balls"
 	line "sont faites pour"
 	cont "attraper les #-"
-	cont "MON sauvages!"
+	cont "mon sauvages!"
 	done
 
 YoungsterJoeyText_GiveHPUpAfterBattle:

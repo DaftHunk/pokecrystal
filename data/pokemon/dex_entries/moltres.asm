@@ -1,8 +1,8 @@
-	db "FLAMME@" ; species name
+	db "Flamme@" ; species name
 	db 20 ; height
 	dw 600 ; weight
 
-	db   "#MON oiseau"
+	db   "#mon oiseau"
 	next "légendaire."
 	next "Il migre du"
 

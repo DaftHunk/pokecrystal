@@ -1,4 +1,4 @@
-	db "LAVE@" ; species name
+	db "Lave@" ; species name
 	db 7 ; height
 	dw 350 ; weight
 

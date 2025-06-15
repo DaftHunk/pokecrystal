@@ -99,7 +99,7 @@ EcruteakPokecenter1FPlayerMovement1:
 
 EcruteakPokecenter1F_BillText1:
 	text "Salut, je suis"
-	line "LEO. Et toi qui"
+	line "Léo. Et toi qui"
 	cont "es-tu?"
 
 	para "<PLAYER>,"
@@ -110,14 +110,14 @@ EcruteakPokecenter1F_BillText1:
 EcruteakPokecenter1F_BillText2:
 	text "Je viens de finir"
 	line "les derniers ré-"
-	cont "glages du BLOC"
-	cont "TEMPOREL."
+	cont "glages du Bloc"
+	cont "Temporel."
 
 	para "Tu sais que les"
-	line "#MON peuvent"
+	line "#mon peuvent"
 	cont "être échangés?"
 
-	para "Mon BLOC TEMPOREL"
+	para "Mon Bloc Temporel"
 	line "a été mis"
 
 	para "au point pour"
@@ -146,23 +146,23 @@ EcruteakPokecenter1F_BillText2:
 
 	para "velles attaques ou"
 	line "de nouveaux #-"
-	cont "MON par le BLOC"
-	cont "TEMPOREL."
+	cont "mon par le Bloc"
+	cont "Temporel."
 
 	para "T'en fais pas."
 	line "J'ai fait les"
 	cont "dernières modifs."
 
 	para "Demain, les"
-	line "BLOCS TEMPORELS"
+	line "Blocs Temporels"
 
 	para "seront dans"
-	line "tous les CENTRES"
-	cont "#MON."
+	line "tous les Centres"
+	cont "#mon."
 
 	para "Je dois vite"
 	line "retourner à"
-	cont "DOUBLONVILLE pour"
+	cont "Doublonville pour"
 	cont "voir mes parents."
 
 	para "Tchao!"
@@ -170,12 +170,12 @@ EcruteakPokecenter1F_BillText2:
 
 EcruteakPokecenter1FPokefanMText:
 	text "La façon dont les"
-	line "KIMONO dansent est"
+	line "Kimono dansent est"
 
 	para "merveilleuse."
 	line "Comme lorsqu'elles"
 	cont "utilisent leurs"
-	cont "#MON."
+	cont "#mon."
 	done
 
 EcruteakPokecenter1FPokefanMTextMobile:
@@ -188,22 +188,22 @@ EcruteakPokecenter1FPokefanMTextMobile:
 
 	para "Où ça?"
 
-	para "Après OLIVILLE."
+	para "Après Oliville."
 	done
 
 EcruteakPokecenter1FCooltrainerFText:
-	text "MORTIMER, le"
-	line "CHAMPION d'ARENE"
+	text "Mortimer, le"
+	line "Champion d'Arène"
 	cont "est trooop cool."
 
-	para "Ses #MON sont"
+	para "Ses #mon sont"
 	line "bien balèzes."
 	done
 
 EcruteakPokecenter1FGymGuideText:
-	text "LAC COLERE..."
+	text "Lac Colère..."
 
-	para "Là où le LEVIATOR"
+	para "Là où le Léviator"
 	line "apparaît..."
 
 	para "Ca sent l'em-"

@@ -1,4 +1,4 @@
-	db "BIVALVE@" ; species name
+	db "Bivalve@" ; species name
 	db 3 ; height
 	dw 40 ; weight
 

@@ -1,4 +1,4 @@
-	db "ARMURE@" ; species name
+	db "Armure@" ; species name
 	db 20 ; height
 	dw 2020 ; weight
 

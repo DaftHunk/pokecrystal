@@ -119,7 +119,7 @@ GoldenrodMagnetTrainStationOfficerTheTrainHasntComeInText:
 GoldenrodMagnetTrainStationOfficerAreYouComingAboardText:
 	text "Nous allons bien-"
 	line "tôt partir pour"
-	cont "SAFRANIA."
+	cont "Safrania."
 
 	para "Vous montez"
 	line "à bord?"
@@ -127,7 +127,7 @@ GoldenrodMagnetTrainStationOfficerAreYouComingAboardText:
 
 GoldenrodMagnetTrainStationOfficerRightThisWayText:
 	text "Puis-je voir votre"
-	line "PASSE train, s'il"
+	line "Passe train, s'il"
 	cont "vous plaît?"
 
 	para "Merci, c'est par"
@@ -137,8 +137,8 @@ GoldenrodMagnetTrainStationOfficerRightThisWayText:
 GoldenrodMagnetTrainStationOfficerYouDontHaveARailPassText:
 	text "Désolé, vous"
 	line "n'avez pas de"
-	cont "PASSE train."
-	cont "Pas de PASSE train"
+	cont "Passe train."
+	cont "Pas de Passe train"
 	cont "pas de copains!!"
 	done
 
@@ -149,7 +149,7 @@ GoldenrodMagnetTrainStationOfficerHopeToSeeYouAgainText:
 
 GoldenrodMagnetTrainStationOfficerArrivedInGoldenrodText:
 	text "On est arrivé"
-	line "à DOUBLONVILLE."
+	line "à Doublonville."
 
 	para "Nous espérons vous"
 	line "revoir bientôt."
@@ -157,17 +157,17 @@ GoldenrodMagnetTrainStationOfficerArrivedInGoldenrodText:
 
 GoldenrodMagnetTrainStationGentlemanText:
 	text "Je suis le"
-	line "PRESIDENT."
+	line "Président."
 
 	para "Mon rêve était de"
 	line "construire un"
 
 	para "train plus rapide"
 	line "que n'importe quel"
-	cont "#MON."
+	cont "#mon."
 
 	para "Cela rapproche"
-	line "JOHTO de KANTO."
+	line "Johto de Kanto."
 	done
 
 GoldenrodMagnetTrainStation_MapEvents:

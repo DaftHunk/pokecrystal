@@ -1,4 +1,4 @@
-	db "NOUVEAU@" ; species name
+	db "Nouveau@" ; species name
 	db 4 ; height
 	dw 40 ; weight
 
@@ -8,4 +8,4 @@
 
 	page "tés, on le prend"
 	next "pour l'ancêtre des"
-	next "#MON.@"
+	next "#mon.@"

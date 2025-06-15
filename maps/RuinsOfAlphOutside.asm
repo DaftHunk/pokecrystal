@@ -149,31 +149,31 @@ RuinsOfAlphOutsidePlayerEnterLabMovement:
 
 RuinsOfAlphOutsideScientistText:
 	text "Hm? C'est un #-"
-	line "DEX, n'est-ce pas?"
+	line "dex, n'est-ce pas?"
 	cont "Puis-je le voir?"
 
 	para "Il y a tant de"
-	line "#MON..."
+	line "#mon..."
 
 	para "Hmm? C'est quoi?"
 
 	para "Quel est donc"
-	line "ce #MON?"
+	line "ce #mon?"
 
 	para "Il ressemble aux"
 	line "inscriptions sur"
 
 	para "les murs des"
-	line "RUINES."
+	line "Ruines."
 
 	para "Si ces dessins"
-	line "sont des #MON,"
+	line "sont des #mon,"
 	cont "il doit y en avoir"
 	cont "beaucoup d'autres."
 
 	para "Je sais! Je vais"
 	line "améliorer ton"
-	cont "#DEX..."
+	cont "#dex..."
 	cont "Suis-moi."
 	done
 
@@ -192,7 +192,7 @@ SuperNerdStanBeatenText:
 	done
 
 SuperNerdStanAfterBattleText:
-	text "Les RUINES sont"
+	text "Les Ruines sont"
 	line "vieilles d'environ"
 	cont "1500 ans."
 
@@ -202,7 +202,7 @@ SuperNerdStanAfterBattleText:
 
 	para "On ne sait pas non"
 	line "plus si les sta-"
-	cont "tues de #MON"
+	cont "tues de #mon"
 	cont "ont un sens."
 
 	para "Alors ça..."
@@ -224,27 +224,27 @@ PsychicNathanAfterBattleText:
 	done
 
 RuinsOfAlphOutsideMysteryChamberSignText:
-	text "PIERRE MYSTERE"
-	line "CHAMBRE du PANNEAU"
+	text "Pierre Mystère"
+	line "Chambre du Panneau"
 	done
 
 RuinsOfAlphSignText:
-	text "RUINES D'ALPHA"
+	text "Ruines d'Alpha"
 	line "Bienvenue"
 	done
 
 RuinsOfAlphResearchCenterSignText:
-	text "RUINES D'ALPHA"
-	line "CENTRE de"
-	cont "RECHERCHE"
+	text "Ruines d'Alpha"
+	line "Centre de"
+	cont "Recherche"
 
 	para "La référence des"
-	line "RUINES D'ALPHA"
+	line "Ruines d'Alpha"
 	done
 
 RuinsOfAlphOutsideFisherText1:
 	text "En explorant les"
-	line "RUINES, nous avons"
+	line "Ruines, nous avons"
 
 	para "senti une drôle"
 	line "de présence."
@@ -258,14 +258,14 @@ RuinsOfAlphOutsideFisherText1:
 
 RuinsOfAlphOutsideFisherText2:
 	text "Il y a un secret"
-	line "dans les RUINES!"
+	line "dans les Ruines!"
 
 	para "Enfin je crois..."
 	done
 
 RuinsOfAlphOutsideYoungster1Text:
 	text "Il existe des"
-	line "ZARBI différents."
+	line "Zarbi différents."
 
 	para "Nous les utilisons"
 	line "pour nos codes"

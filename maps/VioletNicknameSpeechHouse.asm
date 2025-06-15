@@ -26,7 +26,7 @@ VioletNicknameSpeechHouseBirdScript:
 VioletNicknameSpeechHouseTeacherText:
 	text "Pour donner des"
 	line "noms rigolos à ses"
-	cont "#MON..."
+	cont "#mon..."
 
 	para "Elle utilise le"
 	line "nom de ses plats"
@@ -35,12 +35,12 @@ VioletNicknameSpeechHouseTeacherText:
 
 VioletNicknameSpeechHouseLassText:
 	text "J'ai appelé mon"
-	line "ROUCOOL..."
-	cont "MOUSSE DE PORC!"
+	line "Roucool..."
+	cont "Mousse de Porc!"
 	done
 
 VioletNicknameSpeechHouseBirdText:
-	text "MOUSSE DE PORC:"
+	text "Mousse de Porc:"
 	line "Rouuu!"
 	done
 

@@ -249,7 +249,7 @@ AzaleaTownRivalBeforeText:
 	cont "bouchon..."
 
 	para "Est-ce vrai que la"
-	line "TEAM ROCKET est de"
+	line "Team Rocket est de"
 	cont "retour?"
 
 	para "Quoi? Tu les as"
@@ -263,14 +263,14 @@ AzaleaTownRivalBeforeText:
 
 AzaleaTownRivalWinText:
 	text "...Humpff! Vilains"
-	line "#MON!"
+	line "#mon!"
 
 	para "Ouvre bien tes"
 	line "oreilles mon p'tit"
 
 	para "chat, t'as gagné"
 	line "parce que mes"
-	cont "#MON se sont"
+	cont "#mon se sont"
 	cont "couchés tard..."
 	done
 
@@ -278,7 +278,7 @@ AzaleaTownRivalAfterText:
 	text "Je déteste les"
 	line "minus."
 
-	para "#MON ou"
+	para "#mon ou"
 	line "dresseur, c'est"
 	cont "du kif-kif."
 
@@ -287,8 +287,8 @@ AzaleaTownRivalAfterText:
 	cont "balayer les minus."
 
 	para "Et c'est pareil"
-	line "pour la TEAM"
-	cont "ROCKET."
+	line "pour la Team"
+	cont "Rocket."
 
 	para "Ils sont redoutés"
 	line "parce qu'ils agis-"
@@ -325,7 +325,7 @@ AzaleaTownRocket1Text:
 
 AzaleaTownRocket2Text:
 	text "Que sais-tu sur la"
-	line "QUEUERAMOLOS? On"
+	line "QueueRamolos? On"
 	cont "dit que c'est"
 	cont "goûtu!"
 
@@ -334,16 +334,16 @@ AzaleaTownRocket2Text:
 	done
 
 AzaleaTownGrampsTextBefore:
-	text "Les RAMOLOSS ont"
+	text "Les Ramoloss ont"
 	line "déserté la ville."
 
 	para "On dit qu'on vend"
-	line "leur QUEUE quelque"
+	line "leur Queue quelque"
 	cont "part."
 	done
 
 AzaleaTownGrampsTextAfter:
-	text "Les RAMOLOSS sont"
+	text "Les Ramoloss sont"
 	line "de retour."
 
 	para "A mon avis, ils"
@@ -353,31 +353,31 @@ AzaleaTownGrampsTextAfter:
 
 AzaleaTownTeacherText:
 	text "Es-tu ici pour"
-	line "FARGAS, celui qui"
+	line "Fargas, celui qui"
 	cont "fabrique les"
-	cont "BALLS?"
+	cont "Balls?"
 
 	para "Il n'y a pas que"
 	line "toi."
 	done
 
 AzaleaTownYoungsterText:
-	text "Passe par ECORCIA"
+	text "Passe par Ecorcia"
 	line "et tu te retrou-"
-	cont "veras au BOIS AUX"
-	cont "CHENES."
+	cont "veras au Bois aux"
+	cont "Chênes."
 
 	para "Mais ces petits"
 	line "arbustes bloquent"
 	cont "le passage."
 
-	para "Le #MON du"
-	line "CHARBONNIER peut"
+	para "Le #mon du"
+	line "Charbonnier peut"
 	cont "couper les arbres."
 	done
 
 AzaleaTownSlowpokeText1:
-	text "RAMOLOSS: ..."
+	text "Ramoloss: ..."
 
 	para ".................."
 	done
@@ -387,11 +387,11 @@ AzaleaTownSlowpokeText2:
 	done
 
 WoosterText:
-	text "KIKI: Gaaahh..."
+	text "Kiki: Gaaahh..."
 	done
 
 AzaleaTownKurtText1:
-	text "Le BOIS AUX CHENES"
+	text "Le Bois aux Chênes"
 	line "est agité!"
 
 	para "Que se passe-t-il?"
@@ -399,66 +399,66 @@ AzaleaTownKurtText1:
 
 AzaleaTownKurtText2:
 	text "<PLAYER>, voilà"
-	line "ta GS BALL!"
+	line "ta GS Ball!"
 	done
 
 AzaleaTownKurtText3:
 	text "Peux-tu voir pour-"
-	line "quoi le BOIS AUX"
-	cont "CHENES est si"
+	line "quoi le Bois aux"
+	cont "Chênes est si"
 	cont "agité?"
 	done
 
 AzaleaTownSignText:
-	text "ECORCIA"
+	text "Ecorcia"
 	line "La ville où les"
 
 	para "gens et les petits"
-	line "#MON sont"
+	line "#mon sont"
 	cont "bien contents"
 	cont "d'habiter"
 	done
 
 KurtsHouseSignText:
-	text "MAISON DE FARGAS"
+	text "Maison de Fargas"
 	done
 
 AzaleaGymSignText:
-	text "CHAMPION d'ARENE"
-	line "d'ECORCIA: HECTOR"
+	text "Champion d'Arène"
+	line "d'Ecorcia: Hector"
 
 	para "L'expert des"
-	line "#MON insecte!"
+	line "#mon Insecte!"
 	done
 
 SlowpokeWellSignText:
-	text "PUITS RAMOLOSS"
+	text "Puits Ramoloss"
 
 	para "Aussi connu sous"
 	line "le nom de..."
-	cont "PUITS de PLUIE."
+	cont "Puits de Pluie."
 
 	para "Les gens du coin"
 	line "pensent que le"
 	cont "baillement du"
-	cont "RAMOLOSS invoque"
+	cont "Ramoloss invoque"
 	cont "la pluie."
 
 	para "Les archives"
 	line "montrent qu'un"
 
 	para "baillement de"
-	line "RAMOLOSS a mis fin"
+	line "Ramoloss a mis fin"
 	cont "à 400 ans de"
 	cont "sécheresse."
 	done
 
 CharcoalKilnSignText:
-	text "FOUR A CHARBON"
+	text "Four à Charbon"
 	done
 
 AzaleaTownIlexForestSignText:
-	text "BOIS AUX CHENES"
+	text "Bois aux Chênes"
 
 	para "On y entre par la"
 	line "porte."

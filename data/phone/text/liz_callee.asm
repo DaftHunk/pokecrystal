@@ -60,15 +60,15 @@ LizGenericText:
 	line "lors je t'appelle."
 
 	para "Au fait, comment"
-	line "vont tes #MON?"
+	line "vont tes #mon?"
 
 	para "Moi j'emmène mon"
 	line "@"
 	text_ram wStringBuffer4
 	text " au"
 
-	para "CENTRE #MON"
-	line "de MAUVILLE tous"
+	para "Centre #mon"
+	line "de Mauville tous"
 	cont "les jours!"
 
 	para "La réceptionniste"

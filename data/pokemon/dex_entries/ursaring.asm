@@ -1,4 +1,4 @@
-	db "HIBERNANT@" ; species name
+	db "Hibernant@" ; species name
 	db 18 ; height
 	dw 1258 ; weight
 

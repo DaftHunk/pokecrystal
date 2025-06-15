@@ -1,4 +1,4 @@
-	db "BISOU@" ; species name
+	db "Bisou@" ; species name
 	db 4 ; height
 	dw 60 ; weight
 

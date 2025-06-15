@@ -1,4 +1,4 @@
-	db "CHOVSOURIS@" ; species name
+	db "Chovsouris@" ; species name
 	db 16 ; height
 	dw 550 ; weight
 

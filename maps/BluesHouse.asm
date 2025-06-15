@@ -64,11 +64,11 @@ DaisyScript:
 	end
 
 DaisyHelloText:
-	text "NINA: Salut! Mon"
+	text "Nina: Salut! Mon"
 	line "petit frère est le"
 
-	para "CHAMPION de l'ARE-"
-	line "NE de JADIELLE."
+	para "Champion de l'Arè-"
+	line "ne de Jadielle."
 
 	para "Mais il se balade"
 	line "beaucoup, ce qui"
@@ -78,13 +78,13 @@ DaisyHelloText:
 	done
 
 DaisyOfferGroomingText:
-	text "NINA: Salut! Ca"
+	text "Nina: Salut! Ca"
 	line "tombe bien, j'al-"
 	cont "lais faire du thé."
 
 	para "En veux-tu?"
 
-	para "Oh, tes #MON"
+	para "Oh, tes #mon"
 	line "sont sales."
 
 	para "Tu veux que j'en"
@@ -92,12 +92,12 @@ DaisyOfferGroomingText:
 	done
 
 DaisyWhichMonText:
-	text "NINA: Lequel dois-"
+	text "Nina: Lequel dois-"
 	line "je bichonner?"
 	done
 
 DaisyAlrightText:
-	text "NINA: OK, je vais"
+	text "Nina: OK, je vais"
 	line "le faire beau en"
 	cont "deux secondes."
 	done
@@ -109,18 +109,18 @@ GroomedMonLooksContentText:
 	done
 
 DaisyAllDoneText:
-	text "NINA: Voilààà!"
+	text "Nina: Voilààà!"
 	line "C'est fini!"
 
 	para "Alors? Il est pas"
 	line "trop beau, hein?"
 
 	para "Un joli petit"
-	line "#MON."
+	line "#mon."
 	done
 
 DaisyAlreadyGroomedText:
-	text "NINA: Je me fais"
+	text "Nina: Je me fais"
 	line "du thé toujours à"
 
 	para "cette heure. Tu"
@@ -128,7 +128,7 @@ DaisyAlreadyGroomedText:
 	done
 
 DaisyRefusedText:
-	text "NINA: Tu ne veux"
+	text "Nina: Tu ne veux"
 	line "pas que je m'en"
 
 	para "occupe? OK. Un peu"
@@ -136,10 +136,10 @@ DaisyRefusedText:
 	done
 
 DaisyCantGroomEggText:
-	text "NINA: Oh, désolée."
+	text "Nina: Oh, désolée."
 	line "Je ne peux pas"
 	cont "m'occuper d'un"
-	cont "OEUF."
+	cont "Oeuf."
 	done
 
 BluesHouse_MapEvents:

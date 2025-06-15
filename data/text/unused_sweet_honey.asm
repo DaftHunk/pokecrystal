@@ -9,8 +9,8 @@
 ; The last text is associated with a second NPC, probably a Butterfree.
 
 UnusedSweetHoneyText: ; unreferenced
-	text "Mon #MON adore"
-	line "le MIEL."
+	text "Mon #mon adore"
+	line "le Miel."
 
 	para "Je vais t'en"
 	line "donner."
@@ -18,7 +18,7 @@ UnusedSweetHoneyText: ; unreferenced
 
 UnusedSweetHoneyBagFullText: ; unreferenced
 	text "Je voulais t'of-"
-	line "frir du MIEL mais"
+	line "frir du Miel mais"
 
 	para "tu n'as plus de"
 	line "place."
@@ -26,17 +26,17 @@ UnusedSweetHoneyBagFullText: ; unreferenced
 
 UnusedSweetHoneyGiveText: ; unreferenced
 	text "Tiens! Voilà du"
-	line "MIEL!"
+	line "Miel!"
 	done
 
 UnusedGotSweetHoneyText: ; unreferenced
 	text "<PLAYER> reçoit"
-	line "du MIEL."
+	line "du Miel."
 	done
 
 UnusedSweetHoneyAfterText1: ; unreferenced
 	text "Mon petit frère"
-	line "prend du MIEL et"
+	line "prend du Miel et"
 	cont "va se promener."
 
 	para "Je me demande ce"
@@ -44,7 +44,7 @@ UnusedSweetHoneyAfterText1: ; unreferenced
 	done
 
 UnusedSweetHoneyAfterText2: ; unreferenced
-	text "As-tu mis du MIEL"
+	text "As-tu mis du Miel"
 	line "sur l'arbre?"
 
 	para "Que s'est-il"
@@ -52,14 +52,14 @@ UnusedSweetHoneyAfterText2: ; unreferenced
 	done
 
 UnusedSweetHoneyAfterText3: ; unreferenced
-	text "As-tu mis du MIEL"
+	text "As-tu mis du Miel"
 	line "sur l'arbre?"
 
 	para "Ca prend un jour"
 	line "pour que le #-"
-	cont "MON soit attiré."
+	cont "mon soit attiré."
 	done
 
 UnusedSweetHoneyButterfreeText: ; unreferenced
-	text "PAPILUSION: Piii!"
+	text "Papilusion: Piii!"
 	done

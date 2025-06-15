@@ -1,34 +1,34 @@
 BillPhoneMornGreetingText:
 	text "Bonjour!"
 
-	para "Voici le SERVICE"
-	line "D'ADMINISTRATION"
+	para "Voici le Service"
+	line "d'Administration"
 
-	para "DU SYSTEME DE"
-	line "STOCKAGE DE"
-	cont "#MON."
+	para "du Système de"
+	line "Stockage de"
+	cont "#mon."
 	done
 
 BillPhoneDayGreetingText:
 	text "Bonjour!"
 
-	para "Voici le SERVICE"
-	line "D'ADMINISTRATION"
+	para "Voici le Service"
+	line "d'Administration"
 
-	para "DU SYSTEME DE"
-	line "STOCKAGE DE"
-	cont "#MON."
+	para "du Système de"
+	line "Stockage de"
+	cont "#mon."
 	done
 
 BillPhoneNiteGreetingText:
 	text "Bonsoir!"
 
-	para "Voici le SERVICE"
-	line "D'ADMINISTRATION"
+	para "Voici le Service"
+	line "d'Administration"
 
-	para "DU SYSTEME DE"
-	line "STOCKAGE DE"
-	cont "#MON."
+	para "du Système de"
+	line "Stockage de"
+	cont "#mon."
 	done
 
 BillPhoneGenericText:
@@ -45,12 +45,12 @@ BillPhoneNotFullText:
 	text "Merci d'avoir"
 	line "attendu!"
 
-	para "<PLAY_G>, ta BOITE"
+	para "<PLAY_G>, ta Boîte"
 	line "a de la place pour"
 	cont "encore @"
 	text_ram wStringBuffer3
 	text_start
-	cont "#MON."
+	cont "#mon."
 
 	para "Va en choper!"
 	done
@@ -59,47 +59,47 @@ BillPhoneNearlyFullText:
 	text "Merci d'avoir"
 	line "attendu!"
 
-	para "<PLAY_G>, ta BOITE"
+	para "<PLAY_G>, ta Boîte"
 	line "a de la place pour"
 	cont "encore @"
 	text_ram wStringBuffer3
 	text_start
-	cont "#MON."
+	cont "#mon."
 
 	para "Tu devrais changer"
-	line "de BOITE."
+	line "de Boîte."
 	done
 
 BillPhoneFullText:
 	text "Merci d'avoir"
 	line "attendu!"
 
-	para "<PLAY_G>, ta BOITE"
+	para "<PLAY_G>, ta Boîte"
 	line "est pleine!"
 
 	para "Tu devrais changer"
-	line "de BOITE pour"
+	line "de Boîte pour"
 	cont "attraper d'autres"
-	cont "#MON."
+	cont "#mon."
 	done
 
 BillPhoneNewlyFullText:
 	text "<PLAY_G>?"
-	line "C'est moi! LEO!"
+	line "C'est moi! Léo!"
 
 	para "Merci d'utiliser"
-	line "le SYSTEME de"
-	cont "STOCKAGE."
+	line "le Système de"
+	cont "Stockage."
 
-	para "Le dernier #MON"
+	para "Le dernier #mon"
 	line "envoyé a rempli"
-	cont "ta BOITE."
+	cont "ta Boîte."
 
 	para "Il faut changer de"
-	line "BOITE pour attra-"
+	line "Boîte pour attra-"
 
 	para "per d'autres"
-	line "#MON."
+	line "#mon."
 
 	para "Salut!"
 	done

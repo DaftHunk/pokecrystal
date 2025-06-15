@@ -1,4 +1,4 @@
-	db "BUFFLE@" ; species name
+	db "Buffle@" ; species name
 	db 14 ; height
 	dw 884 ; weight
 

@@ -180,28 +180,28 @@ OlivineCityRivalText:
 	para "En parlant de"
 	line "minus, le"
 
-	para "CHAMPION d'ARENE"
+	para "Champion d'Arène"
 	line "n'est pas ici."
 
 	para "Il est soi-disant"
 	line "en train de"
 
 	para "s'occuper du #-"
-	line "MON malade au"
-	cont "PHARE."
+	line "mon malade au"
+	cont "Phare."
 
 	para "Humph! Bou-hou!"
 	line "Laissons donc"
-	cont "filer les #MON"
+	cont "filer les #mon"
 	cont "malades!"
 
-	para "Un #MON qui ne"
+	para "Un #mon qui ne"
 	line "peut pas combattre"
 	cont "est inutile!"
 
 	para "Pourquoi ne vas-tu"
 	line "pas t'entraîner au"
-	cont "PHARE?"
+	cont "Phare?"
 
 	para "Qui sait? Peut-"
 	line "être que cela"
@@ -221,7 +221,7 @@ OlivineCitySailor1Text:
 	line "plus traître!"
 
 	para "Sans la lumière du"
-	line "PHARE pour les"
+	line "Phare pour les"
 
 	para "guider, aucun"
 	line "navire ne peut"
@@ -230,14 +230,14 @@ OlivineCitySailor1Text:
 
 OlivineCityStandingYoungsterPokegearText:
 	text "Le truc que tu as,"
-	line "c'est un #MATOS"
+	line "c'est un #matos"
 	cont "pas vrai? Whaou,"
 	cont "c'est cool!"
 	done
 
 OlivineCityStandingYoungsterPokedexText:
 	text "Heu, t'as un joli"
-	line "#DEX! C'est"
+	line "#dex! C'est"
 
 	para "vraiment très"
 	line "impressionnant."
@@ -254,43 +254,48 @@ OlivineCitySailor2Text:
 	done
 
 OlivineCitySignText:
-	text "OLIVILLE"
+	text "Oliville"
 
 	para "Le port vers d'au-"
 	line "tres horizons"
 	done
 
 OlivineCityPortSignText:
-	text "PORT d'OLIVILLE"
-	line "PORT DU BATEAU"
-	cont "EXPRESS"
+	text "Port d'Oliville"
+	line "Port du Bateau"
+	cont "Express"
 	done
 
 OlivineGymSignText:
-	text "CHAMPION d'ARENE"
-	line "d'OLIVILLE:"
-	cont "JASMINE"
+	text "Champion d'Arène"
+	line "d'Oliville:"
+	cont "Jasmine"
 
 	para "La fille aux nerfs"
 	line "d'acier"
 	done
 
 OlivineLighthouseSignText:
-	text "PHARE d'OLIVILLE"
+	text "Phare d'Oliville"
 	line "Aussi connu sous"
-	cont "le nom de PHARE"
-	cont "SCINTILLANT"
+	cont "le nom de Phare"
+	cont "Scintillant"
 	done
+	
+OlivineCityBattleTowerSignPreMobileText:
+	text "Tour de Combat"
+	line "Tout droit..."
+	done	
 
-OlivineCityBattleTowerSignText:
-	text "TOUR DE COMBAT"
+OlivineCityBattleTowerSignMobileText:
+	text "Tour de Combat"
 	line "Tout droit..."
 	cont "Bienvenue!"
 	done
 
-OlivineCityBattleTowerSignText_NotYetOpen: ; unreferenced
-; originally shown when the Battle Tower was closed
-	text_start
+OlivineCityBattleTowerSignText:
+	text "BATTLE TOWER AHEAD"
+	line "Opening Now!"
 	done
 
 OlivineCity_MapEvents:

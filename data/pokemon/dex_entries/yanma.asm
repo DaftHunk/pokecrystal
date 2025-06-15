@@ -1,4 +1,4 @@
-	db "TRANSLAILE@" ; species name
+	db "Translaile@" ; species name
 	db 12 ; height
 	dw 380 ; weight
 

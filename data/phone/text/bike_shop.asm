@@ -2,7 +2,7 @@ BikeShopPhoneCallerText:
 	text "Salut <PLAY_G>!"
 	line "Nos ventes de"
 
-	para "BICYCLETTES ont"
+	para "Bicyclettes ont"
 	line "explosé!"
 
 	para "Tout ça grâce à"
@@ -12,6 +12,6 @@ BikeShopPhoneCallerText:
 	para "En gage de remer-"
 	line "ciement, garde la"
 
-	para "BICYCLETTE!"
+	para "Bicyclette!"
 	line "Encore merci!"
 	done

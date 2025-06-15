@@ -125,15 +125,15 @@ SaffronMagnetTrainStationPlayerLeaveTrainAndEnterStationMovement:
 	step_end
 
 SaffronMagnetTrainStationOfficerTrainIsntOperatingText:
-	text "Le TRAIN MAGNET ne"
+	text "Le Train Magnet ne"
 	line "fonctionne pas"
 	cont "pour l'instant."
 	done
 
 SaffronMagnetTrainStationOfficerAreYouComingOnBoardText:
 	text "Nous partons bien-"
-	line "tôt pour DOUBLON-"
-	cont "VILLE."
+	line "tôt pour Doublon-"
+	cont "ville."
 
 	para "Veux-tu monter"
 	line "à bord?"
@@ -141,7 +141,7 @@ SaffronMagnetTrainStationOfficerAreYouComingOnBoardText:
 
 SaffronMagnetTrainStationOfficerRightThisWayText:
 	text "Puis-je voir"
-	line "ton PASSE?"
+	line "ton Passe?"
 
 	para "OK. Ca marche."
 	line "Par ici."
@@ -149,7 +149,7 @@ SaffronMagnetTrainStationOfficerRightThisWayText:
 
 SaffronMagnetTrainStationOfficerYouDontHaveAPassText:
 	text "Désolé."
-	line "Pas de PASSE."
+	line "Pas de Passe."
 	done
 
 SaffronMagnetTrainStationOfficerHopeToSeeYouAgainText:
@@ -159,13 +159,13 @@ SaffronMagnetTrainStationOfficerHopeToSeeYouAgainText:
 
 SaffronMagnetTrainStationOfficerArrivedInSaffronText:
 	text "Nous sommes arri-"
-	line "vés à SAFRANIA."
+	line "vés à Safrania."
 
 	para "A bientôt."
 	done
 
 SaffronMagnetTrainStationGymGuideText:
-	text "Le TRAIN MAGNET"
+	text "Le Train Magnet"
 	line "est un train super"
 
 	para "moderne qui utili-"
@@ -186,8 +186,8 @@ SaffronMagnetTrainStationGymGuideText_ReturnedMachinePart:
 	para "Combien de fois"
 	line "ai-je fait la na-"
 
-	para "vette entre KANTO"
-	line "et JOHTO? J'en"
+	para "vette entre Kanto"
+	line "et Johto? J'en"
 	cont "sais rien, moi!"
 	done
 
@@ -196,23 +196,23 @@ SaffronMagnetTrainStationTeacherText:
 	line "maison avant la"
 
 	para "construction de la"
-	line "STATION de TRAIN."
+	line "Station de Train."
 
 	para "Une petite fille,"
-	line "appelée COPIEUSE,"
+	line "appelée Copieuse,"
 	cont "y vivait."
 	done
 
 SaffronMagnetTrainStationLassText:
 	text "Bonjour. As-tu un"
-	line "PASSE?"
+	line "Passe?"
 
 	para "Moi j'en ai un!"
-	line "Tous ceux de SA-"
+	line "Tous ceux de Sa-"
 
-	para "FRANIA qui utili-"
-	line "sent le TRAIN"
-	cont "MAGNET en ont un."
+	para "frania qui utili-"
+	line "sent le Train"
+	cont "Magnet en ont un."
 	done
 
 SaffronMagnetTrainStation_MapEvents:

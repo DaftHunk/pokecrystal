@@ -77,9 +77,9 @@ Route8FruitTree:
 
 BikerDwayneSeenText:
 	text "Nous sommes la"
-	line "FEDERATION des"
+	line "Fédération des"
 	cont "dresseurs de #-"
-	cont "MON de KANTO."
+	cont "mon de Kanto."
 
 	para "On va te faire"
 	line "ta fête!"
@@ -90,14 +90,14 @@ BikerDwayneBeatenText:
 	done
 
 BikerDwayneAfterBattleText:
-	text "La FEDERATION des"
-	line "dresseurs de KANTO"
+	text "La Fédération des"
+	line "dresseurs de Kanto"
 	cont "est invincible!"
 	done
 
 BikerHarrisSeenText:
 	text "La police a fermé"
-	line "notre SOUTERRAIN!"
+	line "notre Souterrain!"
 
 	para "C'est injuste!"
 	line "C'est dégueulasse!"
@@ -109,13 +109,13 @@ BikerHarrisBeatenText:
 
 BikerHarrisAfterBattleText:
 	text "Battu par quelqu'"
-	line "un de JOHTO..."
+	line "un de Johto..."
 	done
 
 BikerZekeSeenText:
-	text "On est la FEDERA-"
-	line "TION des dresseurs"
-	cont "de KANTO."
+	text "On est la Fédéra-"
+	line "tion des dresseurs"
+	cont "de Kanto."
 	cont "On est cool!"
 	done
 
@@ -131,12 +131,12 @@ BikerZekeAfterBattleText:
 
 SupernerdSamSeenText:
 	text "Comment ça marche"
-	line "un TRAIN MAGNET?"
+	line "un Train Magnet?"
 	done
 
 SupernerdSamBeatenText:
 	text "Moi je veux voir"
-	line "le TRAIN MAGNET..."
+	line "le Train Magnet..."
 	done
 
 SupernerdSamAfterBattleText:
@@ -147,7 +147,7 @@ SupernerdSamAfterBattleText:
 
 SupernerdTomSeenText:
 	text "Hmm... Tu en as"
-	line "des bô BADGES."
+	line "des bô Badges."
 	done
 
 SupernerdTomBeatenText:
@@ -156,7 +156,7 @@ SupernerdTomBeatenText:
 	done
 
 SupernerdTomAfterBattleText:
-	text "Les BADGES donnent"
+	text "Les Badges donnent"
 	line "l'avantage en"
 	cont "combat."
 	done

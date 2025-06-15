@@ -62,24 +62,24 @@ ViridianGymStatue:
 	jumpstd GymStatue2Script
 
 LeaderBlueBeforeText:
-	text "BLUE: Yo! Te voilà"
+	text "Blue: Yo! Te voilà"
 	line "enfin!"
 
 	para "J'avais pas trop"
-	line "envie à CRAMOIS'"
+	line "envie à Cramois'"
 
-	para "ILE mais là je"
+	para "Ile mais là je"
 	line "vais te battre."
 
 	para "…"
 
 	para "Tu dis quoi?"
 	line "Tu as passé toutes"
-	cont "les ARENES de"
-	cont "JOHTO?"
+	cont "les Arènes de"
+	cont "Johto?"
 
 	para "Ils sont nuls à"
-	line "JOHTO alors..."
+	line "Johto alors..."
 
 	para "Mais t'en fais"
 	line "pas..."
@@ -91,11 +91,11 @@ LeaderBlueBeforeText:
 	line "ou non."
 
 	para "C'est parti,"
-	line "minable de JOHTO!"
+	line "minable de Johto!"
 	done
 
 LeaderBlueWinText:
-	text "BLUE: Quoi?"
+	text "Blue: Quoi?"
 
 	para "Comment c'est-y"
 	line "possible, ça?"
@@ -104,16 +104,16 @@ LeaderBlueWinText:
 
 	para "Pfff..."
 	line "Tiens, prends ce"
-	cont "BADGE TERRE."
+	cont "Badge Terre."
 	done
 
 Text_ReceivedEarthBadge:
 	text "<PLAYER> reçoit"
-	line "le BADGE TERRE."
+	line "le Badge Terre."
 	done
 
 LeaderBlueAfterText:
-	text "BLUE: ..."
+	text "Blue: ..."
 
 	para "OK. J'avais tort."
 	line "Je le reconnais:"
@@ -127,7 +127,7 @@ LeaderBlueAfterText:
 	done
 
 LeaderBlueEpilogueText:
-	text "BLUE: Ecoute voir."
+	text "Blue: Ecoute voir."
 
 	para "Reste cool jusqu'à"
 	line "notre prochain"
@@ -139,10 +139,10 @@ ViridianGymGuideText:
 	line "star!"
 	cont "Tout va bien?"
 
-	para "Le CHAMPION est"
+	para "Le Champion est"
 	line "celui qui a com-"
 
-	para "battu le MAITRE il"
+	para "battu le Maître il"
 	line "y a trois ans."
 
 	para "C'est pas un"

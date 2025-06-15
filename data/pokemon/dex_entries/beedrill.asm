@@ -1,4 +1,4 @@
-	db "GUEPOISON@" ; species name
+	db "Guêpoison@" ; species name
 	db 10 ; height
 	dw 295 ; weight
 

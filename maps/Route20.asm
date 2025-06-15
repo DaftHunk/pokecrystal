@@ -70,7 +70,7 @@ SwimmerfLoriSeenText:
 	text "Quelle belle"
 	line "collection de"
 
-	para "BADGES. On se fait"
+	para "Badges. On se fait"
 	line "un p'tit combat?"
 	done
 
@@ -79,7 +79,7 @@ SwimmerfLoriBeatenText:
 	done
 
 SwimmerfLoriAfterBattleText:
-	text "Le SURF n'est plus"
+	text "Le Surf n'est plus"
 	line "la seule CS à uti-"
 	cont "liser sur l'eau."
 	done
@@ -89,7 +89,7 @@ SwimmermCameronSeenText:
 	line "impossible de"
 
 	para "nager jusqu'à"
-	line "JOHTO."
+	line "Johto."
 	done
 
 SwimmermCameronBeatenText:
@@ -106,9 +106,9 @@ CinnabarGymSignText:
 	text "Tiens!"
 	line "Une pancarte..."
 
-	para "CHAMPION d'ARENE"
-	line "de CRAMOIS'ILE:"
-	cont "AUGUSTE"
+	para "Champion d'Arène"
+	line "de Cramois'Ile:"
+	cont "Auguste"
 	done
 
 Route20_MapEvents:

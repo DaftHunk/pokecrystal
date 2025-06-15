@@ -81,8 +81,8 @@ KogasRoom_EnterMovement:
 KogaScript_KogaBeforeText:
 	text "Fwahahahaha!"
 
-	para "Moi c'est KOGA du"
-	line "CONSEIL des 4."
+	para "Moi c'est Koga du"
+	line "Conseil des 4."
 
 	para "J'suis un ninja!"
 	line "Comme à la télé!"

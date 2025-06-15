@@ -1,4 +1,4 @@
-	db "LONG-PATTE@" ; species name
+	db "Long-Patte@" ; species name
 	db 11 ; height
 	dw 335 ; weight
 

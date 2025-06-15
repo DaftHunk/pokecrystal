@@ -112,7 +112,7 @@ FastShipCabinsNorthwestCabinTrashcan:
 	jumpstd TrashCanScript
 
 FirebreatherLyleSeenText:
-	text "Je vais à KANTO"
+	text "Je vais à Kanto"
 	line "me donner en"
 	cont "spectacle!"
 	done
@@ -134,7 +134,7 @@ BugCatcherKenSeenText:
 	text "Je vais voir ma"
 	line "grand-mère pour"
 	cont "attraper des"
-	cont "insectes!"
+	cont "Insectes!"
 	done
 
 BugCatcherKenBeatenText:
@@ -144,8 +144,8 @@ BugCatcherKenBeatenText:
 
 BugCatcherKenAfterBattleText:
 	text "Il y a plein de"
-	line "#MON dans les"
-	cont "arbres de JOHTO!"
+	line "#mon dans les"
+	cont "arbres de Johto!"
 	done
 
 BeautyCassieSeenText:
@@ -163,17 +163,17 @@ BeautyCassieAfterBattleText:
 	line "blier les peines"
 	cont "de coeur."
 
-	para "Mais un BATEAU"
-	line "EXPRESS va trop"
+	para "Mais un Bateau"
+	line "Express va trop"
 	cont "vite!!!"
 	done
 
 GuitaristClydeSeenText:
 	text "Je vais audition-"
-	line "ner à la STATION"
+	line "ner à la Station"
 
-	para "RADIO de DOUBLON-"
-	line "VILLE."
+	para "Radio de Doublon-"
+	line "ville."
 	done
 
 GuitaristClydeBeatenText:
@@ -184,18 +184,18 @@ GuitaristClydeBeatenText:
 GuitaristClydeAfterBattleMobileText:
 	text "J'allais me lancer"
 	line "dans le défi de la"
-	cont "TOUR DE COMBAT..."
+	cont "Tour de Combat..."
 
 	para "Je devrais retour-"
-	line "ner à CARMIN et"
+	line "ner à Carmin et"
 	cont "m'entraîner..."
 	done
 
 GuitaristClydeAfterBattleText:
 	text "Au fait..."
-	line "C'est quoi le BON"
+	line "C'est quoi le Bon"
 
-	para "NUMERO de cette"
+	para "Numéro de cette"
 	line "semaine?"
 	done
 
@@ -210,15 +210,15 @@ FastShipBedText2:
 	done
 
 FastShipArrivedOlivineText:
-	text "Le BATEAU EXPRESS"
-	line "AQUARIA est arrivé"
-	cont "à OLIVILLE."
+	text "Le Bateau Express"
+	line "Aquaria est arrivé"
+	cont "à Oliville."
 	done
 
 FastShipArrivedVermilionText:
-	text "Le BATEAU EXPRESS"
-	line "AQUARIA est arrivé"
-	cont "à CARMIN SUR MER."
+	text "Le Bateau Express"
+	line "Aquaria est arrivé"
+	cont "à Carmin sur Mer."
 	done
 
 FastShipCabins_SW_SSW_NW_MapEvents:

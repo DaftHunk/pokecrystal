@@ -34,7 +34,7 @@ RalphLostAMonText:
 	line "mon gamin."
 
 	para "Alors il m'a donné"
-	line "ses # BALLS."
+	line "ses # Balls."
 
 	para "Il a grand coeur"
 	line "mon moutard!"
@@ -87,11 +87,11 @@ RalphNoItemText:
 	text "Ouais, je sais."
 
 	para "Tu cherches des"
-	line "#MON rares."
+	line "#mon rares."
 
 	para "Moi...?"
 	line "J'ai attrapé un"
-	cont "MAGICARPE."
+	cont "Magicarpe."
 	done
 
 RalphReminderText:
@@ -110,8 +110,8 @@ RalphHurryText:
 	line "problème?"
 
 	para "Tu viens pêcher"
-	line "les QWILFISH?"
+	line "les Qwilfish?"
 
-	para "Sur la ROUTE 32!"
+	para "Sur la Route 32!"
 	line "Magne-toi!"
 	done

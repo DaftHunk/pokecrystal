@@ -145,12 +145,12 @@ BlackthornCityMartSign:
 Text_ClairIsOut:
 	text "Excusez-moi."
 
-	para "SANDRA, notre"
-	line "CHAMPIONNE, est"
+	para "Sandra, notre"
+	line "Championne, est"
 
-	para "dans l'ANTRE DU"
-	line "DRAGON derrière"
-	cont "l'ARENE."
+	para "dans l'Antre du"
+	line "Dragon derrière"
+	cont "l'Arène."
 
 	para "Je ne sais pas"
 	line "quand elle sera"
@@ -158,8 +158,8 @@ Text_ClairIsOut:
 	done
 
 Text_ClairIsIn:
-	text "SANDRA, notre"
-	line "CHAMPIONNE, vous"
+	text "Sandra, notre"
+	line "Championne, vous"
 	cont "attend."
 
 	para "Vous aurez du mal"
@@ -168,11 +168,11 @@ Text_ClairIsIn:
 
 Text_ClairIsBeaten:
 	text "Vous avez battu"
-	line "SANDRA?"
+	line "Sandra?"
 
 	para "Incroyable!"
 
-	para "Seul PETER est"
+	para "Seul Peter est"
 	line "capable d'un tel"
 	cont "exploit."
 	done
@@ -186,9 +186,9 @@ BlackthornGrampsRefusesEntryText:
 	done
 
 BlackthornGrampsGrantsEntryText:
-	text "Si SANDRA le"
+	text "Si Sandra le"
 	line "permet, son grand-"
-	cont "père, le MAITRE,"
+	cont "père, le Maître,"
 	cont "le permet aussi."
 
 	para "Entrez."
@@ -213,23 +213,23 @@ BlackthornCooltrainerF1Text:
 	text "Vas-tu faire"
 	line "oublier des"
 	cont "capacités à tes"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 BlackthornYoungsterText:
 	text "Tous les experts"
 	line "en dragons vien-"
-	cont "nent d'EBENELLE."
+	cont "nent d'Ebenelle."
 	done
 
 MeetSantosText:
-	text "SAMUEL: ..."
+	text "Samuel: ..."
 
-	para "On est samedi..."
+	para "On est Samedi..."
 
 	para "Et moi je suis"
 	line "plus sympa le"
-	cont "samedi."
+	cont "Samedi."
 	done
 
 SantosGivesGiftText:
@@ -237,12 +237,12 @@ SantosGivesGiftText:
 	done
 
 SantosGaveGiftText:
-	text "SAMUEL: ..."
+	text "Samuel: ..."
 
-	para "RUNE SORT..."
+	para "Rune Sort..."
 
 	para "Les attaques de"
-	line "type SPECTRE"
+	line "type Spectre"
 	cont "sont plus fortes."
 
 	para "Ca va t'effrayer,"
@@ -250,30 +250,30 @@ SantosGaveGiftText:
 	done
 
 SantosSaturdayText:
-	text "SAMUEL: ..."
+	text "Samuel: ..."
 
 	para "A la prochaine, un"
-	line "autre samedi..."
+	line "autre Samedi..."
 
 	para "Je n'aurai plus"
 	line "de cadeaux..."
 	done
 
 SantosNotSaturdayText:
-	text "SAMUEL: On n'est"
-	line "pas samedi..."
+	text "Samuel: On n'est"
+	line "pas Samedi..."
 	done
 
 BlackthornCooltrainerF2Text:
 	text "Tu as traversé la"
-	line "ROUTE DE GLACE?"
+	line "Route de Glace?"
 
 	para "Tu dois être"
 	line "balèze!"
 	done
 
 BlackthornCitySignText:
-	text "EBENELLE"
+	text "Ebenelle"
 
 	para "Une montagne calme"
 	line "et retirée du"
@@ -281,28 +281,28 @@ BlackthornCitySignText:
 	done
 
 BlackthornGymSignText:
-	text "CHAMPION d'ARENE"
-	line "d'EBENELLE: SANDRA"
+	text "Champion d'Arène"
+	line "d'Ebenelle: Sandra"
 
 	para "La détentrice de"
-	line "#MON dragon"
+	line "#mon dragon"
 	done
 
 MoveDeletersHouseSignText:
-	text "CHEZ L'EFFACEUR DE"
-	line "CAPACITES"
+	text "Chez l'Effaceur de"
+	line "Capacités"
 	done
 
 DragonDensSignText:
-	text "ANTRE DU DRAGON"
-	line "TOUT DROIT"
+	text "Antre du Dragon"
+	line "Tout droit"
 	done
 
 BlackthornCityTrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
-	para "Un #MON tenant"
-	line "une BAIE MIRACLE"
+	para "Un #mon tenant"
+	line "une Baie Miracle"
 
 	para "se soignera tout"
 	line "seul de n'importe"

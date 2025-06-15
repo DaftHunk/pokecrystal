@@ -1,6 +1,6 @@
 TiffanyAskNumber1Text:
 	text "Hé! Toi aussi tu"
-	line "aimes MELOFEE?"
+	line "aimes Mélofée?"
 
 	para "Il est troooooop"
 	line "mignon, non?"
@@ -12,7 +12,7 @@ TiffanyAskNumber1Text:
 	line "de téléphone!"
 
 	para "On parlera de"
-	line "MELOFEE!"
+	line "Mélofée!"
 	done
 
 TiffanyAskNumber2Text:
@@ -20,11 +20,11 @@ TiffanyAskNumber2Text:
 	line "de téléphone!"
 
 	para "On parlera de"
-	line "MELOFEE!"
+	line "Mélofée!"
 	done
 
 TiffanyNumberAcceptedText:
-	text "Mon MELOFEE est"
+	text "Mon Mélofée est"
 	line "siiiiiii mimi!"
 	done
 
@@ -42,7 +42,7 @@ TiffanyPhoneFullText:
 TiffanyRematchText:
 	text "Te voilà!"
 
-	para "MELOFEE, fais de"
+	para "Mélofée, fais de"
 	line "ton mieux!"
 	done
 
@@ -51,11 +51,11 @@ TiffanyGiftText:
 	line "temps. Tu vois ça?"
 
 	para "C'est mignon, non?"
-	line "C'est un RUBAN"
-	cont "ROSE."
+	line "C'est un Ruban"
+	cont "Rose."
 	done
 
 TiffanyPackFullText:
-	text "Oups. Ton SAC est"
+	text "Oups. Ton Sac est"
 	line "super plein."
 	done

@@ -1743,7 +1743,7 @@ HandleWeather:
 
 	call SwitchTurnCore
 	xor a
-	ld [wNumHits], a
+	ld [wBattleAfterAnim], a
 	ld de, ANIM_IN_SANDSTORM
 	call Call_PlayBattleAnim
 	call SwitchTurnCore
@@ -5708,7 +5708,7 @@ MoveInfoBox:
 .Disabled:
 	db "Non Disp.@"
 .Type:
-	db "TYPE/@"
+	db "Type/@"
 
 .PrintPP:
 	hlcoord 5, 11
@@ -8425,17 +8425,17 @@ DisplayLinkBattleResult:
 	ret
 
 .YouWin:
-	db "    GAGNE     @"
+	db "    Gagne     @"
 .YouLose:
-	db "    PERDU     @"
+	db "    Perdu     @"
 .Draw:
-	db "  MATCH NUL   @"
+	db "  Match Nul   @"
 
 .Mobile_InvalidBattle:
 	ret
 
 .InvalidBattle:
-	db "CBT NON CONFORME@"
+	db "Cbt Non Conforme@"
 
 IsMobileBattle2:
 	ld a, [wLinkMode]
@@ -8587,11 +8587,11 @@ ReadAndPrintLinkBattleRecord:
 	db "  ---  <LF>"
 	db "         -    -    -@"
 .Record:
-	db "RECORD de <PLAYER>@"
+	db "Record de <PLAYER>@"
 .Result:
-	db "RES GAGNE PERDU NUL@"
+	db "Res Gagne Perdu Nul@"
 .Total:
-	db "TOT GAGNE PERDU NUL@"
+	db "Tot Gagne Perdu Nul@"
 
 BattleEnd_HandleRoamMons:
 	ld a, [wBattleType]

@@ -1,4 +1,4 @@
-	db "LONG-COU@" ; species name
+	db "Long-Cou@" ; species name
 	db 15 ; height
 	dw 415 ; weight
 

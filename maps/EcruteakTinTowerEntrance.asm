@@ -150,33 +150,33 @@ EcruteakTinTowerEntranceSageBlocksRightMovement:
 	step_end
 
 EcruteakTinTowerEntranceSageText:
-	text "La TOUR FERRAILLE"
+	text "La Tour Ferraille"
 	line "est inaccessible à"
 
 	para "tous ceux qui"
-	line "n'ont pas le BADGE"
+	line "n'ont pas le Badge"
 
-	para "de l'ARENE de"
-	line "ROSALIA."
+	para "de l'Arène de"
+	line "Rosalia."
 	cont "Désolé, mais vous"
 	cont "devez partir."
 	done
 
 EcruteakTinTowerEntranceSageText_GotFogBadge:
-	text "La TOUR FERRAILLE"
+	text "La Tour Ferraille"
 	line "est inaccessible à"
 
 	para "tous ceux qui"
-	line "n'ont pas le BADGE"
+	line "n'ont pas le Badge"
 
-	para "de l'ARENE de"
-	line "ROSALIA."
+	para "de l'Arène de"
+	line "Rosalia."
 
 	para "Ah!"
 
-	para "Le BADGE de"
-	line "l'ARENE de"
-	cont "ROSALIA! Vous"
+	para "Le Badge de"
+	line "l'Arène de"
+	cont "Rosalia! Vous"
 	cont "pouvez passer."
 	done
 
@@ -190,7 +190,7 @@ EcruteakTinTowerEntranceSageText_NoClearBell:
 
 	para "...Poyé polomi..."
 
-	para "Le TRIO des SAGES"
+	para "Le Trio des Sages"
 	line "dit de drôles"
 	cont "de trucs..."
 	done
@@ -207,8 +207,8 @@ EcruteakTinTowerEntranceSageText_HearsClearBell:
 
 	para "Ah!"
 
-	para "Le son du GLAS"
-	line "TRANSPARENT!"
+	para "Le son du Glas"
+	line "Transparent!"
 
 	para "C'est... BEAU!"
 
@@ -216,14 +216,14 @@ EcruteakTinTowerEntranceSageText_HearsClearBell:
 	line "rien entendu"
 	cont "d'aussi joli!"
 
-	para "Le son du glas"
+	para "Le son du Glas"
 	line "reflète l'âme de"
 	cont "son porteur."
 
 	para "Toi..."
 
 	para "Tu peux accéder à"
-	line "la TOUR FERRAILLE."
+	line "la Tour Ferraille."
 
 	para "Va."
 	done
@@ -233,20 +233,20 @@ EcruteakTinTowerEntranceSageText_PleaseDoGoOn:
 	done
 
 EcruteakTinTowerEntranceSageText_HeardClearBell:
-	text "Le son du glas"
+	text "Le son du Glas"
 	line "reflète l'âme de"
 	cont "son porteur."
 
 	para "Toi..."
 
 	para "Tu peux accéder à"
-	line "la TOUR FERRAILLE."
+	line "la Tour Ferraille."
 
 	para "Va."
 	done
 
 EcruteakTinTowerEntranceWanderingSageText:
-	text "La TOUR FERRAILLE"
+	text "La Tour Ferraille"
 	line "est d'une pure"
 	cont "beauté."
 
@@ -256,22 +256,22 @@ EcruteakTinTowerEntranceWanderingSageText:
 	done
 
 EcruteakTinTowerEntranceWanderingSageText_GotClearBell:
-	text "La TOUR FERRAILLE"
+	text "La Tour Ferraille"
 	line "tremble! Un #-"
 
-	para "MON doit s'être"
+	para "mon doit s'être"
 	line "posé au sommet!"
 	done
 
 EcruteakTinTowerEntranceGrampsText:
 	text "Deux tours..."
-	line "Deux #MON..."
+	line "Deux #mon..."
 
 	para "Mais lorsqu'une"
 	line "d'entre elles a"
 
 	para "brûlé, les deux"
-	line "#MON se sont"
+	line "#mon se sont"
 	cont "envolés et ne sont"
 	cont "jamais revenus."
 	done

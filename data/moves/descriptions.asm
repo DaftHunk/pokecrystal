@@ -272,8 +272,8 @@ PoundDescription:
 	next "ou queue.@"
 
 KarateChopDescription:
-	db   "Haut taux de coup"
-	next "critique.@"
+	db   "Haut taux de Coup"
+	next "Critique.@"
 
 DoubleslapDescription:
 	db   "Gifle de 2 à"
@@ -293,15 +293,15 @@ PayDayDescription:
 
 FirePunchDescription:
 	db   "Poing de feu pou-"
-	next "vant brûler.@"
+	next "vant Brûler.@"
 
 IcePunchDescription:
 	db   "Poing de glace"
-	next "pouvant geler.@"
+	next "pouvant Geler.@"
 
 ThunderpunchDescription:
 	db   "Poing électrique."
-	next "Peut paralyser.@"
+	next "Peut Paralyser.@"
 
 ScratchDescription:
 	db   "Lacère avec des"
@@ -321,7 +321,7 @@ RazorWindDescription:
 
 SwordsDanceDescription:
 	db   "Une danse augmen-"
-	next "tant l'ATTAQUE.@"
+	next "tant l'Attaque.@"
 
 CutDescription:
 	db   "Coupe avec griffe,"
@@ -357,7 +357,7 @@ VineWhipDescription:
 
 StompDescription:
 	db   "Attaque pouvant"
-	next "apeurer la cible.@"
+	next "Apeurer la cible.@"
 
 DoubleKickDescription:
 	db   "Double attaque de"
@@ -377,11 +377,11 @@ RollingKickDescription:
 
 SandAttackDescription:
 	db   "Lance du sable et"
-	next "baisse précision.@"
+	next "baisse Précision.@"
 
 HeadbuttDescription:
 	db   "Attaque pouvant"
-	next "apeurer la cible.@"
+	next "Apeurer la cible.@"
 
 HornAttackDescription:
 	db   "Attaque utilisant"
@@ -401,7 +401,7 @@ TackleDescription:
 
 BodySlamDescription:
 	db   "Attaque pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 WrapDescription:
 	db   "Serre la cible de"
@@ -413,19 +413,19 @@ TakeDownDescription:
 
 ThrashDescription:
 	db   "Dure 2 à 3 tours."
-	next "Lanceur confus.@"
+	next "Lanceur Confus.@"
 
 DoubleEdgeDescription:
 	db   "Charge blessant"
 	next "les 2 adversaires.@"
 
 TailWhipDescription:
-	db   "Baisse la DEFENSE"
+	db   "Baisse la Défense"
 	next "de la cible.@"
 
 PoisonStingDescription:
 	db   "Attaque pouvant"
-	next "empoisonner.@"
+	next "Empoisonner.@"
 
 TwineedleDescription:
 	db   "Pique la cible 2"
@@ -436,15 +436,15 @@ PinMissileDescription:
 	next "2 à 5 fois.@"
 
 LeerDescription:
-	db   "Baisse la DEFENSE"
+	db   "Baisse la Défense"
 	next "de la cible.@"
 
 BiteDescription:
 	db   "Attaque pouvant"
-	next "apeurer la cible.@"
+	next "Apeurer la cible.@"
 
 GrowlDescription:
-	db   "Baisse l'ATTAQUE"
+	db   "Baisse l'Attaque"
 	next "de la cible.@"
 
 RoarDescription:
@@ -452,12 +452,12 @@ RoarDescription:
 	next "ennemis sauvages.@"
 
 SingDescription:
-	db   "Peut endormir la"
+	db   "Peut Endormir la"
 	next "cible.@"
 
 SupersonicDescription:
 	db   "Ondes sonores ren-"
-	next "dant confus.@"
+	next "dant Confus.@"
 
 SonicboomDescription:
 	db   "Inflige toujours"
@@ -469,15 +469,15 @@ DisableDescription:
 
 AcidDescription:
 	db   "Peut baisser"
-	next "la DEFENSE.@"
+	next "la Défense.@"
 
 EmberDescription:
 	db   "Peut infliger"
-	next "une brûlure.@"
+	next "une Brûlure.@"
 
 FlamethrowerDescription:
 	db   "Peut infliger"
-	next "une brûlure.@"
+	next "une Brûlure.@"
 
 MistDescription:
 	db   "Contre réduction"
@@ -485,35 +485,35 @@ MistDescription:
 
 WaterGunDescription:
 	db   "Attaque en lançant"
-	next "de l'eau.@"
+	next "de l'Eau.@"
 
 HydroPumpDescription:
-	db   "Attaque d'EAU"
+	db   "Attaque d'Eau"
 	next "puissante.@"
 
 SurfDescription:
 	db   "Une forte attaque"
-	next "d'EAU.@"
+	next "d'Eau.@"
 
 IceBeamDescription:
 	db   "Attaque pouvant"
-	next "geler la cible.@"
+	next "Geler la cible.@"
 
 BlizzardDescription:
 	db   "Attaque pouvant"
-	next "geler la cible.@"
+	next "Geler la cible.@"
 
 PsybeamDescription:
 	db   "Attaque pouvant"
-	next "rendre confus.@"
+	next "rendre Confus.@"
 
 BubblebeamDescription:
 	db   "Attaque pouvant"
-	next "baisser VITESSE.@"
+	next "baisser Vitesse.@"
 
 AuroraBeamDescription:
 	db   "Attaque pouvant"
-	next "baisser ATTAQUE.@"
+	next "baisser Attaque.@"
 
 HyperBeamDescription:
 	db   "Tour 1: Attaque"
@@ -533,7 +533,7 @@ SubmissionDescription:
 
 LowKickDescription:
 	db   "Attaque pouvant"
-	next "apeurer la cible.@"
+	next "Apeurer la cible.@"
 
 CounterDescription:
 	db   "Répond à une atta-"
@@ -560,12 +560,12 @@ LeechSeedDescription:
 	next "cible chaque tour.@"
 
 GrowthDescription:
-	db   "Monte l'ATTAQUE"
-	next "SPECIALE.@"
+	db   "Monte l'Attaque"
+	next "Spéciale.@"
 
 RazorLeafDescription:
-	db   "Haut taux de coup"
-	next "critique.@"
+	db   "Haut taux de Coup"
+	next "Critique.@"
 
 SolarbeamDescription:
 	db   "Tour 1: Prépare"
@@ -573,23 +573,23 @@ SolarbeamDescription:
 
 PoisonpowderDescription:
 	db   "Capacité pouvant"
-	next "empoisonner.@"
+	next "Empoisonner.@"
 
 StunSporeDescription:
 	db   "Capacité pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 SleepPowderDescription:
 	db   "Capacité pouvant"
-	next "endormir.@"
+	next "Endormir.@"
 
 PetalDanceDescription:
 	db   "Dure 2 à 3 tours."
-	next "Lanceur confus.@"
+	next "Lanceur Confus.@"
 
 StringShotDescription:
 	db   "Capacité baissant"
-	next "la VITESSE.@"
+	next "la Vitesse.@"
 
 DragonRageDescription:
 	db   "Inflige toujours"
@@ -601,19 +601,19 @@ FireSpinDescription:
 
 ThundershockDescription:
 	db   "Attaque pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 ThunderboltDescription:
 	db   "Attaque pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 ThunderWaveDescription:
 	db   "Capacité pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 ThunderDescription:
 	db   "Attaque pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 RockThrowDescription:
 	db   "Lâche des rochers"
@@ -621,10 +621,10 @@ RockThrowDescription:
 
 EarthquakeDescription:
 	db   "Puissant mais inu-"
-	next "tile sur volants.@"
+	next "tile sur Volants.@"
 
 FissureDescription:
-	db   "Type SOL."
+	db   "Type Sol."
 	next "KO en un coup.@"
 
 DigDescription:
@@ -637,22 +637,22 @@ ToxicDescription:
 
 ConfusionDescription:
 	db   "Attaque pouvant"
-	next "rendre confus.@"
+	next "rendre Confus.@"
 
 PsychicMDescription:
 	db   "Attaque pouvant"
-	next "baisser DEF.SPE.@"
+	next "baisser Déf.Spé.@"
 
 HypnosisDescription:
 	db   "Peut endormir la"
 	next "cible.@"
 
 MeditateDescription:
-	db   "Monte l'ATTAQUE"
+	db   "Monte l'Attaque"
 	next "du lanceur.@"
 
 AgilityDescription:
-	db   "Monte VIT. du lan-"
+	db   "Monte Vit. du lan-"
 	next "ceur énormément.@"
 
 QuickAttackDescription:
@@ -660,7 +660,7 @@ QuickAttackDescription:
 	next "au lanceur.@"
 
 RageDescription:
-	db   "Monte l'ATTAQUE si"
+	db   "Monte l'Attaque si"
 	next "lanceur touché.@"
 
 TeleportDescription:
@@ -676,22 +676,22 @@ MimicDescription:
 	next "té de l'ennemi.@"
 
 ScreechDescription:
-	db   "Baisse DEFENSE de"
+	db   "Baisse Défense de"
 	next "cible énormément.@"
 
 DoubleTeamDescription:
-	db   "Monte l'esquive.@"
+	db   "Monte l'Esquive.@"
 
 RecoverDescription:
 	db   "Restaure 1/2 PV"
 	next "du max.@"
 
 HardenDescription:
-	db   "Monte la DEFENSE"
+	db   "Monte la Défense"
 	next "du lanceur.@"
 
 MinimizeDescription:
-	db   "Monte l'esquive.@"
+	db   "Monte l'Esquive.@"
 
 SmokescreenDescription:
 	db   "Baisse la préci-"
@@ -699,14 +699,14 @@ SmokescreenDescription:
 
 ConfuseRayDescription:
 	db   "Une capacité ren-"
-	next "dant confus.@"
+	next "dant Confus.@"
 
 WithdrawDescription:
-	db   "Monte la DEFENSE"
+	db   "Monte la Défense"
 	next "du lanceur.@"
 
 DefenseCurlDescription:
-	db   "Monte la DEFENSE"
+	db   "Monte la Défense"
 	next "du lanceur.@"
 
 BarrierDescription:
@@ -715,7 +715,7 @@ BarrierDescription:
 
 LightScreenDescription:
 	db   "Mur de lumière"
-	next "montant DEF.SPE.@"
+	next "montant Déf.Spé.@"
 
 HazeDescription:
 	db   "Annule changement"
@@ -723,11 +723,11 @@ HazeDescription:
 
 ReflectDescription:
 	db   "Bouclier montant"
-	next "la DEFENSE.@"
+	next "la Défense.@"
 
 FocusEnergyDescription:
 	db   "Monte les chances"
-	next "de coup critique.@"
+	next "de coup Critique.@"
 
 BideDescription:
 	db   "Attend 2 à 3 tours"
@@ -735,7 +735,7 @@ BideDescription:
 
 MetronomeDescription:
 	db   "Lance une capacité"
-	next "#MON au hasard.@"
+	next "#mon au hasard.@"
 
 MirrorMoveDescription:
 	db   "Contre avec la mê-"
@@ -751,23 +751,23 @@ EggBombDescription:
 
 LickDescription:
 	db   "Attaque pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 SmogDescription:
 	db   "Attaque pouvant"
-	next "empoisonner.@"
+	next "Empoisonner.@"
 
 SludgeDescription:
 	db   "Attaque pouvant"
-	next "empoisonner.@"
+	next "Empoisonner.@"
 
 BoneClubDescription:
 	db   "Attaque pouvant"
-	next "apeurer la cible.@"
+	next "Apeurer la cible.@"
 
 FireBlastDescription:
 	db   "Attaque pouvant"
-	next "brûler.@"
+	next "Brûler.@"
 
 WaterfallDescription:
 	db   "Une charge aquati-"
@@ -791,14 +791,14 @@ SpikeCannonDescription:
 
 ConstrictDescription:
 	db   "Attaque pouvant"
-	next "baisser VITESSE.@"
+	next "baisser Vitesse.@"
 
 AmnesiaDescription:
-	db   "Monte DEF.SPE."
+	db   "Monte Déf.Spé."
 	next "énormément.@"
 
 KinesisDescription:
-	db   "Baisse la préci-"
+	db   "Baisse la Préci-"
 	next "sion de la cible.@"
 
 SoftboiledDescription:
@@ -811,15 +811,15 @@ HiJumpKickDescription:
 
 GlareDescription:
 	db   "Capacité pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 DreamEaterDescription:
 	db   "Vole les PV d'une"
-	next "victime endormie.@"
+	next "victime Endormie.@"
 
 PoisonGasDescription:
 	db   "Capacité pouvant"
-	next "empoisonner.@"
+	next "Empoisonner.@"
 
 BarrageDescription:
 	db   "Lance des orbes"
@@ -830,7 +830,7 @@ LeechLifeDescription:
 	next "gâts infligés.@"
 
 LovelyKissDescription:
-	db   "Peut endormir"
+	db   "Peut Endormir"
 	next "la cible.@"
 
 SkyAttackDescription:
@@ -843,19 +843,19 @@ TransformDescription:
 
 BubbleDescription:
 	db   "Attaque pouvant"
-	next "baisser VITESSE.@"
+	next "baisser Vitesse.@"
 
 DizzyPunchDescription:
 	db   "Attaque pouvant"
-	next "rendre confus.@"
+	next "rendre Confus.@"
 
 SporeDescription:
 	db   "Une capacité pour"
-	next "endormir.@"
+	next "Endormir.@"
 
 FlashDescription:
 	db   "Enserre cible et"
-	next "baisse précision.@"
+	next "baisse Précision.@"
 
 PsywaveDescription:
 	db   "Attaque de puis-"
@@ -866,12 +866,12 @@ SplashDescription:
 	next "Rien. Zéro.@"
 
 AcidArmorDescription:
-	db   "Monte DEF. du lan-"
+	db   "Monte Déf. du lan-"
 	next "ceur énormément.@"
 
 CrabhammerDescription:
-	db   "Haut taux de coup"
-	next "critique.@"
+	db   "Haut taux de Coup"
+	next "Critique.@"
 
 ExplosionDescription:
 	db   "Puissant mais met"
@@ -891,15 +891,15 @@ RestDescription:
 
 RockSlideDescription:
 	db   "Attaque pouvant"
-	next "apeurer la cible.@"
+	next "Apeurer la cible.@"
 
 HyperFangDescription:
 	db   "Attaque pouvant"
-	next "apeurer la cible.@"
+	next "Apeurer la cible.@"
 
 SharpenDescription:
 	db   "Capacité montant"
-	next "l'ATT. du lanceur.@"
+	next "l'Atq. du lanceur.@"
 
 ConversionDescription:
 	db   "Change le type en"
@@ -914,8 +914,8 @@ SuperFangDescription:
 	next "PV de la cible.@"
 
 SlashDescription:
-	db   "Haut taux de coup"
-	next "critique.@"
+	db   "Haut taux de Coup"
+	next "Critique.@"
 
 SubstituteDescription:
 	db   "Crée un leurre:"
@@ -951,15 +951,15 @@ NightmareDescription:
 
 FlameWheelDescription:
 	db   "Attaque pouvant"
-	next "brûler.@"
+	next "Brûler.@"
 
 SnoreDescription:
 	db   "A utiliser pendant"
-	next "le sommeil.@"
+	next "le Sommeil.@"
 
 CurseDescription:
 	db   "Diffère selon les"
-	next "types de spectres.@"
+	next "types de Spectres.@"
 
 FlailDescription:
 	db   "Puissant si PV du"
@@ -971,10 +971,10 @@ Conversion2Description:
 
 AeroblastDescription:
 	db   "Haut taux de coup"
-	next "critique.@"
+	next "Critique.@"
 
 CottonSporeDescription:
-	db   "Baisse VITESSE de"
+	db   "Baisse Vitesse de"
 	next "cible énormément.@"
 
 ReversalDescription:
@@ -987,7 +987,7 @@ SpiteDescription:
 
 PowderSnowDescription:
 	db   "Attaque pouvant"
-	next "geler.@"
+	next "Geler.@"
 
 ProtectDescription:
 	db   "Peut déjouer l'at-"
@@ -998,7 +998,7 @@ MachPunchDescription:
 	next "a l'initiative.@"
 
 ScaryFaceDescription:
-	db   "Baisse VITESSE de"
+	db   "Baisse Vitesse de"
 	next "cible énormément.@"
 
 FaintAttackDescription:
@@ -1007,15 +1007,15 @@ FaintAttackDescription:
 
 SweetKissDescription:
 	db   "Capacité rendant"
-	next "confus.@"
+	next "Confus.@"
 
 BellyDrumDescription:
 	db   "Baisse les PV pour"
-	next "maximiser ATTAQUE.@"
+	next "maximiser Attaque.@"
 
 SludgeBombDescription:
 	db   "Attaque pouvant"
-	next "empoisonner.@"
+	next "Empoisonner.@"
 
 MudSlapDescription:
 	db   "Baisse la préci-"
@@ -1023,14 +1023,14 @@ MudSlapDescription:
 
 OctazookaDescription:
 	db   "Attaque pouvant"
-	next "baisser précision.@"
+	next "baisser Précision.@"
 
 SpikesDescription:
 	db   "Frappe les cibles"
 	next "pdt changement.@"
 
 ZapCannonDescription:
-	db   "Attaque paralysant"
+	db   "Attaque Paralysant"
 	next "à coup sûr.@"
 
 ForesightDescription:
@@ -1047,7 +1047,7 @@ PerishSongDescription:
 
 IcyWindDescription:
 	db   "Attaque de glace."
-	next "Baisse la VITESSE.@"
+	next "Baisse la Vitesse.@"
 
 DetectDescription:
 	db   "Peut éviter l'at-"
@@ -1063,7 +1063,7 @@ LockOnDescription:
 
 OutrageDescription:
 	db   "Pdt 2 à 3 tours"
-	next "et rend confus.@"
+	next "et rend Confus.@"
 
 SandstormDescription:
 	db   "Inflige des dégâts"
@@ -1078,7 +1078,7 @@ EndureDescription:
 	next "moins 1 PV.@"
 
 CharmDescription:
-	db   "Baisse ATTAQUE de"
+	db   "Baisse Attaque de"
 	next "cible énormément.@"
 
 RolloutDescription:
@@ -1090,8 +1090,8 @@ FalseSwipeDescription:
 	next "au moins 1 PV.@"
 
 SwaggerDescription:
-	db   "Rend confus et"
-	next "monte l'ATTAQUE.@"
+	db   "Rend Confus et"
+	next "monte l'Attaque.@"
 
 MilkDrinkDescription:
 	db   "Restaure 1/2 PV"
@@ -1099,7 +1099,7 @@ MilkDrinkDescription:
 
 SparkDescription:
 	db   "Attaque pouvant"
-	next "paralyser.@"
+	next "Paralyser.@"
 
 FuryCutterDescription:
 	db   "Coups réussis mon-"
@@ -1147,7 +1147,7 @@ PainSplitDescription:
 
 SacredFireDescription:
 	db   "Attaque pouvant"
-	next "brûler.@"
+	next "Brûler.@"
 
 MagnitudeDescription:
 	db   "Attaque au sol."
@@ -1155,7 +1155,7 @@ MagnitudeDescription:
 
 DynamicpunchDescription:
 	db   "Attaque rendant"
-	next "tjrs confus.@"
+	next "tjrs Confus.@"
 
 MegahornDescription:
 	db   "Une charge"
@@ -1175,23 +1175,23 @@ EncoreDescription:
 
 PursuitDescription:
 	db   "Frappe fort le"
-	next "#MON changé.@"
+	next "#mon changé.@"
 
 RapidSpinDescription:
 	db   "Attaque tournoyan-"
 	next "te très rapide.@"
 
 SweetScentDescription:
-	db   "Baisse l'esquive"
+	db   "Baisse l'Esquive"
 	next "de la cible.@"
 
 IronTailDescription:
 	db   "Attaque pouvant"
-	next "baisser DEFENSE.@"
+	next "baisser Défense.@"
 
 MetalClawDescription:
-	db   "Peut monter l'AT-"
-	next "TAQUE du lanceur.@"
+	db   "Peut monter l'At-"
+	next "taque du lanceur.@"
 
 VitalThrowDescription:
 	db   "Frappe en 2ème"
@@ -1211,11 +1211,11 @@ MoonlightDescription:
 
 HiddenPowerDescription:
 	db   "Puissance varie"
-	next "suivant le PKMN.@"
+	next "suivant le <PKMN>.@"
 
 CrossChopDescription:
-	db   "Haut taux de coup"
-	next "critique.@"
+	db   "Haut taux de Coup"
+	next "Critique.@"
 
 TwisterDescription:
 	db   "Lance une tornade"
@@ -1223,18 +1223,18 @@ TwisterDescription:
 
 RainDanceDescription:
 	db   "Renforce les att."
-	next "d'EAU pdt 5 tours.@"
+	next "d'Eau pdt 5 tours.@"
 
 SunnyDayDescription:
 	db   "Renforce les att."
-	next "FEU pdt 5 tours.@"
+	next "Feu pdt 5 tours.@"
 
 CrunchDescription:
 	db   "Attaque pouvant"
-	next "baisser DEF.SPE.@"
+	next "baisser Déf.Spé.@"
 
 MirrorCoatDescription:
-	db   "Contre ATQ.SPE."
+	db   "Contre Atq.Spé."
 	next "en frappe double.@"
 
 PsychUpDescription:
@@ -1251,7 +1251,7 @@ AncientpowerDescription:
 
 ShadowBallDescription:
 	db   "Attaque pouvant"
-	next "baisser DEF.SPE.@"
+	next "baisser Déf.Spé.@"
 
 FutureSightDescription:
 	db   "Attaque frappant"
@@ -1259,12 +1259,12 @@ FutureSightDescription:
 
 RockSmashDescription:
 	db   "Attaque pouvant"
-	next "baisser DEFENSE.@"
+	next "baisser Défense.@"
 
 WhirlpoolDescription:
 	db   "Piège la cible pdt"
 	next "2 à 5 tours.@"
 
 BeatUpDescription:
-	db   "Les PKMN d'équipe"
+	db   "Les <PKMN> d'équipe"
 	next "frappent ensemble.@"

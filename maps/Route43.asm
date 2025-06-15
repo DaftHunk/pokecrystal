@@ -324,13 +324,13 @@ Route43MaxEther:
 
 PokemaniacBenSeenText:
 	text "J'adoooore les"
-	line "#MON!"
+	line "#mon!"
 
 	para "C'est pour ça que"
 	line "je les collection-"
 
 	para "ne tous! Vive les"
-	line "jolis #MON!"
+	line "jolis #mon!"
 	done
 
 PokemaniacBenBeatenText:
@@ -339,27 +339,27 @@ PokemaniacBenBeatenText:
 
 PokemaniacBenAfterBattleText:
 	text "Ce que j'aime à"
-	line "part les #MON?"
+	line "part les #mon?"
 
-	para "LULA à la radio."
+	para "Lula à la radio."
 	line "Elle doit être"
 	cont "mignonne!"
 	done
 
 PokemaniacBrentSeenText:
 	text "Hé! Tu as des"
-	line "#MON rares?"
+	line "#mon rares?"
 	done
 
 PokemaniacBrentBeatenText:
 	text "Oh! Mes jolis"
-	line "#MON!"
+	line "#mon!"
 	done
 
 PokemaniacBrentAfterBattleText:
 	text "J'aimerais tant"
 	line "avoir de jolis"
-	cont "#MON rares."
+	cont "#mon rares."
 	done
 
 PokemaniacRonSeenText:
@@ -368,24 +368,24 @@ PokemaniacRonSeenText:
 	para "Un sale type,"
 	line "<RIVAL>, s'est"
 	cont "moqué de mes"
-	cont "#MON!"
+	cont "#mon!"
 
 	para "C'est du n'importe"
-	line "quoi! Mes #MON"
+	line "quoi! Mes #mon"
 	cont "sont trop cool!"
 	done
 
 PokemaniacRonBeatenText:
-	text "Mon NIDOKING est"
+	text "Mon Nidoking est"
 	line "le plus fort!"
 	done
 
 PokemaniacRonAfterBattleText:
 	text "Les gens aiment"
-	line "les #MON"
+	line "les #mon"
 	cont "différents."
 
-	para "Avoir le #MON"
+	para "Avoir le #mon"
 	line "le plus puissant"
 	cont "n'est pas le but."
 	done
@@ -406,20 +406,20 @@ FisherMarvinBeatenText:
 	done
 
 FisherMarvinAfterBattleText:
-	text "L'APPAT BALL de"
-	line "FARGAS est la"
+	text "L'Appât Ball de"
+	line "Fargas est la"
 
 	para "meilleure pour"
 	line "attraper les #-"
-	cont "MON ferrés."
+	cont "mon ferrés."
 
 	para "C'est plus effica-"
-	line "ce qu'une HYPER"
-	cont "BALL."
+	line "ce qu'une Hyper"
+	cont "Ball."
 	done
 
 CamperSpencerSeenText:
-	text "Mes #MON et"
+	text "Mes #mon et"
 	line "moi, on est des"
 	cont "super potes!"
 	done
@@ -431,7 +431,7 @@ CamperSpencerBeatenText:
 
 CamperSpencerAfterBattleText:
 	text "Que se passe-t-il"
-	line "au LAC COLERE?"
+	line "au Lac Colère?"
 
 	para "On voulait y"
 	line "camper."
@@ -439,7 +439,7 @@ CamperSpencerAfterBattleText:
 
 PicnickerTiffanySeenText:
 	text "Tu vas aussi au"
-	line "LAC COLERE?"
+	line "Lac Colère?"
 
 	para "On va jouer,"
 	line "d'abord!"
@@ -451,36 +451,36 @@ PicnickerTiffanyBeatenText:
 
 PicnickerTiffanyWantsPicnicText:
 	text "Je pique-nique"
-	line "avec mes #MON."
+	line "avec mes #mon."
 
 	para "Tu veux venir?"
 	done
 
 PicnickerTiffanyClefairyText:
-	text "Mon MELOFEE ne"
+	text "Mon Mélofée ne"
 	line "serait pas le plus"
 	cont "mimi du monde, par"
 	cont "hasard?"
 	done
 
 Route43Sign1Text:
-	text "ROUTE 43"
+	text "Route 43"
 
-	para "LAC COLERE -"
-	line "ACAJOU"
+	para "Lac Colère -"
+	line "Acajou"
 	done
 
 Route43Sign2Text:
-	text "ROUTE 43"
+	text "Route 43"
 
-	para "LAC COLERE -"
-	line "ACAJOU"
+	para "Lac Colère -"
+	line "Acajou"
 	done
 
 Route43TrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
-	para "Tous les #MON"
+	para "Tous les #mon"
 	line "ont des atouts et"
 
 	para "des défauts en"
@@ -488,7 +488,7 @@ Route43TrainerTipsText:
 	cont "types."
 
 	para "Suivant les types,"
-	line "un #MON de haut"
+	line "un #mon de haut"
 
 	para "niveau peut perdre"
 	line "un combat."
@@ -497,7 +497,7 @@ Route43TrainerTipsText:
 	line "types ont l'avan-"
 
 	para "tage sur certains"
-	line "#MON."
+	line "#mon."
 	done
 
 Route43_MapEvents:

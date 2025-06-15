@@ -155,9 +155,9 @@ SchoolboyTommyAfterBattleText:
 
 SchoolboyJohnnySeenText:
 	text "On va étudier à la"
-	line "TOUR RADIO de"
+	line "Tour Radio de"
 
-	para "LAVANVILLE..."
+	para "Lavanville..."
 	line "Génial, non?"
 	done
 
@@ -190,10 +190,10 @@ SchoolboyBillyAfterBattleText:
 	done
 
 Route15SignText:
-	text "ROUTE 15"
+	text "Route 15"
 
-	para "PARMANIE -"
-	line "LAVANVILLE"
+	para "Parmanie -"
+	line "Lavanville"
 	done
 
 Route15_MapEvents:

@@ -1,4 +1,4 @@
-	db "CARAPACE@" ; species name
+	db "Carapace@" ; species name
 	db 13 ; height
 	dw 405 ; weight
 

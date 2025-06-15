@@ -119,21 +119,21 @@ PokemonFanClubBraggingSign:
 	jumptext PokemonFanClubBraggingSignText
 
 PokemonFanClubChairmanDidYouVisitToHearAboutMyMonText:
-	text "Je suis le PRESI-"
-	line "DENT du FAN CLUB"
-	cont "#MON."
+	text "Je suis le Prési-"
+	line "dent du Fan Club"
+	cont "#mon."
 
 	para "J'ai élevé plus de"
-	line "150 #MON."
+	line "150 #mon."
 
 	para "Je suis très dif-"
 	line "ficile quand il"
 	cont "s'agit de"
-	cont "#MON."
+	cont "#mon."
 
 	para "Tu es ici pour"
 	line "en apprendre plus"
-	cont "sur mes #MON?"
+	cont "sur mes #mon?"
 	done
 
 PokemonFanClubChairmanRapidashText:
@@ -141,7 +141,7 @@ PokemonFanClubChairmanRapidashText:
 	line "Alors, écoute!"
 
 	para "Mon préféré..."
-	line "GALOPA..."
+	line "Galopa..."
 
 	para "Il est mignon..."
 	line "beau...rapide..."
@@ -170,9 +170,9 @@ PokemonFanClubChairmanIWantYouToHaveThisText:
 	done
 
 PokemonFanClubChairmanItsARareCandyText:
-	text "C'est un SUPER"
-	line "BONBON qui rend"
-	cont "les #MON plus"
+	text "C'est un Super"
+	line "Bonbon qui rend"
+	cont "les #mon plus"
 	cont "forts."
 
 	para "Moi je préfère les"
@@ -187,7 +187,7 @@ PokemonFanClubChairmanMoreTalesToTellText:
 
 	para "Tu es ici pour en"
 	line "apprendre encore"
-	cont "sur mes #MON?"
+	cont "sur mes #mon?"
 
 	para "Non? Oh..."
 	line "J'avais de belles"
@@ -202,87 +202,87 @@ PokemonFanClubChairmanHowDisappointingText:
 	done
 
 PokemonFanClubReceptionistText:
-	text "Notre PRESIDENT"
+	text "Notre Président"
 	line "parle un peu trop"
-	cont "de ses #MON..."
+	cont "de ses #mon..."
 	done
 
 PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	text "J'aime quand"
-	line "MELOFEE gigote son"
+	line "Mélofée gigote son"
 
 	para "doigt quand il"
 	line "utilise son"
 
-	para "METRONOME."
+	para "Métronome."
 	line "C'est adorable!"
 	done
 
 PokemonFanClubClefairyGuyMakingDoWithADollIFoundText:
-	text "J'aime MELOFEE,"
+	text "J'aime Mélofée,"
 	line "mais je ne pourrai"
 
 	para "jamais en attraper"
 	line "un... Alors je"
 
 	para "m'amuse avec cette"
-	line "# POUPEE."
+	line "# Poupée."
 	done
 
 PokemonFanClubClefairyGuyTakeThisDollBackToGirlText:
 	text "Oh, je vois. La"
 	line "fille qui a perdu"
 
-	para "sa # POUPEE"
+	para "sa # Poupée"
 	line "est triste..."
 
 	para "OK. Peux-tu porter"
-	line "cette # POUPEE"
+	line "cette # Poupée"
 
 	para "à la pauvre petite"
 	line "fille triste?"
 
 	para "Je trouverai un"
-	line "vrai MELOFEE..."
+	line "vrai Mélofée..."
 	done
 
 PokemonFanClubPlayerReceivedDollText:
 	text "<PLAYER> reçoit"
-	line "la # POUPEE."
+	line "la # Poupée."
 	done
 
 PokemonFanClubClefairyGuyGoingToGetARealClefairyText:
 	text "J'attraperai un"
-	line "MELOFEE et il sera"
+	line "Mélofée et il sera"
 
 	para "mon ami pour la"
 	line "vie."
 	done
 
 PokemonFanClubClefairyGuyPackIsJammedFullText:
-	text "Ton SAC est plein."
+	text "Ton Sac est plein."
 	done
 
 PokemonFanClubTeacherText:
 	text "Regarde donc mon"
-	line "MACRONIUM!"
+	line "Macronium!"
 
 	para "La feuille sur sa"
 	line "tête est mignonne!"
 	done
 
 PokemonFanClubClefairyDollText:
-	text "C'est un MELOFEE!"
+	text "C'est un Mélofée!"
 	line "Hein?"
 
 	para "Ah, d'accord."
 	line "C'est une #"
-	cont "POUPEE d'un"
-	cont "MELOFEE."
+	cont "Poupée d'un"
+	cont "Mélofée."
 	done
 
 PokemonFanClubBayleefText:
-	text "MACRONIUM: Niuuu!"
+	text "Macronium: Niuuu!"
 	done
 
 PokemonFanClubListenSignText:

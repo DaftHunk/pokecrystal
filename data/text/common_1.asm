@@ -18,7 +18,7 @@ _ObtainedFruitText::
 	done
 
 _FruitPackIsFullText::
-	text "Mais le SAC"
+	text "Mais le Sac"
 	line "est plein..."
 	done
 
@@ -28,7 +28,7 @@ _NothingHereText::
 	done
 
 _WhichApricornText::
-	text "Quel NOIGRUME"
+	text "Quel Noigrume"
 	line "dois-je utiliser?"
 	done
 
@@ -48,31 +48,31 @@ _RecoveredSomeHPText::
 _CuredOfPoisonText::
 	text_ram wStringBuffer1
 	text " n'est"
-	line "plus empoisonné."
+	line "plus Empoisonné."
 	done
 
 _RidOfParalysisText::
 	text_ram wStringBuffer1
 	text " n'est"
-	line "plus paralysé."
+	line "plus Paralysé."
 	done
 
 _BurnWasHealedText::
 	text_ram wStringBuffer1
 	text_start
-	line "ne brûle plus."
+	line "ne Brûle plus."
 	done
 
 _WasDefrostedText::
 	text_ram wStringBuffer1
 	text_start
-	line "n'est plus gelé."
+	line "n'est plus Gelé."
 	done
 
 _WokeUpText::
 	text_ram wStringBuffer1
 	text_start
-	line "se réveille."
+	line "se Réveille."
 	done
 
 _HealthReturnedText::
@@ -118,16 +118,17 @@ _ConfirmPasscodeText::
 _PasscodesNotSameText::
 	text "Ce n'est pas le"
 	line "même numéro."
+	para ""
 	done
 
 _PasscodeSetText::
-	text "CODE SECRET"
+	text "Code Secret"
 	line "défini."
 
 	para "Entrez ce No. la"
 	line "prochaine fois"
 	cont "pour ouvrir le"
-	cont "FICHIER CARTE."
+	cont "Fichier Carte."
 
 	para ""
 	done
@@ -137,17 +138,17 @@ _FourZerosInvalidText::
 	prompt
 
 _EnterPasscodeText::
-	text "Entrez le CODE du"
-	next "FICHIER CARTE."
+	text "Entrez le Code du"
+	next "Fichier Carte."
 	done
 
 _IncorrectPasscodeText::
-	text "CODE SECRET"
+	text "Code Secret"
 	line "incorrect!"
 	prompt
 
 _CardFolderOpenText::
-	text "FICHIER CARTE"
+	text "Fichier Carte"
 	line "ouvert.@"
 	text_end
 
@@ -221,23 +222,28 @@ _ThereIsNothingConnectedText:: ; unreferenced
 	done
 
 _CheckCellPhoneAdapterText:: ; unreferenced
-	text_start
+	text "Adaptateur mobile"
+	line "connecté."
 	done
 
 _CheckCDMAAdapterText:: ; unreferenced
-	text_start
+	text "Adaptateur modèle"
+	line "CDMA."
 	done
 
 _CheckDOCOMOPHSAdapterText:: ; unreferenced
-	text_start
+	text "Adaptateur modèle"
+	line "DOCOMO PHS."
 	done
 
 _CheckDDIPHSAdapterText:: ; unreferenced
-	text_start
+	text "Adaptateur modèle"
+	line "DDI PHS."
 	done
 
 _CheckMobileAdapterText:: ; unreferenced
-	text_start
+	text "Adaptateur mobile"
+	line "illimité."
 	done
 
 ; Mobile Adapter End
@@ -313,22 +319,22 @@ _AlreadySetUpText::
 	prompt
 
 _LookTownMapText::
-	text "C'est la CARTE."
+	text "C'est la Carte."
 	done
 
 _LookPikachuPosterText::
 	text "C'est un poster du"
-	line "mignon PIKACHU."
+	line "mignon Pikachu."
 	done
 
 _LookClefairyPosterText::
 	text "C'est un poster du"
-	line "mignon MELOFEE."
+	line "mignon Mélofée."
 	done
 
 _LookJigglypuffPosterText::
 	text "C'est un poster du"
-	line "mignon RONDOUDOU."
+	line "mignon Rondoudou."
 	done
 
 _LookAdorableDecoText::
@@ -500,22 +506,22 @@ _MobileTradeCameBackText::
 
 _OPT_IntroText1::
 	text_start
-	line "LULA: CHRONIQUE"
+	line "Lula: Chronique"
 	done
 
 _OPT_IntroText2::
 	text_start
-	line "DU PROF.CHEN!"
+	line "du Prof.Chen!"
 	done
 
 _OPT_IntroText3::
 	text_start
-	line "Avec moi, LULA!"
+	line "Avec moi, Lula!"
 	done
 
 _OPT_OakText1::
 	text_start
-	line "CHEN: @"
+	line "Chen: @"
 	text_ram wMonOrItemNameBuffer
 	text_end
 
@@ -535,10 +541,10 @@ _OPT_OakText3::
 
 _OPT_MaryText1::
 	text_start
-	line "LULA: @"
+	line "Lula: @"
 	text_ram wStringBuffer1
 	text_end
-
+	
 	text_end ; unreferenced
 
 _OPT_SweetAdorablyText::
@@ -702,7 +708,7 @@ _OPT_SpeedyText::
 	done
 
 _OPT_PokemonChannelText::
-	text "#MON"
+	text "#mon"
 	done
 
 _PokedexShowText::
@@ -717,27 +723,27 @@ _PokedexShowText::
 
 _BenIntroText1::
 	text_start
-	line "BEN: ANTENNE"
+	line "Ben: Antenne"
 	done
 
 _BenIntroText2::
 	text_start
-	line "MUSIQUE PKMN!"
+	line "Musique <PKMN>!"
 	done
 
 _BenIntroText3::
 	text_start
-	line "C'est moi, DJ BEN!"
+	line "C'est moi, DJ Ben!"
 	done
 
 _FernIntroText1::
 	text_start
-	line "SEB: #MUSIQUE!"
+	line "Seb: #musique!"
 	done
 
 _FernIntroText2::
 	text_start
-	line "Avec DJ SEB!"
+	line "Avec DJ Seb!"
 	done
 
 _BenFernText1::
@@ -759,19 +765,19 @@ _BenFernText2B::
 
 _BenFernText3A::
 	text_start
-	line "la fanfare PKMN!"
+	line "la fanfare <PKMN>!"
 	done
 
 _BenFernText3B::
 	text_start
-	line "la berceuse PKMN!"
+	line "la berceuse <PKMN>!"
 	done
 
 ; Lucky Channel
 
 _LC_Text1::
 	text_start
-	line "SAM: Yeah! Comment"
+	line "Sam: Yeah! Comment"
 	done
 
 _LC_Text2::
@@ -796,7 +802,7 @@ _LC_Text5::
 
 _LC_Text6::
 	text_start
-	line "BON NUMERO!"
+	line "Bon Numéro!"
 	done
 
 _LC_Text7::
@@ -824,7 +830,7 @@ _LC_Text10::
 
 _LC_Text11::
 	text_start
-	line "à la TOUR RADIO!"
+	line "à la Tour Radio!"
 	done
 
 _LC_DragText1::
@@ -841,7 +847,7 @@ _LC_DragText2::
 
 _PnP_Text1::
 	text_start
-	line "SOCIO FM!"
+	line "Socio FM!"
 	done
 
 _PnP_Text2::
@@ -851,7 +857,7 @@ _PnP_Text2::
 
 _PnP_Text3::
 	text_start
-	line "moi, DJ PETRA!"
+	line "moi, DJ Petra!"
 	done
 
 _PnP_Text4::
@@ -959,7 +965,7 @@ _RocketRadioText1::
 
 _RocketRadioText2::
 	text_start
-	line "la TEAM ROCKET!"
+	line "la Team Rocket!"
 	done
 
 _RocketRadioText3::
@@ -984,7 +990,7 @@ _RocketRadioText6::
 
 _RocketRadioText7::
 	text_start
-	line "GIOVANNI! @"
+	line "Giovanni! @"
 	text_pause
 	text "Chef!"
 	done
@@ -1010,7 +1016,7 @@ _RocketRadioText10::
 
 _BuenaRadioText1::
 	text_start
-	line "BUENA: Ici BUENA!"
+	line "Buena: Ici Buena!"
 	done
 
 _BuenaRadioText2::
@@ -1037,17 +1043,17 @@ _BuenaRadioText5::
 
 _BuenaRadioText6::
 	text_start
-	line "Je suis à la RADIO"
+	line "Je suis à la Radio"
 	done
 
 _BuenaRadioText7::
 	text_start
-	line "de DOUBLONVILLE!"
+	line "de Doublonville!"
 	done
 
 _BuenaRadioMidnightText1::
 	text_start
-	line "BUENA: Oh…"
+	line "Buena: Oh…"
 	done
 
 _BuenaRadioMidnightText2::
@@ -1077,7 +1083,7 @@ _BuenaRadioMidnightText6::
 
 _BuenaRadioMidnightText7::
 	text_start
-	line "C'était DJ BUENA"
+	line "C'était DJ Buena"
 	done
 
 _BuenaRadioMidnightText8::
@@ -1094,6 +1100,7 @@ _BuenaRadioMidnightText10::
 	text_start
 	line "…"
 	done
+
 
 _BuenaOffTheAirText::
 	text_start
@@ -1126,13 +1133,13 @@ _ThatCantBeUsedRightNowText:: ; unreferenced
 
 _ThatItemCantBePutInThePackText:: ; unreferenced
 	text "Cet objet n'entre"
-	line "pas dans le SAC."
+	line "pas dans le Sac."
 	done
 
 _TheItemWasPutInThePackText:: ; unreferenced
 	text_ram wStringBuffer1
 	text_start
-	line "va dans le SAC."
+	line "va dans le Sac."
 	done
 
 _RemainingTimeText:: ; unreferenced
@@ -1140,7 +1147,7 @@ _RemainingTimeText:: ; unreferenced
 	done
 
 _YourMonsHPWasHealedText:: ; unreferenced
-	text "PV du #MON"
+	text "PV du #mon"
 	line "restaurés."
 	prompt
 
@@ -1161,7 +1168,7 @@ _WillYouPlayWithMonText:: ; unreferenced
 	done
 
 _YouNeedTwoMonForBreedingText:: ; unreferenced
-	text "Il faut 2 #MON"
+	text "Il faut 2 #mon"
 	line "pour l'élevage."
 	prompt
 
@@ -1179,7 +1186,7 @@ _CompatibilityShouldTheyBreedText:: ; unreferenced
 	done
 
 _ThereIsNoEggText:: ; unreferenced
-	text "Pas d'OEUF."
+	text "Pas d'Oeuf."
 	line ""
 	prompt
 
@@ -1216,45 +1223,61 @@ _DoesntConcernABoyText:: ; unreferenced
 	done
 
 _TheBoxIsFullText:: ; unreferenced
-	text "BOITE pleine!"
+	text "Boîte pleine!"
 	done
 
 ; Mobile Adapter
 
 _NewCardArrivedText::
-	text_start
+	text "Nouvelle Carte"
+	line"reçue de la part"
+	line"de @"
+	text_ram wStringBuffer2
+	text "."
 	done
 
 _PutCardInCardFolderText::
-	text_start
+	text "Ranger cette Carte"
+	line "dans le Fichier?"
 	done
 
 _CardWasListedText::
-	text_start
+	text "La Carte venant de"
+	text_ram wStringBuffer2
+	line " a été"
+	cont "classée au no.@"
+	text_decimal wStringBuffer1, 1, 2
+	text "."
 	prompt
 
 _StartingLinkText::
-	text_start
+	text "Début de la"
+	line "communication."
 	done
 
 _LinkTerminatedText::
-	text_start
+	text "Communication"
+	line "interrompue."
 	done
 
 _ClosingLinkText::
-	text_start
+	text "Fin de la"
+	line "communication."
 	done
 
 _ClearTimeLimitText:: ; unreferenced
-	text_start
+	text "Rafraichir la"
+	next "limite de temps?"
 	done
 
 _TimeLimitWasClearedText:: ; unreferenced
-	text_start
+	text "La limite de temps"
+	next "a été rafraichie."
 	done
 
 _PickErrorPacketText:: ; unreferenced
-	text_start
+	text "Quel paquet pose"
+	line "problème?"
 	done
 
 _TradingMonForOTMonText::
@@ -1269,7 +1292,7 @@ _TradingMonForOTMonText::
 ; Mobile Adapter End
 
 _ObtainedTheVoltorbBadgeText:: ; unreferenced
-	text "VOLTORBBADGE"
+	text "VoltorbBadge"
 	line "obtenu!"
 	done
 
@@ -1278,18 +1301,18 @@ _AskFloorElevatorText::
 	done
 
 _BugCatchingContestTimeUpText::
-	text "PRESENTATEUR: BIP!"
+	text "Présentateur: BIP!"
 
 	para "Temps écoulé!"
 	done
 
 _BugCatchingContestIsOverText::
-	text "PRESENTATEUR: Le"
+	text "Présentateur: Le"
 	line "concours est fini!"
 	done
 
 _RepelWoreOffText::
-	text "Effet du REPOUSSE"
+	text "Effet du Repousse"
 	line "terminé."
 	done
 
@@ -1316,11 +1339,11 @@ _JustSawSomeRareMonText::
 
 	para "Je t'appelle si je"
 	line "vois un autre"
-	cont "#MON rare, OK?"
+	cont "#mon rare, OK?"
 	prompt
 
 _SavingRecordText::
-	text "SAUVEGARDE..."
+	text "Sauvegarde..."
 	line "NE PAS ETEINDRE!"
 	done
 
@@ -1338,12 +1361,12 @@ _ReceiveItemText::
 
 _NoCoinsText::
 	text "Vous n'avez pas de"
-	line "jetons."
+	line "Jetons."
 	prompt
 
 _NoCoinCaseText::
 	text "Vous n'avez pas de"
-	line "BOITE JETON."
+	line "Boîte Jeton."
 	prompt
 
 _NPCTradeCableText::
@@ -1370,7 +1393,7 @@ _NPCTradeFanfareText::
 
 _NPCTradeIntroText1::
 	text "Je collectionne"
-	line "les #MON. As-tu"
+	line "les #mon. As-tu"
 	cont "@"
 	text_ram wStringBuffer1
 	text "?"
@@ -1411,7 +1434,7 @@ _NPCTradeAfterText1::
 
 _NPCTradeIntroText2::
 	text "Salut! Je cherche"
-	line "ce #MON."
+	line "ce #mon."
 
 	para "Si tu as"
 	line "@"
@@ -1523,7 +1546,7 @@ _NPCTradeAfterText4::
 
 _MomLeavingText1::
 	text "Oh! Quel joli"
-	line "#MON."
+	line "#mon."
 
 	para "Où l'as-tu trouvé?"
 	line "Hein? Où ça?"
@@ -1560,7 +1583,7 @@ _MomLeavingText2::
 _MomLeavingText3::
 	text "Fais attention."
 
-	para "Les #MON sont"
+	para "Les #mon sont"
 	line "tes amis. Il faut"
 	cont "les aimer aussi."
 
@@ -1650,62 +1673,62 @@ _DaycareDummyText::
 
 _DayCareManIntroText::
 	text "Je m'occupe de la"
-	line "PENSION. Veux-tu"
+	line "Pension. Veux-tu"
 	cont "que j'entraîne un"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 _DayCareManIntroEggText::
 	text "Je m'occupe de la"
-	line "PENSION. Connais-"
-	cont "tu les OEUFS?"
+	line "Pension. Connais-"
+	cont "tu les Oeufs?"
 
 	para "J'élevais des"
-	line "#MON avec"
+	line "#mon avec"
 	cont "ma femme et..."
 
 	para "Surprise! On a"
-	line "trouvé un OEUF!"
+	line "trouvé un Oeuf!"
 
 	para "C'est super dingue"
 	line "comme truc!"
 
 	para "Alors tu veux que"
 	line "j'entraîne un"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 _DayCareLadyIntroText::
 	text "Je suis la femme"
 	line "du type qui"
 	cont "s'occupe de la"
-	cont "PENSION."
+	cont "Pension."
 
 	para "Veux-tu que"
 	line "j'entraîne un"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 _DayCareLadyIntroEggText::
 	text "Je suis la femme"
 	line "du type qui"
 	cont "s'occupe de la"
-	cont "PENSION. Connais-"
-	cont "tu les OEUFS?"
+	cont "Pension. Connais-"
+	cont "tu les Oeufs?"
 
 	para "J'élevais des"
-	line "#MON avec"
+	line "#mon avec"
 	cont "mon mari et..."
 
 	para "Surprise! On a"
-	line "trouvé un OEUF!"
+	line "trouvé un Oeuf!"
 
 	para "C'est super dingue"
 	line "comme truc!"
 
 	para "Alors tu veux que"
 	line "j'entraîne un"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 _WhatShouldIRaiseText::
@@ -1715,16 +1738,16 @@ _WhatShouldIRaiseText::
 
 _OnlyOneMonText::
 	text "Oh? Mais tu n'as"
-	line "qu'un #MON."
+	line "qu'un #mon."
 	prompt
 
 _CantAcceptEggText::
 	text "Ah... Je n'accepte"
-	line "pas les OEUFS."
+	line "pas les Oeufs."
 	prompt
 
 _RemoveMailText::
-	text "Enlève les LETTRES"
+	text "Enlève les Lettres"
 	line "avant de me voir."
 	prompt
 
@@ -1767,7 +1790,7 @@ _YourMonHasGrownText::
 	text " niveau(x)."
 
 	para "Si tu veux récupé-"
-	line "rer ton #MON,"
+	line "rer ton #mon,"
 	cont "tu dois payer"
 	cont "@"
 	text_decimal wStringBuffer2 + 2, 3, 4
@@ -1776,7 +1799,7 @@ _YourMonHasGrownText::
 
 _PerfectHeresYourMonText::
 	text "Parfait! Voilà"
-	line "ton #MON."
+	line "ton #mon."
 	prompt
 
 _GotBackMonText::
@@ -1795,7 +1818,7 @@ _BackAlreadyText::
 	line "de temps! Pour"
 
 	para "récupérer ton"
-	line "#MON, tu dois"
+	line "#mon, tu dois"
 	cont "payer 100¥."
 	done
 
@@ -1825,11 +1848,11 @@ _FoundAnEggText::
 	text "Ah, c'est toi!"
 
 	para "On entraînait ton"
-	line "#MON, et..."
+	line "#mon, et..."
 	cont "Surprise totale!"
 
-	para "Ton #MON a"
-	line "pondu un OEUF!"
+	para "Ton #mon a"
+	line "pondu un Oeuf!"
 
 	para "On sait pas trop"
 	line "comment mais..."
@@ -1840,7 +1863,7 @@ _FoundAnEggText::
 
 _ReceivedEggText::
 	text "<PLAYER> reçoit"
-	line "l'OEUF!"
+	line "l'Oeuf!"
 	done
 
 _TakeGoodCareOfEggText::
@@ -1859,7 +1882,7 @@ _NoRoomForEggText::
 	done
 
 _WhichMonPhotoText::
-	text "Quel #MON"
+	text "Quel #mon"
 	line "dois-je photogra-"
 	cont "phier?"
 	prompt

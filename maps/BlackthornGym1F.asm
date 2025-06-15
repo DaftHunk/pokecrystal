@@ -148,14 +148,14 @@ BlackthornGymStatue:
 	jumpstd GymStatue2Script
 
 ClairIntroText:
-	text "Je suis SANDRA."
+	text "Je suis Sandra."
 
 	para "Je suis la reine"
 	line "des dragons."
 
 	para "Je peux même tenir"
-	line "tête au CONSEIL"
-	cont "des 4 de la LIGUE."
+	line "tête au Conseil"
+	cont "des 4 de la Ligue."
 
 	para "Tu veux toujours"
 	line "te battre?"
@@ -183,8 +183,8 @@ ClairText_GoToDragonsDen:
 	line "perdu mais tu n'as"
 
 	para "pas les épaules"
-	line "pour la LIGUE"
-	cont "#MON."
+	line "pour la Ligue"
+	cont "#mon."
 
 	para "Tu devrais relever"
 	line "le défi des utili-"
@@ -192,8 +192,8 @@ ClairText_GoToDragonsDen:
 	cont "dragons."
 
 	para "Derrière cette"
-	line "ARENE se trouve"
-	cont "l'ANTRE du DRAGON."
+	line "Arène se trouve"
+	cont "l'Antre du Dragon."
 
 	para "Il y a un petit"
 	line "temple au centre."
@@ -203,7 +203,7 @@ ClairText_GoToDragonsDen:
 	line "prouver ta valeur,"
 
 	para "tu seras digne de"
-	line "porter le BADGE!"
+	line "porter le Badge!"
 	done
 
 ClairText_TooMuchToExpect:
@@ -227,7 +227,7 @@ BlackthornGymText_ReceivedTM24:
 
 BlackthornGymClairText_DescribeTM24:
 	text "Elle contient"
-	line "DRACOSOUFFLE."
+	line "Dracosouffle."
 
 	para "Non, cela n'a rien"
 	line "à voir avec mon"
@@ -247,20 +247,20 @@ BlackthornGymClairText_League:
 	text "Et ben alors?"
 
 	para "Tu ne vas pas à"
-	line "la LIGUE #MON?"
+	line "la Ligue #mon?"
 
 	para "Tu sais où c'est,"
 	line "n'est-ce pas?"
 
 	para "Va d'abord au"
-	line "BOURG GEON."
+	line "Bourg Geon."
 
-	para "SURFE ensuite vers"
+	para "Surfe ensuite vers"
 	line "l'est. Le chemin"
 	cont "sera rude."
 
 	para "Ne perds pas à la"
-	line "LIGUE #MON!"
+	line "Ligue #mon!"
 
 	para "Si tu perds, de"
 	line "quoi j'aurai"
@@ -280,12 +280,12 @@ CooltrainermPaulSeenText:
 	done
 
 CooltrainermPaulBeatenText:
-	text "Mes #MON"
+	text "Mes #mon"
 	line "dragon ont perdu?"
 	done
 
 CooltrainermPaulAfterBattleText:
-	text "PETER voulait te"
+	text "Peter voulait te"
 	line "revoir?"
 	cont "Mensonge!"
 	done
@@ -314,7 +314,7 @@ CooltrainermMikeAfterBattleText:
 
 CooltrainerfLolaSeenText:
 	text "Les dragons sont"
-	line "des #MON"
+	line "des #mon"
 
 	para "sacrés. Ils sont"
 	line "plein de vie."
@@ -334,7 +334,7 @@ CooltrainerfLolaAfterBattleText:
 	text "Les dragons sont"
 	line "faibles face aux"
 	cont "attaques de type"
-	cont "DRAGON."
+	cont "Dragon."
 	done
 
 BlackthornGymGuideText:
@@ -348,10 +348,10 @@ BlackthornGymGuideText:
 	line "tôt au bout!"
 	cont "Compte sur moi!"
 
-	para "SANDRA utilise les"
-	line "#MON mythiques"
+	para "Sandra utilise les"
+	line "#mon mythiques"
 	cont "et sacrés de type"
-	cont "DRAGON."
+	cont "Dragon."
 
 	para "C'est assez dur"
 	line "de les battre."
@@ -361,7 +361,7 @@ BlackthornGymGuideText:
 
 	para "faibles contre"
 	line "les attaques de"
-	cont "type GLACE."
+	cont "type Glace."
 	done
 
 BlackthornGymGuideWinText:
@@ -370,12 +370,12 @@ BlackthornGymGuideWinText:
 
 	para "Il ne reste plus"
 	line "que le challenge"
-	cont "de la LIGUE"
-	cont "#MON."
+	cont "de la Ligue"
+	cont "#mon."
 
 	para "Tu es sur le"
 	line "point de devenir"
-	cont "MAITRE #MON!"
+	cont "Maître #mon!"
 	done
 
 BlackthornGym1F_MapEvents:

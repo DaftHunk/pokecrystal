@@ -35,7 +35,7 @@ Route10Pokecenter1FCooltrainerFScript:
 	jumptextfaceplayer Route10Pokecenter1FCooltrainerFText
 
 Route10Pokecenter1FGentlemanText:
-	text "Un CENTRE #MON"
+	text "Un Centre #mon"
 	line "près d'une"
 	cont "caverne?"
 
@@ -44,11 +44,11 @@ Route10Pokecenter1FGentlemanText:
 	done
 
 Route10Pokecenter1FGymGuideText:
-	text "Le PATRON de la"
-	line "CENTRALE cherche"
+	text "Le Patron de la"
+	line "Centrale cherche"
 
 	para "un bon dresseur de"
-	line "#MON."
+	line "#mon."
 
 	para "Il a besoin d'aide"
 	line "pour retrouver un"
@@ -58,10 +58,10 @@ Route10Pokecenter1FGymGuideText:
 	done
 
 Route10Pokecenter1FGymGuideText_ReturnedMachinePart:
-	text "On dit que la TEAM"
-	line "ROCKET s'est re-"
+	text "On dit que la Team"
+	line "Rocket s'est re-"
 
-	para "formée à JOHTO et"
+	para "formée à Johto et"
 	line "s'est plantée à"
 	cont "nouveau."
 
@@ -75,7 +75,7 @@ Route10Pokecenter1FCooltrainerFText:
 
 	para "grand bâtiment."
 
-	para "C'est la CENTRALE."
+	para "C'est la Centrale."
 	done
 
 Route10Pokecenter1F_MapEvents:

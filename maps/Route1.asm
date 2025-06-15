@@ -72,10 +72,10 @@ CooltrainerfQuinnAfterBattleText:
 	done
 
 Route1SignText:
-	text "ROUTE 1"
+	text "Route 1"
 
-	para "BOURG PALETTE -"
-	line "JADIELLE"
+	para "Bourg Palette -"
+	line "Jadielle"
 	done
 
 Route1_MapEvents:

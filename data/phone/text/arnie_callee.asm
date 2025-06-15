@@ -56,7 +56,7 @@ ArnieGreetNiteText:
 	done
 
 ArnieGenericText:
-	text "Tes #MON sont"
+	text "Tes #mon sont"
 	line "encore plus forts"
 	cont "je parie."
 	done

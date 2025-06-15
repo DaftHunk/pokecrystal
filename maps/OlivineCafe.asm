@@ -30,7 +30,7 @@ OlivineCafeSailorScript:
 	jumptextfaceplayer OlivineCafeSailorText
 
 OlivineCafeStrengthSailorText:
-	text "Ha! Tes #MON"
+	text "Ha! Tes #mon"
 	line "ont l'air de"
 	cont "mauviettes!"
 
@@ -39,7 +39,7 @@ OlivineCafeStrengthSailorText:
 	cont "rochers, je parie."
 
 	para "Tiens! Apprends-"
-	line "leur FORCE!"
+	line "leur Force!"
 	done
 
 OlivineCafeStrengthSailorText_GotStrength:
@@ -55,7 +55,7 @@ OlivineCafeStrengthSailorText_GotStrength:
 	done
 
 OlivineCafeFishingGuruText:
-	text "Le CAFE d'OLIVILLE"
+	text "Le Café d'Oliville"
 	line "fait des plats"
 
 	para "pour les joyeux"
@@ -66,8 +66,8 @@ OlivineCafeSailorText:
 	text "A chaque passage"
 	line "dans cette ville,"
 
-	para "je vais au CAFE"
-	line "d'OLIVILLE."
+	para "je vais au Café"
+	line "d'Oliville."
 
 	para "La bouffe y est"
 	line "trooooooooooooop"

@@ -79,7 +79,7 @@ Route13HiddenCalcium:
 
 PokefanmAlexSeenText:
 	text "A genoux devant"
-	line "mes #MON!"
+	line "mes #mon!"
 	done
 
 PokefanmAlexBeatenText:
@@ -96,25 +96,25 @@ PokefanmAlexAfterBattleText:
 PokefanmJoshuaSeenText:
 	text "Gnihihi! Tu veux"
 	line "te mesurer à mon"
-	cont "gang PIKACHU?"
+	cont "gang Pikachu?"
 	done
 
 PokefanmJoshuaBeatenText:
-	text "PI-PIKACHU!"
+	text "Pi-Pikachu!"
 	done
 
 PokefanmJoshuaAfterBattleText:
 	text "Tu dois avoir"
 	line "beaucoup de #-"
 
-	para "MON, mais PIKACHU"
+	para "mon, mais Pikachu"
 	line "est le meilleur."
 	done
 
 BirdKeeperPerrySeenText:
 	text "L'agilité est LA"
 	line "caractéristique"
-	cont "des #MON"
+	cont "des #mon"
 	cont "oiseaux."
 	done
 
@@ -124,14 +124,14 @@ BirdKeeperPerryBeatenText:
 	done
 
 BirdKeeperPerryAfterBattleText:
-	text "Tes #MON sont"
+	text "Tes #mon sont"
 	line "très bien entraî-"
 	cont "nés."
 	done
 
 BirdKeeperBretSeenText:
 	text "Mate donc mes bô"
-	line "#MON. Regarde"
+	line "#mon. Regarde"
 
 	para "leur joli plumage."
 	line "C'est trop cool."
@@ -144,14 +144,14 @@ BirdKeeperBretBeatenText:
 
 BirdKeeperBretAfterBattleText:
 	text "Occupe-toi de tes"
-	line "#MON et ils"
+	line "#mon et ils"
 	cont "seront heureux."
 	done
 
 HikerKennySeenText:
 	text "Je vais passer à"
-	line "la GROTTE pour"
-	cont "choper un ONIX."
+	line "la Grotte pour"
+	cont "choper un Onix."
 	done
 
 HikerKennyBeatenText:
@@ -168,22 +168,22 @@ HikerKennyAfterBattleText:
 	done
 
 Route13TrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
 	para "Regardez à gauche"
 	line "de cette pancarte."
 	done
 
 Route13SignText:
-	text "ROUTE 13"
+	text "Route 13"
 
-	para "Nord du PONT du"
-	line "SILENCE"
+	para "Nord du Pont du"
+	line "Silence"
 	done
 
 Route13DirectionsSignText:
-	text "NORD: LAVANVILLE"
-	line "OUEST: PARMANIE"
+	text "Nord: Lavanville"
+	line "Ouest: Parmanie"
 	done
 
 Route13_MapEvents:

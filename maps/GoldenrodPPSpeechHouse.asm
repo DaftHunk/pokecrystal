@@ -26,12 +26,12 @@ GoldenrodPPSpeechHouseFisherText:
 	text "Une fois lorsque"
 	line "je me battais, mes"
 
-	para "#MON ne"
+	para "#mon ne"
 	line "pouvaient plus"
 	cont "attaquer."
 
-	para "Les POINTS de"
-	line "POUVOIR, ou PP,"
+	para "Les Points de"
+	line "Pouvoir, ou PP,"
 
 	para "de mes attaques"
 	line "étaient épuisés."
@@ -39,7 +39,7 @@ GoldenrodPPSpeechHouseFisherText:
 
 GoldenrodPPSpeechHouseLassText:
 	text "Quelques fois, un"
-	line "#MON en pleine"
+	line "#mon en pleine"
 
 	para "forme ne peut pas"
 	line "utiliser ses"
@@ -47,7 +47,7 @@ GoldenrodPPSpeechHouseLassText:
 
 	para "Si cela se produit"
 	line "soigne-le dans un"
-	cont "CENTRE #MON ou"
+	cont "Centre #mon ou"
 	cont "utilise un objet."
 	done
 

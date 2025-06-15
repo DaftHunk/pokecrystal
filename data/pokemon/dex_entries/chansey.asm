@@ -1,4 +1,4 @@
-	db "OEUF@" ; species name
+	db "Oeuf@" ; species name
 	db 11 ; height
 	dw 346 ; weight
 

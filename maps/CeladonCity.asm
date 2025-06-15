@@ -76,16 +76,16 @@ CeladonCityHiddenPpUp:
 	hiddenitem PP_UP, EVENT_CELADON_CITY_HIDDEN_PP_UP
 
 CeladonCityFisherText:
-	text "Ce TARTARD est mon"
+	text "Ce Tartard est mon"
 	line "partenaire."
 
 	para "Peut-il évoluer en"
-	line "un #MON"
+	line "un #mon"
 	cont "grenouille?"
 	done
 
 CeladonCityPoliwrathText:
-	text "TARTARD: Tarr!"
+	text "Tartard: Tarr!"
 	done
 
 CeladonCityTeacher1Text:
@@ -101,14 +101,14 @@ CeladonCityTeacher1Text:
 	done
 
 CeladonCityGramps1Text:
-	text "Des TADMORV sont"
+	text "Des Tadmorv sont"
 	line "apparus dans les"
 	cont "environs."
 
 	para "Tu vois la mare"
 	line "devant la maison?"
 
-	para "Un TADMORV y vit"
+	para "Un Tadmorv y vit"
 	line "maintenant."
 
 	para "D'où est-ce qu'ils"
@@ -118,7 +118,7 @@ CeladonCityGramps1Text:
 	done
 
 CeladonCityGramps2Text:
-	text "Hihi! Cette ARENE"
+	text "Hihi! Cette Arène"
 	line "est géniale! C'est"
 
 	para "réservé aux"
@@ -129,7 +129,7 @@ CeladonCityYoungster1Text:
 	text "Tu veux connaître"
 	line "un secret?"
 
-	para "Le MANOIR CELADON"
+	para "Le Manoir Céladon"
 	line "a une porte cachée"
 	cont "à l'arrière."
 	done
@@ -145,8 +145,8 @@ CeladonCityYoungster2Text:
 	done
 
 CeladonCityTeacher2Text:
-	text "Le CENTRE COMMER-"
-	line "CIAL de CELADOPOLE"
+	text "Le Centre Commer-"
+	line "cial de Céladopole"
 	cont "vend de tout."
 
 	para "Si tu n'y trouves"
@@ -159,38 +159,38 @@ CeladonCityTeacher2Text:
 	line "slogan."
 	done
 
-CeladonCityLassText_Mobile: ; unreferenced
+CeladonCityLassText_Mobile:
 	text "J'adore les grands"
 	line "immeubles!"
 
 	para "C'est vrai que le"
-	line "CENTRE #MON"
+	line "Centre #mon"
 
-	para "de DOUBLONVILLE"
+	para "de Doublonville"
 	line "est super grand?"
 
 	para "C'est trop bien!"
 	line "J'aimerais voir un"
 
 	para "endroit pareil à"
-	line "KANTO..."
+	line "Kanto..."
 	done
 
-CeladonCityLassText:
+CeladonCityLassText: ; Unused, English version replacement for above dialog.
 	text "J'ai mal au crâne."
 	done
 
 CeladonCitySignText:
-	text "CELADOPOLE"
+	text "Céladopole"
 
 	para "La ville aux rêves"
 	line "arc-en-ciel"
 	done
 
 CeladonGymSignText:
-	text "CHAMPION d'ARENE"
-	line "de CELADOPOLE:"
-	cont "ERIKA"
+	text "Champion d'Arène"
+	line "de Céladopole:"
+	cont "Erika"
 
 	para "La princesse de"
 	line "la nature"
@@ -198,33 +198,33 @@ CeladonGymSignText:
 
 CeladonCityDeptStoreSignText:
 	text "Y'a de tout au"
-	line "CENTRE COMMERCIAL"
-	cont "de CELADOPOLE!"
+	line "Centre Commercial"
+	cont "de Céladopole!"
 	done
 
 CeladonCityMansionSignText:
-	text "MANOIR CELADON"
+	text "Manoir Céladon"
 	done
 
 CeladonCityGameCornerSignText:
 	text "Des jeux pour tous"
-	line "au CASINO de"
-	cont "CELADOPOLE"
+	line "au Casino de"
+	cont "Céladopole"
 	done
 
 CeladonCityTrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
-	para "DEFENSE SPEC"
+	para "Défense Spéc"
 	line "protège les #-"
 
-	para "MON des attaques"
-	line "SPECIALES comme le"
+	para "mon des attaques"
+	line "Spéciales comme le"
 	cont "feu et l'eau."
 
 	para "Achetez-en au"
-	line "CENTRE COMMERCIAL"
-	cont "de CELADOPOLE!"
+	line "Centre Commercial"
+	cont "de Céladopole!"
 	done
 
 CeladonCity_MapEvents:

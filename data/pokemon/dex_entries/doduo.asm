@@ -1,4 +1,4 @@
-	db "DUOISEAU@" ; species name
+	db "Duoiseau@" ; species name
 	db 14 ; height
 	dw 392 ; weight
 

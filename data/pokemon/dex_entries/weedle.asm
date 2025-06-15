@@ -1,4 +1,4 @@
-	db "INSECTOPIC@" ; species name
+	db "Insectopic@" ; species name
 	db 3 ; height
 	dw 32 ; weight
 

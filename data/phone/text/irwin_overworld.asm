@@ -4,7 +4,7 @@ IrwinAskNumber1Text:
 
 	para "Quoi? C'est toi?"
 	line "Tu as sauvé les"
-	cont "RAMOLOSS, non?"
+	cont "Ramoloss, non?"
 
 	para "Voilà pourquoi"
 	line "t'es aussi balèze!"

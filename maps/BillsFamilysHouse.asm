@@ -107,17 +107,17 @@ BillsHouseRadio:
 	jumpstd Radio2Script
 
 BillTakeThisEeveeText:
-	text "LEO: Salut,"
+	text "Léo: Salut,"
 	line "<PLAYER>! Tu nous"
 	cont "ferais bien du"
 	cont "plaisir si tu"
 	cont "t'occupais de cet"
-	cont "EVOLI."
+	cont "Evoli."
 
 	para "Il est arrivé"
 	line "lorsque j'étais en"
 	cont "train de régler le"
-	cont "BLOC TEMPOREL."
+	cont "Bloc Temporel."
 
 	para "Quelqu'un doit"
 	line "s'en occuper mais"
@@ -131,7 +131,7 @@ BillTakeThisEeveeText:
 	done
 
 BillImCountingOnYouText:
-	text "LEO: Je savais"
+	text "Léo: Je savais"
 	line "que je pouvais"
 
 	para "compter sur toi!"
@@ -142,14 +142,14 @@ BillImCountingOnYouText:
 
 ReceivedEeveeText:
 	text "<PLAYER> reçoit"
-	line "EVOLI!"
+	line "Evoli!"
 	done
 
 BillEeveeMayEvolveText:
-	text "LEO: Le PROF.ORME"
+	text "Léo: Le Prof.Orme"
 	line "affirme que les"
 
-	para "EVOLI pourraient"
+	para "Evoli pourraient"
 	line "évoluer en des"
 	cont "formes encore"
 	cont "inconnues."
@@ -159,7 +159,7 @@ BillPartyFullText:
 	text "Hop-hop, minute."
 	line "Tu ne peux plus"
 	cont "transporter de"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 BillNoEeveeText:
@@ -168,7 +168,7 @@ BillNoEeveeText:
 	done
 
 BillPopWontWorkText:
-	text "LEO: Mon papa..."
+	text "Léo: Mon papa..."
 	line "Il fait rien de la"
 	cont "journée."
 
@@ -178,18 +178,18 @@ BillPopWontWorkText:
 
 BillsMomText_BeforeEcruteak:
 	text "Tu collectionnes"
-	line "les #MON?"
-	cont "Mon fils LEO est"
+	line "les #mon?"
+	cont "Mon fils Léo est"
 	cont "un expert."
 
 	para "Il est allé au"
-	line "CENTRE #MON"
-	cont "de ROSALIA."
+	line "Centre #mon"
+	cont "de Rosalia."
 
 	para "Mon mari en re-"
 	line "vanche est au"
 
-	para "CASINO..."
+	para "Casino..."
 	line "Ne cherche pas à"
 	cont "comprendre..."
 	done
@@ -198,8 +198,8 @@ BillsMomText_AfterEcruteak:
 	text "Mon tendre époux"
 	line "était jadis un"
 
-	para "#MANIAC."
-	line "LEO doit tenir"
+	para "#maniac."
+	line "Léo doit tenir"
 	cont "de lui."
 	done
 
@@ -214,18 +214,18 @@ BillsSisterUsefulNumberText:
 RecordedBillsNumberText:
 	text "<PLAYER> enregistre"
 	line "le numéro de télé-"
-	cont "phone de LEO."
+	cont "phone de Léo."
 	done
 
 BillsSisterRefusedNumberText:
 	text "Mon frère a créé"
 	line "un système de"
 	cont "stockage pour les"
-	cont "#MON par PC."
+	cont "#mon par PC."
 
 	para "J'allais te donner"
 	line "le numéro de télé-"
-	cont "phone de LEO..."
+	cont "phone de Léo..."
 	done
 
 BillsSisterPhoneFullText:
@@ -236,11 +236,11 @@ BillsSisterPhoneFullText:
 
 BillsSisterStorageSystemText:
 	text "Mon grand frère"
-	line "LEO a fait un"
+	line "Léo a fait un"
 
 	para "super système de"
 	line "stockage de #-"
-	cont "MON par PC."
+	cont "mon par PC."
 	done
 
 BillsFamilysHouse_MapEvents:

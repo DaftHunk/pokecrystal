@@ -93,6 +93,6 @@ WiltonWantThisText:
 	para "@"
 	text_ram wStringBuffer5
 	text "…"
-	line "Va d'ACAJOU vers"
-	cont "EBENELLE!"
+	line "Va d'Acajou vers"
+	cont "Ebenelle!"
 	done

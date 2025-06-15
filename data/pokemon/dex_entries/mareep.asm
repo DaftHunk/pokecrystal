@@ -1,4 +1,4 @@
-	db "LAINE@" ; species name
+	db "Laine@" ; species name
 	db 6 ; height
 	dw 78 ; weight
 

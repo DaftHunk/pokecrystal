@@ -57,7 +57,7 @@ ErinGreetNiteText:
 
 ErinGenericText:
 	text "Tu entraînes bien"
-	line "tes #MON?"
+	line "tes #mon?"
 
 	para "Le @"
 	text_ram wStringBuffer4

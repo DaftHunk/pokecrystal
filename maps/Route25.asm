@@ -236,7 +236,7 @@ Route25MistyLeavesMovement:
 	step_end
 
 Route25MistyDateText:
-	text "ONDINE: Aaaah!"
+	text "Ondine: Aaaah!"
 	line "Pourquoi t'es là,"
 
 	para "toi? Tu nous as"
@@ -251,23 +251,23 @@ Route25MistyDateText:
 
 	para "..."
 
-	para "...Oh? Tes BADGES!"
+	para "...Oh? Tes Badges!"
 	line "Ils viennent des"
-	cont "ARENES de JOHTO?"
+	cont "Arènes de Johto?"
 
 	para "Si tu en as 8,"
 	line "c'est que t'es pas"
 	cont "une mauviette..."
 
 	para "OK. Viens à"
-	line "l'ARENE d'AZURIA."
+	line "l'Arène d'Azuria."
 
 	para "Je te lance un"
 	line "défi."
 
-	para "Je suis ONDINE,"
-	line "la CHAMPIONNE"
-	cont "d'AZURIA."
+	para "Je suis Ondine,"
+	line "la Championne"
+	cont "d'Azuria."
 	done
 
 SchoolboyDudleySeenText:
@@ -413,18 +413,18 @@ CooltrainermKevinAfterBattleText:
 	text "Quelle belle"
 	line "rencontre!"
 
-	para "Toi et tes #MON"
+	para "Toi et tes #mon"
 	line "êtes vraiment"
 	cont "impressionnants!"
 	done
 
 BillsHouseSignText:
-	text "VILLA"
-	line "MAISON DE LEO"
+	text "Villa"
+	line "Maison de Léo"
 	done
 
 UnusedBillsHouseSignText: ; unreferenced
-	text "MAISON DE LEO"
+	text "Maison de Léo"
 	done
 
 Route25_MapEvents:

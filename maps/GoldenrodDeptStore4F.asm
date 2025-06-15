@@ -39,23 +39,23 @@ GoldenrodDeptStore4FElevatorButton:
 
 GoldenrodDeptStore4FCooltrainerMText:
 	text "Hé. Moi j'aime les"
-	line "#MON qui"
+	line "#mon qui"
 	cont "sont trop forts."
 
 	para "Je les nourris de"
-	line "PROTEINE pour"
+	line "Protéine pour"
 	cont "booster leur"
-	cont "ATTAQUE."
+	cont "Attaque."
 	done
 
 GoldenrodDeptStore4FBugCatcherText:
-	text "Le FER augmente la"
-	line "DEFENSE de tes"
-	cont "#MON."
+	text "Le Fer augmente la"
+	line "Défense de tes"
+	cont "#mon."
 	done
 
 GoldenrodDeptStore4FGameboyKidText:
-	text "Certains #MON"
+	text "Certains #mon"
 	line "évoluent seulement"
 
 	para "s'ils sont échan-"
@@ -63,10 +63,10 @@ GoldenrodDeptStore4FGameboyKidText:
 	cont "Game Link."
 
 	para "J'en connais 4:"
-	line "MACHOPEUR, KADABRA"
+	line "Machopeur, Kadabra"
 
-	para "et SPECTRUM et..."
-	line "GRAVALANCH."
+	para "et Spectrum et..."
+	line "Gravalanch."
 
 	para "J'ai entendu dire"
 	line "qu'il y en avait"
@@ -77,7 +77,7 @@ GoldenrodDeptStore4FDirectoryText:
 	text "Ca fait du bien"
 	line "par où ça passe!"
 
-	para "3EME PHARMACIE"
+	para "3ème Pharmacie"
 	done
 
 GoldenrodDeptStore4F_MapEvents:

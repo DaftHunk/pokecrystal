@@ -479,38 +479,38 @@ Route36NationalParkGateOfficer1AskToParticipateText:
 	line "Ca veut dire que"
 
 	para "le Concours de"
-	line "Capture d'insecte"
+	line "Capture d'Insecte"
 	cont "est aujourd'hui."
 
 	para "Les règles sont"
 	line "simples."
 
-	para "Avec un #MON"
-	line "de l'équipe, il"
+	para "Avec un #mon de"
+	line "l'équipe, il faut"
 
-	para "faut attraper un"
-	line "#MON insecte"
-	cont "qui sera noté."
+	para "attraper un #-"
+	line "mon Insecte qui"
+	cont "sera noté."
 
 	para "Alors? On tente"
 	line "sa chance?"
 	done
 
 Route36NationalParkGateOfficer1GiveParkBallsText:
-	text "Voici des PARC"
-	line "BALLS pour le"
+	text "Voici des Parc"
+	line "Balls pour le"
 	cont "concours."
 	done
 
 Route36NationalParkGatePlayerReceivedParkBallsText:
 	text "<PLAYER> reçoit"
-	line "{d:BUG_CONTEST_BALLS} PARC BALLS."
+	line "{d:BUG_CONTEST_BALLS} Parc Balls."
 	done
 
 Route36NationalParkGateOfficer1ExplainsRulesText:
 	text "La personne qui"
 	line "capture le #-"
-	cont "MON insecte le"
+	cont "mon Insecte le"
 	cont "plus puissant est"
 	cont "désignée vain-"
 	cont "queur."
@@ -519,31 +519,31 @@ Route36NationalParkGateOfficer1ExplainsRulesText:
 	line "{d:BUG_CONTEST_MINUTES} minutes."
 
 	para "Si toutes les"
-	line "PARC BALLS sont"
+	line "Parc Balls sont"
 	cont "épuisées, c'est"
 	cont "fini!"
 
-	para "Le dernier #MON"
+	para "Le dernier #mon"
 	line "attrapé peut être"
 	cont "gardé."
 
 	para "Allez hop! C'est"
 	line "la chasse aux"
-	cont "#MON insecte!"
+	cont "#mon Insecte!"
 	done
 
 Route36NationalParkGateOfficer1AskToUseFirstMonText:
 	text "Oh-oh..."
 
 	para "Tu as plus d'un"
-	line "#MON."
+	line "#mon."
 
 	para "Tu dois utiliser"
 	line "@"
 	text_ram wStringBuffer3
 	text ", le"
 
-	para "premier #MON de"
+	para "premier #mon de"
 	line "ton équipe."
 
 	para "Tu es d'accord?"
@@ -552,18 +552,18 @@ Route36NationalParkGateOfficer1AskToUseFirstMonText:
 Route36NationalParkGateOfficer1WellHoldYourMonText:
 	text "Parfait. Je vais"
 	line "garder les autres"
-	cont "#MON pendant le"
+	cont "#mon pendant le"
 	cont "concours."
 	done
 
 Route36NationalParkGatePlayersMonLeftWithHelperText:
 	text "<PLAYER> confie"
-	line "ses #MON au"
-	cont "RECEPTIONNISTE."
+	line "ses #mon au"
+	cont "Récéptionniste."
 	done
 
 Route36NationalParkGateOfficer1ChooseMonAndComeBackText:
-	text "Choisis le #MON"
+	text "Choisis le #mon"
 	line "à utiliser pendant"
 
 	para "le concours et"
@@ -577,13 +577,13 @@ Route36NationalParkGateOfficer1TakePartInFutureText:
 
 Route36NationalParkGateOfficer1FirstMonCantBattleText:
 	text "Oh-oh..."
-	line "Le premier #MON"
+	line "Le premier #mon"
 
 	para "de ton équipe ne"
 	line "peut combattre."
 
 	para "Change-le avec le"
-	line "#MON de ton"
+	line "#mon de ton"
 
 	para "choix et reviens"
 	line "me voir."
@@ -591,28 +591,28 @@ Route36NationalParkGateOfficer1FirstMonCantBattleText:
 
 Route36NationalParkGateOfficer1MakeRoomText:
 	text "Oh-oh... Ton"
-	line "équipe et ta BOITE"
+	line "équipe et ta Boîte"
 	cont "PC sont pleines."
 
 	para "Tu n'as pas de"
 	line "place pour le"
-	cont "#MON insecte"
+	cont "#mon Insecte"
 	cont "à attraper."
 
 	para "Fais de la place"
 	line "dans l'équipe ou"
 
-	para "dans la BOITE PC"
+	para "dans la Boîte PC"
 	line "et viens me voir."
 	done
 
 Route36NationalParkGateOfficer1EggAsFirstMonText:
 	text "Oh-oh... Tu as un"
-	line "OEUF en premier"
+	line "Oeuf en premier"
 	cont "dans ton équipe."
 
 	para "Change-le avec le"
-	line "#MON de ton"
+	line "#mon de ton"
 
 	para "choix et reviens"
 	line "me voir."
@@ -650,95 +650,95 @@ Route36NationalParkGateOfficer1ContestIsOverText:
 	done
 
 Route36NationalParkGateOfficer1SomeMonOnlySeenInParkText:
-	text "Certains #MON"
+	text "Certains #mon"
 	line "n'apparaissent que"
-	cont "dans le PARC."
+	cont "dans le Parc."
 	done
 
 BugCatchingContestant1BText:
-	text "JEAN-RAOUL: Oh! Tu"
+	text "Jean-Raoul: Oh! Tu"
 	line "m'as battu! T'es"
 	cont "balèze, toi."
 	done
 
 BugCatchingContestant1BStillCompetingText:
-	text "JEAN-RAOUL:"
+	text "Jean-Raoul:"
 	line "La chance compte"
 	cont "beaucoup."
 
 	para "Tu ne sais jamais"
-	line "quel #MON va"
+	line "quel #mon va"
 	cont "apparaître."
 	done
 
 BugCatchingContestant2BText:
-	text "ODILON: T'as trop"
+	text "Odilon: T'as trop"
 	line "de bol. Et moi"
 	cont "j'suis maudit."
 	done
 
 BugCatchingContestant2BStillCompetingText:
-	text "ODILON: T'as gagné"
+	text "Odilon: T'as gagné"
 	line "avec un gros #-"
-	cont "MON?"
+	cont "mon?"
 	done
 
 BugCatchingContestant3BText:
-	text "NICK: Bien joué!"
+	text "Nick: Bien joué!"
 	line "Je vais mieux en-"
 	cont "traîner mes #-"
-	cont "MON."
+	cont "mon."
 	done
 
 BugCatchingContestant3BStillCompetingText:
-	text "NICK: On gagne"
+	text "Nick: On gagne"
 	line "peut-être plus de"
 
 	para "points avec un"
-	line "#MON d'une"
+	line "#mon d'une"
 	cont "couleur bizarre."
 	done
 
 BugCatchingContestant4BText:
-	text "MARCEL: Tu as"
+	text "Marcel: Tu as"
 	line "gagné? Qu'as-tu"
 	cont "attrapé?"
 	done
 
 BugCatchingContestant4BStillCompetingText:
-	text "MARCEL: En tout"
+	text "Marcel: En tout"
 	line "cas je suis"
 
 	para "content: j'ai"
-	line "attrapé le #MON"
+	line "attrapé le #mon"
 	cont "que je voulais."
 	done
 
 BugCatchingContestant5BText:
-	text "FOULQUE: Bien!"
+	text "Foulque: Bien!"
 	line "J'te respecte,"
 	cont "toi!"
 	done
 
 BugCatchingContestant5BStillCompetingText:
-	text "FOULQUE: J'ai eu"
-	line "un INSECATEUR une"
+	text "Foulque: J'ai eu"
+	line "un Insecateur une"
 	cont "fois mais j'ai"
 	cont "perdu."
 	done
 
 BugCatchingContestant6BText:
-	text "RENE: Le #MON"
+	text "René: Le #mon"
 	line "que tu as chopé..."
 	cont "Il est bien!"
 	done
 
 BugCatchingContestant6BStillCompetingText:
-	text "RENE: C'est plus"
+	text "René: C'est plus"
 	line "facile de gagner"
 
 	para "en attrapant un"
-	line "#MON de haut"
+	line "#mon de haut"
 	cont "niveau."
 
 	para "Mais je crois qu'"
@@ -748,46 +748,46 @@ BugCatchingContestant6BStillCompetingText:
 	done
 
 BugCatchingContestant7BText:
-	text "SANDY: T'as gagné?"
+	text "Sandy: T'as gagné?"
 	line "Mais c'est cool!"
 
 	para "Tu veux chercher"
-	line "des #MON"
-	cont "insecte avec moi?"
+	line "des #mon"
+	cont "Insecte avec moi?"
 	done
 
 BugCatchingContestant7BStillCompetingText:
-	text "SANDY: Moi j'aime"
-	line "les #MON"
-	cont "insecte!"
+	text "Sandy: Moi j'aime"
+	line "les #mon"
+	cont "Insecte!"
 	done
 
 BugCatchingContestant8BText:
-	text "ARNAUD: J'ai..."
+	text "Arnaud: J'ai..."
 	line "Perdu...au..."
 	cont "Concours..."
 	done
 
 BugCatchingContestant8BStillCompetingText:
-	text "ARNAUD: On dit que"
+	text "Arnaud: On dit que"
 	line "quelqu'un a gagné"
-	cont "avec un CHENIPAN!"
+	cont "avec un Chenipan!"
 	done
 
 BugCatchingContestant9BText:
-	text "GONTRAND: Je vais"
+	text "Gontrand: Je vais"
 	line "gagner la prochai-"
 	cont "ne fois."
 	done
 
 BugCatchingContestant9BStillCompetingText:
-	text "GONTRAND: Zut!"
+	text "Gontrand: Zut!"
 	line "Je pensais vrai-"
 	cont "ment gagner..."
 	done
 
 BugCatchingContestant10BText:
-	text "CYRIL: Tu veux"
+	text "Cyril: Tu veux"
 	line "bien me donner"
 
 	para "des conseils?"
@@ -795,7 +795,7 @@ BugCatchingContestant10BText:
 	done
 
 BugCatchingContestant10BStillCompetingText:
-	text "CYRIL: J'étudie"
+	text "Cyril: J'étudie"
 	line "beaucoup mais ce"
 	cont "n'est pas assez."
 	done
@@ -804,21 +804,21 @@ UnusedSilphScope2Text: ; unreferenced
 ; This text is referring to Sudowoodo.
 ; The SILPHSCOPE2 was later reworked into the SQUIRTBOTTLE.
 	text "On dit qu'il y a"
-	line "un #MON qui"
+	line "un #mon qui"
 	cont "ressemble à un"
 	cont "arbre."
 
 	para "On peut l'identi-"
 	line "fier en utilisant"
-	cont "un SCOPE SYLPHE 2."
+	cont "un SCOPE Sylphe 2."
 	done
 
 Route36NationalParkGateBugCatchingContestExplanationText:
 	text "Le Concours de"
 	line "Capture se déroule"
 
-	para "le mardi, le jeudi"
-	line "et le samedi."
+	para "le Mardi, le Jeudi"
+	line "et le Samedi."
 
 	para "On peut y gagner"
 	line "un prix rien qu'en"
@@ -826,7 +826,7 @@ Route36NationalParkGateBugCatchingContestExplanationText:
 	para "participant mais"
 	line "on garde aussi le"
 
-	para "#MON insecte"
+	para "#mon Insecte"
 	line "que l'on chope"
 
 	para "pendant le con-"
@@ -834,7 +834,7 @@ Route36NationalParkGateBugCatchingContestExplanationText:
 	done
 
 Route36NationalParkGateOfficer1WellHoldPrizeText:
-	text "Oh-oh... Ton SAC"
+	text "Oh-oh... Ton Sac"
 	line "est plein."
 
 	para "On va garder ton"

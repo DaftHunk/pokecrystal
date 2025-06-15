@@ -1,4 +1,4 @@
-	db "LEGENDAIRE@" ; species name
+	db "Légendaire@" ; species name
 	db 19 ; height
 	dw 1550 ; weight
 

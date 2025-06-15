@@ -24,7 +24,6 @@ DanaLostAMonText:
 	line "Un @"
 	text_ram wStringBuffer4
 	text_start
-
 	para "m'a encore"
 	line "échappé."
 

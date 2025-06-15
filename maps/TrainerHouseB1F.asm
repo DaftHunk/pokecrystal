@@ -110,8 +110,8 @@ Movement_TrainerHouseTurnBack:
 	step_end
 
 TrainerHouseB1FIntroText:
-	text "Bienvenue au HALL"
-	line "d'ENTRAINEMENT."
+	text "Bienvenue au Hall"
+	line "d'Entrainement."
 
 	para "On peut y affron-"
 	line "ter un adversaire"

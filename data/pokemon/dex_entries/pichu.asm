@@ -1,4 +1,4 @@
-	db "MINISOURIS@" ; species name
+	db "Minisouris@" ; species name
 	db 3 ; height
 	dw 20 ; weight
 

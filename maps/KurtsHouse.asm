@@ -454,23 +454,23 @@ KurtsHouseKurtMakingBallsMustWaitText:
 	para "<PLAYER>? Tu"
 	line "voudrais que je"
 	cont "fabrique quelques"
-	cont "BALLS?"
+	cont "Balls?"
 
 	para "Désolé mais ça"
 	line "devra attendre."
 
-	para "Connais-tu la TEAM"
-	line "ROCKET? Je vais"
+	para "Connais-tu la Team"
+	line "Rocket? Je vais"
 
 	para "t'en toucher deux"
 	line "mots."
 
-	para "La TEAM ROCKET est"
+	para "La Team Rocket est"
 	line "plus redoutée que"
 
 	para "la peste! Ils"
 	line "utilisent les"
-	cont "#MON à des"
+	cont "#mon à des"
 	cont "fins crapuleuses."
 
 	para "Ils ont cessé d'o-"
@@ -482,7 +482,7 @@ KurtsHouseKurtMakingBallsMustWaitText:
 
 	para "de plus belle en"
 	line "coupant les"
-	cont "QUEUERAMOLOS pour"
+	cont "QueueRamolos pour"
 	cont "les revendre!"
 
 	para "Je m'en vais donc"
@@ -491,25 +491,25 @@ KurtsHouseKurtMakingBallsMustWaitText:
 	cont "chauffe, moi!"
 
 	para "Tenez bon les"
-	line "petits RAMOLOSS!"
+	line "petits Ramoloss!"
 	cont "Le bon vieux"
-	cont "FARGAS arrive à"
+	cont "Fargas arrive à"
 	cont "la rescousse!"
 	done
 
 KurtsHouseKurtHonoredToMakeBallsText:
-	text "FARGAS: Salut,"
+	text "Fargas: Salut,"
 	line "<PLAYER>!"
 
 	para "Tu as bien combat-"
-	line "tu au PUITS!"
+	line "tu au Puits!"
 
 	para "J'apprécie ton"
 	line "style!"
 
 	para "Je serais honoré"
 	line "que tu acceptes"
-	cont "mes BALLS."
+	cont "mes Balls."
 
 	para "C'est tout ce que"
 	line "j'ai pour le"
@@ -517,64 +517,64 @@ KurtsHouseKurtHonoredToMakeBallsText:
 	done
 
 KurtsHouseKurtBallsFromApricornsText:
-	text "FARGAS: Je fais"
-	line "des BALLS à partir"
-	cont "des NOIGRUMES."
+	text "Fargas: Je fais"
+	line "des Balls à partir"
+	cont "des Noigrumes."
 
 	para "Décroches-en"
 	line "des arbres et"
 	cont "rapporte-les moi."
 
 	para "Je fabriquerai"
-	line "alors des BALLS."
+	line "alors des Balls."
 	done
 
 KurtsHouseKurtAskYouHaveAnApricornText:
-	text "FARGAS: As-tu un"
-	line "NOIGRUME pour moi?"
+	text "Fargas: As-tu un"
+	line "Noigrume pour moi?"
 
 	para "Excellent! Je vais"
-	line "en faire une BALL."
+	line "en faire une Ball."
 	done
 
 KurtsHouseKurtItWillTakeADayText:
-	text "FARGAS: Ca va"
+	text "Fargas: Ca va"
 	line "prendre la journée"
 
 	para "pour te faire une"
-	line "BALL. Reviens plus"
+	line "Ball. Reviens plus"
 	cont "tard."
 	done
 
 KurtsHouseKurtThatsALetdownText:
-	text "FARGAS: Oh,oh...!"
+	text "Fargas: Oh,oh...!"
 	line "Quel dommage."
 	done
 
 KurtsHouseKurtDontBotherMeText:
-	text "FARGAS: Je bosse!"
+	text "Fargas: Je bosse!"
 	line "Qu'on me laisse"
 	cont "tranquille!"
 	done
 
 KurtsHouseKurtJustFinishedYourBallText:
-	text "FARGAS: Ah,"
+	text "Fargas: Ah,"
 	line "<PLAYER>! Je viens"
-	cont "de finir ta BALL!"
+	cont "de finir ta Ball!"
 	cont "Tiens!"
 	done
 
 KurtsHouseKurtTurnedOutGreatText:
-	text "FARGAS: Je suis"
+	text "Fargas: Je suis"
 	line "content du résul-"
 	cont "tat."
 
 	para "Va attraper"
-	line "des #MON!"
+	line "des #mon!"
 	done
 
 KurtsHouseKurtGranddaughterHelpingWorkFasterText:
-	text "FARGAS: Avec"
+	text "Fargas: Avec"
 	line "l'aide de ma"
 
 	para "petite-fille, je"
@@ -589,7 +589,7 @@ KurtsHouseKurtWhatIsThatText:
 	line "vu ça."
 
 	para "On dirait bien une"
-	line "# BALL, mais"
+	line "# Ball, mais"
 
 	para "ça doit être autre"
 	line "chose."
@@ -611,7 +611,7 @@ KurtsHouseKurtAhHaISeeText:
 KurtsHouseKurtThisBallStartedToShakeText:
 	text "<PLAYER>!"
 
-	para "La BALL s'est mise"
+	para "La Ball s'est mise"
 	line "à bouger quand je"
 	cont "la regardais."
 
@@ -620,7 +620,7 @@ KurtsHouseKurtThisBallStartedToShakeText:
 	done
 
 KurtsGranddaughterSlowpokeGoneText:
-	text "Les RAMOLOSS sont"
+	text "Les Ramoloss sont"
 	line "partis... Ont-ils"
 
 	para "été enlevés par de"
@@ -633,24 +633,24 @@ KurtsGranddaughterLonelyText:
 	done
 
 KurtsGranddaughterSlowpokeBackText:
-	text "Le RAMOLOSS que"
+	text "Le Ramoloss que"
 	line "mon pôpa m'a"
 
 	para "donné est de"
 	line "retour! Et sa"
-	cont "QUEUE a repoussé!"
+	cont "Queue a repoussé!"
 	done
 
 KurtsGranddaughterDadText:
 	text "Pôpa travaille à"
-	line "la SYLPHE SARL où"
+	line "la Sylphe SARL où"
 	cont "il étudie les"
-	cont "# BALLS."
+	cont "# Balls."
 
 	para "Je dois rester à"
 	line "la maison avec mon"
 	cont "pépé et mon"
-	cont "RAMOLOSS."
+	cont "Ramoloss."
 	done
 
 KurtsGranddaughterHelpText:
@@ -658,31 +658,31 @@ KurtsGranddaughterHelpText:
 	line "petit pépé!"
 
 	para "On va en faire des"
-	line "belles BALLS pour"
+	line "belles Balls pour"
 	cont "ta fraise!"
 	done
 
 KurtsGranddaughterFunText:
 	text "C'est rigolo de"
-	line "faire des BALLS!"
+	line "faire des Balls!"
 	done
 
 KurtsGranddaughterGSBallText:
 	text "Pépé examine une"
-	line "BALL."
+	line "Ball."
 
 	para "Alors moi..."
 	line "J'attends."
 	done
 
 KurtsHouseSlowpokeText:
-	text "RAMOLOSS: ...."
+	text "Ramoloss: ...."
 	line "...(baille)..."
 	done
 
 KurtsHouseOakPhotoText:
-	text "...Un jeune PROF."
-	line "CHEN?"
+	text "...Un jeune Prof."
+	line "Chen?"
 	done
 
 KurtsHouseCelebiStatueText:

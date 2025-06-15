@@ -1,4 +1,4 @@
-	db "CRACHE FIL@" ; species name
+	db "Crache Fil@" ; species name
 	db 5 ; height
 	dw 85 ; weight
 

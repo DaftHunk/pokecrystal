@@ -10,10 +10,10 @@ Route5SaffronGateOfficerScript:
 	jumptextfaceplayer Route5SaffronGateOfficerText
 
 Route5SaffronGateOfficerText:
-	text "Tu es de JOHTO,"
+	text "Tu es de Johto,"
 	line "n'est-ce pas?"
 
-	para "Tu aimes KANTO?"
+	para "Tu aimes Kanto?"
 	line "C'est joli, hein?"
 	cont "Qu'en penses-tu?"
 	done

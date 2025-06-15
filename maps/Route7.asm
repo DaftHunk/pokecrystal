@@ -16,16 +16,16 @@ Route7UndergroundPathSignText:
 	line "seurs livrent"
 
 	para "des combats dans"
-	line "le SOUTERRAIN."
+	line "le Souterrain."
 
 	para "Suite à de nom-"
 	line "breuses plaintes,"
-	cont "le SOUTERRAIN a"
+	cont "le Souterrain a"
 	cont "été fermé défini-"
 	cont "tivement."
 
-	para "POLICE"
-	line "de CELADOPOLE"
+	para "Police"
+	line "de Céladopole"
 	done
 
 Route7LockedDoorText:

@@ -39,7 +39,7 @@ CianwoodPharmacyBookshelf:
 	jumpstd DifficultBookshelfScript
 
 PharmacistGiveSecretpotionText:
-	text "Ton #MON"
+	text "Ton #mon"
 	line "semble en pleine"
 
 	para "forme. Quelque"
@@ -47,7 +47,7 @@ PharmacistGiveSecretpotionText:
 
 	para "..."
 
-	para "Le PHARE #MON"
+	para "Le Phare #mon"
 	line "est en danger?"
 
 	para "J'ai pigé!"
@@ -58,11 +58,11 @@ PharmacistGiveSecretpotionText:
 
 ReceivedSecretpotionText:
 	text "<PLAYER> reçoit"
-	line "une POTIONSECRET."
+	line "une PotionSecret."
 	done
 
 PharmacistDescribeSecretpotionText:
-	text "Ma POTIONSECRET"
+	text "Ma PotionSecret"
 	line "est un tantinet"
 
 	para "trop forte. Je ne"

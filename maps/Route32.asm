@@ -535,15 +535,15 @@ Route32CooltrainerMText_AideIsWaiting:
 	line "chait."
 
 	para "Il t'attend au"
-	line "CENTRE #MON."
+	line "Centre #mon."
 	done
 
 Route32CooltrainerMText_UnusedSproutTower:
 	text "As-tu visité la"
-	line "TOUR CHETIFLOR?"
+	line "Tour Chétiflor?"
 
 	para "Si tu vas à"
-	line "MAUVILLE, tu dois"
+	line "Mauville, tu dois"
 
 	para "aller t'y entraî-"
 	line "ner."
@@ -554,7 +554,7 @@ Route32CooltrainerMText_UnusedSproutTower:
 
 Route32CooltrainerMText_VioletGym:
 	text "As-tu visité"
-	line "l'ARENE #MON?"
+	line "l'Arène #mon?"
 
 	para "Tu peux y mettre"
 	line "tes compétences à"
@@ -566,30 +566,30 @@ Route32CooltrainerMText_VioletGym:
 
 Route32CooltrainerMText_HaveThisSeed:
 	text "Tu as de bons"
-	line "#MON, tu sais."
+	line "#mon, tu sais."
 
 	para "Ils ont dû s'en-"
 	line "traîner autour de"
-	cont "MAUVILLE."
+	cont "Mauville."
 
 	para "Les combats dans"
-	line "l'ARENE t'ont"
+	line "l'Arène t'ont"
 
 	para "donné de l'expé-"
 	line "rience, non?"
 
 	para "En souvenir de"
-	line "MAUVILLE, accepte"
+	line "Mauville, accepte"
 	cont "ceci."
 
 	para "Cela améliore les"
 	line "capacités du type"
-	cont "PLANTE."
+	cont "Plante."
 	done
 
 Route32CooltrainerMText_ExperiencesShouldBeUseful:
 	text "Ta visite à"
-	line "MAUVILLE te sera"
+	line "Mauville te sera"
 
 	para "bénéfique."
 	done
@@ -597,7 +597,7 @@ Route32CooltrainerMText_ExperiencesShouldBeUseful:
 Text_MillionDollarSlowpokeTail:
 	text "Hé toi! Ca te"
 	line "dit une bonne"
-	cont "QUEUERAMOLOS?"
+	cont "QueueRamolos?"
 
 	para "J'te fais un prix:"
 	line "1000000¥!"
@@ -630,13 +630,13 @@ FisherJustinAfterText:
 	text "L'essence de la"
 	line "pêche et de #-"
 
-	para "MON, c'est le"
+	para "mon, c'est le"
 	line "calme."
 	done
 
 FisherRalph1SeenText:
 	text "La pêche et les"
-	line "#MON, c'est"
+	line "#mon, c'est"
 	cont "de la balle."
 
 	para "J'suis pas du"
@@ -652,7 +652,7 @@ FisherRalphAfterText:
 	text "Ma passion c'est"
 	line "la pêche et les"
 
-	para "#MON sont mes"
+	para "#mon sont mes"
 	line "amis!"
 	done
 
@@ -667,7 +667,7 @@ FisherRalphSwarmText:
 
 Route32UnusedFisher1SeenText: ; unreferenced
 	text "J'attrape toujours"
-	line "le même #MON."
+	line "le même #mon."
 
 	para "Bon allez..."
 	line "Un petit combat"
@@ -684,7 +684,7 @@ Route32UnusedFisher1AfterText: ; unreferenced
 	text "Pourquoi le type"
 	line "à côté de moi"
 	cont "attrape toujours"
-	cont "de bons #MON?"
+	cont "de bons #mon?"
 	done
 
 Route32UnusedFisher2SeenText: ; unreferenced
@@ -700,14 +700,14 @@ Route32UnusedFisher2BeatenText: ; unreferenced
 
 Route32UnusedFisher2AfterText: ; unreferenced
 	text "Il te faut une"
-	line "bonne CANNE pour"
+	line "bonne Canne pour"
 
 	para "attraper de bons"
-	line "#MON."
+	line "#mon."
 	done
 
 FisherHenrySeenText:
-	text "Mes #MON?"
+	text "Mes #mon?"
 	line "Frais du matin"
 	cont "pêchés!"
 	done
@@ -717,7 +717,7 @@ FisherHenryBeatenText:
 	done
 
 FisherHenryAfterText:
-	text "Les #MON bien"
+	text "Les #mon bien"
 	line "entraînés sont"
 
 	para "plus forts que les"
@@ -738,10 +738,10 @@ YoungsterAlbertBeatenText:
 YoungsterAlbertAfterText:
 	text "Je serai le plus"
 	line "fort avec mes"
-	cont "#MON favoris."
+	cont "#mon favoris."
 
 	para "Je n'utilise pas"
-	line "les gros #MON"
+	line "les gros #mon"
 	cont "super balèzes que"
 	cont "tout le monde"
 	cont "choisit."
@@ -749,7 +749,7 @@ YoungsterAlbertAfterText:
 
 YoungsterGordonSeenText:
 	text "J'ai trouvé des"
-	line "#MON dans les"
+	line "#mon dans les"
 	cont "hautes herbes!"
 
 	para "Ils sont cool!"
@@ -803,10 +803,10 @@ PicnickerLiz1AfterText:
 	done
 
 BirdKeeperPeterSeenText:
-	text "Ce BADGE! Il vient"
-	line "de MAUVILLE!"
+	text "Ce Badge! Il vient"
+	line "de Mauville!"
 
-	para "T'as battu ALBERT?"
+	para "T'as battu Albert?"
 	done
 
 BirdKeeperPeterBeatenText:
@@ -817,8 +817,8 @@ BirdKeeperPeterBeatenText:
 BirdKeeperPeterAfterText:
 	text "Je vais encore"
 	line "m'entraîner dans"
-	cont "l'ARENE de"
-	cont "MAUVILLE."
+	cont "l'Arène de"
+	cont "Mauville."
 	done
 
 Route32UnusedText: ; unreferenced
@@ -844,30 +844,30 @@ Text_RoarOutro:
 	text "GRAAAAAH!"
 	line "C'EST HURLEMENT!"
 
-	para "CA FAIT PEUR AUX"
-	line "#MON!"
+	para "CA FAIT PEUR aux"
+	line "#mon!"
 	done
 
 MeetFriedaText:
-	text "VANESSA: Ouaiis!"
-	line "On est vendredi!"
+	text "Vanessa: Ouaiis!"
+	line "On est Vendredi!"
 
-	para "Je suis VANESSA du"
-	line "vendredi!"
+	para "Je suis Vanessa du"
+	line "Vendredi!"
 
 	para "Bonjour toi!"
 	done
 
 FriedaGivesGiftText:
-	text "Voilà un PIC VENIN"
+	text "Voilà un Pic Venin"
 	line "pour toi!"
 	done
 
 FriedaGaveGiftText:
-	text "VANESSA: Donne-le"
-	line "à un #MON qui a"
+	text "Vanessa: Donne-le"
+	line "à un #mon qui a"
 	cont "des capacités du"
-	cont "type POISON."
+	cont "type Poison."
 
 	para "Oh!"
 
@@ -879,7 +879,7 @@ FriedaGaveGiftText:
 	done
 
 FriedaFridayText:
-	text "VANESSA: Ouais!"
+	text "Vanessa: Ouais!"
 	line "Quel jour tu"
 	cont "aimes, toi?"
 
@@ -891,28 +891,28 @@ FriedaFridayText:
 	done
 
 FriedaNotFridayText:
-	text "VANESSA: On est"
-	line "vendredi, aujour-"
+	text "Vanessa: On est"
+	line "Vendredi, aujour-"
 	cont "d'hui?"
 
 	para "Moi j'aime que le"
-	line "vendredi!"
+	line "Vendredi!"
 	done
 
 Route32SignText:
-	text "ROUTE 32"
+	text "Route 32"
 
-	para "MAUVILLE -"
-	line "ECORCIA"
+	para "Mauville -"
+	line "Ecorcia"
 	done
 
 Route32RuinsSignText:
-	text "RUINES D'ALPHA"
-	line "ENTREE EST"
+	text "Ruines d'Alpha"
+	line "Entrée Est"
 	done
 
 Route32UnionCaveSignText:
-	text "CAVES JUMELLES"
+	text "Caves Jumelles"
 	line "Tout droit"
 	done
 

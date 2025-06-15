@@ -96,8 +96,8 @@ UnusedMissingDaughterText: ; unreferenced
 
 	para "Noonn... Elle ne"
 	line "peut pas être"
-	cont "partie à la TOUR"
-	cont "CENDREE."
+	cont "partie à la Tour"
+	cont "Cendrée."
 
 	para "Je lui avais dit"
 	line "de ne pas y aller."
@@ -110,7 +110,7 @@ UnusedMissingDaughterText: ; unreferenced
 	done
 
 EcruteakCityGramps1Text:
-	text "ROSALIA avait"
+	text "Rosalia avait"
 	line "deux tours:"
 
 	para "une à l'Est,"
@@ -122,21 +122,21 @@ EcruteakCityGramps2Text:
 	line "As-tu appris à"
 
 	para "danser comme les"
-	line "KIMONO?"
+	line "Kimono?"
 
 	para "Si tu vas dans"
-	line "leur SALLE de"
+	line "leur Salle de"
 
-	para "DANSE, un vieil"
+	para "Danse, un vieil"
 	line "homme bizarre te"
 	cont "donnera un cadeau."
 	done
 
 EcruteakCityLass1Text:
 	text "Je vais m'entraî-"
-	line "ner à la SALLE de"
+	line "ner à la Salle de"
 
-	para "DANSE, tu viens"
+	para "Danse, tu viens"
 	line "avec moi?"
 	done
 
@@ -150,7 +150,7 @@ EcruteakCityLass2Text:
 	done
 
 EcruteakCityLass2Text_ReleasedBeasts:
-	text "Trois gros #MON"
+	text "Trois gros #mon"
 	line "se sont enfuis"
 	cont "dans des direc-"
 	cont "tions différentes."
@@ -161,10 +161,10 @@ EcruteakCityLass2Text_ReleasedBeasts:
 EcruteakCityFisherText:
 	text "Il y a une rumeur"
 	line "qui court sur le"
-	cont "PHARE D'OLIVILLE."
+	cont "Phare D'Oliville."
 
-	para "Le #MON qui"
-	line "était au PHARE"
+	para "Le #mon qui"
+	line "était au Phare"
 
 	para "est tombé malade."
 	line "Tout ça c'est pas"
@@ -172,8 +172,8 @@ EcruteakCityFisherText:
 	done
 
 EcruteakCityFisherText_JasmineReturned:
-	text "Le #MON du"
-	line "PHARE D'OLIVILLE a"
+	text "Le #mon du"
+	line "Phare D'Oliville a"
 	cont "été soigné."
 
 	para "Les bateaux peu-"
@@ -184,10 +184,10 @@ EcruteakCityFisherText_JasmineReturned:
 
 EcruteakCityYoungsterText:
 	text "On dit que les"
-	line "#MON sont"
+	line "#mon sont"
 
-	para "déchaînés au LAC"
-	line "COLERE. J'aimerais"
+	para "déchaînés au Lac"
+	line "Colère. J'aimerais"
 	cont "bien voir ça."
 	done
 
@@ -196,12 +196,12 @@ EcruteakCityGramps3Text:
 	line "longtemps..."
 
 	para "La tour prit feu."
-	line "3 #MON inconnus"
+	line "3 #mon inconnus"
 
 	para "périrent alors"
 	line "dans les flammes."
 
-	para "Un #MON aux"
+	para "Un #mon aux"
 	line "couleurs de l'arc-"
 
 	para "en-ciel descendit"
@@ -211,8 +211,8 @@ EcruteakCityGramps3Text:
 	para "Cette légende est"
 	line "connue de tous les"
 
-	para "CHAMPIONS de"
-	line "ROSALIA."
+	para "Champions de"
+	line "Rosalia."
 
 	para "Moi?"
 
@@ -222,7 +222,7 @@ EcruteakCityGramps3Text:
 	done
 
 EcruteakCitySignText:
-	text "ROSALIA"
+	text "Rosalia"
 	line "Une ville bien"
 
 	para "historique où"
@@ -232,30 +232,30 @@ EcruteakCitySignText:
 	done
 
 TinTowerSignText:
-	text "TOUR FERRAILLE"
+	text "Tour Ferraille"
 
-	para "Un #MON"
+	para "Un #mon"
 	line "légendaire y est"
 	cont "soi-disant"
 	cont "perché."
 	done
 
 EcruteakGymSignText:
-	text "CHAMPION d'ARENE"
-	line "de ROSALIA:"
-	cont "MORTIMER"
+	text "Champion d'Arène"
+	line "de Rosalia:"
+	cont "Mortimer"
 
 	para "Le mystérieux"
 	line "voyant"
 	done
 
 EcruteakDanceTheaterSignText:
-	text "SALLE de DANSE"
-	line "de ROSALIA"
+	text "Salle de Danse"
+	line "de Rosalia"
 	done
 
 BurnedTowerSignText:
-	text "TOUR CENDREE"
+	text "Tour Cendrée"
 
 	para "Elle a été détrui-"
 	line "te par un feu"

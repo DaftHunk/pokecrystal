@@ -330,7 +330,7 @@ InitPokegearTilemap:
 	ret
 
 .switch
-	db "CHANGER▶@"
+	db "Changer▶@"
 
 .Map:
 	ld a, [wPokegearMapPlayerIconLandmark]
@@ -1258,9 +1258,9 @@ PokegearPhoneContactSubmenu:
 .CallDeleteCancelStrings:
 	dwcoord 10, 6
 	db 3
-	db   "APPELER"
-	next "EFFACER"
-	next "RETOUR"
+	db   "Appeler"
+	next "Effacer"
+	next "Retour"
 	db   "@"
 
 .CallDeleteCancelJumptable:
@@ -1271,8 +1271,8 @@ PokegearPhoneContactSubmenu:
 .CallCancelStrings:
 	dwcoord 10, 8
 	db 2
-	db   "APPELER"
-	next "RETOUR"
+	db   "Appeler"
+	next "Retour"
 	db   "@"
 
 .CallCancelJumptable:
@@ -1620,7 +1620,7 @@ LoadStation_BuenasPassword:
 	ld de, BuenasPasswordName
 	ret
 
-BuenasPasswordName:    db "CODE DE BUENA@"
+BuenasPasswordName:    db "Code de Buena@"
 NotBuenasPasswordName: db "@"
 
 LoadStation_UnownRadio:
@@ -1753,15 +1753,15 @@ NoRadioName:
 	call Textbox
 	ret
 
-OaksPKMNTalkName:     db "CHRONIQUE<PKMN> CHEN@"
-PokedexShowName:      db "Show #DEX@"
-PokemonMusicName:     db "Musique #MON@"
+OaksPKMNTalkName:     db "Chronique<PKMN> Chen@"
+PokedexShowName:      db "Show #dex@"
+PokemonMusicName:     db "Musique #mon@"
 LuckyChannelName:     db "Antenne Chance@"
 UnownStationName:     db "?????@"
 
 PlacesAndPeopleName:  db "Socio FM@"
 LetsAllSingName:      db "Chantons un peu@"
-PokeFluteStationName: db "FLUTE #MON@"
+PokeFluteStationName: db "Flûte #mon@"
 
 _TownMap:
 	ld hl, wOptions
@@ -2479,7 +2479,7 @@ Pokedex_GetArea:
 	ret
 
 .String_SNest:
-	db "NID DE @"
+	db "Nid de @"
 
 .GetAndPlaceNest:
 	ld [wTownMapCursorLandmark], a

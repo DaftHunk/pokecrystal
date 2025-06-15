@@ -1,8 +1,8 @@
-	db "ELECTRIQUE@" ; species name
+	db "Electrique@" ; species name
 	db 16 ; height
 	dw 526 ; weight
 
-	db   "#MON oiseau"
+	db   "#mon oiseau"
 	next "légendaire. Le"
 	next "battement de ses"
 

@@ -21,13 +21,13 @@ ViridianMartCooltrainerMScript:
 	jumptextfaceplayer ViridianMartCooltrainerMText
 
 ViridianMartLassText:
-	text "Le CHAMPION d'ici"
+	text "Le Champion d'ici"
 	line "est trop cool."
 	done
 
 ViridianMartCooltrainerMText:
 	text "As-tu visité"
-	line "CRAMOIS'ILE?"
+	line "Cramois'Ile?"
 
 	para "C'est une île"
 	line "au Sud."

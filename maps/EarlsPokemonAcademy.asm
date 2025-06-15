@@ -114,12 +114,12 @@ AcademyBlackboard:
 	dbw BANK(@), NULL
 
 .Text:
-	db "PSN@"
-	db "PAR@"
-	db "SOM@"
-	db "BRU@"
-	db "GEL@"
-	db "RET@"
+	db "Psn@"
+	db "Par@"
+	db "Som@"
+	db "Brû@"
+	db "Gel@"
+	db "Ret@"
 
 AcademyNotebook:
 	opentext
@@ -161,11 +161,11 @@ AcademyEarlSpinMovement:
 	step_end
 
 AcademyEarlIntroText:
-	text "THEOPHILE est"
+	text "Théophile est"
 	line "mon nom!"
 
 	para "Sensationnels sont"
-	line "les #MON!"
+	line "les #mon!"
 
 	para "Te transmettre"
 	line "quelques petits"
@@ -175,7 +175,7 @@ AcademyEarlIntroText:
 	para "Que veux-tu"
 	line "savoir?"
 	cont "Comment devenir"
-	cont "MAITRE?"
+	cont "Maître?"
 	done
 
 AcademyEarlTeachHowToWinText:
@@ -184,7 +184,7 @@ AcademyEarlTeachHowToWinText:
 	cont "ferai!"
 
 	para "En combat, le"
-	line "premier #MON de"
+	line "premier #mon de"
 	cont "ta liste sort le"
 	cont "premier!"
 
@@ -201,7 +201,7 @@ AcademyEarlTeachMoreText:
 	text "Alors, on veut"
 	line "savoir comment"
 	cont "bien élever ses"
-	cont "p'tits #MON?"
+	cont "p'tits #mon?"
 	done
 
 AcademyEarlTeachHowToRaiseWellText:
@@ -210,22 +210,22 @@ AcademyEarlTeachHowToRaiseWellText:
 	cont "Ton éducation"
 	cont "je ferai!"
 
-	para "Tout #MON qui"
+	para "Tout #mon qui"
 	line "participe au"
 
 	para "combat, même"
 	line "brièvement, ga-"
 	cont "gne des points"
-	cont "d'EXP."
+	cont "d'Exp."
 
 	para "Mets en première"
-	line "ligne un #MON"
+	line "ligne un #mon"
 
 	para "faible et change-"
 	line "le rapidement!"
 
 	para "De cette façon,"
-	line "les #MON fai-"
+	line "les #mon fai-"
 	cont "bles seront bons!"
 	done
 
@@ -236,7 +236,7 @@ AcademyEarlNoMoreToTeachText:
 	cont "t'apprendre!"
 
 	para "Aime fort tes"
-	line "#MON!"
+	line "#mon!"
 	done
 
 EarlsPokemonAcademyYoungster1Text:
@@ -252,28 +252,28 @@ EarlsPokemonAcademyYoungster1Text:
 
 EarlsPokemonAcademyGameboyKid1Text:
 	text "J'ai échangé mon"
-	line "meilleur #MON"
+	line "meilleur #mon"
 	cont "avec celui du gars"
 	cont "à côté de moi."
 	done
 
 EarlsPokemonAcademyGameboyKid2Text:
-	text "Hein? Le #MON"
+	text "Hein? Le #mon"
 	line "que je viens"
 	cont "d'avoir tient"
 	cont "quelque chose!"
 	done
 
 EarlsPokemonAcademyYoungster2Text:
-	text "Un #MON tenant"
-	line "une BAIE se soi-"
+	text "Un #mon tenant"
+	line "une Baie se soi-"
 	cont "gnera tout seul en"
 	cont "combat."
 
 	para "Beaucoup d'autres"
 	line "objets peuvent"
 	cont "être tenus par les"
-	cont "#MON..."
+	cont "#mon..."
 
 	para "Ecrire..."
 	line "C'est dur..."
@@ -284,7 +284,7 @@ AcademyBlackboardText:
 	line "les changements de"
 
 	para "statut des"
-	line "#MON pendant"
+	line "#mon pendant"
 	cont "les combats."
 	done
 
@@ -294,11 +294,11 @@ AcademyBlackboardText2: ; unreferenced
 
 AcademyPoisonText:
 	text "Empoisonné, votre"
-	line "#MON perd"
+	line "#mon perd"
 	cont "régulièrement des"
 	cont "PV."
 
-	para "Le poison agit"
+	para "Le Poison agit"
 	line "même après le"
 
 	para "combat et vous"
@@ -307,11 +307,11 @@ AcademyPoisonText:
 
 	para "Seul remède connu"
 	line "à ce jour:"
-	cont "l'ANTIDOTE."
+	cont "l'Antidote."
 	done
 
 AcademyParalysisText:
-	text "La paralysie"
+	text "La Paralysie"
 	line "réduit la vitesse"
 	cont "et peut empêcher"
 	cont "de lancer une"
@@ -319,49 +319,49 @@ AcademyParalysisText:
 
 	para "Elle dure même"
 	line "après le combat."
-	cont "L'ANTI-PARA peut"
+	cont "L'Anti-Para peut"
 	cont "l'annuler."
 	done
 
 AcademySleepText:
 	text "Endormi, votre"
-	line "#MON ne peut"
+	line "#mon ne peut"
 	cont "pas réagir."
 
-	para "Un #MON endormi"
-	line "ne se réveille pas"
+	para "Un #mon endormi"
+	line "ne se Réveille pas"
 	cont "après le combat."
 
 	para "Réveillez-le avec"
-	line "un REVEIL."
+	line "un Réveil."
 	done
 
 AcademyBurnText:
-	text "Une brûlure con-"
+	text "Une Brûlure con-"
 	line "somme des PV. Elle"
 
 	para "réduit aussi la"
 	line "force d'attaque."
 
-	para "La brûlure conti-"
+	para "La Brûlure conti-"
 	line "nue même après le"
 	cont "combat."
 
 	para "Utilisez de"
-	line "l'ANTI-BRULE pour"
+	line "l'Anti-Brûle pour"
 	cont "la soigner."
 	done
 
 AcademyFreezeText:
-	text "Si votre #MON"
-	line "est gelé, il ne"
+	text "Si votre #mon"
+	line "est Gelé, il ne"
 	cont "pourra rien faire."
 
-	para "Le gel continue"
+	para "Le Gel continue"
 	line "après le combat."
 
 	para "Mieux qu'un radia-"
-	line "teur, l'ANTIGEL"
+	line "teur, l'Antigel"
 	cont "le réchauffera!"
 	done
 
@@ -370,11 +370,11 @@ AcademyNotebookText:
 	line "ce gamin..."
 
 	para "Attrapez les"
-	line "#MON en lançant"
-	cont "les # BALLS."
+	line "#mon en lançant"
+	cont "les # Balls."
 
 	para "Vous pouvez trans-"
-	line "porter six #MON"
+	line "porter six #mon"
 	cont "avec vous."
 
 	para "Continuer à lire?"
@@ -382,12 +382,12 @@ AcademyNotebookText:
 
 AcademyNotebookText1:
 	text "Avant de lancer"
-	line "une # BALL,"
+	line "une # Ball,"
 	cont "affaiblissez le"
-	cont "#MON."
+	cont "#mon."
 
-	para "Un #MON brûlé"
-	line "ou empoisonné est"
+	para "Un #mon brûlé"
+	line "ou Empoisonné est"
 	cont "plus facile à"
 	cont "attraper."
 
@@ -398,17 +398,17 @@ AcademyNotebookText2:
 	text "Certaines capaci-"
 	line "tés peuvent em-"
 	cont "brouiller l'esprit"
-	cont "du #MON"
+	cont "du #mon"
 	cont "adverse."
 
-	para "Une fois confus,"
-	line "le #MON peut"
+	para "Une fois Confus,"
+	line "le #mon peut"
 	cont "s'attaquer lui-"
 	cont "même."
 
 	para "Fuir le combat"
 	line "annule tout effet"
-	cont "de confusion."
+	cont "de Confusion."
 
 	para "Continuer à lire?"
 	done
@@ -417,17 +417,17 @@ AcademyNotebookText3:
 	text "Les personnes qui"
 	line "attrapent et uti-"
 
-	para "lisent les #MON"
+	para "lisent les #mon"
 	line "pour les combats"
 	cont "sont des dresseurs"
-	cont "de #MON."
+	cont "de #mon."
 
 	para "Leur but est de"
 	line "défier et vaincre"
 
 	para "tous les dresseurs"
-	line "et CHAMPIONS"
-	cont "d'ARENES."
+	line "et Champions"
+	cont "d'Arènes."
 
 	para "La page suivante"
 	line "est...blanche!"

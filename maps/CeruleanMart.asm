@@ -25,19 +25,19 @@ CeruleanMart_CooltrainerMText:
 	line "coup de dresseurs"
 
 	para "sur la route du"
-	line "CAP d'AZURIA."
+	line "Cap d'Azuria."
 
 	para "Ils voudront se"
 	line "mesurer à toi."
 	done
 
 CeruleanMart_CooltrainerFText:
-	text "ONDINE est peut-"
+	text "Ondine est peut-"
 	line "être la seule à"
 
 	para "pouvoir battre les"
-	line "dresseurs du CAP"
-	cont "d'AZURIA."
+	line "dresseurs du Cap"
+	cont "d'Azuria."
 	done
 
 CeruleanMart_MapEvents:

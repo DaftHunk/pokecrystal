@@ -165,8 +165,7 @@ endc
 	db   "Appuyer sur A"
 	next "pour lien IR."
 	next "Appuyer sur B"
-	next "pour annuler."
-	db   "@"
+	next "pour annuler.@"
 
 .MysteryGiftCanceledText:
 	text_far _MysteryGiftCanceledText
@@ -1693,11 +1692,10 @@ endr
 	ret
 
 .String_PressAToLink_BToCancel_JP:
-	db   "エーボタン<WO>おすと"
-	next "つうしん<PKMN>おこなわれるよ！"
-	next "ビーボタン<WO>おすと"
-	next "つうしん<WO>ちゅうし　します"
-	db   "@"
+	db   "Appuyer sur A"
+	next "pour lien IR."
+	next "Appuyer sur B"
+	next "pour annuler.@"
 
 .NameCardReceivedCardText:
 	text_far _NameCardReceivedCardText

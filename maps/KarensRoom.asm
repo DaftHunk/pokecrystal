@@ -79,15 +79,15 @@ KarensRoom_EnterMovement:
 	step_end
 
 KarenScript_KarenBeforeText:
-	text "Je suis MARION du"
-	line "CONSEIL des 4."
+	text "Je suis Marion du"
+	line "Conseil des 4."
 
 	para "C'est toi <PLAYER>?"
 	line "C'est marrant."
 
 	para "Moi j'aime les"
-	line "#MON des"
-	cont "TENEBRES."
+	line "#mon des"
+	cont "Ténèbres."
 
 	para "Leur look noir"
 	line "et méchant est"
@@ -108,9 +108,9 @@ KarenScript_KarenBeatenText:
 	done
 
 KarenScript_KarenDefeatText:
-	text "#MON puissants."
+	text "#mon puissants."
 
-	para "#MON faibles."
+	para "#mon faibles."
 
 	para "Cette vision est"
 	line "faite pour les"
@@ -118,14 +118,14 @@ KarenScript_KarenDefeatText:
 
 	para "Les bons dresseurs"
 	line "gagnent avec leurs"
-	cont "#MON favoris."
+	cont "#mon favoris."
 
 	para "J'aime ton style."
 	line "Tu as du"
 	cont "talent..."
 
 	para "Allez, va..."
-	line "Le MAITRE attend."
+	line "Le Maître attend."
 	done
 
 KarensRoom_MapEvents:

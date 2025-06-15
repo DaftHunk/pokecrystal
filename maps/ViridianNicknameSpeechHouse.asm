@@ -34,7 +34,7 @@ Rattey:
 ViridianNicknameSpeechHousePokefanMText:
 	text "Donnes-tu des"
 	line "surnoms cool à tes"
-	cont "#MON?"
+	cont "#mon?"
 
 	para "C'est toujours"
 	line "amusant pendant"
@@ -42,18 +42,18 @@ ViridianNicknameSpeechHousePokefanMText:
 	done
 
 ViridianNicknameSpeechHouseLassText:
-	text "PIAFFY pour un"
-	line "PIAFABEC, ou"
-	cont "RATATOUILLE pour"
-	cont "un RATTATA."
+	text "Piaffy pour un"
+	line "Piafabec, ou"
+	cont "Ratatouille pour"
+	cont "un Rattata."
 	done
 
 SpearyText:
-	text "PIAFFY: Piaaaa!"
+	text "Piaffy: Piaaaa!"
 	done
 
 RatteyText:
-	text "RATATOUILLE: Raaa!"
+	text "Ratatouille: Raaa!"
 	done
 
 ViridianNicknameSpeechHouse_MapEvents:

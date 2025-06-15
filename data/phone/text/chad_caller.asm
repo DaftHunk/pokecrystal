@@ -10,9 +10,9 @@ ChadObservingWildText:
 	cont "plein de trucs."
 
 	para "Je veux être un"
-	line "chercheur #MON"
-	cont "comme le PROF."
-	cont "CHEN."
+	line "chercheur #mon"
+	cont "comme le Prof."
+	cont "Chen."
 	done
 
 ChadDefeatedMonText:
@@ -58,13 +58,13 @@ ChadHangUpText:
 	done
 
 ChadBlueGossipText:
-	text "Tu connais BLUE?"
+	text "Tu connais Blue?"
 
 	para "Il est le petit-"
-	line "fils du PROF.CHEN"
+	line "fils du Prof.Chen"
 
 	para "et un ancien"
-	line "MAITRE de LIGUE!"
+	line "Maître de Ligue!"
 
 	para "C'est un sacré"
 	line "dresseur!"
@@ -72,24 +72,24 @@ ChadBlueGossipText:
 
 ChadDaisyGossipText:
 	text "La petite-fille du"
-	line "PROF.CHEN s'appel-"
-	cont "le NINA."
+	line "Prof.Chen s'appel-"
+	cont "le Nina."
 
 	para "Elle a le pouvoir"
 	line "de calmer même"
 
-	para "les #MON les"
+	para "les #mon les"
 	line "plus féroces."
 	done
 
 ChadProfElmGossipText:
 	text "Tout le monde"
-	line "parle du PROF."
-	cont "ORME."
+	line "parle du Prof."
+	cont "Orme."
 
 	para "Il était"
 	line "l'assistant du"
-	cont "PROF.CHEN!"
+	cont "Prof.Chen!"
 
 	para "C'est trop cool!"
 	line "Je l'envie!"
@@ -97,10 +97,10 @@ ChadProfElmGossipText:
 
 ChadProfOaksDreamGossipText:
 	text "Le rêve du"
-	line "PROF.CHEN est"
+	line "Prof.Chen est"
 
 	para "d'avoir un"
-	line "#DEX complet."
+	line "#dex complet."
 
 	para "Je t'envie de"
 	line "faire partie de ce"
@@ -108,12 +108,12 @@ ChadProfOaksDreamGossipText:
 	done
 
 ChadKurtGossipText:
-	text "Tu connais FARGAS,"
+	text "Tu connais Fargas,"
 	line "le créateur de"
-	cont "BALLS?"
+	cont "Balls?"
 
 	para "Il connaît le"
-	line "PROF.CHEN depuis"
+	line "Prof.Chen depuis"
 	cont "longtemps."
 
 	para "Les grands esprits"
@@ -121,27 +121,27 @@ ChadKurtGossipText:
 	done
 
 ChadLeagueGossipText:
-	text "La LIGUE #MON"
+	text "La Ligue #mon"
 	line "est le centre le"
 	cont "plus visité par"
 
 	para "des dresseurs en"
 	line "quête de victoire."
 
-	para "Le PROF.CHEN est"
+	para "Le Prof.Chen est"
 	line "un consultant aux"
 
 	para "quartiers généraux"
-	line "de la LIGUE."
+	line "de la Ligue."
 
 	para "Il est si"
 	line "merveilleux."
 	done
 
 ChadPokemonTalkGossipText:
-	text "La CHRONIQUE"
-	line "#MON du PROF."
-	cont "CHEN est une"
+	text "La Chronique"
+	line "#mon du Prof."
+	cont "Chen est une"
 	cont "émission de radio,"
 	cont "d'accord?"
 
@@ -151,17 +151,17 @@ ChadPokemonTalkGossipText:
 	para "pouvait pas passer"
 	line "à l'antenne?"
 
-	para "Mais LULA a été si"
+	para "Mais Lula a été si"
 	line "persuasive que la"
 	cont "direction a"
 	cont "accepté."
 
 	para "Remercions tous"
-	line "LULA!"
+	line "Lula!"
 	done
 
 ChadProfOakTrainerGossipText:
-	text "Le PROF.CHEN"
+	text "Le Prof.Chen"
 	line "était un dresseur"
 	cont "il y a longtemps."
 
@@ -177,9 +177,9 @@ ChadProfOakTrainerGossipText:
 	done
 
 ChadDaisyTeaGossipText:
-	text "Le PROF.CHEN a une"
+	text "Le Prof.Chen a une"
 	line "petite-fille du"
-	cont "nom de NINA."
+	cont "nom de Nina."
 
 	para "Elle aime boire du"
 	line "thé vers 3 heures"
@@ -189,19 +189,19 @@ ChadDaisyTeaGossipText:
 	line "de la fête et"
 
 	para "parler avec le"
-	line "PROF.CHEN."
+	line "Prof.Chen."
 	done
 
 ChadProfOakTravelingGossipText:
 	text "Le savais-tu?"
-	line "Le PROF.CHEN a"
+	line "Le Prof.Chen a"
 
 	para "fait le tour du"
 	line "monde étant jeune."
 
 	para "Il a dû en appren-"
 	line "dre beaucoup sur"
-	cont "les #MON."
+	cont "les #mon."
 
 	para "Comme je l'envie!"
 	done
@@ -211,7 +211,7 @@ ChadGoingToStudyHardText:
 	line "pour devenir"
 
 	para "l'assistant du"
-	line "PROF.CHEN!"
+	line "Prof.Chen!"
 	done
 
 ChadReminderText:

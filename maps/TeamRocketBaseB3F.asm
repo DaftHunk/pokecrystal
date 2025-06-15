@@ -317,17 +317,17 @@ RocketBaseRivalShovesPlayerMovement:
 	step_end
 
 LanceGetPasswordText:
-	text "PETER: Il faut 2"
+	text "Peter: Il faut 2"
 	line "mots de passe pour"
 
 	para "entrer chez le"
 	line "boss."
 
 	para "Seuls certains"
-	line "ROCKETS les con-"
+	line "Rockets les con-"
 	cont "naissent."
 
-	para "Ce ROCKET m'a ap-"
+	para "Ce Rocket m'a ap-"
 	line "pris tout ça très"
 	cont "gentiment."
 
@@ -348,16 +348,16 @@ RocketBaseRivalText:
 	para "J'te l'avais dit"
 	line "que j'allais la"
 
-	para "casser la TEAM"
-	line "ROCKET, non?"
+	para "casser la Team"
+	line "Rocket, non?"
 
 	para "Au fait, kissé le"
 	line "type avec la cape"
 
 	para "qui a plein de"
-	line "#MON dragons?"
+	line "#mon dragons?"
 
-	para "Mes #MON se"
+	para "Mes #mon se"
 	line "sont fait éclater."
 
 	para "Mais c'est pas"
@@ -372,7 +372,7 @@ RocketBaseRivalText:
 	para "Il raconte que je"
 	line "n'aime ni ne res-"
 
-	para "pecte mes #MON."
+	para "pecte mes #mon."
 	line "Tu le crois ça?"
 
 	para "Comment j'ai pu"
@@ -389,10 +389,10 @@ ExecutiveM4BeforeText:
 	line "C'est le bureau de"
 
 	para "notre chef vénéré,"
-	line "GIOVANNI."
+	line "Giovanni."
 
 	para "Depuis la dissolu-"
-	line "tion de la TEAM il"
+	line "tion de la Team il"
 
 	para "y a 3 ans, il"
 	line "s'entraîne à fond."
@@ -416,7 +416,7 @@ ExecutiveM4BeatenText:
 	text "Je...comment..."
 	line "Trop balèze."
 
-	para "GIOVANNI, pitié."
+	para "Giovanni, pitié."
 	line "Pardonne-moi!"
 	done
 
@@ -429,10 +429,10 @@ ExecutiveM4AfterText:
 	done
 
 RocketBaseMurkrowText:
-	text "CORNEBRE: Le mot"
+	text "Cornèbre: Le mot"
 	line "de passe est..."
 
-	para "VIVE GIOVANNI."
+	para "VIVE Giovanni."
 	done
 
 GruntF5SeenText:
@@ -455,7 +455,7 @@ GruntF5AfterBattleText:
 	line "la salle du chef"
 	cont "est..."
 
-	para "QUEUERAMOLOS."
+	para "QueueRamolos."
 
 	para "Mais ça te sert à"
 	line "rien sans l'autre"
@@ -492,16 +492,16 @@ GruntM28AfterBattleText:
 	line "est..."
 
 	para "Heu...c'est..."
-	line "QUEUE RATTATAC."
+	line "Queue Rattatac."
 	done
 
 ScientistRossSeenText:
 	text "Je travaillais"
-	line "pour la SYLPHE"
+	line "pour la Sylphe"
 
 	para "mais maintenant je"
 	line "suis pour la"
-	cont "TEAM ROCKET."
+	cont "Team Rocket."
 
 	para "Une petite peste"
 	line "comme toi doit"
@@ -516,7 +516,7 @@ ScientistRossBeatenText:
 ScientistRossAfterBattleText:
 	text "Un signal radio"
 	line "qui rend les #-"
-	cont "MON fous..."
+	cont "mon fous..."
 
 	para "Mon expérience est"
 	line "une réussite."
@@ -530,7 +530,7 @@ ScientistRossAfterBattleText:
 
 ScientistMitchSeenText:
 	text "Blesser des #-"
-	line "MON pendant les"
+	line "mon pendant les"
 	cont "expériences n'est"
 	cont "pas un problème."
 	done

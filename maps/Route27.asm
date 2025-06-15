@@ -324,10 +324,10 @@ Route27FisherText:
 
 	para "Tu viens de faire"
 	line "ton premier pas à"
-	cont "KANTO..."
+	cont "Kanto..."
 
-	para "Regarde la CARTE"
-	line "de ton #MATOS!"
+	para "Regarde la Carte"
+	line "de ton #matos!"
 	done
 
 CooltrainermBlakeSeenText:
@@ -369,7 +369,7 @@ CooltrainerfReenaSeenText:
 	text "Tu devrais faire"
 	line "attention aux"
 
-	para "#MON sauvages"
+	para "#mon sauvages"
 	line "du coin."
 	done
 
@@ -403,9 +403,9 @@ CooltrainerfMeganAfterBattleText:
 	line "formes antérieures"
 	cont "et postérieures"
 	cont "aux évolutions des"
-	cont "#MON."
+	cont "#mon."
 
-	para "Un #MON évolué"
+	para "Un #mon évolué"
 	line "est toujours plus"
 	cont "fort."
 
@@ -424,7 +424,7 @@ PsychicGilbertSeenText:
 
 	para "Je sais! Tu veux"
 	line "te mesurer à la"
-	cont "LIGUE #MON!"
+	cont "Ligue #mon!"
 	done
 
 PsychicGilbertBeatenText:
@@ -433,7 +433,7 @@ PsychicGilbertBeatenText:
 
 PsychicGilbertAfterBattleText:
 	text "Tu vas cartonner"
-	line "à la LIGUE..."
+	line "à la Ligue..."
 	cont "C'est sûr!"
 
 	para "Je le sais."
@@ -450,19 +450,19 @@ BirdKeeperJose2BeatenText:
 	done
 
 BirdKeeperJose2AfterBattleText:
-	text "Les ORNITHOLOGUES"
+	text "Les Ornithologues"
 	line "aiment siffler"
 
 	para "comme les oiseaux"
 	line "pour parler aux"
-	cont "#MON."
+	cont "#mon."
 	done
 
 TohjoFallsSignText:
-	text "CHUTES TOHJO"
+	text "Chutes Tohjo"
 
 	para "Le lien entre"
-	line "KANTO et JOHTO"
+	line "Kanto et Johto"
 	done
 
 Route27_MapEvents:

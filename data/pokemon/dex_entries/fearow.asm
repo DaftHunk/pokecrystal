@@ -1,4 +1,4 @@
-	db "BEC-OISEAU@" ; species name
+	db "Bec-Oiseau@" ; species name
 	db 12 ; height
 	dw 380 ; weight
 

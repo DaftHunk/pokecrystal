@@ -116,7 +116,7 @@ RuinsOfAlphHoOhChamberWallPatternLeftText:
 
 RuinsOfAlphHoOhChamberUnownText: ; unreferenced
 	text "C'est du texte"
-	line "ZARBI!"
+	line "Zarbi!"
 	done
 
 RuinsOfAlphHoOhChamberWallPatternRightText:
@@ -133,11 +133,11 @@ RuinsOfAlphHoOhChamberWallHoleText:
 RuinsOfAlphHoOhChamberAncientReplicaText:
 	text "C'est la réplique"
 	line "d'un ancien #-"
-	cont "MON."
+	cont "mon."
 	done
 
 RuinsOfAlphHoOhChamberDescriptionText:
-	text "Un #MON qui"
+	text "Un #mon qui"
 	line "volait avec grâce"
 
 	para "en battant ses"

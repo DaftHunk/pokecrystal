@@ -38,7 +38,7 @@ CherrygrovePokecenter1FFisherText:
 	text "C'est super. Je"
 	line "peux stocker"
 
-	para "autant de #MON"
+	para "autant de #mon"
 	line "que je veux et"
 	cont "c'est gratuit."
 	done
@@ -50,8 +50,8 @@ CherrygrovePokecenter1FGentlemanText:
 	done
 
 CherrygrovePokecenter1FTeacherText:
-	text "Le CENTRE de"
-	line "COMMUNICATION"
+	text "Le Centre de"
+	line "Communication"
 	cont "d'au-dessus vient"
 	cont "d'être construit."
 
@@ -60,13 +60,13 @@ CherrygrovePokecenter1FTeacherText:
 	done
 
 CherrygrovePokecenter1FTeacherText_CommCenterOpen:
-	text "Le CENTRE de"
-	line "COMMUNICATION"
+	text "Le Centre de"
+	line "Communication"
 	cont "d'au-dessus vient"
 	cont "d'être construit."
 
 	para "J'y ai échangé"
-	line "des #MON!"
+	line "des #mon!"
 	done
 
 CherrygrovePokecenter1F_MapEvents:

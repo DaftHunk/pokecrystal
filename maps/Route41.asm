@@ -153,7 +153,7 @@ SwimmermGeorgeSeenText:
 	text "J'suis fatigué."
 	line "Si je gagne, tu me"
 	cont "prêtes tes #-"
-	cont "MON, OK?"
+	cont "mon, OK?"
 	done
 
 SwimmermGeorgeBeatenText:
@@ -161,11 +161,11 @@ SwimmermGeorgeBeatenText:
 	done
 
 SwimmermGeorgeAfterBattleText:
-	text "IRISIA est si"
+	text "Irisia est si"
 	line "loin."
 
 	para "Mais retourner à"
-	line "OLIVILLE... Ca"
+	line "Oliville... Ca"
 	cont "fait une trotte!"
 
 	para "Que faire?"
@@ -190,7 +190,7 @@ SwimmermBerkeAfterBattleText:
 	text "Par une nuit noire"
 	line "et profonde..."
 
-	para "J'ai vu ce #MON"
+	para "J'ai vu ce #mon"
 	line "géant voler depuis"
 	cont "les îles."
 
@@ -220,7 +220,7 @@ SwimmermKirkAfterBattleText:
 SwimmermMathewSeenText:
 	text "Tu cherches le"
 	line "secret des"
-	cont "TOURB'ILES?"
+	cont "Tourb'Iles?"
 	done
 
 SwimmermMathewBeatenText:
@@ -230,7 +230,7 @@ SwimmermMathewBeatenText:
 
 SwimmermMathewAfterBattleText:
 	text "Il y a un secret"
-	line "aux TOURB'ILES..."
+	line "aux Tourb'Iles..."
 
 	para "Il y fait noir!"
 	line "Ca c'est sûr!"
@@ -238,7 +238,7 @@ SwimmermMathewAfterBattleText:
 
 SwimmerfKayleeSeenText:
 	text "Je vais aux"
-	line "TOURB'ILES."
+	line "Tourb'Iles."
 
 	para "Je vais les explo-"
 	line "rer avec un ami."
@@ -250,9 +250,9 @@ SwimmerfKayleeBeatenText:
 
 SwimmerfKayleeAfterBattleText:
 	text "On dit qu'il y a"
-	line "un gros #MON"
+	line "un gros #mon"
 	cont "au fond des"
-	cont "TOURB'ILES."
+	cont "Tourb'Iles."
 
 	para "Je me demande ce"
 	line "que c'est..."
@@ -260,7 +260,7 @@ SwimmerfKayleeAfterBattleText:
 
 SwimmerfSusieSeenText:
 	text "Cool, t'es à dada"
-	line "sur ton #MON."
+	line "sur ton #mon."
 	done
 
 SwimmerfSusieBeatenText:
@@ -270,7 +270,7 @@ SwimmerfSusieBeatenText:
 SwimmerfSusieAfterBattleText:
 	text "Ca fait quel effet"
 	line "de monter sur un"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 SwimmerfDeniseSeenText:
@@ -309,12 +309,12 @@ SwimmerfKaraBeatenText:
 
 SwimmerfKaraAfterBattleText:
 	text "J'entends des cris"
-	line "venant des ILES."
+	line "venant des Iles."
 	done
 
 SwimmerfWendySeenText:
 	text "La nuit tombée,"
-	line "des STARI se réu-"
+	line "des Stari se réu-"
 	cont "nissent à la sur-"
 	cont "face de l'eau."
 	done
@@ -324,7 +324,7 @@ SwimmerfWendyBeatenText:
 	done
 
 SwimmerfWendyAfterBattleText:
-	text "Le coeur des STARI"
+	text "Le coeur des Stari"
 	line "s'allume en même"
 	cont "temps."
 

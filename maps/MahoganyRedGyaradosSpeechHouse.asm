@@ -34,21 +34,21 @@ MahoganyRedGyaradosSpeechHouseUnusedBookshelf2: ; unreferenced
 
 MahoganyRedGyaradosSpeechHouseBlackBeltText:
 	text "J'ai entendu dire"
-	line "qu'un LEVIATOR"
+	line "qu'un Léviator"
 	cont "rouge est apparu"
-	cont "au LAC."
+	cont "au Lac."
 
 	para "C'est bizarre..."
-	line "Même un LEVIATOR"
+	line "Même un Léviator"
 
 	para "ordinaire est très"
-	line "rare dans ce LAC!"
+	line "rare dans ce Lac!"
 	done
 
 MahoganyRedGyaradosSpeechHouseTeacherText:
 	text "Mon émission de"
 	line "radio préférée?"
-	cont "La #MUSIQUE!"
+	cont "La #musique!"
 	done
 
 MahoganyRedGyaradosSpeechHouseTeacherText_RocketsInRadioTower:

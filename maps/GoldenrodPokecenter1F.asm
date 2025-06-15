@@ -150,212 +150,554 @@ GoldenrodPokeCenter1FLinkReceptionistWalkToStairsFromRightDoorwayTileMovement:
 	step DOWN
 	step_end
 
-GoldenrodPokecomCenterWelcomeToTradeCornerText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWelcomeToTradeCornerText:
+	text "Bonjour! Bienvenue"
+	line "au Coin Troc du"
+	cont "Centre #com."
+	
+	para "Içi, vous pouvez"
+	line "faire des échanges"
+	
+	para "de #mon longue"
+	line "distance."
 	done
 
-GoldenrodPokecomCenterWeMustHoldYourMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWeMustHoldYourMonText:
+	text "Pour faire un"
+	line "échange, nous"
+	cont "devons garder un"
+	
+	para "de vos #mon."
+	line "Faire un échange?"
 	done
 
-GoldenrodPokecomCenterWhatMonDoYouWantText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWhatMonDoYouWantText:
+	text "Quel #mon"
+	line "voulez-vous en"
+	cont "échange?"
 	done
 
-GoldenrodPokecomCenterWeWillTradeYourMonForMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWeWillTradeYourMonForMonText:
+	text "Bien, nous allons"
+	line "essayer d'échanger"
+	cont "votre"
+
+	para "@"
+	text_ram wStringBuffer3
+	text " contre"
+	line "@"
+	text_ram wStringBuffer4
+	text "."
+
+	para "Pour cela, votre"
+	line "#mon va rester"
+	
+	para "avec nous pendant"
+	line "l'échange."
+
+	para "Patientez un peu,"
+	line "les préparations"
+	cont "sont en cours."
 	done
 
-GoldenrodPokecomCenterWeWillTradeYourMonForNewText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWeWillTradeYourMonForNewText:
+	text "Bien, nous allons"
+	line "essayer d'échanger"
+	cont "votre"
+
+	para "@"
+	text_ram wStringBuffer3
+	text " contre un #mon"
+	line "que vous n'avez"
+	cont "jamais vu."
+
+	para "Pour cela, votre"
+	line "#mon va rester"
+	
+	para "avec nous pendant"
+	line "l'échange."
+
+	para "Patientez un peu,"
+	line "les préparations"
+	cont "sont en cours."
 	done
 
-GoldenrodPokecomCenterYourMonHasBeenReceivedText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterYourMonHasBeenReceivedText:
+	text "Votre #mon a"
+	line "bien été reçu."
+
+	para "Trouver un parte-"
+	line "naire d'échange"
+
+	para "prendra un peu de"
+	line "temps. Revenez"
+	cont "plus tard s.v.p."
 	done
 
-GoldenrodPokecomCenterYouHaveOnlyOneMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterYouHaveOnlyOneMonText:
+	text "Oh? Vous n'avez"
+	line "qu'un seul #mon"
+	cont "dans votre équipe."
+
+	para "Revenez nous voir"
+	line "quand vous aurez"
+	cont "rajouté du monde"
+	cont "à votre équipe."
 	done
 
-GoldenrodPokecomCenterWeHopeToSeeYouAgainText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWeHopeToSeeYouAgainText:
+	text "Encore merci et"
+	line "à bientôt!"
 	done
 
 GoldenrodPokecomCenterCommunicationErrorText: ; unreferenced
-	text_start
+	text "Erreur de"
+	line "communication..."
 	done
 
-GoldenrodPokecomCenterCantAcceptLastMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterCantAcceptLastMonText:
+	text "Si nous acceptons"
+	line "ce #mon, votre"
+	cont "équipe sera vide."
 	done
 
-GoldenrodPokecomCenterCantAcceptEggText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterCantAcceptEggText:
+	text "Désolé, mais nous"
+	line "n'acceptons pas"
+	cont "les Oeufs."
 	done
 
-GoldenrodPokecomCenterCantAcceptAbnormalMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterCantAcceptAbnormalMonText:
+	text "Désolé, mais votre"
+	line "#mon semble"
+	cont "anormal."
+
+	para "Nous ne pouvons"
+	line "pas l'accepter."
 	done
 
-GoldenrodPokecomCenterAlreadyHoldingMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterAlreadyHoldingMonText:
+	text "Oh? N'avons nous"
+	line "pas déjà un de vos"
+	cont "#mon avec nous?"
 	done
 
-GoldenrodPokecomCenterCheckingTheRoomsText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterCheckingTheRoomsText:
+	text "Nous vérifions"
+	line "les salles."
+
+	para "Attendez s.v.p."
 	done
 
-GoldenrodPokecomCenterTradePartnerHasBeenFoundText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterTradePartnerHasBeenFoundText:
+	text "Merci de votre"
+	line "patience."
+
+	para "Un partenaire"
+	line "d'échange à été"  
+	cont "trouvé."
 	done
 
-GoldenrodPokecomCenterItsYourNewPartnerText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterItsYourNewPartnerText:
+	text "Le voilà! Votre"
+	line "nouveau compagnon!"
+
+	para "Prenez soin de lui"
+	line "et aimez-le de"
+	cont "tout votre coeur."
+
+	para "En espérant vous"
+	line "revoir bientôt!"
 	done
 
-GoldenrodPokecomCenterYourPartyIsFullText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterYourPartyIsFullText:
+	text "Mince alors! Votre"
+	line "équipe est pleine!"
+
+	para "Revenez nous voir"
+	line "quand vous aurez"
+	cont "fais de la place"
+	cont "dans votre équipe."
 	done
 
-GoldenrodPokecomCenterNoTradePartnerFoundText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterNoTradePartnerFoundText:
+	text "C'est malheureux,"
+	line "mais personne ne"
+
+	para "semble intéressé"
+	line "par votre #mon."
+
+	para "Voulez-vous le"
+	line "récupérer?"
 	done
 
-GoldenrodPokecomCenterReturnedYourMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterReturnedYourMonText:
+	text "Votre #mon vous"
+	line "a été rendu."
 	done
 
-GoldenrodPokecomCenterYourMonIsLonelyText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterYourMonIsLonelyText:
+	text "C'est malheureux,"
+	line "mais personne ne"
+
+	para "semble intéressé"
+	line "par votre #mon."
+
+	para "Il est maintenant"
+	line "avec nous depuis"
+
+	para "longtemps, et il"
+	line "commence à se"
+	cont "sentir très seul."
+
+	para "Désolé mais nous"
+	line "nous devons de"
+	cont "vous le rendre."
 	done
 
-GoldenrodPokecenter1FWeHopeToSeeYouAgainText_2: ; unreferenced
-	text_start
+GoldenrodPokecenter1FWeHopeToSeeYouAgainText_2:
+	text "Encore merci et"
+	line "à bientôt!"
 	done
 
-GoldenrodPokecomCenterContinueToHoldYourMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterContinueToHoldYourMonText:
+	text "Très bien. Votre"
+	line "#mon va donc"
+	cont "rester avec nous."
 	done
 
-GoldenrodPokecomCenterRecentlyLeftYourMonText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterRecentlyLeftYourMonText:
+	text "Oh? Vous nous avez"
+	line "laissé votre #-"
+	cont "mon que récemment."
+	
+	para "Revenez plus tard"
+	line "s'il vous plaît."
 	done
 
-GoldenrodPokecomCenterSaveBeforeTradeCornerText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterSaveBeforeTradeCornerText:
+	text "Nous allons Sauve-"
+	line "garder avant la"
+
+	para "connexion avec le"
+	line "Centre."
 	done
 
-GoldenrodPokecomCenterWhichMonToTradeText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWhichMonToTradeText:
+	text "Quel #mon"
+	line "échanger?"
 	done
 
-GoldenrodPokecomCenterTradeCanceledText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterTradeCanceledText:
+	text "Je suis désolée,"
+	line "mais l'échange doit"
+	cont "être annulé."
 	done
 
-GoldenrodPokecomCenterEggTicketText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterEggTicketText:
+	text "Oh!"
+
+	para "Je vois que vous"
+	line "avez un Ticket"
+	cont "Oeuf!"
+
+	para "C'est un coupon"
+	line "que des personnes"
+
+	para "spéciales peuvent"
+	line "échanger contre"
+
+	para "un #mon tout"
+	line "aussi spécial!"
 	done
 
-GoldenrodPokecomCenterOddEggBriefingText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterOddEggBriefingText:
+	text "Laissez-moi tout"
+	line "vous expliquer."
+
+	para "Les échanges du"
+	line "Coin Troc se font"
+
+	para "entre dresseurs"
+	line "qui ne se "
+	cont "connaissent pas."
+
+	para "Ainsi, trouver une"
+	line "personne voulant"
+
+	para "échanger avec vous"
+	line "peut prendre un"
+	cont "petit moment."
+
+	para "L'Oeuf Bizarre,"
+	line "quant à lui, est"
+
+	para "offert à chaque"
+	line "nouvel adhérent."
+
+	para "Récupérez-le dès"
+	line "maintenant en vous"
+	cont "rendant au Centre!"
 	done
 
-GoldenrodPokecomCenterPleaseWaitAMomentText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterPleaseWaitAMomentText:
+	text "Patientez un" 
+	line "instant s.v.p."
 	done
 
-GoldenrodPokecomCenterHereIsYourOddEggText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterHereIsYourOddEggText:
+	text "Merci de votre"
+	line "patience. Votre"
+
+	para "Oeuf Bizarre a"
+	line "bien été reçu."
+
+	para "Le voici le voilà!"
+
+	para "Donnez-lui tout"
+	line "votre amour!"
 	done
 
-GoldenrodPokecomCenterNoEggTicketServiceText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterNoEggTicketServiceText:
+	text "Désolé, mais nous"
+	
+	para "n'acceptons pas"
+	line "les Tiquets Oeuf"
+	cont "pour l'instant."
 	done
 
-GoldenrodPokecomCenterNewsMachineText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterNewsMachineText:
+	text "C'est le Terminal"
+	line "des Infos #mon."
 	done
 
-GoldenrodPokecomCenterWhatToDoText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWhatToDoText:
+	text "Que voulez-vous"
+	line "faire?"
 	done
 
-GoldenrodPokecomCenterNewsMachineExplanationText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterNewsMachineExplanationText:
+	text "Les Infos #mon"
+	line "proviennent des"
+
+	para "Sauvegardes des"
+	line "dresseurs #mon."
+
+	para "Lors de la lecture"
+	line "des Infos, votre"
+
+	para "Sauvegarde pourra"
+	line "être envoyée si"
+	cont "vous le souhaitez."
+
+	para "Votre Sauvegarde"
+	line "contiendra le"
+
+	para "récit de vos"
+	line "aventures et votre"
+	cont "profile mobile."
+
+	para "Votre numéro de"
+	line "mobile ne sera pas"
+	cont "communiqué."
+
+	para "Le contenu des"
+	line "Infos dépendra des"
+
+	para "Sauvegardes que"
+	line "vous et les autres"
+
+	para "dresseurs #mon"
+	line "enverrez."
+
+	para "Vous pourriez même"
+	line "passer aux Infos!"
 	done
 
-GoldenrodPokecomCenterWouldYouLikeTheNewsText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterWouldYouLikeTheNewsText:
+	text "Recevoir les "
+	line "dernières Infos?"
 	done
 
-GoldenrodPokecomCenterReadingTheLatestNewsText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterReadingTheLatestNewsText:
+    text "Chargement des"
+    line "dernières Infos."
+    cont "Attendre s.v.p."
+    done
+
+GoldenrodPokecomCenterNoOldNewsText:
+	text "Il n'y a aucunes"
+	line "anciennes Infos…"
 	done
 
-GoldenrodPokecomCenterNoOldNewsText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterCorruptedNewsDataText:
+	text "Les données Infos"
+	line "sont corrompues."
+
+	para "Téléchargez les"
+	line "Infos à nouveau"
+	cont "s.v.p."
 	done
 
-GoldenrodPokecomCenterCorruptedNewsDataText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterMakingPreparationsText:
+	text "Des réglages sont"
+	line "encore en cours."
+
+	para "Revenez plus tard"
+	line "s.v.p."
 	done
 
-GoldenrodPokecomCenterMakingPreparationsText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterSaveBeforeNewsMachineText:
+	text "Nous allons Sauve-"
+	line "garder la partie"
+
+	para "avant de démarrer"
+	line "le Terminal Infos."
 	done
 
-GoldenrodPokecomCenterSaveBeforeNewsMachineText: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOffSuperNerdText:
+	text "Ce Centre #mon"
+	line "est immense! Ils"
+	
+	para "l'ont construit il"
+	line "y a pas longtemps."
+	
+	para "J'ai jamais vu de"
+	line "machines comme"
+	cont "celles-ci."
 	done
 
-GoldenrodPokecomCenterPerson1Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOnSuperNerdText:
+	text "Je viens d'avoir"
+	line "une super idée"
+	cont "pour le Coin Troc!"
+
+	para "Prends un Roucool,"
+	line "fais-lui tenir une"
+
+	para "Lettre, et ensuite"
+	line "échange-le contre"
+	cont "un autre!"
+
+	para "Si tout le monde"
+	line "faisait ça, les"
+
+	para "Lettres pourraient"
+	line "être échangées de"
+	cont "par le monde!"
+
+	para "Avec ce système de"
+	line "Roucool Voyageurs,"
+
+	para "je suis sûr de me"
+	line "faire des amis!"
 	done
 
-GoldenrodPokecomCenterPerson2Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOffLassText:
+	text "Apparemment, tu"
+	line "peut échanger tes"
+	
+	para "#mon avec des"
+	line "inconnus par ici."
+	
+	para "Mais ils ont pas"
+	line "encore fini avec"
+	cont "leurs réglages."
 	done
 
-GoldenrodPokecomCenterPerson3Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOnLassText1:
+	text "Une fille que je"
+	line "connais pas viens"
+
+	para "de m'envoyer son"
+	line "Granivol."
+
+	para "Quand tu fait un"
+	line "échange, dit bien"
+	
+	para "quel #mon tu"
+	line "veut en retour."
 	done
 
-GoldenrodPokecomCenterPerson4Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOnLassText2:
+	text "Le Granivol qu'on"
+	line "m'a échangé est"
+	
+	para "femelle, mais son"
+	line "ancien dresseur l'a"
+	cont "appelée Michel."
+
+	para "Mon papa aussi il"
+	line "s'appelle comme ça!"
 	done
 
-GoldenrodPokecomCenterPerson5Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOffYoungsterText:
+	text "C'est quoi le"
+	line "Terminal Infos?"
+
+	para "Est-ce qu'il reçoit"
+	line "ses infos sur une"
+	cont "zone plus large"
+	cont "que la radio?"
 	done
 
-GoldenrodPokecomCenterPerson6Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOffTeacherText:
+	text "Le Centre #com"
+	line "peut se connecter"
+
+	para "à tous les Centres"
+	line "#mon sur le"
+	cont "réseau sans-fil."
+
+	para "Que d'opportunités"
+	line "pour se faire de"
+	cont "nouveaux amis!"
 	done
 
-GoldenrodPokecomCenterPerson7Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOffRockerText:
+	text "Les machines que"
+	line "vous voyez ne sont"
+	cont "pas encore prêtes."
+
+	para "Mais bon, c'est"
+	line "sympa d'arriver"
+
+	para "dans un endroit"
+	line "branché avant les"
+	cont "autres."
 	done
 
-GoldenrodPokecomCenterPerson8Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOnYoungsterText:
+	text "Mon ami est passé"
+	line "aux Infos il y a"
+	
+	para "pas longtemps."
+	line "Ca m'a surpris de"
+	cont "le voir là-dedans!"
 	done
 
-GoldenrodPokecomCenterPerson9Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOnTeacherText:
+	text "Je stresse si je"
+	line "regarde pas les"
+	cont "dernières Infos!"
 	done
 
-GoldenrodPokecomCenterPerson10Text: ; unreferenced
-	text_start
-	done
-
-GoldenrodPokecomCenterPerson11Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOnRockerText:
+	text "Si je passe aux"
+	line "Infos, je serais"
+	
+	para "une célébrité, et"
+	line "tout le monde"
+	
+	para "m'aimerait!"
+	line "Euh... Comment on"
+	
+	para "fait pour passer"
+	line "aux Infos?"
 	done
 
 GoldenrodPokecenter1FGameboyKidText:
-	text "Le COLISEE sert"
+	text "Le Colisée sert"
 	line "à faire des com-"
 	cont "bats en Link."
 
@@ -365,16 +707,35 @@ GoldenrodPokecenter1FGameboyKidText:
 	cont "la honte!"
 	done
 
-GoldenrodPokecomCenterPerson12Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOffGrampsText:
+	text "Je suis venu dès"
+	line "que j'ai appris que"
+
+	para "le Centre #mon"
+	line "de Doublonville"
+	cont "avait été rénové."
+
+	para "Il est maintenant"
+	line "à la pointe de la"
+
+	para "technologie, du"
+	line "jamais vu!"
+
+	para "Malheureusement,"
+	line "il n'est pas encore"
+	cont "opérationnel."
 	done
 
-GoldenrodPokecomCenterPerson13Text: ; unreferenced
-	text_start
+GoldenrodPokecenter1FMobileOnGrampsText:
+	text "J'me sens rajeunir"
+	line "juste en voyant"
+
+	para "tous ces nouveaux"
+	line "trucs ici!"
 	done
 
 GoldenrodPokecenter1FLassText:
-	text "Un #MON de"
+	text "Un #mon de"
 	line "niveau élevé ne"
 	cont "gagnera pas à tous"
 	cont "les coups."
@@ -386,7 +747,7 @@ GoldenrodPokecenter1FLassText:
 	para "Je ne crois pas"
 	line "qu'il y ait un"
 
-	para "type de #MON"
+	para "type de #mon"
 	line "qui soit le plus"
 	cont "résistant."
 	done
@@ -397,7 +758,7 @@ GoldenrodPokeCenter1FLinkReceptionistPleaseAcceptGSBallText:
 	para "Félicitations!"
 
 	para "En cadeau spécial,"
-	line "une GS BALL vous a"
+	line "une GS Ball vous a"
 	cont "été envoyée!"
 
 	para "C'est pour vous!"
@@ -407,21 +768,35 @@ GoldenrodPokeCenter1FLinkReceptionistPleaseDoComeAgainText:
 	text "A très bientôt!"
 	done
 
-GoldenrodPokecomCenterSignText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterSignText:
+	text "Centre #com"
+	line "A Propos du RDC"
+
+	para "Gauche:"
+	line "administration"
+
+	para "Centre:"
+	line "Coin Troc"
+
+	para "Droite:"
+	line "Infos #mon"
 	done
 
-GoldenrodPokecomCenterNewsMachineNotYetText: ; unreferenced
-	text_start
+GoldenrodPokecomCenterNewsMachineNotYetText:
+	text "C'est une machine"
+	line "d'Infos #mon!"
+
+	para "Elle ne marche"
+	line "pas maintenant…"
 	done
 
 GoldenrodPokecenter1FPokefanFDoYouHaveEonMailText:
-	text "Ton SAC a l'air"
+	text "Ton Sac a l'air"
 	line "siiiii lourd!"
 
 	para "Oh! As-tu un truc"
-	line "du nom de LETR"
-	cont "EVOLI?"
+	line "du nom de Letr"
+	cont "Evoli?"
 
 	para "Ma fille en veut"
 	line "une."
@@ -431,7 +806,7 @@ GoldenrodPokecenter1FPokefanFDoYouHaveEonMailText:
 	done
 
 GoldenrodPokecenter1FAskGiveAwayAnEonMailText:
-	text "Donner LETR EVOLI?"
+	text "Donner Letr.Evoli?"
 	done
 
 GoldenrodPokecenter1FPokefanFThisIsForYouText:
@@ -457,7 +832,7 @@ GoldenrodPokecenter1FPokefanFAnotherTimeThenText:
 
 GoldenrodPokecenter1FPlayerGaveAwayTheEonMailText:
 	text "<PLAYER> donne"
-	line "la LETR EVOLI."
+	line "la Letr.Evoli."
 	done
 
 GoldenrodPokecenter1F_MapEvents:

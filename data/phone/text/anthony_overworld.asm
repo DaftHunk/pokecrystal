@@ -1,13 +1,13 @@
 AnthonyAskNumber1Text:
 	text "Au fait, je suis"
-	line "un MONTAGNARD. Je"
+	line "un Montagnard. Je"
 
 	para "vais donc sur les"
 	line "chemins et dans"
 	cont "les grottes."
 
 	para "Ca m'arrive de"
-	line "voir des #MON"
+	line "voir des #mon"
 	cont "rares."
 
 	para "Je peux t'appeler"
@@ -30,7 +30,7 @@ AnthonyAskNumber2Text:
 AnthonyNumberAcceptedText:
 	text "Attends voir. Je"
 	line "vais trouver des"
-	cont "#MON rares"
+	cont "#mon rares"
 	cont "pour toi!"
 	done
 
@@ -52,6 +52,6 @@ AnthonyPhoneFullText:
 AnthonyRematchText:
 	text "Ca marche!"
 
-	para "Moi et mes #MON"
+	para "Moi et mes #mon"
 	line "sommes prêts!"
 	done

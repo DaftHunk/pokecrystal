@@ -90,18 +90,18 @@ MagikarpHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 MagikarpLengthRaterText_LakeOfRageHistory:
-	text "Le LAC COLERE est"
+	text "Le Lac Colère est"
 	line "en fait un cratère"
 
 	para "créé par le"
 	line "déchaînement des"
-	cont "LEVIATOR."
+	cont "Léviator."
 
 	para "Le cratère s'est"
 	line "peu à peu rempli"
 
 	para "d'eau de pluie et"
-	line "un LAC s'est"
+	line "un Lac s'est"
 	cont "formé."
 
 	para "Cette histoire se"
@@ -115,7 +115,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	para "On pouvait attra-"
 	line "per de vrais"
 
-	para "MAGICARPE en"
+	para "Magicarpe en"
 	line "pleine forme ici!"
 
 	para "Je ne comprends"
@@ -124,7 +124,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	done
 
 MagikarpLengthRaterText_MenInBlack:
-	text "Ce LAC n'est plus"
+	text "Ce Lac n'est plus"
 	line "normal depuis"
 
 	para "l'arrivée des"
@@ -132,26 +132,26 @@ MagikarpLengthRaterText_MenInBlack:
 	done
 
 MagikarpLengthRaterText_WorldsLargestMagikarp:
-	text "Le LAC COLERE est"
+	text "Le Lac Colère est"
 	line "redevenu normal."
 
-	para "Les MAGICARPE sont"
+	para "Les Magicarpe sont"
 	line "de retour."
 
 	para "Mon rêve se"
 	line "réalise enfin:"
 	cont "voir un monde"
 	cont "plein de"
-	cont "MAGICARPE."
+	cont "Magicarpe."
 
-	para "As-tu une CANNE?"
+	para "As-tu une Canne?"
 	line "Aide-moi si tu en"
 	cont "as une."
 	done
 
 MagikarpLengthRaterText_YouHaveAMagikarp:
 	text "Ah, tu as un"
-	line "MAGICARPE! Laisse-"
+	line "Magicarpe! Laisse-"
 
 	para "moi voir sa"
 	line "taille."
@@ -189,7 +189,7 @@ MagikarpLengthRaterText_TooShort:
 
 MagikarpLengthRaterText_NotMagikarp:
 	text "Quoi? Ce n'est pas"
-	line "un MAGICARPE!"
+	line "un Magicarpe!"
 	done
 
 MagikarpLengthRaterText_Refused:
@@ -203,7 +203,7 @@ MagikarpLengthRaterText_Refused:
 	done
 
 LakeOfRageMagikarpHouseUnusedRecordText:
-	text "RECORD ACTUEL"
+	text "Record Actuel"
 
 	para "@"
 	text_ram wStringBuffer3

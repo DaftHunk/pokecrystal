@@ -148,19 +148,19 @@ AzaleaGymStatue:
 	jumpstd GymStatue2Script
 
 BugsyText_INeverLose:
-	text "Je suis HECTOR!"
+	text "Je suis Hector!"
 	line "Je ne perds jamais"
 
 	para "lorsqu'il s'agit"
-	line "de #MON"
-	cont "insecte."
+	line "de #mon"
+	cont "Insecte."
 
 	para "Mes recherches"
 	line "vont me permettre"
 
 	para "d'être un super"
 	line "expert des"
-	cont "#MON insecte!"
+	cont "#mon Insecte!"
 
 	para "Laisse-moi te"
 	line "montrer ce que"
@@ -170,34 +170,34 @@ BugsyText_INeverLose:
 BugsyText_ResearchIncomplete:
 	text "Whaou, dingue!"
 	line "Tu connais bien"
-	cont "les #MON!"
+	cont "les #mon!"
 
 	para "Mes recherches ne"
 	line "sont pas finies."
 
 	para "OK, tu as gagné."
-	line "Prends ce BADGE."
+	line "Prends ce Badge."
 	done
 
 Text_ReceivedHiveBadge:
 	text "<PLAYER> reçoit"
-	line "le BADGE ESSAIM."
+	line "le Badge Essaim."
 	done
 
 BugsyText_HiveBadgeSpeech:
 	text "Connais-tu"
 	line "les pouvoirs du"
-	cont "BADGE ESSAIM?"
+	cont "Badge Essaim?"
 
 	para "Une fois que tu"
-	line "possèdes ce BADGE,"
-	cont "les #MON"
+	line "possèdes ce Badge,"
+	cont "les #mon"
 	cont "jusqu'au niveau 30"
 	cont "et les échangés"
 	cont "t'obéissent."
 
-	para "Les #MON qui"
-	line "connaissent COUPE"
+	para "Les #mon qui"
+	line "connaissent Coupe"
 
 	para "peuvent aussi"
 	line "l'utiliser hors"
@@ -209,7 +209,7 @@ BugsyText_HiveBadgeSpeech:
 
 BugsyText_FuryCutterSpeech:
 	text "La CT49 contient"
-	line "TAILLADE."
+	line "Taillade."
 
 	para "Si tu ne manques"
 	line "pas ton coup,"
@@ -227,8 +227,8 @@ BugsyText_FuryCutterSpeech:
 	done
 
 BugsyText_BugMonsAreDeep:
-	text "Les #MON"
-	line "insecte ont des"
+	text "Les #mon"
+	line "Insecte ont des"
 
 	para "talents cachés. Il"
 	line "faudra encore du"
@@ -240,8 +240,8 @@ BugsyText_BugMonsAreDeep:
 	done
 
 BugCatcherBennySeenText:
-	text "Les #MON"
-	line "insecte évoluent"
+	text "Les #mon"
+	line "Insecte évoluent"
 
 	para "rapidement. Ils"
 	line "deviennent forts"
@@ -250,19 +250,19 @@ BugCatcherBennySeenText:
 
 BugCatcherBennyBeatenText:
 	text "Faire évoluer un"
-	line "#MON n'est pas"
+	line "#mon n'est pas"
 	cont "suffisant!"
 	done
 
 BugCatcherBennyAfterBattleText:
-	text "Les #MON"
+	text "Les #mon"
 	line "deviennent plus"
 	cont "forts en évoluant!"
 	done
 
 BugCatcherAlSeenText:
-	text "Les #MON"
-	line "insecte sont trop"
+	text "Les #mon"
+	line "Insecte sont trop"
 
 	para "cool et trop"
 	line "résistants! Je"
@@ -282,7 +282,7 @@ BugCatcherAlAfterBattleText:
 
 	para "plupart des filles"
 	line "n'aiment pas les"
-	cont "#MON insecte."
+	cont "#mon Insecte."
 
 	para "Je ne sais pas"
 	line "pourquoi..."
@@ -290,10 +290,10 @@ BugCatcherAlAfterBattleText:
 
 BugCatcherJoshSeenText:
 	text "Tu as sauvé tous"
-	line "les RAMOLOSS? T'es"
+	line "les Ramoloss? T'es"
 	cont "super balèze toi!"
 
-	para "Mais mes #MON"
+	para "Mais mes #mon"
 	line "adultes sont aussi"
 	cont "un peu balèzes je"
 	cont "crois!"
@@ -310,34 +310,34 @@ BugCatcherJoshAfterBattleText:
 	done
 
 TwinsAmyandmay1SeenText:
-	text "PIM: Salut!"
+	text "Pim: Salut!"
 	line "Tu veux battre le"
-	cont "CHAMPION? Oh non!"
+	cont "Champion? Oh non!"
 	done
 
 TwinsAmyandmay1BeatenText:
-	text "PIM & PAM: Oh,"
+	text "Pim & Pam: Oh,"
 	line "double zut!"
 	done
 
 TwinsAmyandmay1AfterBattleText:
-	text "PIM: Et paf!"
+	text "Pim: Et paf!"
 	done
 
 TwinsAmyandmay2SeenText:
-	text "PAM: Tu veux voir"
-	line "le CHAMPION?"
+	text "Pam: Tu veux voir"
+	line "le Champion?"
 	cont "Pas tout de suite!"
 	done
 
 TwinsAmyandmay2BeatenText:
-	text "PIM & PAM: Oh,"
+	text "Pim & Pam: Oh,"
 	line "mince et re-mince!"
 	done
 
 TwinsAmyandmay2AfterBattleText:
-	text "PAM: Nos #MON"
-	line "insecte ont un"
+	text "Pam: Nos #mon"
+	line "Insecte ont un"
 	cont "peu perdu..."
 	cont "Quelle honte!"
 	done
@@ -345,11 +345,11 @@ TwinsAmyandmay2AfterBattleText:
 AzaleaGymGuideText:
 	text "Yo, toi!"
 
-	para "HECTOR est jeune"
+	para "Hector est jeune"
 	line "mais ses connais-"
 
 	para "sances en matière"
-	line "de #MON sont"
+	line "de #mon sont"
 	cont "vastes."
 
 	para "Ca risque d'être"
@@ -357,12 +357,12 @@ AzaleaGymGuideText:
 	cont "conseils."
 
 	para "Voyons voir... Les"
-	line "#MON insecte"
+	line "#mon Insecte"
 	cont "sont vulnérables"
 	cont "au feu."
 
 	para "Les attaques des"
-	line "#MON volants"
+	line "#mon volants"
 	cont "sont aussi très"
 	cont "efficaces."
 	done
@@ -373,7 +373,7 @@ AzaleaGymGuideWinText:
 
 	para "Avec des gens"
 	line "comme toi, l'ave-"
-	cont "nir des #MON"
+	cont "nir des #mon"
 	cont "sera brillant!"
 	done
 

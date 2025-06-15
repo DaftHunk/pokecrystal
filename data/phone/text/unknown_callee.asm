@@ -1,8 +1,8 @@
 UnknownGenericText:
 	text "Comment vont tes"
-	line "#MON?"
+	line "#mon?"
 
-	para "Mes #MON ont"
+	para "Mes #mon ont"
 	line "la super pêche."
 
 	para "@"

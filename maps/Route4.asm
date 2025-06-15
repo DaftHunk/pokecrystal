@@ -53,7 +53,7 @@ Route4HiddenUltraBall:
 
 BirdKeeperHankSeenText:
 	text "J'entraîne des"
-	line "#MON. Un p'tit"
+	line "#mon. Un p'tit"
 	cont "combat?"
 	done
 
@@ -63,7 +63,7 @@ BirdKeeperHankBeatenText:
 
 BirdKeeperHankAfterBattleText:
 	text "Si tu veux entraî-"
-	line "ner un #MON en"
+	line "ner un #mon en"
 
 	para "particulier, mets-"
 	line "le en premier et"
@@ -87,10 +87,10 @@ PicnickerHopeBeatenText:
 	done
 
 PicnickerHopeAfterBattleText:
-	text "Des MELOFEE appa-"
-	line "raissent au MONT"
+	text "Des Mélofée appa-"
+	line "raissent au Mont"
 
-	para "SELENITE, mais où"
+	para "Selenite, mais où"
 	line "exactement?"
 	done
 
@@ -111,8 +111,8 @@ PicnickerSharonAfterBattleText:
 	done
 
 MtMoonSquareSignText:
-	text "SQUARE du MONT"
-	line "SELENITE: En haut"
+	text "Square du Mont"
+	line "Selenite: En haut"
 	cont "des escaliers."
 	done
 

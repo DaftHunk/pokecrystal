@@ -110,7 +110,7 @@ PlacePartyNicknames:
 	ret
 
 .CancelString:
-	db "RETOUR@"
+	db "Retour@"
 
 PlacePartyHPBar:
 	xor a
@@ -341,10 +341,10 @@ PlacePartyMonTMHMCompatibility:
 	ret
 
 .string_able
-	db "APTE@"
+	db "Apte@"
 
 .string_not_able
-	db "PAS APTE@"
+	db "Pas Apte@"
 
 PlacePartyMonEvoStoneCompatibility:
 	ld a, [wPartyCount]
@@ -423,9 +423,9 @@ PlacePartyMonEvoStoneCompatibility:
 	ret
 
 .string_able
-	db "APTE@"
+	db "Apte@"
 .string_not_able
-	db "PAS APTE@"
+	db "Pas Apte@"
 
 PlacePartyMonGender:
 	ld a, [wPartyCount]
@@ -467,13 +467,13 @@ PlacePartyMonGender:
 	ret
 
 .male
-	db "♂…MALE@"
+	db "♂…Male@"
 
 .female
-	db "♀…FEMEL.@"
+	db "♀…Femel.@"
 
 .unknown
-	db "…INCONNU@"
+	db "…Inconnu@"
 
 PlacePartyMonMobileBattleSelection:
 	ld a, [wPartyCount]
@@ -485,7 +485,7 @@ PlacePartyMonMobileBattleSelection:
 .loop
 	push bc
 	push hl
-	ld de, .String_Sanka_Shinai
+	ld de, .String_Able
 	call PlaceString
 	pop hl
 	ld de, 2 * SCREEN_WIDTH
@@ -544,13 +544,15 @@ PlacePartyMonMobileBattleSelection:
 	jr .loop2
 
 .String_Banme:
-	db "　ばんめ　　@" ; Place
-.String_Sanka_Shinai:
-	db "さんかしない@" ; Cancel
+	db "@";"　ばんめ　　@" ; Place
+.String_Able:
+	db "Apte@";"さんかしない@" ; Cancel
+.String_NotAble:
+	db "Pas Apte@"
 .String_Kettei_Yameru:
-	db "けってい　　やめる@" ; Quit
+	db "OK  Annuler@";"けってい　　やめる@" ; Quit
 .Strings_1_2_3:
-	db "１@", "２@", "３@" ; 1st, 2nd, 3rd
+	db "1er @", "2ème@", "3ème@" ; 1st, 2nd, 3rd
 
 PartyMenuCheckEgg:
 	ld a, LOW(wPartySpecies)
@@ -747,7 +749,7 @@ PartyMenuStrings:
 	dw ToWhichPKMNString
 
 ChooseAMonString:
-	db "Choisir un #MON@"
+	db "Choisir un #mon@"
 
 UseOnWhichPKMNString:
 	db "Sur quel <PK><MN>?@"

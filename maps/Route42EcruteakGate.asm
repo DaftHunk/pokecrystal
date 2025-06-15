@@ -10,7 +10,7 @@ Route42EcruteakGateOfficerScript:
 	jumptextfaceplayer Route42EcruteakGateOfficerText
 
 Route42EcruteakGateOfficerText:
-	text "Le MONT CREUSET"
+	text "Le Mont Creuset"
 	line "est un labyrinthe."
 
 	para "Fais attention à"

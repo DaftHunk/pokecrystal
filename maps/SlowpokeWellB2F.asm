@@ -33,26 +33,26 @@ SlowpokeWellB2FTMRainDance:
 SlowpokeWellB2FGymGuideText:
 	text "J'attends de voir"
 	line "l'évolution du"
-	cont "RAMOLOSS."
+	cont "Ramoloss."
 
 	para "En observant j'ai"
 	line "fait une nouvelle"
 	cont "découverte."
 
-	para "Un RAMOLOSS avec"
-	line "une ROCHE ROYALE"
+	para "Un Ramoloss avec"
+	line "une Roche Royale"
 
 	para "se fait mordre par"
-	line "un KOKIYAS."
+	line "un Kokiyas."
 
 	para "Tiens! Je vais te"
-	line "donner une ROCHE"
-	cont "ROYALE."
+	line "donner une Roche"
+	cont "Royale."
 	done
 
 SlowpokeWellB2FGymGuideText_GotKingsRock:
 	text "Je serai comme"
-	line "RAMOLOSS."
+	line "Ramoloss."
 
 	para "Je serai patient"
 	line "et j'en verrai un"

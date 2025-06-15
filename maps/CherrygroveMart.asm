@@ -42,18 +42,18 @@ CherrygroveMartYoungsterScript:
 
 CherrygroveMartCooltrainerMText:
 	text "Ils n'ont plus de"
-	line "# BALLS!"
+	line "# Balls!"
 
 	para "A quand l'arrivage"
 	line "de bonnes"
-	cont "# BALLS?"
+	cont "# Balls?"
 	done
 
 CherrygroveMartCooltrainerMText_PokeBallsInStock:
-	text "Les # BALLS"
+	text "Les # Balls"
 	line "sont arrivées!"
 	cont "C'est reparti! Les"
-	cont "#MON n'ont"
+	cont "#mon n'ont"
 	cont "qu'à bien se"
 	cont "tenir!"
 	done
@@ -62,17 +62,17 @@ CherrygroveMartYoungsterText:
 	text "Je marchais dans"
 	line "l'herbe et un"
 
-	para "#MON insecte"
-	line "a empoisonné mon"
-	cont "#MON!"
+	para "#mon Insecte"
+	line "a Empoisonné mon"
+	cont "#mon!"
 
 	para "J'ai continué mon"
 	line "chemin mais mon"
-	cont "#MON s'est"
+	cont "#mon s'est"
 	cont "évanoui."
 
 	para "Tu devrais garder"
-	line "un ANTIDOTE avec"
+	line "un Antidote avec"
 	cont "toi."
 	done
 

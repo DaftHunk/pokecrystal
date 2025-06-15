@@ -1,4 +1,4 @@
-	db "AQUASOURIS@" ; species name
+	db "Aquasouris@" ; species name
 	db 4 ; height
 	dw 85 ; weight
 

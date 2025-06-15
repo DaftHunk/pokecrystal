@@ -53,7 +53,7 @@ VioletPokecenter1F_ElmsAideScript:
 	end
 
 .eggname
-	db "OEUF@"
+	db "Oeuf@"
 
 .AideGivesEgg:
 	jumpstd ReceiveTogepiEggScript
@@ -107,8 +107,8 @@ VioletPokecenterElmsAideFavorText:
 	text "<PLAY_G>!"
 	line "Ca faisait long-"
 
-	para "temps. Le PROF."
-	line "ORME m'a demandé"
+	para "temps. Le Prof."
+	line "Orme m'a demandé"
 	cont "de te trouver."
 
 	para "Il a encore un"
@@ -116,74 +116,91 @@ VioletPokecenterElmsAideFavorText:
 	cont "demander."
 
 	para "Peux-tu prendre"
-	line "l'OEUF #MON?"
+	line "l'Oeuf #mon?"
 	done
 
 VioletPokecenterElmsAideGiveEggText:
 	text "Nous avons décou-"
-	line "vert qu'un #MON"
+	line "vert qu'un #mon"
 
 	para "ne peut naître qu'"
 	line "en grandissant"
-	cont "dans l'OEUF."
+	cont "dans l'Oeuf."
 
 	para "Il doit aussi être"
 	line "en compagnie de"
-	cont "#MON actifs."
+	cont "#mon actifs."
 
 	para "<PLAY_G>, nous ne"
 	line "pouvons que comp-"
 	cont "ter sur toi."
 
-	para "Appelle le PROF."
-	line "ORME après son"
+	para "Appelle le Prof."
+	line "Orme après son"
 	cont "éclosion!"
 	done
 
 VioletCityElmsAideFullPartyText:
 	text "Oh, flûte. Tu ne"
 	line "peux plus avoir de"
-	cont "#MON sur toi."
+	cont "#mon sur toi."
 
 	para "Je t'attends ici"
 	line "pendant que tu"
 	cont "fais de la place"
-	cont "pour l'OEUF."
+	cont "pour l'Oeuf."
 	done
 
 VioletPokecenterElmsAideRefuseText:
 	text "M-Mais..."
-	line "Le PROF.ORME te"
+	line "Le Prof.Orme te"
 	cont "cherchait..."
 	done
 
 VioletPokecenterElmsAideAskEggText:
 	text "<PLAY_G>, veux-tu"
-	line "prendre l'OEUF?"
+	line "prendre l'Oeuf?"
 	done
 
-VioletPokecenterFarawayLinkText: ; unreferenced
-	text_start
+VioletPokecenterGameboyKidPreMobileText:
+	text "Je pense qu'il"
+	line "serait génial,"
+
+	para "de pouvoir se"
+	line "connecter et"
+
+	para "combattre avec"
+	line "mes amis qui hab-"
+	cont "itent loin d'ici."
+	done
+ 
+VioletPokecenterGameboyKidMobileText:
+	text "J'ai combattu un"
+	line "ami d'Irisia par"
+	cont "téléphone."
+
+	para "Si tu connectes"
+	line "un Adaptateur"
+
+	para "Mobile, tu peux"
+	line "te connecter à"
+	cont "un ami éloigné."
 	done
 
-VioletPokecenterMobileAdapterText: ; unreferenced
-	text_start
-	done
-
-VioletPokecenter1FGameboyKidText:
+VioletPokecenter1FGameboyKidText: ; unreferenced
 	text "Un type du nom de"
-	line "LEO a créé le"
+	line "Léo a créé le"
 	cont "système de stocka-"
-	cont "ge de #MON."
+	cont "ge de #mon."
 	done
 
 VioletPokecenter1FGentlemanText:
 	text "Ca fait plus ou"
 	line "moins trois ans."
 
-	para "La TEAM ROCKET"
+	para "La Team Rocket"
 	line "était la pire en-"
-	cont "nemie des #MON."
+	cont "nemie des #mon."
 
 	para "Mais y'a une"
 	line "justice! Un jeune"
@@ -192,7 +209,7 @@ VioletPokecenter1FGentlemanText:
 	done
 
 VioletPokecenter1FYoungsterText:
-	text "Les #MON"
+	text "Les #mon"
 	line "sont intelligents."
 
 	para "Ils n'obéissent"
@@ -200,7 +217,7 @@ VioletPokecenter1FYoungsterText:
 	cont "qui ne les res-"
 	cont "pectent pas."
 
-	para "Sans les BADGES"
+	para "Sans les Badges"
 	line "appropriés, ils"
 
 	para "n'en feront qu'à"

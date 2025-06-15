@@ -174,57 +174,57 @@ MrPokemonIntroText1:
 	text "Hello! Tu dois"
 	line "être <PLAY_G>."
 
-	para "Le PROF.ORME a dit"
+	para "Le Prof.Orme a dit"
 	line "que tu viendrais."
 	done
 
 MrPokemonIntroText2:
 	text "Voilà ce que je"
 	line "voudrais que le"
-	cont "PROF.ORME examine."
+	cont "Prof.Orme examine."
 	done
 
 MrPokemonsHouse_GotEggText:
 	text "<PLAYER> reçoit"
-	line "l'OEUF MYSTERE."
+	line "l'Oeuf Mystère."
 	done
 
 MrPokemonIntroText3:
 	text "Je connais un cou-"
 	line "ple d'amis qui"
-	cont "dirige une PENSION"
-	cont "pour #MON."
+	cont "dirige une Pension"
+	cont "pour #mon."
 
 	para "Ils m'ont donné"
-	line "cet OEUF."
+	line "cet Oeuf."
 
 	para "Il m'a paru louche"
 	line "alors j'ai écrit"
-	cont "au PROF.ORME."
+	cont "au Prof.Orme."
 
 	para "En ce qui concerne"
 	line "les évolutions de"
-	cont "#MON, le"
-	cont "PROF.ORME est"
+	cont "#mon, le"
+	cont "Prof.Orme est"
 	cont "incollable."
 	done
 
 MrPokemonIntroText4:
-	text "Même le PROF.CHEN"
+	text "Même le Prof.Chen"
 	line "le reconnaît."
 	done
 
 MrPokemonIntroText5:
 	text "A mon avis, le"
-	line "PROF.ORME aura"
+	line "Prof.Orme aura"
 	cont "une explication."
 	done
 
 MrPokemonsHouse_MrPokemonHealText:
 	text "Tu retournes voir"
-	line "le PROF.ORME?"
+	line "le Prof.Orme?"
 
-	para "Tiens. Tes #MON"
+	para "Tiens. Tes #mon"
 	line "devraient se"
 	cont "reposer."
 	done
@@ -242,50 +242,50 @@ MrPokemonText_AlwaysNewDiscoveries:
 	done
 
 MrPokemonsHouse_OakText1:
-	text "CHEN: Ahaa! C'est"
+	text "Chen: Ahaa! C'est"
 	line "toi <PLAY_G>!"
 
-	para "Moi c'est CHEN!"
+	para "Moi c'est Chen!"
 	line "Je suis un cher-"
-	cont "cheur #MON."
+	cont "cheur #mon."
 
 	para "Je suis venu ren-"
 	line "dre visite à mon"
 	cont "vieil ami..."
-	cont "M.#MON!"
+	cont "M.#mon!"
 
 	para "On m'a dit que tu"
 	line "rendais service au"
 
-	para "PROF.ORME, alors"
+	para "Prof.Orme, alors"
 	line "je t'attendais."
 
 	para "Oh! C'est quoi ça?"
-	line "Un #MON rare!"
+	line "Un #mon rare!"
 
 	para "Voyons..."
 
 	para "Hmm... Je vois!"
 
 	para "Je comprends pour-"
-	line "quoi le PROF.ORME"
+	line "quoi le Prof.Orme"
 
 	para "t'a confié un"
-	line "#MON pour cette"
+	line "#mon pour cette"
 	cont "mission."
 
 	para "Pour des cher-"
 	line "cheurs comme moi"
 
-	para "et le PROF.ORME,"
-	line "les #MON sont"
+	para "et le Prof.Orme,"
+	line "les #mon sont"
 	cont "des amis."
 
 	para "Il a tout de suite"
 	line "compris que tu"
 
 	para "ferais attention à"
-	line "ton #MON."
+	line "ton #mon."
 
 	para "...Ah!"
 
@@ -297,13 +297,13 @@ MrPokemonsHouse_OakText1:
 
 	para "Regarde ça: c'est"
 	line "une nouvelle ver-"
-	cont "sion du #DEX."
+	cont "sion du #dex."
 
 	para "Il enregistre au-"
 	line "tomatiquement les"
 
 	para "données sur les"
-	line "#MON vus ou"
+	line "#mon vus ou"
 	cont "pris."
 
 	para "C'est une encyclo-"
@@ -312,31 +312,31 @@ MrPokemonsHouse_OakText1:
 
 MrPokemonsHouse_GetDexText:
 	text "<PLAYER> reçoit"
-	line "le #DEX!"
+	line "le #dex!"
 	done
 
 MrPokemonsHouse_OakText2:
 	text "Rencontre un maxi-"
-	line "mum de #MON et"
+	line "mum de #mon et"
 
 	para "complète le"
-	line "#DEX!"
+	line "#dex!"
 
 	para "Bon. Je dois y"
 	line "aller."
 
 	para "J'ai une émission"
 	line "de radio à faire"
-	cont "à DOUBLONVILLE."
+	cont "à Doublonville."
 
 	para "<PLAY_G>, je"
 	line "compte sur toi!"
 	done
 
 MrPokemonText_GimmeTheScale:
-	text "Oh? Cette ECAILLE!"
+	text "Oh? Cette Ecaille!"
 	line "C'est quoi?"
-	cont "Un LEVIATOR rouge?"
+	cont "Un Léviator rouge?"
 
 	para "C'est dingue!"
 	line "Je la veux..."
@@ -345,8 +345,8 @@ MrPokemonText_GimmeTheScale:
 	line "l'échanger?"
 
 	para "Je peux te donner"
-	line "le MULTI EXP du"
-	cont "PROF.CHEN."
+	line "le Multi Exp du"
+	cont "Prof.Chen."
 	done
 
 MrPokemonText_Disappointed:

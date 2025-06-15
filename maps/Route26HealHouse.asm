@@ -30,7 +30,7 @@ Route26HealHouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 Route26HealHouseRestAWhileText:
-	text "Tes #MON ont"
+	text "Tes #mon ont"
 	line "l'air fatigué."
 
 	para "Tu devrais les"
@@ -40,7 +40,7 @@ Route26HealHouseRestAWhileText:
 Route26HealHouseKeepAtItText:
 	text "Voilà!"
 
-	para "Tes #MON ont"
+	para "Tes #mon ont"
 	line "la patate!"
 
 	para "Courage!"

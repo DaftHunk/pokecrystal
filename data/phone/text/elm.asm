@@ -5,7 +5,7 @@ ElmPhoneHealYourMonText:
 	line "attention..."
 
 	para "Soigne bien tes"
-	line "#MON s'ils sont"
+	line "#mon s'ils sont"
 	cont "blessés."
 	done
 
@@ -13,7 +13,7 @@ ElmPhoneSawMrPokemonText:
 	text "<PLAY_G>?"
 
 	para "As-tu rencontré M."
-	line "#MON? Super!"
+	line "#mon? Super!"
 	cont "Reviens vite!"
 	done
 
@@ -21,7 +21,7 @@ ElmPhonePokemonStolenText:
 	text "<PLAY_G>? Je"
 	line "suis bien triste."
 
-	para "Un #MON nous"
+	para "Un #mon nous"
 	line "a été volé."
 
 	para "Qui a bien pu"
@@ -31,9 +31,9 @@ ElmPhonePokemonStolenText:
 ElmPhoneCheckingTheEggText:
 	text "<PLAY_G>?"
 
-	para "On examine l'OEUF."
-	line "C'est bien un OEUF"
-	cont "de #MON."
+	para "On examine l'Oeuf."
+	line "C'est bien un Oeuf"
+	cont "de #mon."
 	done
 
 ElmPhoneAssistantText:
@@ -41,15 +41,15 @@ ElmPhoneAssistantText:
 
 	para "As-tu rencontré"
 	line "mon assistant?"
-	cont "Il est au CENTRE"
-	cont "#MON de"
-	cont "MAUVILLE."
+	cont "Il est au Centre"
+	cont "#mon de"
+	cont "Mauville."
 	done
 
 ElmPhoneHowIsTheEggText:
 	text "<PLAY_G>?"
 
-	para "Comment va l'OEUF?"
+	para "Comment va l'Oeuf?"
 	line "A-t-il changé?"
 
 	para "Appelle-moi si tu"
@@ -58,11 +58,11 @@ ElmPhoneHowIsTheEggText:
 
 ElmPhoneEggHatchedText:
 	text "<PLAY_G>?"
-	line "Comment va l'OEUF?"
+	line "Comment va l'Oeuf?"
 
 	para "Il a éclos????"
 	line "Quel type de"
-	cont "#MON est-ce?"
+	cont "#mon est-ce?"
 
 	para "Viens vite me le"
 	line "montrer!"
@@ -75,17 +75,17 @@ ElmPhoneDiscoveredHatchTimeText:
 	line "velle découverte."
 
 	para "Le temps d'éclo-"
-	line "sion d'un OEUF"
-	cont "dépend du #MON."
+	line "sion d'un Oeuf"
+	cont "dépend du #mon."
 	done
 
 ElmPhoneInvestigatingEggMovesText:
 	text "<PLAY_G>?"
 
 	para "Les capacités des"
-	line "#MON sortant"
+	line "#mon sortant"
 
-	para "d'un OEUF restent"
+	para "d'un Oeuf restent"
 	line "un mystère."
 
 	para "Nous faisons nos"
@@ -103,7 +103,7 @@ ElmPhoneDiscoveredPokerusText:
 
 	para "#RUS qui"
 	line "affecte les"
-	cont "#MON."
+	cont "#mon."
 
 	para "C'est un peu comme"
 	line "un virus..."
@@ -114,7 +114,7 @@ ElmPhoneDiscoveredPokerusText:
 	line "qu'il se multiplie"
 	cont "rapidement et"
 	cont "qu'il infecte"
-	cont "d'autres #MON."
+	cont "d'autres #mon."
 
 	para "Ca n'a pas l'air"
 	line "de faire quoi que"
@@ -145,12 +145,12 @@ ElmPhoneDisasterText:
 ElmPhoneEggAssistantText:
 	text "<PLAY_G>? On a"
 	line "découvert quelque"
-	cont "chose sur l'OEUF!"
+	cont "chose sur l'Oeuf!"
 
 	para "Mon assistant est"
-	line "au CENTRE #MON"
+	line "au Centre #mon"
 
-	para "de MAUVILLE. "
+	para "de Mauville. "
 	line "Va lui parler!"
 	done
 
@@ -166,13 +166,13 @@ ElmPhoneRadioTowerRocketTakeoverText:
 	cont "va pas."
 
 	para "Elles parlent de"
-	line "la TEAM ROCKET."
+	line "la Team Rocket."
 
 	para "<PLAY_G>, es-tu"
 	line "au courant de"
 	cont "tout ceci?"
 
-	para "La TEAM ROCKET est"
+	para "La Team Rocket est"
 	line "peut-être de"
 	cont "retour."
 
@@ -187,7 +187,7 @@ ElmPhoneGiftText:
 	line "pour toi."
 
 	para "Tu peux passer"
-	line "au LABO?"
+	line "au Labo?"
 
 	para "A bientôt!"
 	done
@@ -199,7 +199,7 @@ ElmPhoneGotAholdOfSomethingNeatText:
 	para "J'ai un truc"
 	line "terrible."
 
-	para "Passe au LABO"
+	para "Passe au Labo"
 	line "le prendre!"
 
 	para "A bientôt!"

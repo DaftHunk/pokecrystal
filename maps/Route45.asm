@@ -285,12 +285,6 @@ TrainerCamperQuentin:
 	closetext
 	end
 
-Route45DummyScript: ; unreferenced
-	writetext Route45DummyText
-	waitbutton
-	closetext
-	end
-
 Route45Sign:
 	jumptext Route45SignText
 
@@ -317,7 +311,7 @@ HikerErikSeenText:
 	line "l'impossible!"
 
 	para "Montre si tes"
-	line "#MON ont bien"
+	line "#mon ont bien"
 	cont "été entraînés!"
 	done
 
@@ -327,9 +321,9 @@ HikerErikBeatenText:
 
 HikerErikAfterBattleText:
 	text "Je retourne à la"
-	line "ROUTE DE GLACE"
+	line "Route de Glace"
 
-	para "d'EBENELLE pour"
+	para "d'Ebenelle pour"
 	line "m'entraîner."
 	done
 
@@ -348,10 +342,10 @@ HikerMichaelBeatenText:
 
 HikerMichaelAfterBattleText:
 	text "Moi j'aime les"
-	line "PV PLUS! Mmmm!"
+	line "PV Plus! Mmmm!"
 
 	para "C'est pour les"
-	line "#MON mais j'en"
+	line "#mon mais j'en"
 	cont "bois quand même!"
 
 	para "C'est trop bon!"
@@ -359,7 +353,7 @@ HikerMichaelAfterBattleText:
 
 HikerParry3SeenText:
 	text "J'ai super boosté"
-	line "mes #MON!"
+	line "mes #mon!"
 	done
 
 HikerParry3BeatenText:
@@ -382,7 +376,7 @@ HikerTimothySeenText:
 	line "la montagne."
 
 	para "Pourquoi j'aime"
-	line "les #MON?"
+	line "les #mon?"
 
 	para "Parce que j'aime"
 	line "combattre!"
@@ -397,7 +391,7 @@ HikerTimothyAfterBattleText:
 	text "Découvrir le monde"
 	line "merveilleux des"
 
-	para "#MON a été un"
+	para "#mon a été un"
 	line "grand bonheur."
 	done
 
@@ -456,7 +450,7 @@ BlackbeltKenjiNightText:
 CooltrainermRyanSeenText:
 	text "Comment tu fais"
 	line "pour entraîner tes"
-	cont "#MON?"
+	cont "#mon?"
 	done
 
 CooltrainermRyanBeatenText:
@@ -467,7 +461,7 @@ CooltrainermRyanBeatenText:
 CooltrainermRyanAfterBattleText:
 	text "Je vois que tu"
 	line "prends soin de tes"
-	cont "#MON."
+	cont "#mon."
 
 	para "Votre amitié vous"
 	line "sauvera."
@@ -494,10 +488,10 @@ CooltrainerfKellyAfterBattleText:
 
 	para "Ca ne me fait pas"
 	line "plaisir de faire"
-	cont "mal aux #MON."
+	cont "mal aux #mon."
 	done
 
-Route45DummyText:
+CamperQuentinSeenMobileText:
 	text "Moi chuis trop"
 	line "de la balle!"
 
@@ -510,21 +504,21 @@ CamperQuentinSeenText:
 	done
 
 CamperQuentinBeatenText:
-	text "La TOUR DE COMBAT"
+	text "La Tour de Combat"
 	line "c'est de la balle!"
 	done
 
 CamperQuentinAfterBattleText:
 	text "As-tu visité la"
-	line "TOUR DE COMBAT?"
+	line "Tour de Combat?"
 
 	para "Je ne perds jamais"
 	line "là-bas..."
 	done
 
 Route45SignText:
-	text "ROUTE 45"
-	line "CHEMIN de MONTAGNE"
+	text "Route 45"
+	line "Chemin de Montagne"
 	cont "Tout droit"
 	done
 

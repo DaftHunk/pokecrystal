@@ -48,11 +48,11 @@ AlanGreetNiteText:
 AlanGenericText:
 	text "<PLAY_G>, tu"
 	line "entraînes bien"
-	cont "tes #MON?"
+	cont "tes #mon?"
 
 	para "J'ai lu qu'il faut"
 	line "entraîner ses"
 
-	para "#MON avec amour"
+	para "#mon avec amour"
 	line "et attention."
 	done

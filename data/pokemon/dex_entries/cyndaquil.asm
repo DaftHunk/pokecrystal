@@ -1,4 +1,4 @@
-	db "SOURIS FEU@" ; species name
+	db "Souris Feu@" ; species name
 	db 5 ; height
 	dw 79 ; weight
 

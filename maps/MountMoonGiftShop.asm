@@ -21,7 +21,7 @@ MountMoonGiftShopLassScript:
 
 MountMoonGiftShopLassText:
 	text "Au coucher du"
-	line "soleil, MELOFEE"
+	line "soleil, Mélofée"
 	cont "vient jouer."
 	done
 

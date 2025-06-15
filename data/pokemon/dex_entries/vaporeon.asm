@@ -1,4 +1,4 @@
-	db "BULLEUR@" ; species name
+	db "Bulleur@" ; species name
 	db 10 ; height
 	dw 290 ; weight
 

@@ -18,18 +18,18 @@ Route40BattleTowerGateRockerScript:
 Route40BattleTowerGateTwinScript:
 	jumptextfaceplayer Route40BattleTowerGateTwinText
 
-Route40BattleTowerGateUnusedText1: ; unreferenced
+Route40BattleTowerGateUnusedText1:
 	text "Tu es aussi ici"
-	line "pour la TOUR DE"
-	cont "COMBAT?"
+	line "pour la Tour de"
+	cont "Combat?"
 
 	para "Mais tu ne peux"
 	line "pas y entrer je"
 	cont "parie..."
 	done
 
-Route40BattleTowerGateUnusedText2: ; unreferenced
-	text "La TOUR DE COMBAT"
+Route40BattleTowerGateUnusedText2:
+	text "La Tour de Combat"
 	line "a ouvert ses"
 	cont "portes."
 
@@ -39,8 +39,8 @@ Route40BattleTowerGateUnusedText2: ; unreferenced
 	done
 
 Route40BattleTowerGateRockerText:
-	text "Tu vas à la TOUR"
-	line "DE COMBAT?"
+	text "Tu vas à la Tour"
+	line "de Combat?"
 
 	para "Si tu gagnes plein"
 	line "de fois, tu peux"
@@ -49,16 +49,16 @@ Route40BattleTowerGateRockerText:
 	line "trucs spéciaux."
 	done
 
-Route40BattleTowerGateUnusedText3: ; unreferenced
+Route40BattleTowerGateUnusedText3:
 	text "Je vais entraîner"
-	line "mes #MON avant"
+	line "mes #mon avant"
 
 	para "de me lancer vers"
-	line "la TOUR DE COMBAT."
+	line "la Tour de Combat."
 	done
 
 Route40BattleTowerGateTwinText:
-	text "Mes #MON ont"
+	text "Mes #mon ont"
 	line "tous des niveaux"
 	cont "différents..."
 

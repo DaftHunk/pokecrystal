@@ -1,4 +1,4 @@
-	db "PORSINGE@" ; species name
+	db "Porsinge@" ; species name
 	db 5 ; height
 	dw 280 ; weight
 

@@ -1,4 +1,4 @@
-	db "LONG-NEZ@" ; species name
+	db "Long-Nez@" ; species name
 	db 5 ; height
 	dw 335 ; weight
 

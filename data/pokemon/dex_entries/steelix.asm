@@ -1,4 +1,4 @@
-	db "SERPENFER@" ; species name
+	db "Serpenfer@" ; species name
 	db 92 ; height
 	dw 4000 ; weight
 

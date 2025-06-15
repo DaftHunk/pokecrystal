@@ -41,22 +41,22 @@ SaffronPokecenter1FYoungsterScript:
 
 SaffronPokecenter1FTeacherText:
 	text "Comment sont les"
-	line "CENTRES #MON"
-	cont "de JOHTO?"
+	line "Centres #mon"
+	cont "de Johto?"
 
 	para "...Je vois."
 	line "Ils sont comme"
-	cont "ceux de KANTO."
+	cont "ceux de Kanto."
 
 	para "Je peux aller à"
-	line "JOHTO sans crainte"
+	line "Johto sans crainte"
 	cont "dans ce cas!"
 	done
 
 SaffronPokecenter1FTeacherMobileText:
 	text "Comment sont les"
-	line "CENTRES #MON"
-	cont "de JOHTO?"
+	line "Centres #mon"
+	cont "de Johto?"
 
 	para "...Je vois."
 	line "Ils te laissent te"
@@ -66,19 +66,19 @@ SaffronPokecenter1FTeacherMobileText:
 	cont "gnés?"
 
 	para "Je vais dire à mon"
-	line "ami de JOHTO d'at-"
+	line "ami de Johto d'at-"
 
-	para "traper un MARILL"
+	para "traper un Marill"
 	line "et de me l'échan-"
 	cont "ger!"
 	done
 
 SaffronPokecenter1FFisherText:
 	text "Je viens de tra-"
-	line "verser la GROTTE."
+	line "verser la Grotte."
 
 	para "Il y avait du gra-"
-	line "buge à la CENTRALE"
+	line "buge à la Centrale"
 	cont "je crois..."
 	done
 
@@ -92,7 +92,7 @@ SaffronPokecenter1FFisherReturnedMachinePartText:
 
 	para "années. Tout comme"
 	line "celle près"
-	cont "d'AZURIA."
+	cont "d'Azuria."
 
 	para "Et ouais. Seul un"
 	line "pro d'la montagne"
@@ -100,14 +100,14 @@ SaffronPokecenter1FFisherReturnedMachinePartText:
 	done
 
 SaffronPokecenter1FYoungsterText:
-	text "Les BUREAUX de la"
-	line "SYLPHE SARL et la"
+	text "Les Bureaux de la"
+	line "Sylphe SARL et la"
 
-	para "STATION du TRAIN"
-	line "MAGNET sont les"
+	para "Station du Train"
+	line "Magnet sont les"
 
 	para "choses à voir à"
-	line "SAFRANIA."
+	line "Safrania."
 	done
 
 SaffronPokecenter1F_MapEvents:

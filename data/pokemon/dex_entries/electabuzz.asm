@@ -1,8 +1,8 @@
-	db "ELECTRIQUE@" ; species name
+	db "Electrique@" ; species name
 	db 11 ; height
 	dw 300 ; weight
 
-	db   "Quand 2 ELEKTEK se"
+	db   "Quand 2 Elektek se"
 	next "touchent, ils uti-"
 	next "lisent le courant"
 

@@ -79,10 +79,10 @@ GoldenrodVendingMachine:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "EAU FRAICHE  {d:GOLDENRODDEPTSTORE6F_FRESH_WATER_PRICE}¥@"
-	db "SODA COOL    {d:GOLDENRODDEPTSTORE6F_SODA_POP_PRICE}¥@"
-	db "LIMONADE     {d:GOLDENRODDEPTSTORE6F_LEMONADE_PRICE}¥@"
-	db "RETOUR@"
+	db "Eau Fraiche  {d:GOLDENRODDEPTSTORE6F_FRESH_WATER_PRICE}¥@"
+	db "Soda Cool    {d:GOLDENRODDEPTSTORE6F_SODA_POP_PRICE}¥@"
+	db "Limonade     {d:GOLDENRODDEPTSTORE6F_LEMONADE_PRICE}¥@"
+	db "Retour@"
 
 GoldenrodDeptStore6FLassScript:
 	jumptextfaceplayer GoldenrodDeptStore6FLassText
@@ -123,13 +123,13 @@ GoldenrodVendingNoSpaceText:
 
 GoldenrodDeptStore6FLassText:
 	text "Ecoutes-tu"
-	line "L'ANTENNE DE LA"
-	cont "CHANCE?"
+	line "L'Antenne de la"
+	cont "Chance?"
 
 	para "Si tu veux gagner,"
 	line "échange un maximum"
 
-	para "de #MON avec le"
+	para "de #mon avec le"
 	line "plus de personnes"
 
 	para "possibles pour"
@@ -144,15 +144,15 @@ GoldenrodDeptStore6FSuperNerdText:
 	cont "distributeur auto-"
 	cont "matique."
 
-	para "Ton #MON"
+	para "Ton #mon"
 	line "appréciera aussi."
 	done
 
 GoldenrodDeptStore6FDirectoryText:
 	text "Une petite pause!"
 
-	para "5EME COIN"
-	line "     TRANQUILLE"
+	para "5ème Coin"
+	line "     Tranquille"
 	done
 
 GoldenrodDeptStore6F_MapEvents:

@@ -1,4 +1,4 @@
-	db "VIRTUEL@" ; species name
+	db "Virtuel@" ; species name
 	db 6 ; height
 	dw 325 ; weight
 

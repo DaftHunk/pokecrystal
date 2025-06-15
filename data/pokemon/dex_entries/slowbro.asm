@@ -1,8 +1,8 @@
-	db "SYMBIOSE@" ; species name
+	db "Symbiose@" ; species name
 	db 16 ; height
 	dw 785 ; weight
 
-	db   "Le KOKIYAS accro-"
+	db   "Le Kokiyas accro-"
 	next "ché à sa queue est"
 	next "friand de ce qu'il"
 

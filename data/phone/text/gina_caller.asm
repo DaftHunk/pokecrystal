@@ -50,11 +50,11 @@ GinaHangUpText:
 
 GinaRocketTakeoverRumorText:
 	text "As-tu appris pour"
-	line "la TEAM ROCKET?"
+	line "la Team Rocket?"
 
 	para "Ils ont envahi la"
-	line "TOUR RADIO de"
-	cont "DOUBLONVILLE."
+	line "Tour Radio de"
+	cont "Doublonville."
 
 	para "Les gens sont-ils"
 	line "en sécurité?"

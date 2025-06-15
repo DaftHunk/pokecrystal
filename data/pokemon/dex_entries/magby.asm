@@ -1,4 +1,4 @@
-	db "CHARBON@" ; species name
+	db "Charbon@" ; species name
 	db 7 ; height
 	dw 214 ; weight
 

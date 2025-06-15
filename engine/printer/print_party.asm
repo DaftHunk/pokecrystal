@@ -329,17 +329,17 @@ PrintParty_OTString:
 	db "DO/@"
 
 PrintParty_MoveString:
-	db "CAPACITE/@"
+	db "Capacité/@"
 
 PrintParty_IDNoString:
 	db "№.<ID>@"
 
 PrintParty_StatsString:
-	db   "ATTAQUE"
-	next "DEFENSE"
-	next "ATQ.SPE."
-	next "DEF.SPE."
-	next "VITESSE"
+	db   "Attaque"
+	next "Défense"
+	next "Atq.Spé."
+	next "Déf.Spé."
+	next "Vitesse"
 	db   "@"
 
 PrintParty_NoMoveString:

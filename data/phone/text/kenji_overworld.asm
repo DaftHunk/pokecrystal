@@ -60,5 +60,5 @@ KenjiPackFullText:
 	para "poussin!"
 	line "Je vais garder ça."
 
-	para "Vide donc ton SAC!"
+	para "Vide donc ton Sac!"
 	done

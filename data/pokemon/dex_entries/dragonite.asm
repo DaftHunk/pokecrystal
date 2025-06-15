@@ -1,4 +1,4 @@
-	db "DRAGON@" ; species name
+	db "Dragon@" ; species name
 	db 22 ; height
 	dw 2100 ; weight
 
@@ -6,6 +6,6 @@
 	next "te une île dans"
 	next "l'océan où ces"
 
-	page "#MON se réunis-"
+	page "#mon se réunis-"
 	next "sent pour vivre"
 	next "paisiblement.@"

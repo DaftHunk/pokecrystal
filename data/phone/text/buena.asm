@@ -1,5 +1,5 @@
 BuenaPhoneMorningAnswerText:
-	text "Salut c'est BUENA!"
+	text "Salut c'est Buena!"
 
 	para "Oh! Bonjour,"
 	line "<PLAY_G>!"
@@ -9,7 +9,7 @@ BuenaPhoneMorningAnswerText:
 	done
 
 BuenaPhoneDayAnswerText:
-	text "Salut c'est BUENA! "
+	text "Salut c'est Buena! "
 	line "Bonjour, <PLAY_G>!"
 
 	para "Tu as écouté mon"
@@ -17,22 +17,22 @@ BuenaPhoneDayAnswerText:
 	done
 
 BuenaPhoneMidnightAnswerText:
-	text "Ici BUENA."
+	text "Ici Buena."
 	line "Je ne suis pas"
 
 	para "disponible pour"
 	line "l'instant."
 
 	para "Ecoutez tous le"
-	line "MOT de PASSE de"
+	line "Mot de Passe de"
 
-	para "BUENA à la radio"
+	para "Buena à la radio"
 	line "et appelez-moi"
 	cont "après minuit!"
 	done
 
 BuenaPhoneNiteAnswerText:
-	text "Salut c'est BUENA! "
+	text "Salut c'est Buena! "
 	line "Salut, <PLAY_G>!"
 
 	para "Je viens de finir"
@@ -41,7 +41,7 @@ BuenaPhoneNiteAnswerText:
 	done
 
 BuenaPhoneMorningText:
-	text "Salut c'est BUENA! "
+	text "Salut c'est Buena! "
 	line "Bonjour, <PLAY_G>!"
 
 	para "Je me suis levée"
@@ -50,7 +50,7 @@ BuenaPhoneMorningText:
 	done
 
 BuenaPhoneDayText:
-	text "Salut c'est BUENA! "
+	text "Salut c'est Buena! "
 	line "Bonjour, <PLAY_G>!"
 
 	para "J'avais envie de"
@@ -58,7 +58,7 @@ BuenaPhoneDayText:
 	done
 
 BuenaPhoneMidnightText:
-	text "Salut c'est BUENA! "
+	text "Salut c'est Buena! "
 	line "Bonjour, <PLAY_G>!"
 
 	para "Je fais une"
@@ -66,7 +66,7 @@ BuenaPhoneMidnightText:
 	done
 
 BuenaPhoneNiteText:
-	text "Salut c'est BUENA! "
+	text "Salut c'est Buena! "
 	line "Bonjour, <PLAY_G>!"
 
 	para "Je n'arrive pas"
@@ -82,7 +82,7 @@ BuenaPhoneRocketText:
 	para "Ecoute..."
 	line "C'est important!"
 
-	para "La TOUR RADIO est"
+	para "La Tour Radio est"
 	line "en danger!"
 
 	para "<PLAY_G>, fais"
@@ -93,7 +93,7 @@ BuenaPhoneWentOutWithBenText:
 	text "L'autre jour,"
 	line "j'ai mangé avec"
 
-	para "DJ BEN!"
+	para "DJ Ben!"
 	line "Cool, non?"
 
 	para "Il a dit que la"
@@ -115,7 +115,7 @@ BuenaPhoneWentOutWithBenText:
 BuenaPhoneReceptionistText:
 	text "Tu connais la"
 	line "réceptionniste de"
-	cont "la TOUR RADIO?"
+	cont "la Tour Radio?"
 
 	para "Elle dit juste"
 	line "'Bienvenue'."
@@ -134,9 +134,9 @@ BuenaPhoneReceptionistText:
 BuenaPhoneLuckyNumberShowText:
 	text "Dis-moi, <PLAY_G>."
 	line "As-tu déjà gagné"
-	cont "au BON NUMERO?"
+	cont "au Bon Numéro?"
 
-	para "SAM n'a jamais"
+	para "Sam n'a jamais"
 	line "gagné et il veut"
 
 	para "continuer le"
@@ -157,7 +157,7 @@ BuenaPhoneStressedFromWorkText:
 	line "mangé comme une"
 	cont "barbare!"
 
-	para "LULA et moi, on a"
+	para "Lula et moi, on a"
 	line "décidé de faire un"
 	cont "régime..."
 
@@ -173,7 +173,7 @@ BuenaPhoneStressedFromWorkText:
 	para "Ca se demande pas,"
 	line "ça!"
 
-	para "LULA pèse..."
+	para "Lula pèse..."
 
 	para "Zut! La voilà!"
 
@@ -182,7 +182,7 @@ BuenaPhoneStressedFromWorkText:
 	done
 
 BuenaPhoneProfessorOakText:
-	text "Hier, le PROF.CHEN"
+	text "Hier, le Prof.Chen"
 	line "était dans le"
 
 	para "studio pour enre-"
@@ -196,7 +196,7 @@ BuenaPhoneProfessorOakText:
 	cont "émission!"
 
 	para "Oh! Voilà le"
-	line "PROF.CHEN!"
+	line "Prof.Chen!"
 
 	para "Je vais lui"
 	line "dire bonjour!"
@@ -219,14 +219,14 @@ BuenaPhoneGotAColdText:
 	para "Ca va ma boix?"
 
 	para "A blus dard!"
-	line "Z'édait BUENA!"
+	line "Z'édait Buena!"
 	done
 
 BuenaPhoneRadioCardQuestionsText:
 	text "<PLAY_G>!"
 	line "Tu as gagné le"
 
-	para "COUPON RADIO en"
+	para "Coupon Radio en"
 	line "répondant aux"
 
 	para "questions à la"
@@ -247,20 +247,20 @@ BuenaPhonePikachuFanClubText:
 	line "les gens partici-"
 
 	para "pent à l'émission"
-	line "du MOT de PASSE."
+	line "du Mot de Passe."
 
-	para "Quand PIKACHU"
-	line "était le MOT de"
+	para "Quand Pikachu"
+	line "était le Mot de"
 
-	para "PASSE... Il y"
+	para "Passe... Il y"
 	line "avait trop de"
 	cont "monde en ligne."
 
 	para "Les gens du FAN"
-	line "CLUB sont venus et"
+	line "Club sont venus et"
 
 	para "ont tous crié"
-	line "'PIKACHU!' comme"
+	line "'Pikachu!' comme"
 
 	para "des truies pendant"
 	line "des heures."
@@ -277,9 +277,9 @@ BuenaPhonePikachuFanClubText:
 
 BuenaPhoneRadioTowerDirectorText:
 	text "Tu sais quoi?"
-	line "Le DIRECTEUR de la"
+	line "Le Directeur de la"
 
-	para "TOUR RADIO est un"
+	para "Tour Radio est un"
 	line "fan de télé!"
 
 	para "Il aime les"
@@ -296,7 +296,7 @@ BuenaPhoneRadioTowerDirectorText:
 	para "Ne va pas lui"
 	line "répéter!"
 
-	para "Oh! Le DIRECTEUR"
+	para "Oh! Le Directeur"
 	line "arrive!"
 
 	para "A plus tard!"
@@ -332,13 +332,13 @@ BuenaPhoneWhenDoYouRelaxText:
 
 BuenaPhoneStarterPokemonText:
 	text "<PLAY_G>, quel"
-	line "#MON as-tu at-"
+	line "#mon as-tu at-"
 	cont "trapé en premier?"
 
 	para "...Ah bon?"
 
 	para "J'ai vu beaucoup"
-	line "de #MON, mais"
+	line "de #mon, mais"
 
 	para "je ne les attrape"
 	line "jamais."
@@ -347,22 +347,22 @@ BuenaPhoneStarterPokemonText:
 	line "un jour."
 
 	para "Sais-tu que le"
-	line "premier #MON"
+	line "premier #mon"
 
-	para "que LULA a attrapé"
-	line "est un SOPORIFIK?"
+	para "que Lula a attrapé"
+	line "est un Soporifik?"
 
 	para "Ca lui ressemble"
 	line "vachement, non?"
 
-	para "Comme son #MON"
+	para "Comme son #mon"
 	line "l'endormait pen-"
 
 	para "dant les heures de"
 	line "bureau, elle l'a"
 
 	para "échangé contre un"
-	line "MIAOUSS."
+	line "Miaouss."
 
 	para "On reparlera de"
 	line "tout ça!"
@@ -374,17 +374,17 @@ BuenaPhoneCompanyVacationText:
 	text "Tu sais quoi?"
 	line "Tous ceux de la"
 
-	para "TOUR RADIO partent"
+	para "Tour Radio partent"
 	line "en vacances à la"
 
-	para "TOUR RADIO de"
-	line "LAVANVILLE."
+	para "Tour Radio de"
+	line "Lavanville."
 
 	para "Pourquoi gaspiller"
 	line "nos vacances pour"
 
 	para "visiter une autre"
-	line "TOUR RADIO?"
+	line "Tour Radio?"
 
 	para "Je préfère la"
 	line "plage!"
@@ -399,21 +399,21 @@ BuenaPhoneCompanyVacationText:
 BuenaPhoneBenAndFernText:
 	text "Ecoute ça..."
 
-	para "BEN et SEB"
+	para "Ben et Seb"
 	line "parlent au télé-"
 
 	para "phone pendant des"
 	line "heures des"
 
-	para "musiques #MON"
+	para "musiques #mon"
 	line "qu'ils vont passer"
 	cont "la semaine."
 
-	para "Le rap de SEB"
+	para "Le rap de Seb"
 	line "agace souvent"
-	cont "BEN."
+	cont "Ben."
 
-	para "Alors BEN opte"
+	para "Alors Ben opte"
 	line "plus pour de la"
 
 	para "groove funky drumy"
@@ -426,13 +426,13 @@ BuenaPhoneBenAndFernText:
 
 BuenaPhoneGoingShoppingText:
 	text "Je vais faire des"
-	line "courses avec LULA"
-	cont "et PETRA."
+	line "courses avec Lula"
+	cont "et Petra."
 
 	para "J'espère que le"
-	line "CENTRE COMMERCIAL"
+	line "Centre Commercial"
 
-	para "de DOUBLONVILLE"
+	para "de Doublonville"
 	line "fait des soldes."
 
 	para "<PLAY_G>, on se"
@@ -443,7 +443,7 @@ BuenaPhoneGoingShoppingText:
 
 BuenaPhoneFavoriteSlotMachineAnswerText:
 	text "Je pense aller au"
-	line "CASINO demain."
+	line "Casino demain."
 
 	para "J'ai une machine"
 	line "préférée..."
@@ -462,14 +462,14 @@ BuenaPhonePokegearAnswerText:
 	text "<PLAY_G>! Tu"
 	line "utilises ton"
 
-	para "#MATOS pour"
+	para "#matos pour"
 	line "écouter la radio?"
 
 	para "On m'a dit qu'on"
 	line "pouvait afficher"
 
 	para "des cartes avec un"
-	line "#MATOS."
+	line "#matos."
 
 	para "Je me perds tout"
 	line "le temps..."

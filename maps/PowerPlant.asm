@@ -215,7 +215,7 @@ PowerPlantOfficer1ReturnToPostMovement:
 PowerPlantOfficer1AThiefBrokeInText:
 	text "Un voleur s'est"
 	line "introduit dans la"
-	cont "CENTRALE..."
+	cont "Centrale..."
 
 	para "Mais où va le"
 	line "monde? Hein?"
@@ -223,7 +223,7 @@ PowerPlantOfficer1AThiefBrokeInText:
 
 PowerPlantOfficer1CeruleanShadyCharacterText:
 	text "On raconte des"
-	line "trucs à AZURIA."
+	line "trucs à Azuria."
 
 	para "Un drôle de type"
 	line "rôde dans les"
@@ -262,15 +262,15 @@ PowerPlantGymGuide1GeneratorUpAndRunningText:
 	done
 
 PowerPlantGymGuide2PowerPlantUpAndRunningText:
-	text "Cette CENTRALE a"
+	text "Cette Centrale a"
 	line "été abandonnée il"
 	cont "y a longtemps."
 
 	para "On l'a relancée"
 	line "pour donner de"
 
-	para "l'énergie au TRAIN"
-	line "MAGNET."
+	para "l'énergie au Train"
+	line "Magnet."
 	done
 
 PowerPlantGymGuide2GeneratorIsRunningAgainText:
@@ -279,8 +279,8 @@ PowerPlantGymGuide2GeneratorIsRunningAgainText:
 	done
 
 PowerPlantOfficer2ManagerHasBeenSadAndFuriousText:
-	text "Le PATRON de la"
-	line "CENTRALE est plus"
+	text "Le Patron de la"
+	line "Centrale est plus"
 	cont "loin."
 
 	para "Attention, il est"
@@ -294,12 +294,12 @@ PowerPlantOfficer2ManagerHasBeenCheerfulText:
 	text "Depuis la répara-"
 	line "tion du générateur"
 
-	para "le PATRON est très"
+	para "le Patron est très"
 	line "heureux."
 	done
 
 PowerPlantGymGuide4MagnetTrainConsumesElectricityText:
-	text "Le TRAIN MAGNET"
+	text "Le Train Magnet"
 	line "consomme beaucoup"
 	cont "d'électricité."
 
@@ -312,11 +312,11 @@ PowerPlantGymGuide4MagnetTrainConsumesElectricityText:
 PowerPlantGymGuide4WeCanGetMagnetTrainRunningText:
 	text "OK! On peut à nou-"
 	line "veau faire marcher"
-	cont "le TRAIN MAGNET."
+	cont "le Train Magnet."
 	done
 
 PowerPlantManagerWhoWouldRuinMyGeneratorText:
-	text "PATRON: J'vais"
+	text "Patron: J'vais"
 	line "exploser! Faut que"
 	cont "j'me défoule!"
 
@@ -330,11 +330,11 @@ PowerPlantManagerWhoWouldRuinMyGeneratorText:
 	line "crapule, il aura"
 
 	para "droit à un coup"
-	line "d'ELECANON!"
+	line "d'Elecanon!"
 	done
 
 PowerPlantManagerIWontForgiveCulpritText:
-	text "PATRON: Je vais"
+	text "Patron: Je vais"
 	line "m'le faire!"
 
 	para "Même s'il pleure,"
@@ -347,9 +347,9 @@ PowerPlantManagerIWontForgiveCulpritText:
 	done
 
 PowerPlantManagerThatsThePartText:
-	text "PATRON: Ah! Oui!"
+	text "Patron: Ah! Oui!"
 
-	para "C'est la PARTIE"
+	para "C'est la Partie"
 	line "manquante de mon"
 	cont "joli générateur!"
 	cont "Tu l'as trouvée?"
@@ -363,8 +363,8 @@ PowerPlantManagerTakeThisTMText:
 	done
 
 PowerPlantManagerTM07IsZapCannonText:
-	text "PATRON: CT07 est"
-	line "l'ELECANON. C'est"
+	text "Patron: CT07 est"
+	line "l'Elecanon. C'est"
 
 	para "une technique"
 	line "très puissante!"
@@ -377,7 +377,7 @@ PowerPlantManagerTM07IsZapCannonText:
 	done
 
 PowerPlantManagerMyBelovedGeneratorText:
-	text "PATRON: Mon petit"
+	text "Patron: Mon petit"
 	line "générateur chéri!"
 
 	para "Pompe l'électrici-"

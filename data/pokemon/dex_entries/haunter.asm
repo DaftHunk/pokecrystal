@@ -1,4 +1,4 @@
-	db "GAZ@" ; species name
+	db "Gaz@" ; species name
 	db 16 ; height
 	dw 1 ; weight
 

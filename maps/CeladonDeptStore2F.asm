@@ -60,8 +60,8 @@ CeladonDeptStore2FDirectoryText:
 	line "pour de bons dres-"
 	cont "seurs!"
 
-	para "1ER:  MARCHE DU"
-	line "      DRESSEUR"
+	para "1er:  Marche du"
+	line "      Dresseur"
 	done
 
 CeladonDeptStore2F_MapEvents:

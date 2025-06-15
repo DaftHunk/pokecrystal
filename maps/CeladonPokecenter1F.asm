@@ -71,9 +71,9 @@ CeladonEusine:
 	step_end
 
 CeladonPokecenter1FCooltrainerFText:
-	text "ERIKA est la"
+	text "Erika est la"
 	line "maîtresse des"
-	cont "#MON des"
+	cont "#mon des"
 	cont "plantes."
 
 	para "Fais attention ou"
@@ -82,17 +82,17 @@ CeladonPokecenter1FCooltrainerFText:
 
 CeladonPokecenter1FPharmacistText:
 	text "La planque de la"
-	line "TEAM ROCKET est au"
+	line "Team Rocket est au"
 
 	para "sous-sol du"
-	line "CASINO."
+	line "Casino."
 
 	para "Attends... C'était"
 	line "il y a 3 ans, ça."
 	done
 
 CeladonEusineText1:
-	text "EUSINE: Bonjour!"
+	text "Eusine: Bonjour!"
 
 	para "Je suis de retour"
 	line "dans ma ville"
@@ -107,18 +107,18 @@ EusineLeavesCeladonText:
 	line "au courant?"
 
 	para "On raconte qu'un"
-	line "#MON aux cou-"
+	line "#mon aux cou-"
 
 	para "leurs de l'arc-"
 	line "en-ciel est apparu"
-	cont "à la TOUR"
-	cont "FERRAILLE."
+	cont "à la Tour"
+	cont "Ferraille."
 
 	para "Je viens de soi-"
 	line "gner mon équipe."
 
 	para "Je retourne à"
-	line "ROSALIA."
+	line "Rosalia."
 
 	para "A très bientôt,"
 	line "<PLAYER>!"
@@ -129,10 +129,10 @@ NoBeastsText:
 	line "<PLAYER>."
 
 	para "As-tu attrapé les"
-	line "#MON légendai-"
+	line "#mon légendai-"
 
-	para "res RAIKOU et"
-	line "ENTEI?"
+	para "res Raikou et"
+	line "Entei?"
 
 	para "<……><……><……>"
 

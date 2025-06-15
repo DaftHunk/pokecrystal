@@ -480,7 +480,7 @@ endr
 	ret
 
 BT_ChrisName:
-	db "CHRIS@"
+	db "Chris@"
 
 Function17042c:
 	ld hl, w3_d202TrainerData
@@ -844,10 +844,10 @@ Function1704e1:
 	ret
 
 .String_Mail:
-	db "ルーム@"
+	db "Salle:@";"ルーム@"
 
 .String_PastReaders:
-	db "れきだいりーダーいちらん@"
+	db "Tables de l'Honneur@";"れきだいりーダーいちらん@"
 
 BattleTowerAction:
 	jumptable .dw, wScriptVar
@@ -1307,7 +1307,9 @@ endr
 	ret
 
 String_MysteryJP:
-	db "なぞナゾ@@" ; MYSTERY
+	;db "なぞナゾ@@" ; MYSTERY
+; localization: mind above remark
+	db "Bizar@@@"
 
 BattleTowerAction_0F:
 	ldh a, [rSVBK]

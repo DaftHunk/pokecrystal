@@ -56,12 +56,12 @@ ToddGreetNiteText:
 
 ToddGenericText:
 	text "Comment entraînes-"
-	line "tu tes #MON?"
+	line "tu tes #mon?"
 
 	para "Moi j'utilise en-"
 	line "tre autres des"
 
 	para "objets et je les"
 	line "laisse souvent à"
-	cont "la PENSION."
+	cont "la Pension."
 	done

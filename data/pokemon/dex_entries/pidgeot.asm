@@ -1,4 +1,4 @@
-	db "OISEAU@" ; species name
+	db "Oiseau@" ; species name
 	db 15 ; height
 	dw 395 ; weight
 
@@ -6,6 +6,6 @@
 	next "lui permet de"
 	next "repérer un"
 
-	page "MAGICARPE faisant"
+	page "Magicarpe faisant"
 	next "trempette jusqu'à"
 	next "1000 mètres.@"

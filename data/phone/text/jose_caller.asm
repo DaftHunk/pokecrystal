@@ -10,14 +10,14 @@ JoseMonsStickHasADeliciousAromaText:
 
 JoseDefeatedMonText:
 	text "L'autre fois, mon"
-	line "CANARTICHO a mis"
+	line "Canarticho a mis"
 	cont "K.O. un"
 	cont "@"
 	text_ram wStringBuffer4
 	text "."
 
 	para "Avec son bâton,"
-	line "mon CANARTICHO est"
+	line "mon Canarticho est"
 	cont "trop bô!"
 	done
 
@@ -39,7 +39,7 @@ JoseBattleRematchText:
 	text "Tu veux te refaire"
 	line "un match?"
 
-	para "Mon CANARTICHO en"
+	para "Mon Canarticho en"
 	line "redemande!"
 
 	para "@"
@@ -56,7 +56,7 @@ JoseHangUpText:
 	done
 
 JoseFoundItemText:
-	text "Mon CANARTICHO"
+	text "Mon Canarticho"
 	line "avait un drôle de"
 	cont "truc dans le bec."
 
@@ -83,7 +83,7 @@ JoseReminderText:
 	text "<PLAY_G>, peux-tu"
 	line "venir?"
 
-	para "CANARTICHO est"
+	para "Canarticho est"
 	line "très agité."
 
 	para "Viens vite ou il"

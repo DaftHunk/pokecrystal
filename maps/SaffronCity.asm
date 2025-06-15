@@ -118,40 +118,40 @@ SaffronCityLass1Text:
 	done
 
 SaffronCityLass1Text_ReturnedMachinePart:
-	text "La COPIEUSE semble"
+	text "La Copieuse semble"
 	line "malheureuse. Elle"
 
 	para "dit avoir perdu sa"
-	line "# POUPEE pré-"
-	cont "férée: MELOFEE."
+	line "# Poupée pré-"
+	cont "férée: Mélofée."
 	done
 
 SaffronCityPokefanMText:
-	text "Tu viens de JOHTO?"
+	text "Tu viens de Johto?"
 
 	para "Tu peux retourner"
 	line "chez toi en une"
 	cont "seconde si le"
-	cont "TRAIN MAGNET"
+	cont "Train Magnet"
 	cont "fonctionne."
 	done
 
 SaffronCityPokefanMText_ReturnedMachinePart:
-	text "Tu viens de JOHTO?"
+	text "Tu viens de Johto?"
 
 	para "Tu peux retourner"
 	line "chez toi en une"
 	cont "seconde avec le"
-	cont "TRAIN MAGNET."
+	cont "Train Magnet."
 	done
 
 SaffronCityCooltrainerMText:
-	text "J'allais à l'ARENE"
+	text "J'allais à l'Arène"
 	line "pour faire plein"
 	cont "de combats..."
 
 	para "Et puis j'suis"
-	line "arrivé à l'ARENE"
+	line "arrivé à l'Arène"
 	cont "cassée d'à côté."
 
 	para "J'avais l'air"
@@ -159,12 +159,12 @@ SaffronCityCooltrainerMText:
 	done
 
 SaffronCityCooltrainerFText:
-	text "La SYLPHE SARL est"
+	text "La Sylphe SARL est"
 	line "célèbre pour ses"
-	cont "produits #MON."
+	cont "produits #mon."
 
 	para "C'est pour ça que"
-	line "la TEAM ROCKET"
+	line "la Team Rocket"
 
 	para "voulait la contrô-"
 	line "ler..."
@@ -175,7 +175,7 @@ SaffronCityFisherText:
 
 	para "On dit qu'il y a"
 	line "du tintouin à la"
-	cont "CENTRALE."
+	cont "Centrale."
 
 	para "(bouffe)(mâche)"
 	done
@@ -185,7 +185,7 @@ SaffronCityFisherText_ReturnedMachinePart:
 
 	para "On dit qu'il y a-"
 	line "vait du tintouin à"
-	cont "la CENTRALE."
+	cont "la Centrale."
 
 	para "(bouffe)(mâche)"
 	line "J'ai plus faim!"
@@ -203,9 +203,9 @@ SaffronCityYoungster2Text:
 	text "On dit que les"
 	line "dresseurs se ren-"
 
-	para "contrent au CLUB"
-	line "des DRESSEURS à"
-	cont "JADIELLE."
+	para "contrent au Club"
+	line "des Dresseurs à"
+	cont "Jadielle."
 	done
 
 SaffronCityLass2Text:
@@ -219,40 +219,40 @@ SaffronCityLass2Text:
 	done
 
 SaffronCitySignText:
-	text "SAFRANIA"
+	text "Safrania"
 
 	para "Le berceau doré"
 	line "du commerce"
 	done
 
 SaffronGymSignText:
-	text "CHAMPION d'ARENE"
-	line "de SAFRANIA:"
-	cont "MORGANE"
+	text "Champion d'Arène"
+	line "de Safrania:"
+	cont "Morgane"
 
 	para "La maîtresse des"
-	line "#MON PSY!"
+	line "#mon Psy!"
 	done
 
 FightingDojoSignText:
-	text "DOJO"
+	text "Dojo"
 	line "Bienvenue à tous!"
 	done
 
 SilphCoSignText:
-	text "BUREAUX de la"
-	line "SYLPHE SARL"
+	text "Bureaux de la"
+	line "Sylphe SARL"
 	done
 
 MrPsychicsHouseSignText:
-	text "MAISON DE"
-	line "M.PSY"
+	text "Maison de"
+	line "M.Psy"
 	done
 
 SaffronCityMagnetTrainStationSignText:
-	text "STATION du"
-	line "TRAIN MAGNET"
-	cont "de SAFRANIA"
+	text "Station du"
+	line "Train Magnet"
+	cont "de Safrania"
 	done
 
 SaffronCity_MapEvents:

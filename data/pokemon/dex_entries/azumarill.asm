@@ -1,4 +1,4 @@
-	db "AQUALAPIN@" ; species name
+	db "Aqualapin@" ; species name
 	db 8 ; height
 	dw 285 ; weight
 

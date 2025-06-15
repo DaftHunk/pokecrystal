@@ -24,14 +24,14 @@ FuchsiaMartFisherText:
 	text "Je voulais acheter"
 	line "des souvenirs au"
 
-	para "PARC SAFARI mais"
+	para "Parc Safari mais"
 	line "c'est fermé..."
 	done
 
 FuchsiaMartCooltrainerFText:
 	text "La petite-fille du"
-	line "GARDIEN du PARC"
-	cont "SAFARI vit en"
+	line "Gardien du Parc"
+	cont "Safari vit en"
 	cont "ville."
 	done
 

@@ -9,21 +9,21 @@ IrwinRocketTakeoverRumorText:
 	text "<PLAY_G>, es-tu"
 	line "au courant?"
 
-	para "La TOUR RADIO de"
-	line "DOUBLONVILLE a été"
+	para "La Tour Radio de"
+	line "Doublonville a été"
 
 	para "envahie par la"
-	line "TEAM ROCKET!"
+	line "Team Rocket!"
 
 	para "Heu... C'est quoi"
-	line "la TEAM ROCKET?"
+	line "la Team Rocket?"
 	done
 
 IrwinPlainBadgeGossipText:
 	text "<PLAY_G>!"
 
 	para "Tu as battu"
-	line "BLANCHE?"
+	line "Blanche?"
 
 	para "Je suis fier"
 	line "d'être ton ami!"
@@ -34,7 +34,7 @@ IrwinJasmineReturnedGossipText:
 	line "ler de toi!"
 
 	para "Tu as sauvé un"
-	line "#MON au PHARE,"
+	line "#mon au Phare,"
 	cont "non?"
 
 	para "<PLAY_G>, tu"
@@ -49,20 +49,20 @@ IrwinRocketHideoutGossipText:
 
 	para "Tu as cassé la"
 	line "planque de la"
-	cont "TEAM ROCKET!"
+	cont "Team Rocket!"
 
 	para "T'es trop balèze!"
 	line "Comme à la télé!"
 
 	para "Mais... C'est quoi"
-	line "la TEAM ROCKET?"
+	line "la Team Rocket?"
 	done
 
 IrwinRadioTowerGossipText:
 	text "On parle de toi!"
 
 	para "Tu as sauvé la"
-	line "TOUR RADIO!"
+	line "Tour Radio!"
 
 	para "Bravo, graine de"
 	line "star!"
@@ -72,7 +72,7 @@ IrwinRisingBadgeGossipText:
 	text "Bah dis donc!"
 
 	para "Tu as visité"
-	line "l'ANTRE du DRAGON!"
+	line "l'Antre du Dragon!"
 
 	para "As-tu réussi"
 	line "l'épreuve? Allez!"
@@ -82,7 +82,7 @@ IrwinRisingBadgeGossipText:
 
 IrwinEliteFourGossipText:
 	text "Je suis allé au"
-	line "BOURG GEON hier."
+	line "Bourg Geon hier."
 
 	para "Il y avait une"
 	line "dame qui te"
@@ -117,8 +117,8 @@ IrwinVermilionCityGossipText:
 IrwinTrainPassGossipText:
 	text "Bah dis donc!"
 
-	para "Tu as eu le PASSE"
-	line "du TRAIN!"
+	para "Tu as eu le Passe"
+	line "du Train!"
 
 	para "Quand tu as pris"
 	line "le bateau, j'ai"
@@ -127,21 +127,21 @@ IrwinTrainPassGossipText:
 	line "pour toujours..."
 
 	para "Mais vu que tu as"
-	line "le PASSE, tu peux"
+	line "le Passe, tu peux"
 	cont "revenir!"
 
 	para "Quoi? Tu peux"
-	line "aussi VOLER?"
+	line "aussi Voler?"
 
 	para "Comment ça..."
-	line "VOLER?"
+	line "Voler?"
 	done
 
 IrwinSnorlaxGossipText:
 	text "Bah dis donc!"
 
 	para "Tu as réveillé"
-	line "RONFLEX!"
+	line "Ronflex!"
 
 	para "Je te regardais de"
 	line "loin, je n'ai pas"
@@ -182,13 +182,13 @@ IrwinFogBadgeGossipText:
 	text "Bah dis donc!"
 
 	para "Tu as battu"
-	line "MORTIMER de"
+	line "Mortimer de"
 
-	para "ROSALIA! C'est..."
+	para "Rosalia! C'est..."
 	line "Incroyable!"
 
 	para "J'étais à l'entrée"
-	line "de l'ARENE pour"
+	line "de l'Arène pour"
 
 	para "t'encourager."
 	line "Tu le savais ça?"
@@ -205,7 +205,7 @@ IrwinMarshBadgeGossipText:
 	text "<PLAY_G>!"
 
 	para "Tu fais des"
-	line "ravages à KANTO!"
+	line "ravages à Kanto!"
 
 	para "Ca doit être trop"
 	line "mortel!"
@@ -238,7 +238,7 @@ IrwinSoMuchToChatAboutText:
 	para "T'es où?"
 
 	para "T'as combien de"
-	line "BADGES?"
+	line "Badges?"
 
 	para "Tu as beaucoup"
 	line "d'argent?"
@@ -246,7 +246,7 @@ IrwinSoMuchToChatAboutText:
 	para "Ca va ta mère?"
 
 	para "T'as beaucoup"
-	line "de #MON?"
+	line "de #mon?"
 
 	para "Il va faire beau"
 	line "demain?"

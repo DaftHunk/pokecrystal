@@ -27,30 +27,38 @@ AzaleaPokecenter1FPokefanFScript:
 
 AzaleaPokecenter1FGentlemanText:
 	text "Est-ce que ton"
-	line "#MON connait"
+	line "#mon connait"
 	cont "des CS?"
 
 	para "Ces actions"
 	line "peuvent être réa-"
 
 	para "lisées même si le"
-	line "#MON est"
+	line "#mon est"
 	cont "évanoui."
 	done
 
-AzaleaPokecenter1FUnusedText: ; unreferenced
-	text_start
+AzaleaPokecenter1FUnusedText: 
+	text "This BILL guy"
+	line "created the system"
+
+	para "for storing"
+	line "#mon in a PC."
+
+	para "BILL's PC can"
+	line "store up to 20"
+	cont "#mon per BOX."
 	done
 
-AzaleaPokecenter1FFishingGuruText:
-	text "Le PC de LEO peut"
+AzaleaPokecenter1FFishingGuruText: ; Unused, English version replacement for above dialog.
+	text "Le PC de Léo peut"
 	line "garder jusqu'à 20"
-	cont "#MON par BOITE."
+	cont "#mon par Boîte."
 	done
 
 AzaleaPokecenter1FPokefanFText:
 	text "Connais-tu les"
-	line "NOIGRUMES?"
+	line "Noigrumes?"
 
 	para "Ouvres-en un,"
 	line "vide-le et"
@@ -61,15 +69,15 @@ AzaleaPokecenter1FPokefanFText:
 	para "Tu pourras alors"
 	line "t'en servir pour"
 	cont "attraper des"
-	cont "#MON."
+	cont "#mon."
 
 	para "Avant que les"
-	line "# BALLS ne"
+	line "# Balls ne"
 
 	para "soient inventées"
 	line "tout le monde"
 	cont "utilisait les"
-	cont "NOIGRUMES."
+	cont "Noigrumes."
 	done
 
 AzaleaPokecenter1F_MapEvents:

@@ -7,7 +7,7 @@ VanceAnswerPhoneText:
 	para "Bonjour, <PLAY_G>!"
 
 	para "Tu aimes les"
-	line "#MON oiseaux?"
+	line "#mon oiseaux?"
 	done
 
 VanceAnswerPhoneDayText:
@@ -19,7 +19,7 @@ VanceAnswerPhoneDayText:
 	para "Bonjour, <PLAY_G>!"
 
 	para "Tu aimes les"
-	line "#MON oiseaux?"
+	line "#mon oiseaux?"
 	done
 
 VanceAnswerPhoneNiteText:
@@ -31,7 +31,7 @@ VanceAnswerPhoneNiteText:
 	para "Bonsoir, <PLAY_G>!"
 
 	para "Tu aimes les"
-	line "#MON oiseaux?"
+	line "#mon oiseaux?"
 	done
 
 VanceGreetText:
@@ -64,7 +64,7 @@ VanceGreetNiteText:
 	done
 
 VanceGenericText:
-	text "Toi et tes #MON"
+	text "Toi et tes #mon"
 	line "allez bien?"
 
 	para "Mon @"
@@ -73,6 +73,6 @@ VanceGenericText:
 	line "est assez fort"
 
 	para "pour affronter les"
-	line "#MON oiseaux"
+	line "#mon oiseaux"
 	cont "légendaires!"
 	done

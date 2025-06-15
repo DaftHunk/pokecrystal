@@ -51,11 +51,11 @@ GoldenrodBikeShopClerkIntroText:
 
 	para "mais je n'arrive"
 	line "pas à vendre mes"
-	cont "BICYCLETTES."
+	cont "Bicyclettes."
 	cont "Pourquoi?"
 
 	para "Pourrais-tu faire"
-	line "de la BICYCLETTE"
+	line "de la Bicyclette"
 	cont "et me faire de la"
 	cont "pub?"
 	done
@@ -68,16 +68,16 @@ GoldenrodBikeShopClerkAgreedText:
 
 	para "téléphone et je te"
 	line "prêterai une"
-	cont "BICYCLETTE."
+	cont "Bicyclette."
 	done
 
 BorrowedABicycleText:
 	text "<PLAYER> emprunte"
-	line "une BICYCLETTE."
+	line "une Bicyclette."
 	done
 
 GoldenrodBikeShopClerkFirstRateBikesText:
-	text "Mes BICYCLETTES"
+	text "Mes Bicyclettes"
 	line "sont trop bien!"
 
 	para "Tu peux en faire"
@@ -93,14 +93,14 @@ GoldenrodBikeShopClerkRefusedText:
 GoldenrodBikeShopJustReleasedCompactBikeText:
 	text "Tout chô tout bô!"
 
-	para "BICYCLETTES de"
+	para "Bicyclettes de"
 	line "poche de premier"
 	cont "choix!"
 	done
 
 GoldenrodBikeShopBicycleText:
 	text "C'est une sacrée"
-	line "jolie BICYCLETTE!"
+	line "jolie Bicyclette!"
 	done
 
 GoldenrodBikeShop_MapEvents:

@@ -1,4 +1,4 @@
-	db "MOLLUSQUE@" ; species name
+	db "Mollusque@" ; species name
 	db 16 ; height
 	dw 550 ; weight
 

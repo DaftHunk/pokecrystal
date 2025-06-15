@@ -181,15 +181,15 @@ Route39HiddenNugget:
 	hiddenitem NUGGET, EVENT_ROUTE_39_HIDDEN_NUGGET
 
 Route39MiltankText:
-	text "ECREMEUH: Meuh!"
+	text "Ecremeuh: Meuh!"
 	done
 
 SailorEugeneSeenText:
 	text "Je reviens de"
-	line "OLIVILLE."
+	line "Oliville."
 
 	para "Ca te dit un p'tit"
-	line "combat #MON?"
+	line "combat #mon?"
 	done
 
 SailorEugeneBeatenText:
@@ -199,7 +199,7 @@ SailorEugeneBeatenText:
 SailorEugeneAfterBattleText:
 	text "J'ai attrapé et"
 	line "entraîné mes #-"
-	cont "MON à l'étranger."
+	cont "mon à l'étranger."
 
 	para "Ils m'accompagnent"
 	line "pendant mes longs"
@@ -208,7 +208,7 @@ SailorEugeneAfterBattleText:
 
 PokefanmDerekSeenText:
 	text "Moi je crâne avec"
-	line "mon PIKACHU!"
+	line "mon Pikachu!"
 	done
 
 PokefanmDerekBeatenText:
@@ -225,7 +225,7 @@ PokefanMDerekText_NotBragging:
 
 PokefanfRuthSeenText:
 	text "Les jolis"
-	line "#MON."
+	line "#mon."
 
 	para "Allez! On se les"
 	line "montre en même"
@@ -239,31 +239,31 @@ PokefanfRuthBeatenText:
 
 PokefanfRuthAfterBattleText:
 	text "Tu connais les"
-	line "bébés #MON?"
+	line "bébés #mon?"
 
 	para "Ils sont siiii"
 	line "mignooons!"
 	done
 
 PokefanMDerekPikachuIsItText:
-	text "PIKACHU est cool!"
+	text "Pikachu est cool!"
 	line "Tu ne trouves pas?"
 	done
 
 PsychicNormanSeenText:
 	text "Montre-moi tes"
-	line "#MON."
+	line "#mon."
 	cont "Tout de suite!"
 	done
 
 PsychicNormanBeatenText:
-	text "Ooh, tes #MON"
+	text "Ooh, tes #mon"
 	line "sont forts!"
 	done
 
 PsychicNormanAfterBattleText:
 	text "Sais-tu combien de"
-	line "#MON ont plu-"
+	line "#mon ont plu-"
 	cont "sieurs capacités?"
 
 	para "C'est normal!"
@@ -289,9 +289,9 @@ PokefanfJaimeBeatenText:
 	done
 
 PokefanfJaimeAfterBattleText:
-	text "J'ai vu MIAOUSS la"
+	text "J'ai vu Miaouss la"
 	line "nuit, ici sur la"
-	cont "ROUTE 39."
+	cont "Route 39."
 
 	para "Je ne sais pas"
 	line "pourquoi mais il"
@@ -305,33 +305,33 @@ PokefanfJaimeAfterBattleText:
 	done
 
 Route39SignText:
-	text "ROUTE 39"
+	text "Route 39"
 
-	para "OLIVILLE -"
-	line "ROSALIA"
+	para "Oliville -"
+	line "Rosalia"
 	done
 
 MoomooFarmSignText:
-	text "RANCH MEUMEU"
+	text "Ranch Meumeu"
 
 	para "Le meilleur lait"
 	line "sur le marché!"
 	done
 
 Route39TrainerTipsText:
-	text "ASTUCE"
+	text "Astuce"
 
-	para "Un COUP D'BOULE"
+	para "Un Coup d'Boule"
 	line "sur les arbres"
 	cont "peut faire tomber"
-	cont "des #MON."
+	cont "des #mon."
 
-	para "Des #MON diffé-"
+	para "Des #mon diffé-"
 	line "rents vivent dans"
 	cont "les arbres."
 
-	para "Donnez des COUPS"
-	line "D'BOULE et vous"
+	para "Donnez des CoupS"
+	line "s'Boule et vous"
 	cont "verrez!"
 	done
 

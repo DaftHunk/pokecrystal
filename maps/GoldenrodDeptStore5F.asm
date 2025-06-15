@@ -140,7 +140,7 @@ GoldenrodDeptStore5FElevatorButton:
 
 GoldenrodDeptStore5FReceptionistOhYourMonDotDotDotText:
 	text "Bonjour. Oh, ton"
-	line "#MON..."
+	line "#mon..."
 	done
 
 GoldenrodDeptStore5FReceptionistThisMoveShouldBePerfectText:
@@ -173,26 +173,26 @@ GoldenrodDeptStore5FReceptionistThereAreTMsPerfectForMonText:
 	line "y a une CT par-"
 
 	para "faitement adaptée"
-	line "à ton #MON."
+	line "à ton #mon."
 	done
 
 GoldenrodDeptStore5FCarrieMysteryGiftExplanationText:
-	text "Le CADEAU MYSTERE."
+	text "Le Cadeau Mystère."
 
 	para "Au bip..."
 	line "Un cadeau!"
 	done
 
 GoldenrodDeptStore5FCarrieMysteryGiftRequiresGBCText:
-	text "L'option CADEAU"
-	line "MYSTERE nécessite"
+	text "L'option Cadeau"
+	line "Mystère nécessite"
 	cont "un Game Boy Color."
 	done
 
 GoldenrodDeptStore5FLassText:
-	text "Le dimanche, une"
+	text "Le Dimanche, une"
 	line "dame vient voir"
-	cont "les #MON."
+	cont "les #mon."
 
 	para "Elle donne même"
 	line "des CT!"
@@ -201,7 +201,7 @@ GoldenrodDeptStore5FLassText:
 GoldenrodDeptStore5FPokefanMText:
 	text "Tu ne peux pas"
 	line "renommer un #-"
-	cont "MON que tu as eu"
+	cont "mon que tu as eu"
 	cont "dans un échange."
 
 	para "Le nom d'origine"
@@ -214,9 +214,9 @@ GoldenrodDeptStore5FPokefanMText:
 
 GoldenrodDeptStore5FDirectoryText:
 	text "Pour personnaliser"
-	line "son #MON..."
+	line "son #mon..."
 
-	para "4EME Y'A BON LES"
+	para "4ème Y'a bon les"
 	line "     CT"
 	done
 

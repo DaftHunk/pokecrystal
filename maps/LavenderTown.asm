@@ -48,12 +48,12 @@ LavenderTownPokefanMText:
 	text "Quel bâtiment,"
 	line "hein?"
 
-	para "C'est la TOUR"
-	line "RADIO de KANTO."
+	para "C'est la Tour"
+	line "Radio de Kanto."
 	done
 
 LavenderTownTeacherText:
-	text "KANTO a beaucoup"
+	text "Kanto a beaucoup"
 	line "d'émissions radio."
 	done
 
@@ -63,43 +63,43 @@ LavenderTownGrampsText:
 
 	para "luer le départ des"
 	line "âmes des pauvres"
-	cont "#MON."
+	cont "#mon."
 	done
 
 LavenderTownYoungsterText:
 	text "Il faut une #"
-	line "FLUTE pour réveil-"
-	cont "ler un #MON."
+	line "Flûte pour réveil-"
+	cont "ler un #mon."
 
 	para "Tout le monde sait"
 	line "ça, voyons!"
 	done
 
 LavenderTownSignText:
-	text "LAVANVILLE"
+	text "Lavanville"
 
 	para "La ville d'un"
 	line "pourpre royal"
 	done
 
 KantoRadioStationSignText:
-	text "STATION de RADIO"
-	line "de KANTO"
+	text "Station de Radio"
+	line "de Kanto"
 
 	para "Vos émissions"
 	line "favorites!"
 	done
 
 VolunteerPokemonHouseSignText:
-	text "BENEVOLAT de"
-	line "LAVANVILLE"
+	text "Benevolat de"
+	line "Lavanville"
 	done
 
 SoulHouseSignText:
-	text "MAISON DES AMES"
+	text "Maison des Ames"
 
 	para "Que les âmes des"
-	line "#MON reposent"
+	line "#mon reposent"
 	cont "en paix"
 	done
 

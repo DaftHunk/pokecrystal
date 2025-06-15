@@ -24,21 +24,21 @@ Route19FuchsiaGateOfficerScript:
 
 Route19FuchsiaGateOfficerText:
 	text "Le volcan de"
-	line "CRAMOIS'ILE est en"
+	line "Cramois'Ile est en"
 	cont "éruption."
 
 	para "Il a craché des"
 	line "rochers bloquant"
-	cont "la ROUTE 19."
+	cont "la Route 19."
 
 	para "Les habitants de"
-	line "CRAMOIS'ILE sont-"
+	line "Cramois'Ile sont-"
 	cont "ils en sécurité?"
 	done
 
 Route19FuchsiaGateOfficerText_RocksCleared:
 	text "Aucun habitant de"
-	line "CRAMOIS'ILE n'a"
+	line "Cramois'Ile n'a"
 
 	para "été blessé pendant"
 	line "l'éruption. Cool!"

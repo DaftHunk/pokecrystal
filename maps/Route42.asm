@@ -226,7 +226,7 @@ Route42SuicuneMovement:
 FisherTullySeenText:
 	text "Je vais te montrer"
 	line "la puissance de"
-	cont "mes #MON!"
+	cont "mes #mon!"
 	done
 
 FisherTullyBeatenText:
@@ -236,8 +236,8 @@ FisherTullyBeatenText:
 
 FisherTullyAfterBattleText:
 	text "Je veux devenir un"
-	line "MAITRE avec mes"
-	cont "nouveaux #MON."
+	line "Maître avec mes"
+	cont "nouveaux #mon."
 
 	para "C'est pour ça que"
 	line "je pêche!"
@@ -268,15 +268,15 @@ PokemaniacShaneSeenText:
 PokemaniacShaneBeatenText:
 	text "J'aurais dû utili-"
 	line "ser ma jolie"
-	cont "PIERRE LUNE."
+	cont "Pierre Lune."
 	done
 
 PokemaniacShaneAfterBattleText:
 	text "Tu bosses sur un"
-	line "#DEX?"
+	line "#dex?"
 
 	para "Tu dois connaître"
-	line "plein de #MON"
+	line "plein de #mon"
 	cont "rares!"
 
 	para "J'peux les voir?"
@@ -284,31 +284,31 @@ PokemaniacShaneAfterBattleText:
 	done
 
 Route42Sign1Text:
-	text "ROUTE 42"
+	text "Route 42"
 
-	para "ROSALIA -"
-	line "ACAJOU"
+	para "Rosalia -"
+	line "Acajou"
 	done
 
 MtMortarSign1Text:
-	text "MONT CREUSET"
+	text "Mont Creuset"
 
-	para "GROTTE CASCADE"
+	para "Grotte Cascade"
 	line "Intérieur"
 	done
 
 MtMortarSign2Text:
-	text "MONT CREUSET"
+	text "Mont Creuset"
 
-	para "GROTTE CASCADE"
+	para "Grotte Cascade"
 	line "Intérieur"
 	done
 
 Route42Sign2Text:
-	text "ROUTE 42"
+	text "Route 42"
 
-	para "ROSALIA -"
-	line "ACAJOU"
+	para "Rosalia -"
+	line "Acajou"
 	done
 
 Route42_MapEvents:

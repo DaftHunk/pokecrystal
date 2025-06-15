@@ -13,7 +13,7 @@ LavenderSpeechHouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 LavenderSpeechHousePokefanFText:
-	text "LAVANVILLE est"
+	text "Lavanville est"
 	line "une petite ville"
 
 	para "calme au pied des"
@@ -23,7 +23,7 @@ LavenderSpeechHousePokefanFText:
 	line "passage depuis la"
 
 	para "construction de la"
-	line "TOUR RADIO."
+	line "Tour Radio."
 	done
 
 LavenderSpeechHouse_MapEvents:

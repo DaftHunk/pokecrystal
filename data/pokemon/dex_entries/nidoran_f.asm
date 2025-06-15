@@ -1,4 +1,4 @@
-	db "VENEPIC@" ; species name
+	db "Vénépic@" ; species name
 	db 4 ; height
 	dw 70 ; weight
 
@@ -6,6 +6,6 @@
 	next "il se protège avec"
 	next "sa minuscule corne"
 
-	page "empoisonnée lors-"
+	page "Empoisonnée lors-"
 	next "qu'il est attaqué."
 	next "@"

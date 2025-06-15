@@ -1,4 +1,4 @@
-	db "CRETIN@" ; species name
+	db "Crétin@" ; species name
 	db 12 ; height
 	dw 360 ; weight
 

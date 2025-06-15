@@ -1,4 +1,4 @@
-	db "SCARABEE@" ; species name
+	db "Scarabée@" ; species name
 	db 15 ; height
 	dw 550 ; weight
 

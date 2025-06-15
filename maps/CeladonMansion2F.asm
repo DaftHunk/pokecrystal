@@ -24,26 +24,26 @@ CeladonMansion2FComputerText:
 
 	para "...J'espère que"
 	line "vous viendrez à"
-	cont "KANTO."
+	cont "Kanto."
 
 	para "Vous verrez à quel"
 	line "point les choses"
 	cont "ont changé ici."
 
 	para "Vous verrez même"
-	line "des #MON qui"
+	line "des #mon qui"
 
 	para "n'existent pas à"
-	line "JOHTO."
+	line "Johto."
 
-	para "Pour le PRODUCTEUR"
+	para "Pour le Producteur"
 
 	para "..."
 	done
 
 CeladonMansion2FMeetingRoomSignText:
 	text "GAME FREAK"
-	line "SALLE de REUNION"
+	line "Salle de Réunion"
 	done
 
 CeladonMansion2F_MapEvents:

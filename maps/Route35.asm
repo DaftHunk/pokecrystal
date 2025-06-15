@@ -278,7 +278,7 @@ CamperIvanSeenText:
 	text "J'ai appris plein"
 	line "de trucs sur les"
 
-	para "#MON à la ra-"
+	para "#mon à la ra-"
 	line "dio. Tu vas voir!"
 	done
 
@@ -289,7 +289,7 @@ CamperIvanBeatenText:
 CamperIvanAfterBattleText:
 	text "La musique de la"
 	line "radio fait réagir"
-	cont "les #MON sau-"
+	cont "les #mon sau-"
 	cont "vages."
 	done
 
@@ -323,12 +323,12 @@ PicnickerBrookeBeatenText:
 
 PicnickerBrookeAfterBattleText:
 	text "Je préfère mes"
-	line "#MON à mon"
+	line "#mon à mon"
 	cont "copain."
 	done
 
 PicnickerKimSeenText:
-	text "Tu vas à l'ARENE?"
+	text "Tu vas à l'Arène?"
 	line "Moi aussi!"
 	done
 
@@ -338,13 +338,13 @@ PicnickerKimBeatenText:
 	done
 
 PicnickerKimAfterBattleText:
-	text "Les BADGES d'ARENE"
+	text "Les Badges d'Arène"
 	line "sont jolis. Je les"
 	cont "collectionne."
 	done
 
 BirdKeeperBryanSeenText:
-	text "Quelles # BALLS"
+	text "Quelles # Balls"
 	line "utilises-tu?"
 	done
 
@@ -354,25 +354,25 @@ BirdKeeperBryanBeatenText:
 	done
 
 BirdKeeperBryanAfterBattleText:
-	text "Certains #MON"
+	text "Certains #mon"
 	line "s'enfuient vite."
 
 	para "Attrape-les avec"
-	line "une SPEED BALL de"
-	cont "FARGAS."
+	line "une Speed Ball de"
+	cont "Fargas."
 
-	para "Apporte à FARGAS"
-	line "un NOIGRUME BLC si"
+	para "Apporte à Fargas"
+	line "un Noigrume Blc si"
 	cont "tu en trouves un."
 
 	para "Il le transformera"
-	line "en # BALL!"
+	line "en # Ball!"
 	done
 
 JugglerIrwin1SeenText:
 	text "Regarde comme je"
 	line "lance bien mes"
-	cont "BALLS!"
+	cont "Balls!"
 	done
 
 JugglerIrwin1BeatenText:
@@ -382,7 +382,7 @@ JugglerIrwin1BeatenText:
 JugglerIrwinAfterBattleText:
 	text "J'allais t'éblouir"
 	line "avec mon nouveau"
-	cont "#MON..."
+	cont "#mon..."
 
 	para "Mais tu es trop"
 	line "rapide!"
@@ -390,8 +390,8 @@ JugglerIrwinAfterBattleText:
 
 BugCatcherArnieSeenText:
 	text "Moi mon truc c'est"
-	line "les #MON"
-	cont "insecte."
+	line "les #mon"
+	cont "Insecte."
 	done
 
 BugCatcherArnieBeatenText:
@@ -400,16 +400,16 @@ BugCatcherArnieBeatenText:
 	done
 
 BugCatcherArnieAfterBattleText:
-	text "Mon MIMITOSS a ga-"
+	text "Mon Mimitoss a ga-"
 	line "gné au Concours de"
 
-	para "Capture d'insecte"
-	line "au PARC NATUREL."
+	para "Capture d'Insecte"
+	line "au Parc Naturel."
 	done
 
 BugCatcherArnieYanmaText:
 	text "Woah! Regarde"
-	line "ces YANMA!"
+	line "ces Yamna!"
 
 	para "J'en suis baba!"
 	done
@@ -424,9 +424,9 @@ FirebreatherWaltBeatenText:
 	done
 
 FirebreatherWaltAfterBattleText:
-	text "La fanfare #MON"
+	text "La fanfare #mon"
 	line "à la radio attire"
-	cont "les #MON"
+	cont "les #mon"
 	cont "sauvages."
 	done
 
@@ -449,7 +449,7 @@ OfficerDirkAfterBattleText:
 	done
 
 OfficerDirkPrettyToughText:
-	text "Tes #MON ont"
+	text "Tes #mon ont"
 	line "l'air fort."
 
 	para "Tu es en sécurité"
@@ -457,7 +457,7 @@ OfficerDirkPrettyToughText:
 	done
 
 Route35SignText:
-	text "ROUTE 35"
+	text "Route 35"
 	done
 
 Route35_MapEvents:

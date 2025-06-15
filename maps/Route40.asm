@@ -174,7 +174,7 @@ SwimmermSimonBeatenText:
 	done
 
 SwimmermSimonAfterBattleText:
-	text "IRISIA est assez"
+	text "Irisia est assez"
 	line "loin d'ici."
 	done
 
@@ -184,7 +184,7 @@ SwimmermRandallSeenText:
 
 	para "Nage au lieu de"
 	line "monter sur ton"
-	cont "#MON!"
+	cont "#mon!"
 	done
 
 SwimmermRandallBeatenText:
@@ -197,7 +197,7 @@ SwimmermRandallAfterBattleText:
 	done
 
 SwimmerfElaineSeenText:
-	text "Tu vas à IRISIA?"
+	text "Tu vas à Irisia?"
 
 	para "On s'bat d'abord?"
 	done
@@ -214,7 +214,7 @@ SwimmerfElaineAfterBattleText:
 
 SwimmerfPaulaSeenText:
 	text "J'adore les #-"
-	line "MON marins!"
+	line "mon marins!"
 	done
 
 SwimmerfPaulaBeatenText:
@@ -228,7 +228,7 @@ SwimmerfPaulaAfterBattleText:
 	done
 
 Route40Lass1Text:
-	text "IRISIA est de"
+	text "Irisia est de"
 	line "l'autre côté de la"
 	cont "mer."
 	done
@@ -251,7 +251,7 @@ Route40PokefanMText_Mobile:
 
 Route40Lass2Text:
 	text "Je suis venue à"
-	line "OLIVILLE pour"
+	line "Oliville pour"
 
 	para "voir les beaux"
 	line "paysages..."
@@ -261,7 +261,7 @@ Route40Lass2Text:
 
 Route40StandingYoungsterText:
 	text "As-tu visité la"
-	line "TOUR DE COMBAT?"
+	line "Tour de Combat?"
 
 	para "Plein de"
 	line "dresseurs super"
@@ -270,17 +270,17 @@ Route40StandingYoungsterText:
 	line "réunis."
 
 	para "Mais vu que tu as"
-	line "des BADGES, tu"
+	line "des Badges, tu"
 
 	para "devrais t'en"
 	line "tirer."
 	done
 
 MeetMonicaText:
-	text "LUCIE: Bonjour!"
-	line "Je suis LUCIE du"
+	text "Lucie: Bonjour!"
+	line "Je suis Lucie du"
 
-	para "lundi."
+	para "Lundi."
 	done
 
 MonicaGivesGiftText:
@@ -290,19 +290,19 @@ MonicaGivesGiftText:
 	done
 
 MonicaGaveGiftText:
-	text "LUCIE: C'est un"
+	text "Lucie: C'est un"
 	line "objet qui améliore"
 
 	para "les capacités du"
-	line "type VOL."
+	line "type Vol."
 
 	para "Tu devrais le don-"
-	line "ner à un #MON"
+	line "ner à un #mon"
 	cont "oiseau."
 	done
 
 MonicaMondayText:
-	text "LUCIE: Mes frères"
+	text "Lucie: Mes frères"
 	line "et soeurs sont un"
 	cont "peu partout."
 
@@ -310,16 +310,16 @@ MonicaMondayText:
 	done
 
 MonicaNotMondayText:
-	text "LUCIE: On est pas"
-	line "lundi aujourd'hui!"
+	text "Lucie: On est pas"
+	line "Lundi aujourd'hui!"
 	cont "Dommage..."
 	done
 
 Route40SignText:
-	text "ROUTE 40"
+	text "Route 40"
 
-	para "IRISIA -"
-	line "OLIVILLE"
+	para "Irisia -"
+	line "Oliville"
 	done
 
 Route40_MapEvents:
@@ -335,7 +335,7 @@ Route40_MapEvents:
 	bg_event  7,  8, BGEVENT_ITEM, Route40HiddenHyperPotion
 
 	def_object_events
-	object_event 14, 18, SPRITE_OLIVINE_RIVAL, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_TRAINER, 4, TrainerSwimmermSimon, -1
+	object_event 14, 15, SPRITE_OLIVINE_RIVAL, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_TRAINER, 4, TrainerSwimmermSimon, -1
 	object_event 18, 30, SPRITE_OLIVINE_RIVAL, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_TRAINER, 5, TrainerSwimmermRandall, -1
 	object_event  3, 19, SPRITE_SWIMMER_GIRL, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_TRAINER, 4, TrainerSwimmerfElaine, -1
 	object_event 10, 25, SPRITE_SWIMMER_GIRL, SPRITEMOVEDATA_SPINCLOCKWISE, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_TRAINER, 3, TrainerSwimmerfPaula, -1
@@ -346,4 +346,4 @@ Route40_MapEvents:
 	object_event  8, 10, SPRITE_BEAUTY, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, MonicaScript, EVENT_ROUTE_40_MONICA_OF_MONDAY
 	object_event  7,  6, SPRITE_POKEFAN_M, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route40PokefanMScript, -1
 	object_event 13,  4, SPRITE_LASS, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, Route40Lass2Script, -1
-	object_event 12,  9, SPRITE_STANDING_YOUNGSTER, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, Route40StandingYoungsterScript, EVENT_BATTLE_TOWER_OPEN_CIVILIANS
+	object_event 16,  9, SPRITE_STANDING_YOUNGSTER, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, Route40StandingYoungsterScript, EVENT_BATTLE_TOWER_OPEN_CIVILIANS

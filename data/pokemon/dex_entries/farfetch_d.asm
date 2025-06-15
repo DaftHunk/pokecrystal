@@ -1,4 +1,4 @@
-	db "CANARD FOU@" ; species name
+	db "Canard Fou@" ; species name
 	db 8 ; height
 	dw 150 ; weight
 
@@ -8,4 +8,4 @@
 
 	page "nombreux sont ceux"
 	next "qui élèvent ce"
-	next "#MON.@"
+	next "#mon.@"

@@ -1,4 +1,4 @@
-	db "FEUILLE@" ; species name
+	db "Feuille@" ; species name
 	db 12 ; height
 	dw 158 ; weight
 

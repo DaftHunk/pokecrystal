@@ -137,7 +137,7 @@ DanceTheaterFancyPanel:
 
 KimonoGirlNaokoSeenText:
 	text "Tu as de jolis"
-	line "#MON. On peut"
+	line "#mon. On peut"
 	cont "voir c'que ça"
 	cont "donne en combat?"
 	done
@@ -155,7 +155,7 @@ KimonoGirlNaokoAfterBattleText:
 
 KimonoGirlSayoSeenText:
 	text "Je danse toujours"
-	line "avec mes #MON."
+	line "avec mes #mon."
 
 	para "Bien sûr, je les"
 	line "entraîne aussi."
@@ -173,7 +173,7 @@ KimonoGirlSayoAfterBattleText:
 
 	para "important pour la"
 	line "danse et pour les"
-	cont "#MON."
+	cont "#mon."
 	done
 
 KimonoGirlZukiSeenText:
@@ -181,12 +181,12 @@ KimonoGirlZukiSeenText:
 	line "ma barrette?"
 
 	para "Oh! Un combat de"
-	line "#MON?"
+	line "#mon?"
 	done
 
 KimonoGirlZukiBeatenText:
 	text "Je n'ai plus de"
-	line "#MON..."
+	line "#mon..."
 	done
 
 KimonoGirlZukiAfterBattleText:
@@ -225,7 +225,7 @@ KimonoGirlMikiSeenText:
 	line "de danse? La pure"
 	cont "classe, non?"
 	cont "Mais je suis aussi"
-	cont "forte en #MON."
+	cont "forte en #mon."
 	done
 
 KimonoGirlMikiBeatenText:
@@ -239,16 +239,16 @@ KimonoGirlMikiAfterBattleText:
 	line "danser! Les gens"
 	cont "adorent ça!"
 
-	para "Mes #MON aussi."
+	para "Mes #mon aussi."
 	done
 
 SurfGuyNeverLeftAScratchText:
-	text "Les KIMONO ne sont"
+	text "Les Kimono ne sont"
 	line "pas seulement de"
 
 	para "bonnes danseuses,"
 	line "elles sont aussi"
-	cont "douées en #MON."
+	cont "douées en #mon."
 
 	para "Je les défie"
 	line "souvent..."
@@ -258,7 +258,7 @@ SurfGuyLadGiftText:
 	text "Hep! Si tu réussis"
 	line "à vaincre toutes"
 
-	para "les KIMONO, je te"
+	para "les Kimono, je te"
 	line "donnerai alors un"
 	cont "joli cadeau."
 	done
@@ -267,7 +267,7 @@ SurfGuyLassieGiftText:
 	text "Hep! Si tu réussis"
 	line "à vaincre toutes"
 
-	para "les KIMONO, je te"
+	para "les Kimono, je te"
 	line "donnerai alors un"
 	cont "joli cadeau."
 	done
@@ -288,42 +288,42 @@ SurfGuyLikeADanceText:
 	done
 
 SurfGuySurfExplanationText:
-	text "C'est SURF."
+	text "C'est Surf."
 
 	para "Cette capacité"
 	line "permet aux"
-	cont "#MON de nager."
+	cont "#mon de nager."
 	done
 
 SurfGuyElegantKimonoGirlsText:
 	text "J'aimerais que mes"
-	line "#MON soient"
+	line "#mon soient"
 	cont "aussi élégants que"
-	cont "ceux des KIMONO..."
+	cont "ceux des Kimono..."
 	done
 
 RhydonText:
-	text "RHINOFEROS: Ross!"
+	text "Rhinoféros: Ross!"
 	line "Férrroosss!"
 	done
 
 DanceTheaterCooltrainerMText:
 	text "Cet homme est"
 	line "toujours avec son"
-	cont "RHINOFEROS."
+	cont "Rhinoféros."
 
 	para "Il dit vouloir"
-	line "un #MON sachant"
+	line "un #mon sachant"
 	cont "surfer et danser."
 
 	para "Est-ce qu'il veut"
 	line "faire de la"
 	cont "natation de #-"
-	cont "MON synchronisée?"
+	cont "mon synchronisée?"
 	done
 
 DanceTheaterGrannyText:
-	text "Les KIMONO sont"
+	text "Les Kimono sont"
 	line "très belles..."
 
 	para "Mais elles doivent"

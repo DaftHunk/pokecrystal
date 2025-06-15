@@ -1,4 +1,4 @@
-	db "VER@" ; species name
+	db "Ver@" ; species name
 	db 3 ; height
 	dw 29 ; weight
 

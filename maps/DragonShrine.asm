@@ -397,7 +397,7 @@ DragonShrineElderGreetingText:
 
 	para "Ne parle pas."
 
-	para "SANDRA t'a dit de"
+	para "Sandra t'a dit de"
 	line "venir, non?"
 
 	para "Coriace la petite,"
@@ -415,7 +415,7 @@ DragonShrineElderGreetingText:
 
 DragonShrineQuestion1Text:
 	text "Que représente un"
-	line "#MON à tes"
+	line "#mon à tes"
 	cont "yeux?"
 	done
 
@@ -435,12 +435,12 @@ DragonShrineQuestion4Text:
 	text "Quelle est la cho-"
 	line "se la plus impor-"
 	cont "tante en entraî-"
-	cont "nant les #MON?"
+	cont "nant les #mon?"
 	done
 
 DragonShrineQuestion5Text:
-	text "#MON puissant."
-	line "#MON faible."
+	text "#mon puissant."
+	line "#mon faible."
 
 	para "Lequel est le plus"
 	line "important?"
@@ -451,7 +451,7 @@ DragonShrinePassedTestText:
 
 	para "Tu as de vrais"
 	line "sentiments pour"
-	cont "les #MON."
+	cont "les #mon."
 
 	para "C'est bien ça."
 
@@ -462,26 +462,26 @@ DragonShrinePassedTestText:
 	line "change jamais."
 
 	para "Cela t'aidera"
-	line "pour la LIGUE"
-	cont "#MON."
+	line "pour la Ligue"
+	cont "#mon."
 	done
 
 DragonShrineMustIInformLanceText:
-	text "SANDRA!"
+	text "Sandra!"
 
 	para "C'est un bon"
 	line "élément..."
 
 	para "Admets ta défaite"
 	line "et donne ton"
-	cont "BADGE LEVER!"
+	cont "Badge Lever!"
 
 	para "...Ou dois-je en"
-	line "informer PETER?"
+	line "informer Peter?"
 	done
 
 DragonShrineElderScoldsClairText:
-	text "SANDRA..."
+	text "Sandra..."
 
 	para "Penche-toi sur"
 	line "tes lacunes..."
@@ -506,14 +506,14 @@ DragonShrineTakeThisDratiniText:
 	para "J'ai quelque chose"
 	line "pour toi."
 
-	para "Ce MINIDRACO est"
+	para "Ce Minidraco est"
 	line "la preuve de ta"
 	cont "valeur..."
 	done
 
 DragonShrinePlayerReceivedDratiniText:
 	text "<PLAYER> reçoit"
-	line "MINIDRACO!"
+	line "Minidraco!"
 	done
 
 DragonShrinePartyFullText:
@@ -522,7 +522,7 @@ DragonShrinePartyFullText:
 	done
 
 DragonShrineSymbolicDragonText:
-	text "Les #MON dra-"
+	text "Les #mon dra-"
 	line "gons représentent"
 	cont "notre clan."
 
@@ -531,7 +531,7 @@ DragonShrineSymbolicDragonText:
 	done
 
 DragonShrineClairsGrandfatherText:
-	text "SANDRA a appris"
+	text "Sandra a appris"
 	line "quelque chose en"
 	cont "te connaissant."
 
@@ -546,7 +546,7 @@ DragonShrineRivalIsInTrainingText:
 	cont "ici."
 
 	para "Il est comme l'é-"
-	line "tait SANDRA plus"
+	line "tait Sandra plus"
 
 	para "jeune. Je suis"
 	line "très inquiet..."
@@ -569,20 +569,20 @@ DragonShrineElder2Text:
 	text "Cela fait long-"
 	line "temps que notre"
 
-	para "MAITRE n'a pas"
+	para "Maître n'a pas"
 	line "cautionné un"
 	cont "dresseur."
 
 	para "Pas une seule fois"
-	line "depuis PETER."
+	line "depuis Peter."
 	done
 
 DragonShrineElder3Text:
 	text "Tu connais"
-	line "Maître PETER?"
+	line "Maître Peter?"
 
 	para "Il ressemble à"
-	line "notre MAITRE étant"
+	line "notre Maître étant"
 	cont "jeune."
 
 	para "C'est dans leur"
@@ -621,27 +621,27 @@ DragonShrineIUnderstandText:
 
 DragonShrineHereRisingBadgeText:
 	text "Tiens, voilà le"
-	line "BADGE LEVER..."
+	line "Badge Lever..."
 
 	para "Allez! Prends-le!"
 	done
 
 DragonShrinePlayerReceivedRisingBadgeText:
 	text "<PLAYER> reçoit"
-	line "le BADGE LEVER."
+	line "le Badge Lever."
 	done
 
 DragonShrineRisingBadgeExplanationText:
-	text "Le BADGE LEVER"
+	text "Le Badge Lever"
 	line "permet à tes"
 
-	para "#MON de lancer"
+	para "#mon de lancer"
 	line "une capacité pour"
 	cont "escalader les"
 	cont "cascades."
 
 	para "De plus, tous les"
-	line "#MON t'obéiront"
+	line "#mon t'obéiront"
 
 	para "au doigt et à"
 	line "l'oeil."

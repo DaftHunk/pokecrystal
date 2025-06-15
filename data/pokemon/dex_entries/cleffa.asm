@@ -1,4 +1,4 @@
-	db "ETOILE@" ; species name
+	db "Etoile@" ; species name
 	db 3 ; height
 	dw 30 ; weight
 
@@ -6,6 +6,6 @@
 	next "un cratère de"
 	next "météorite, ce"
 
-	page "#MON se trouve"
+	page "#mon se trouve"
 	next "dans les environs."
 	next "@"

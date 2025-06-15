@@ -1,6 +1,6 @@
 BrentAskNumber1Text:
 	text "Au fait..."
-	line "T'es #MANIAC?"
+	line "T'es #maniac?"
 
 	para "Ca se voit."
 	line "Ca crève les yeux."
@@ -8,10 +8,10 @@ BrentAskNumber1Text:
 	para "Mais t'en sais pas"
 	line "assez!"
 
-	para "Tu connais LEO?"
+	para "Tu connais Léo?"
 	line "C'est un sacré"
 
-	para "#MANIAC."
+	para "#maniac."
 	line "Je l'aime."
 
 	para "Je peux tout te"
@@ -23,18 +23,18 @@ BrentAskNumber1Text:
 
 BrentAskNumber2Text:
 	text "Je peux tout te"
-	line "dire sur LEO..."
+	line "dire sur Léo..."
 
 	para "Alors laisse-moi"
 	line "ton numéro."
 	done
 
 BrentNumberAcceptedText:
-	text "LEO..."
+	text "Léo..."
 	line "Il est trop fort!"
 
 	para "Je veux être un"
-	line "#MANIAC"
+	line "#maniac"
 	cont "comme lui..."
 
 	para "C'est mon rêve."
@@ -59,5 +59,5 @@ BrentRematchText:
 	text "Je t'attendais."
 
 	para "Mate donc mes"
-	line "#MON!"
+	line "#mon!"
 	done

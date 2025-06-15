@@ -1,4 +1,4 @@
-	db "BALLE PIC@" ; species name
+	db "Balle PIC@" ; species name
 	db 3 ; height
 	dw 15 ; weight
 

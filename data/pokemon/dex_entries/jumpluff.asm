@@ -1,4 +1,4 @@
-	db "PISSENLIT@" ; species name
+	db "Pissenlit@" ; species name
 	db 8 ; height
 	dw 30 ; weight
 

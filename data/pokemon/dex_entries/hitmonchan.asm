@@ -1,4 +1,4 @@
-	db "PUNCHEUR@" ; species name
+	db "Puncheur@" ; species name
 	db 14 ; height
 	dw 502 ; weight
 

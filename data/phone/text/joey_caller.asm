@@ -6,7 +6,7 @@ JoeyMonLookingSharperText:
 	cont "forme!"
 
 	para "J'pense que t'en"
-	line "as pas des #MON"
+	line "as pas des #mon"
 	cont "comme le mien!"
 	done
 

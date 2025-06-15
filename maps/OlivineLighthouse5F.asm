@@ -46,7 +46,7 @@ OlivineLighthouse5FHiddenHyperPotion:
 
 SailorErnestSeenText:
 	text "Je voulais défier"
-	line "JASMINE mais ce"
+	line "Jasmine mais ce"
 
 	para "n'est pas le mo-"
 	line "ment. Et toi, ça"
@@ -59,7 +59,7 @@ SailorErnestBeatenText:
 	done
 
 SailorErnestAfterBattleText:
-	text "Un CHAMPION n'est"
+	text "Un Champion n'est"
 	line "pas seulement fort"
 
 	para "mais il se doit"
@@ -69,7 +69,7 @@ SailorErnestAfterBattleText:
 
 BirdKeeperDenisSeenText:
 	text "C'est haut ici!"
-	line "Mes #MON"
+	line "Mes #mon"
 
 	para "oiseaux sont en"
 	line "super forme."
@@ -81,13 +81,13 @@ BirdKeeperDenisBeatenText:
 	done
 
 BirdKeeperDenisAfterBattleText:
-	text "Mon #MON a"
-	line "appris VOL à"
-	cont "IRISIA."
+	text "Mon #mon a"
+	line "appris Vol à"
+	cont "Irisia."
 
 	para "Et puisque j'ai"
 	line "perdu, je vais"
-	cont "VOLER autre part!"
+	cont "Voler autre part!"
 	done
 
 OlivineLighthouse5F_MapEvents:

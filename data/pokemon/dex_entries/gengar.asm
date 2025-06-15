@@ -1,4 +1,4 @@
-	db "OMBRE@" ; species name
+	db "Ombre@" ; species name
 	db 15 ; height
 	dw 405 ; weight
 

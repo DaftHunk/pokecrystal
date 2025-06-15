@@ -10,7 +10,7 @@ Route10PokecenterSign:
 	jumpstd PokecenterSignScript
 
 PowerPlantSignText:
-	text "CENTRALE de KANTO"
+	text "Centrale de Kanto"
 	done
 
 Route10North_MapEvents:

@@ -52,7 +52,7 @@ Route32Pokecenter1FFishingGuruText_Question:
 	cont "t'y mettre?"
 
 	para "Tu veux une de mes"
-	line "CANNES?"
+	line "Cannes?"
 	done
 
 Route32Pokecenter1FFishingGuruText_Yes:
@@ -66,7 +66,7 @@ Route32Pokecenter1FFishingGuruText_Yes:
 Route32Pokecenter1FFishingGuruText_GiveOldRod:
 	text "Pêcher c'est bien!"
 
-	para "Essaie ta CANNE"
+	para "Essaie ta Canne"
 	line "dès qu'il y a la"
 
 	para "mer ou un fleuve."
@@ -85,11 +85,11 @@ Route32Pokecenter1FFishingGuruText_After:
 
 Route32Pokecenter1FCooltrainerFText:
 	text "Que dois-je donner"
-	line "à mon #MON?"
+	line "à mon #mon?"
 
 	para "Peut-être un objet"
 	line "qui augmente son"
-	cont "ATTAQUE..."
+	cont "Attaque..."
 	done
 
 Route32Pokecenter1F_MapEvents:

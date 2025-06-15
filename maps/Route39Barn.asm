@@ -126,19 +126,19 @@ MoomooScript:
 	end
 
 Route39BarnTwinMoomooIsSickText:
-	text "MEUMEU est malade."
+	text "Meumeu est malade."
 
 	para "Elle a besoin de"
-	line "beaucoup de BAIES."
+	line "beaucoup de Baies."
 	done
 
 Route39BarnTwinWereFeedingMoomooText:
 	text "On nourrit"
-	line "MEUMEU!"
+	line "Meumeu!"
 	done
 
 MoomooWeakMooText:
-	text "ECREMEUH: ...Meu."
+	text "Ecremeuh: ...Meu."
 	done
 
 Route39BarnItsCryIsWeakText:
@@ -147,44 +147,44 @@ Route39BarnItsCryIsWeakText:
 	done
 
 MoomooHappyMooText:
-	text "ECREMEUH: MEU!"
+	text "Ecremeuh: MEU!"
 	done
 
 Route39BarnAskGiveBerryText:
-	text "Donner une BAIE à"
-	line "ECREMEUH?"
+	text "Donner une Baie à"
+	line "Ecremeuh?"
 	done
 
 Route39BarnGaveBerryText:
 	text "<PLAYER> donne une"
-	line "BAIE à ECREMEUH."
+	line "Baie à Ecremeuh."
 	done
 
 Route39BarnLittleHealthierText:
-	text "ECREMEUH se sent"
+	text "Ecremeuh se sent"
 	line "un peu mieux!"
 	done
 
 Route39BarnQuiteHealthyText:
-	text "ECREMEUH se sent"
+	text "Ecremeuh se sent"
 	line "mieux!"
 	done
 
 Route39BarnTotallyHealthyText:
-	text "ECREMEUH est en"
+	text "Ecremeuh est en"
 	line "pleine forme!"
 	done
 
 Route39BarnNoBerriesText:
 	text "<PLAYER> n'a pas"
-	line "de BAIES..."
+	line "de Baies..."
 	done
 
 Route39BarnRefusedBerryText:
 	text "<PLAYER> ne donne"
-	line "pas de BAIE."
+	line "pas de Baie."
 
-	para "ECREMEUH est"
+	para "Ecremeuh est"
 	line "triste."
 	done
 

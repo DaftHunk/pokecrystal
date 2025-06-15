@@ -1,4 +1,4 @@
-	db "CARNIVORE@" ; species name
+	db "Carnivore@" ; species name
 	db 10 ; height
 	dw 64 ; weight
 

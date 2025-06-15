@@ -1,4 +1,4 @@
-	db "IMITATION@" ; species name
+	db "Imitation@" ; species name
 	db 12 ; height
 	dw 380 ; weight
 
@@ -8,4 +8,4 @@
 
 	page "Vous venez de"
 	next "trouver un"
-	next "SIMULARBRE.@"
+	next "Simularbre.@"

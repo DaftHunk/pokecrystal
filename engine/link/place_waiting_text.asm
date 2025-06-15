@@ -21,4 +21,4 @@ PlaceWaitingText::
 	jp DelayFrames
 
 .Waiting:
-	db "UN MOMENT…!@"
+	db "Un moment…!@"

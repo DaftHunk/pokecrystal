@@ -99,7 +99,7 @@ FisherStephenBeatenText:
 
 FisherStephenAfterBattleText:
 	text "Tu connais les"
-	line "radios de KANTO?"
+	line "radios de Kanto?"
 
 	para "Elles sont pas"
 	line "mal, tu sais..."
@@ -129,7 +129,7 @@ FisherBarneyAfterBattleText:
 
 	para "d'histoires à pro-"
 	line "pos de la panne de"
-	cont "la CENTRALE."
+	cont "la Centrale."
 	done
 
 FisherKyleSeenText:
@@ -145,7 +145,7 @@ FisherKyleAfterBattleText:
 	line "que l'on sent"
 
 	para "quand on ferre un"
-	line "#MON..."
+	line "#mon..."
 
 	para "C'est la plus"
 	line "belle des sensa-"
@@ -153,12 +153,12 @@ FisherKyleAfterBattleText:
 	done
 
 Route12SignText:
-	text "ROUTE 12"
-	line "NORD: LAVANVILLE"
+	text "Route 12"
+	line "Nord: Lavanville"
 	done
 
 FishingSpotSignText:
-	text "COIN PECHE"
+	text "Coin Pêche"
 	done
 
 Route12_MapEvents:

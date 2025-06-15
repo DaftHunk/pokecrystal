@@ -25,12 +25,12 @@ EcruteakLugiaSpeechHouseGrampsText:
 	line "soudainement deve-"
 
 	para "nu noir. Un #-"
-	line "MON gigantesque"
+	line "mon gigantesque"
 	cont "cachait les rayons"
 	cont "du soleil."
 
 	para "Je me demande quel"
-	line "#MON c'était..."
+	line "#mon c'était..."
 
 	para "C'était comme un"
 	line "oiseau ou un"
@@ -39,7 +39,7 @@ EcruteakLugiaSpeechHouseGrampsText:
 
 EcruteakLugiaSpeechHouseYoungsterText:
 	text "Existe-t-il un"
-	line "#MON aussi"
+	line "#mon aussi"
 
 	para "grand? Si c'est le"
 	line "cas, il doit être"

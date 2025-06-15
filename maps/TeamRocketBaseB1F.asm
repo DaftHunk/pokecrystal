@@ -708,7 +708,7 @@ GruntM16AfterBattleText:
 
 TeamRocketBaseB1FSecurityCameraText:
 	text "Une statue de"
-	line "PERSIAN..."
+	line "Persian..."
 
 	para "Ses yeux brillent"
 	line "d'un feu étrange."

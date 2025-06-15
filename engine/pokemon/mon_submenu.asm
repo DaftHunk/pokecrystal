@@ -285,6 +285,6 @@ BattleMonMenu:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 3 ; items
-	db "CHANGER@"
-	db "STATS@"
-	db "RETOUR@"
+	db "Changer@"
+	db "Stats@"
+	db "Retour@"

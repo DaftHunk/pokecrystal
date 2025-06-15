@@ -18,8 +18,8 @@ ToddDefeatedMonText:
 	cont "facilement."
 
 	para "Je devrais aller à"
-	line "l'ARENE de"
-	cont "DOUBLONVILLE."
+	line "l'Arène de"
+	cont "Doublonville."
 	done
 
 ToddLostAMonText:
@@ -32,7 +32,7 @@ ToddLostAMonText:
 	line "de peu."
 
 	para "On dirait que mes"
-	line "#MON n'ont pas"
+	line "#mon n'ont pas"
 	cont "encore le niveau."
 	done
 
@@ -58,16 +58,16 @@ ToddDepartmentStoreBargainSaleText:
 	text "Ca y est!"
 	line "Enfin!"
 
-	para "Le CENTRE COMMER-"
-	line "CIAL de DOUBLON-"
-	cont "VILLE fait des"
+	para "Le Centre Commer-"
+	line "cial de Doublon-"
+	cont "ville fait des"
 	cont "soldes!"
 
 	para "Pas cher!"
 	line "Tout neuf!"
 
 	para "Faut aller à"
-	line "DOUBLONVILLE!"
+	line "Doublonville!"
 
 	para "Quoi? Mais non je"
 	line "travaille pas chez"
@@ -101,9 +101,9 @@ ToddLookingForwardToBattleText:
 
 ToddHaveYouGoneToDepartmentStoreText:
 	text "Tu as visité le"
-	line "CENTRE COMMERCIAL"
+	line "Centre Commercial"
 
-	para "de DOUBLONVILLE?"
+	para "de Doublonville?"
 	line "Ils font des super"
 	cont "soldes!"
 

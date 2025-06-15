@@ -1,4 +1,4 @@
-	db "CRACHE-FEU@" ; species name
+	db "Crache-Feu@" ; species name
 	db 13 ; height
 	dw 445 ; weight
 

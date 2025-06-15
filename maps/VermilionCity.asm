@@ -124,9 +124,9 @@ VermilionCityHiddenFullHeal:
 	hiddenitem FULL_HEAL, EVENT_VERMILION_CITY_HIDDEN_FULL_HEAL
 
 VermilionCityTeacherText:
-	text "Le PORT de CARMIN"
+	text "Le Port de Carmin"
 	line "est la porte de"
-	cont "KANTO vers"
+	cont "Kanto vers"
 	cont "l'océan."
 
 	para "De magnifiques"
@@ -136,7 +136,7 @@ VermilionCityTeacherText:
 	done
 
 VermilionMachopOwnerText:
-	text "Mon #MON pré-"
+	text "Mon #mon pré-"
 	line "pare le terrain"
 	cont "pour construire."
 
@@ -146,48 +146,48 @@ VermilionMachopOwnerText:
 	done
 
 VermilionMachopText1:
-	text "MACHOC: Maaaa!"
+	text "Machoc: Maaaa!"
 	line "Choc!"
 	done
 
 VermilionMachopText2:
-	text "Un MACHOC grogne"
+	text "Un Machoc grogne"
 	line "en aplatissant le"
 	cont "sol."
 	done
 
 VermilionCitySuperNerdText:
-	text "Il y a huit ARENES"
-	line "à KANTO."
+	text "Il y a huit Arènes"
+	line "à Kanto."
 
 	para "Ce grand bâtiment"
-	line "est l'ARENE #-"
-	cont "MON de CARMIN."
+	line "est l'Arène #-"
+	cont "mon de Carmin."
 	done
 
 VermilionCitySnorlaxSleepingText:
-	text "RONFLEX ronfle"
+	text "Ronflex ronfle"
 	line "paisiblement..."
 	done
 
 VermilionCityRadioNearSnorlaxText:
-	text "Le #MATOS est"
+	text "Le #matos est"
 	line "placé près de"
 	cont "l'oreille du"
-	cont "RONFLEX."
+	cont "Ronflex."
 
 	para "..."
 
-	para "RONFLEX se"
-	line "réveille!"
+	para "Ronflex se"
+	line "Réveille!"
 	done
 
 VermilionCityBadgeGuyTrainerText:
 	text "Les bons dresseurs"
-	line "viennent à KANTO."
+	line "viennent à Kanto."
 
-	para "Les CHAMPIONS"
-	line "d'ARENE sont spé-"
+	para "Les Champions"
+	line "d'Arène sont spé-"
 	cont "cialement forts."
 
 	para "Ce ne sera pas"
@@ -198,7 +198,7 @@ VermilionCityBadgeGuyTrainerText:
 VermilionCityBadgeGuySomeBadgesText:
 	text "Tu as commencé à"
 	line "collectionner les"
-	cont "BADGES de KANTO?"
+	cont "Badges de Kanto?"
 
 	para "Tu ne trouves pas"
 	line "que les dresseurs"
@@ -211,67 +211,67 @@ VermilionCityBadgeGuyMostBadgesText:
 	line "termineras bientôt"
 
 	para "ta conquête des"
-	line "ARENES de KANTO."
+	line "Arènes de Kanto."
 
 	para "Préviens-moi si"
 	line "tu gagnes les huit"
-	cont "BADGES."
+	cont "Badges."
 	done
 
 VermilionCityBadgeGuyAllBadgesText:
 	text "Félicitations!"
 
 	para "Tu as tous les"
-	line "BADGES des ARENES"
-	cont "de KANTO!"
+	line "Badges des Arènes"
+	cont "de Kanto!"
 
 	para "Voilà une petite"
 	line "récompense."
 	done
 
 VermilionCityBadgeGuyBattleEdgeText:
-	text "Avoir des #MON"
+	text "Avoir des #mon"
 	line "de types diffé-"
 
 	para "rents donne"
 	line "l'avantage en"
 	cont "combat."
 
-	para "Les BADGES de KAN-"
+	para "Les Badges de KAN-"
 	line "TO t'aideront,"
 	cont "j'en suis sûr."
 	done
 
 VermilionCitySignText:
-	text "CARMIN SUR MER"
+	text "Carmin sur Mer"
 
 	para "Le port aux cou-"
 	line "chers de soleil"
 	done
 
 VermilionGymSignText:
-	text "CHAMPION d'ARENE"
-	line "de CARMIN SUR MER:"
-	cont "MAJOR BOB"
+	text "Champion d'Arène"
+	line "de Carmin sur Mer:"
+	cont "Major Bob"
 
 	para "L'Américain"
 	line "survolté"
 	done
 
 PokemonFanClubSignText:
-	text "FAN CLUB #MON"
+	text "Fan Club #mon"
 
-	para "Fans de #MON"
+	para "Fans de #mon"
 	line "bienvenus!"
 	done
 
 VermilionCityDiglettsCaveSignText:
-	text "CAVE TAUPIQUEUR"
+	text "Cave Taupiqueur"
 	done
 
 VermilionCityPortSignText:
-	text "PORT de CARMIN"
-	line "ENTREE"
+	text "Port de Carmin"
+	line "Entrée"
 	done
 
 VermilionCity_MapEvents:

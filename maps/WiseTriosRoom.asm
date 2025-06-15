@@ -131,8 +131,8 @@ WiseTriosRoomSageAllowsPassageMovement:
 WiseTriosRoomSage1Text:
 	text "Dingue..."
 
-	para "SUICUNE, ENTEI et"
-	line "RAIKOU se sont"
+	para "Suicune, Entei et"
+	line "Raikou se sont"
 	cont "réveillés..."
 
 	para "La légende est-"
@@ -141,7 +141,7 @@ WiseTriosRoomSage1Text:
 
 WiseTriosRoomSage2Text:
 	text "On s'entraîne à la"
-	line "TOUR CENDREE mais"
+	line "Tour Cendrée mais"
 
 	para "on n'a jamais vu"
 	line "de trou s'ouvrir"
@@ -154,27 +154,27 @@ WiseTriosRoomSage2Text:
 	done
 
 WiseTriosRoomSage3BlocksExitText:
-	text "La TOUR FERRAILLE"
+	text "La Tour Ferraille"
 	line "est accessible aux"
 
-	para "porteurs du BADGE"
-	line "de ROSALIA."
+	para "porteurs du Badge"
+	line "de Rosalia."
 
 	para "Toutefois, depuis"
 	line "le réveil de"
-	cont "SUICUNE, RAIKOU"
+	cont "Suicune, Raikou"
 
-	para "et d'ENTEI, je ne"
+	para "et d'Entei, je ne"
 	line "peux pas vous"
 	cont "laisser entrer!"
 	done
 
 WiseTriosRoomSage3Text:
-	text "Nous, le TRIO des"
-	line "SAGES, sommes les"
+	text "Nous, le Trio des"
+	line "Sages, sommes les"
 
 	para "gardiens des #-"
-	line "MON légendaires."
+	line "mon légendaires."
 	done
 
 SageGakuSeenText:
@@ -184,22 +184,22 @@ SageGakuSeenText:
 	para "dresseur pouvant"
 	line "toucher l'âme des"
 
-	para "#MON, un"
-	line "#MON viendra"
+	para "#mon, un"
+	line "#mon viendra"
 
 	para "mettre ce dresseur"
 	line "à l'épreuve dans"
-	cont "la TOUR FERRAILLE."
+	cont "la Tour Ferraille."
 
 	para "La légende s'est"
 	line "réalisée!"
 
-	para "Le #MON"
-	line "légendaire SUICUNE"
+	para "Le #mon"
+	line "légendaire Suicune"
 	cont "est arrivé!"
 
-	para "Nous, le TRIO des"
-	line "SAGES, te mettons"
+	para "Nous, le Trio des"
+	line "Sages, te mettons"
 	cont "au défi d'entrer!"
 	done
 
@@ -209,9 +209,9 @@ SageGakuBeatenText:
 
 SageGakuAfterBattleText:
 	text "Tu prétends donc"
-	line "avoir vu SUICUNE,"
-	cont "ENTEI et RAIKOU"
-	cont "endormis?"
+	line "avoir vu Suicune,"
+	cont "Entei et Raikou"
+	cont "Endormis?"
 
 	para "Incroyable!"
 
@@ -239,34 +239,34 @@ SageMasaAfterBattleText:
 	line "il y avait deux"
 	cont "tours ici."
 
-	para "La TOUR de CUIVRE,"
+	para "La Tour de Cuivre,"
 	line "qui pouvait éveil-"
 
-	para "ler les #MON,"
-	line "et la TOUR FER-"
+	para "ler les #mon,"
+	line "et la Tour Fer-"
 
-	para "RAILLE, où les"
-	line "#MON se"
+	para "raille, où les"
+	line "#mon se"
 	cont "reposaient."
 
 	para "La vue depuis le"
-	line "sommet des TOURS"
+	line "sommet des Tours"
 
 	para "devait être"
 	line "magnifique."
 
 	para "En ce temps-là, un"
-	line "immense #MON"
+	line "immense #mon"
 
 	para "argenté avait fait"
 	line "son nid en haut de"
-	cont "la TOUR de CUIVRE."
+	cont "la Tour de Cuivre."
 
 	para "Toutefois..."
 
 	para "Il y a 150 ans,"
 	line "un éclair frappa"
-	cont "l'une des TOURS."
+	cont "l'une des Tours."
 
 	para "Elle prit feu et"
 	line "brûla pendant"
@@ -277,7 +277,7 @@ SageMasaAfterBattleText:
 	cont "raison du brasier."
 
 	para "Voici comment la"
-	line "TOUR CENDREE est"
+	line "Tour Cendrée est"
 	cont "née."
 	done
 
@@ -293,18 +293,18 @@ SageKojiBeatenText:
 
 SageKojiAfterBattleQuestionText:
 	text "Toi... Es-tu là"
-	line "pour les #MON"
+	line "pour les #mon"
 	cont "légendaires?"
 	done
 
 SageKojiAfterBattleSpeechText:
 	text "Je vois..."
 
-	para "Nous, le TRIO des"
-	line "SAGES, avons le"
+	para "Nous, le Trio des"
+	line "Sages, avons le"
 
 	para "devoir de protéger"
-	line "les #MON légen-"
+	line "les #mon légen-"
 
 	para "daires. "
 	line "Nous ne laissons"
@@ -313,16 +313,16 @@ SageKojiAfterBattleSpeechText:
 	line "au coeur pur."
 
 	para "Entre et découvre"
-	line "la TOUR FERRAILLE."
+	line "la Tour Ferraille."
 
-	para "SUICUNE te mettra"
+	para "Suicune te mettra"
 	line "à l'épreuve."
 	done
 
 SageKojiAfterBattleFinalText:
 	text "Va."
 
-	para "SUICUNE te mettra"
+	para "Suicune te mettra"
 	line "à l'épreuve."
 	done
 

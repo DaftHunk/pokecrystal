@@ -1,4 +1,4 @@
-	db "POIGNEUR@" ; species name
+	db "Poigneur@" ; species name
 	db 13 ; height
 	dw 600 ; weight
 

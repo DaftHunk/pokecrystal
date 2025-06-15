@@ -48,7 +48,7 @@ LavRadioTower1FGentlemanScript:
 	end
 
 .expncardname
-	db "CPN EXPAN.@"
+	db "Cpn.Expan.@"
 
 LavRadioTower1FSuperNerd2Script:
 	faceplayer
@@ -89,9 +89,9 @@ LavRadioTower1FOfficerText:
 	cont "visiter."
 
 	para "Depuis l'attaque"
-	line "de la TOUR RADIO"
+	line "de la Tour Radio"
 
-	para "de JOHTO par un"
+	para "de Johto par un"
 	line "gang criminel, on"
 
 	para "a renforcé les me-"
@@ -101,7 +101,7 @@ LavRadioTower1FOfficerText:
 LavRadioTower1FSuperNerd1Text:
 	text "Les gens travail-"
 	line "lent dur ici, à"
-	cont "la TOUR RADIO."
+	cont "la Tour Radio."
 
 	para "Ils se donnent à"
 	line "fond pour faire"
@@ -116,7 +116,7 @@ LavRadioTower1FGentlemanText:
 	line "plus à l'antenne"
 
 	para "depuis la fermetu-"
-	line "re de la CENTRALE."
+	line "re de la Centrale."
 
 	para "Je cours à la ca-"
 	line "tastrophe si je ne"
@@ -130,7 +130,7 @@ LavRadioTower1FGentlemanText_ReturnedMachinePart:
 	line "<PLAY_G> qui a"
 
 	para "réparé la"
-	line "CENTRALE?"
+	line "Centrale?"
 
 	para "Grâce à toi, j'ai"
 	line "pu garder mon job."
@@ -142,7 +142,7 @@ LavRadioTower1FGentlemanText_ReturnedMachinePart:
 LavRadioTower1FGentlemanText_GotExpnCard:
 	text "Avec ceci, tu peux"
 	line "écouter la radio"
-	cont "depuis KANTO."
+	cont "depuis Kanto."
 
 	para "Gahahahaha!"
 	done
@@ -151,16 +151,16 @@ LavRadioTower1FSuperNerd2Text:
 	text "Hé toi!"
 
 	para "Je suis le"
-	line "DIRECTEUR MUSICAL!"
+	line "Directeur Musical!"
 
 	para "Hein? Ton #-"
-	line "MATOS ne peut pas"
+	line "matos ne peut pas"
 
 	para "capter les émis-"
 	line "sions de radio..."
 	cont "Quel dommage!"
 
-	para "Avec un CPN EXPAN,"
+	para "Avec un Cpn.Expan,"
 	line "tu peux améliorer"
 
 	para "ton matériel!"
@@ -171,7 +171,7 @@ LavRadioTower1FSuperNerd2Text_GotExpnCard:
 	text "Hé toi!"
 
 	para "Je suis le"
-	line "DIRECTEUR MUSICAL!"
+	line "Directeur Musical!"
 
 	para "Je suis à l'origi-"
 	line "ne des belles mé-"
@@ -185,28 +185,28 @@ LavRadioTower1FSuperNerd2Text_GotExpnCard:
 	done
 
 LavRadioTower1FDirectoryText:
-	text "RDC  RECEPTION"
-	line "1ER  VENTES"
+	text "RDC  Réception"
+	line "1er  Ventes"
 
-	para "2EME PERSONNEL"
-	line "3EME PRODUCTION"
+	para "2ème Personnel"
+	line "3ème Production"
 
-	para "4EME BUREAU"
-	line "     DIRECTION"
+	para "4ème Bureau"
+	line "     Direction"
 	done
 
 LavRadioTower1FPokeFluteSignText:
-	text "Animez vos #MON"
+	text "Animez vos #mon"
 	line "avec des sons de"
 
-	para "# FLUTE sur"
-	line "l'ANTENNE 20"
+	para "# Flûte sur"
+	line "l'Antenne 20"
 	done
 
 LavRadioTower1FReferenceLibraryText:
 	text "Whoa! Plein de"
 	line "cassettes et de"
-	cont "CD #MON!"
+	cont "CD #mon!"
 
 	para "Ca doit être une"
 	line "librairie offi-"

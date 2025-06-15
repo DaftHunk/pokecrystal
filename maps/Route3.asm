@@ -116,15 +116,15 @@ FirebreatherBurtBeatenText:
 FirebreatherBurtAfterBattleText:
 	text "Je suis le plus"
 	line "grand crache-feu"
-	cont "de KANTO."
+	cont "de Kanto."
 
 	para "Mais je suis un"
 	line "dresseur nul..."
 	done
 
 Route3MtMoonSquareSignText:
-	text "SQUARE du MONT"
-	line "SELENITE: En haut"
+	text "Square du Mont"
+	line "Selenite: En haut"
 	cont "des escaliers."
 	done
 

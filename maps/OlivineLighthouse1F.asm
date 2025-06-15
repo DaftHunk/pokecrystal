@@ -15,7 +15,7 @@ OlivineLighthouse1FPokefanFScript:
 
 OlivineLighthouse1FSailorText:
 	text "Les gens s'entraî-"
-	line "nent au PHARE."
+	line "nent au Phare."
 
 	para "Y monter est dur à"
 	line "cause de tous les"
@@ -24,15 +24,15 @@ OlivineLighthouse1FSailorText:
 
 OlivineLighthouse1FPokefanFText:
 	text "Il y a longtemps,"
-	line "des #MON illu-"
+	line "des #mon illu-"
 
 	para "minaient les mers"
-	line "autour d'OLIVILLE."
+	line "autour d'Oliville."
 
-	para "Le PHARE a été"
+	para "Le Phare a été"
 	line "construit en"
 	cont "hommage à ces"
-	cont "#MON."
+	cont "#mon."
 	done
 
 OlivineLighthouse1F_MapEvents:

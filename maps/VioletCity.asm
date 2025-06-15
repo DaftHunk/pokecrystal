@@ -207,37 +207,37 @@ VioletCityLassText:
 	text "Le bruit court que"
 	line "des fantômes"
 	cont "errent dans la"
-	cont "TOUR CHETIFLOR."
+	cont "Tour Chétiflor."
 
 	para "On dit que les"
 	line "capacités des"
 
-	para "#MON de type"
-	line "NORMAL n'ont pas"
+	para "#mon de type"
+	line "Normal n'ont pas"
 	cont "d'effet sur les"
 	cont "fantômes."
 	done
 
 VioletCitySuperNerdText:
 	text "T'es dresseur"
-	line "de #MON?"
+	line "de #mon?"
 
 	para "Si tu bats le"
-	line "CHAMPION d'ARENE,"
+	line "Champion d'Arène,"
 
 	para "tu passeras au"
 	line "20 heures!"
 	done
 
 VioletCityGrampsText:
-	text "ALBERT de l'ARENE"
-	line "#MON de"
+	text "Albert de l'Arène"
+	line "#mon de"
 
-	para "MAUVILLE est un"
+	para "Mauville est un"
 	line "dresseur sympa!"
 
 	para "Il a hérité de"
-	line "l'ARENE de son"
+	line "l'Arène de son"
 
 	para "père et a fait du"
 	line "bon travail."
@@ -255,32 +255,32 @@ VioletCityYoungsterText:
 	done
 
 VioletCitySignText:
-	text "MAUVILLE"
+	text "Mauville"
 
 	para "La ville aux"
 	line "senteurs du passé"
 	done
 
 VioletGymSignText:
-	text "CHAMPION d'ARENE"
-	line "de MAUVILLE:"
-	cont "ALBERT"
+	text "Champion d'Arène"
+	line "de Mauville:"
+	cont "Albert"
 
 	para "Le dresseur de"
-	line "#MON volants"
+	line "#mon volants"
 	done
 
 SproutTowerSignText:
-	text "TOUR CHETIFLOR"
+	text "Tour Chétiflor"
 
 	para "Elle est grande,"
 	line "elle est belle et"
-	cont "pleine de #MON"
+	cont "pleine de #mon"
 	done
 
 EarlsPokemonAcademySignText:
-	text "ACADEMIE #MON"
-	line "de THEOPHILE"
+	text "Académie #mon"
+	line "de Théophile"
 	done
 
 VioletCity_MapEvents:

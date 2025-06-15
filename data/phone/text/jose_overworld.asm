@@ -23,7 +23,7 @@ JoseAskNumber2Text:
 	line "jolis?"
 
 	para "Je peux partager"
-	line "si CANARTICHO en"
+	line "si Canarticho en"
 	cont "trouve d'autres."
 
 	para "C'est quoi ton"
@@ -51,7 +51,7 @@ JoseRematchText:
 	text "Cui! Cuuuiiii!"
 
 	para "J't'attendais!"
-	line "Allez, CANARTICHO!"
+	line "Allez, Canarticho!"
 	done
 
 JoseGiftText:

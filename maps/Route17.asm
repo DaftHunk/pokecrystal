@@ -67,7 +67,7 @@ Route17HiddenMaxElixer:
 
 BikerRileySeenText:
 	text "Hé, toi!"
-	line "T'es de JOHTO?"
+	line "T'es de Johto?"
 	done
 
 BikerRileyBeatenText:
@@ -81,7 +81,7 @@ BikerRileyAfterBattleText:
 
 BikerJoelSeenText:
 	text "Oh! Elle est cool"
-	line "ta BICYCLETTE!"
+	line "ta Bicyclette!"
 	done
 
 BikerJoelBeatenText:

@@ -13,14 +13,14 @@ Route2GateScientistText:
 	text "Es-tu <PLAY_G>?"
 
 	para "J'suis l'assistant"
-	line "du PROF.CHEN."
+	line "du Prof.Chen."
 
 	para "Je ne pensais pas"
 	line "te trouver ici."
 
-	para "Le LABO du PROF."
-	line "CHEN est au BOURG"
-	cont "PALETTE."
+	para "Le Labo du Prof."
+	line "Chen est au Bourg"
+	cont "Palette."
 	done
 
 Route2Gate_MapEvents:

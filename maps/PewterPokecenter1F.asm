@@ -37,9 +37,9 @@ Chris:
 
 PewterPokecenter1FTeacherText:
 	text "...Ouais et"
-	line "l'ARENE de"
+	line "l'Arène de"
 
-	para "CRAMOIS'ILE a"
+	para "Cramois'Ile a"
 	line "disparu en plus..."
 
 	para "...Quoi? J'suis au"
@@ -48,23 +48,23 @@ PewterPokecenter1FTeacherText:
 	done
 
 PewterJigglypuffText:
-	text "RONDOUDOU: Douu!"
+	text "Rondoudou: Douu!"
 	line "Doudoudou!"
 	done
 
 PewterPokecenter1FBugCatcherText:
 	text "La plupart des"
-	line "#MON s'endor-"
+	line "#mon s'endor-"
 
 	para "ment en entendant"
-	line "RONDOUDOU chanter."
+	line "Rondoudou chanter."
 
 	para "Certaines capaci-"
 	line "tés ne sont à uti-"
 
 	para "liser seulement"
 	line "lorsqu'un #-"
-	cont "MON dort."
+	cont "mon dort."
 	done
 
 PewterPokecenter1F_MapEvents:

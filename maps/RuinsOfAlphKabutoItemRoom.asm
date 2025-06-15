@@ -27,7 +27,7 @@ RuinsOfAlphKabutoItemRoomAncientReplica:
 RuinsOfAlphKabutoItemRoomAncientReplicaText:
 	text "C'est la réplique"
 	line "d'un ancien #-"
-	cont "MON."
+	cont "mon."
 	done
 
 RuinsOfAlphKabutoItemRoom_MapEvents:

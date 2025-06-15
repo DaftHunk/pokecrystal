@@ -241,7 +241,7 @@ Route31MailRecipientScript:
 	end
 
 ReceivedSpearowMailText:
-	db   "ANTRE NOIRE    "
+	db   "Antre Noire    "
 	next "mène autre part@"
 
 Route31YoungsterScript:
@@ -266,9 +266,9 @@ Route31PokeBall:
 	itemball POKE_BALL
 
 Route31CooltrainerMText:
-	text "ANTRE NOIRE..."
+	text "Antre Noire..."
 
-	para "Si un #MON pou-"
+	para "Si un #mon pou-"
 	line "vait l'éclairer,"
 	cont "on pourrait"
 	cont "l'explorer..."
@@ -276,7 +276,7 @@ Route31CooltrainerMText:
 
 BugCatcherWade1SeenText:
 	text "J'ai attrapé plein"
-	line "de #MON. On va"
+	line "de #mon. On va"
 	cont "faire un combat!"
 	done
 
@@ -286,13 +286,13 @@ BugCatcherWade1BeatenText:
 
 BugCatcherWade1AfterText:
 	text "Tu peux attraper"
-	line "un #MON même"
+	line "un #mon même"
 
 	para "si tu en as six"
 	line "sur toi."
 
 	para "Il sera transféré"
-	line "à ta BOITE automa-"
+	line "à ta Boîte automa-"
 	cont "tiquement."
 	done
 
@@ -301,13 +301,13 @@ Text_Route31SleepyMan:
 
 	para "J'ai trop marché"
 	line "pour trouver des"
-	cont "#MON."
+	cont "#mon."
 
 	para "J'ai mal aux pieds"
 	line "et j'ai sommeil."
 
 	para "Si j'étais un"
-	line "#MON, je serais"
+	line "#mon, je serais"
 	cont "facile à choper..."
 
 	para "...Zzzz..."
@@ -317,19 +317,19 @@ Text_Route31SleepyManGotMail:
 	text "...Zzzz...Hein?"
 
 	para "C'est quoi? Tu as"
-	line "une LETTRE pour"
+	line "une Lettre pour"
 	cont "moi?"
 	done
 
 Text_Route31HandOverMailMon:
 	text "<PLAYER> donne"
-	line "le #MON tenant"
-	cont "la LETTRE."
+	line "le #mon tenant"
+	cont "la Lettre."
 	done
 
 Text_Route31ReadingMail:
 	text "Voyons ça... "
-	line "...L'ANTRE NOIRE"
+	line "...L'Antre Noire"
 	cont "mène à un autre"
 	cont "chemin..."
 
@@ -351,7 +351,7 @@ Text_Route31ReadingMail:
 	done
 
 Text_Route31DescribeNightmare:
-	text "CT50: CAUCHEMAR."
+	text "CT50: Cauchemar."
 
 	para "Une capacité ter-"
 	line "rible qui tranche"
@@ -367,17 +367,17 @@ Text_Route31DescribeNightmare:
 	done
 
 Text_Route31WrongMail:
-	text "Cette LETTRE n'est"
+	text "Cette Lettre n'est"
 	line "pas pour moi."
 	done
 
 Text_Route31MissingMail:
 	text "Pourquoi ce"
-	line "#MON est-il si"
+	line "#mon est-il si"
 	cont "spécial?"
 
 	para "Il n'a pas de"
-	line "LETTRE."
+	line "Lettre."
 	done
 
 Text_Route31DeclinedToHandOverMail:
@@ -387,33 +387,33 @@ Text_Route31DeclinedToHandOverMail:
 
 Text_Route31CantTakeLastMon:
 	text "Si je te prends ce"
-	line "#MON, avec qui"
+	line "#mon, avec qui"
 	cont "vas-tu combattre?"
 	done
 
 Route31YoungsterText:
 	text "J'ai trouvé un bon"
-	line "#MON dans"
-	cont "l'ANTRE NOIRE."
+	line "#mon dans"
+	cont "l'Antre Noire."
 
 	para "Je vais l'entraî-"
 	line "ner pour battre"
-	cont "ALBERT."
+	cont "Albert."
 
-	para "Il est le CHAMPION"
-	line "de l'ARENE de"
-	cont "MAUVILLE."
+	para "Il est le Champion"
+	line "de l'Arène de"
+	cont "Mauville."
 	done
 
 Route31SignText:
-	text "ROUTE 31"
+	text "Route 31"
 
-	para "MAUVILLE -"
-	line "VILLE GRIOTTE"
+	para "Mauville -"
+	line "Ville Griotte"
 	done
 
 DarkCaveSignText:
-	text "ANTRE NOIRE"
+	text "Antre Noire"
 	done
 
 Route31_MapEvents:

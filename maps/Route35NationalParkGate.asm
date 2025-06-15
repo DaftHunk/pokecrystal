@@ -229,17 +229,17 @@ Route35NationalParkGateOfficer1AskToParticipateText:
 	line "Ca veut dire que"
 
 	para "le Concours de"
-	line "Capture d'insecte"
+	line "Capture d'Insecte"
 	cont "est aujourd'hui."
 
 	para "Les règles sont"
 	line "simples."
 
-	para "Avec un #MON de"
+	para "Avec un #mon de"
 	line "l'équipe, il faut"
 
 	para "attraper un #-"
-	line "MON insecte qui"
+	line "mon Insecte qui"
 	cont "sera noté."
 
 	para "Alors? On tente"
@@ -247,20 +247,20 @@ Route35NationalParkGateOfficer1AskToParticipateText:
 	done
 
 Route35NationalParkGateOfficer1GiveParkBallsText:
-	text "Voici des PARC"
-	line "BALLS pour le"
+	text "Voici des Parc"
+	line "Balls pour le"
 	cont "concours."
 	done
 
 Route35NationalParkGatePlayerReceivedParkBallsText:
 	text "<PLAYER> reçoit"
-	line "{d:BUG_CONTEST_BALLS} PARC BALLS."
+	line "{d:BUG_CONTEST_BALLS} Parc Balls."
 	done
 
 Route35NationalParkGateOfficer1ExplainsRulesText:
 	text "La personne qui"
 	line "capture le #-"
-	cont "MON insecte le"
+	cont "mon Insecte le"
 	cont "plus puissant est"
 	cont "désignée vain-"
 	cont "queur."
@@ -269,31 +269,31 @@ Route35NationalParkGateOfficer1ExplainsRulesText:
 	line "{d:BUG_CONTEST_MINUTES} minutes."
 
 	para "Si toutes les"
-	line "PARC BALLS sont"
+	line "Parc Balls sont"
 	cont "épuisées, c'est"
 	cont "fini!"
 
-	para "Le dernier #MON"
+	para "Le dernier #mon"
 	line "attrapé peut être"
 	cont "gardé."
 
 	para "Allez hop! C'est"
 	line "la chasse aux"
-	cont "#MON insecte!"
+	cont "#mon Insecte!"
 	done
 
 Route35NationalParkGateOfficer1AskToUseFirstMonText:
 	text "Oh-oh..."
 
 	para "Tu as plus d'un"
-	line "#MON."
+	line "#mon."
 
 	para "Tu dois utiliser"
 	line "@"
 	text_ram wStringBuffer3
 	text ", le"
 
-	para "premier #MON de"
+	para "premier #mon de"
 	line "ton équipe."
 
 	para "Tu es d'accord?"
@@ -302,18 +302,18 @@ Route35NationalParkGateOfficer1AskToUseFirstMonText:
 Route35NationalParkGateOfficer1WellHoldYourMonText:
 	text "Parfait. Je vais"
 	line "garder les autres"
-	cont "#MON pendant le"
+	cont "#mon pendant le"
 	cont "concours."
 	done
 
 Route35NationalParkGatePlayersMonLeftWithHelperText:
 	text "<PLAYER> confie"
-	line "ses #MON au"
-	cont "RECEPTIONNISTE."
+	line "ses #mon au"
+	cont "Récéptionniste."
 	done
 
 Route35NationalParkGateOfficer1ChooseMonAndComeBackText:
-	text "Choisis le #MON"
+	text "Choisis le #mon"
 	line "à utiliser pendant"
 
 	para "le concours et"
@@ -327,13 +327,13 @@ Route35NationalParkGateOfficer1TakePartInFutureText:
 
 Route35NationalParkGateOfficer1FirstMonCantBattleText:
 	text "Oh-oh..."
-	line "Le premier #MON"
+	line "Le premier #mon"
 
 	para "de ton équipe ne"
 	line "peut combattre."
 
 	para "Change-le avec le"
-	line "#MON de ton"
+	line "#mon de ton"
 
 	para "choix et viens me"
 	line "voir."
@@ -341,28 +341,28 @@ Route35NationalParkGateOfficer1FirstMonCantBattleText:
 
 Route35NationalParkGateOfficer1MakeRoomText:
 	text "Oh-oh... Ton"
-	line "équipe et ta BOITE"
+	line "équipe et ta Boîte"
 	cont "PC sont pleines."
 
 	para "Tu n'as pas de"
 	line "place pour le"
-	cont "#MON insecte"
+	cont "#mon Insecte"
 	cont "à attraper."
 
 	para "Fais de la place"
 	line "dans l'équipe ou"
 
-	para "dans la BOITE PC"
+	para "dans la Boîte PC"
 	line "et viens me voir."
 	done
 
 Route35NationalParkGateOfficer1EggAsFirstMonText:
 	text "Oh-oh... Tu as un"
-	line "OEUF en premier"
+	line "Oeuf en premier"
 	cont "dans ton équipe."
 
 	para "Change-le avec le"
-	line "#MON de ton"
+	line "#mon de ton"
 
 	para "choix et viens me"
 	line "voir."
@@ -403,7 +403,7 @@ Route35NationalParkGateOfficer1WeHoldContestsText:
 	text "Il y a des con-"
 	line "cours régulière-"
 
-	para "ment au PARC."
+	para "ment au Parc."
 	line "Inscris-toi!"
 	done
 
@@ -417,8 +417,8 @@ Route35NationalParkGateBugCatchingContestExplanationText:
 	text "Le Concours de"
 	line "Capture se déroule"
 
-	para "le mardi, le jeudi"
-	line "et le samedi."
+	para "le Mardi, le Jeudi"
+	line "et le Samedi."
 
 	para "On peut y gagner"
 	line "un prix rien qu'en"
@@ -426,7 +426,7 @@ Route35NationalParkGateBugCatchingContestExplanationText:
 	para "participant mais"
 	line "on garde aussi le"
 
-	para "#MON insecte"
+	para "#mon Insecte"
 	line "que l'on chope"
 
 	para "pendant le con-"

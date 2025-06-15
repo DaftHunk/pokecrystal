@@ -1,4 +1,4 @@
-	db "SOLEIL@" ; species name
+	db "Soleil@" ; species name
 	db 9 ; height
 	dw 265 ; weight
 

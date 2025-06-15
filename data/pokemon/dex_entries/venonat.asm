@@ -1,4 +1,4 @@
-	db "VERMINE@" ; species name
+	db "Vermine@" ; species name
 	db 10 ; height
 	dw 300 ; weight
 

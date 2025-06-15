@@ -1,4 +1,4 @@
-	db "LEZARD@" ; species name
+	db "Lézard@" ; species name
 	db 6 ; height
 	dw 85 ; weight
 

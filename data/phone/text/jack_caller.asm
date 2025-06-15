@@ -58,7 +58,7 @@ JackThunderTriviaText:
 	text "Le savais-tu?"
 
 	para "Lorsqu'il pleut,"
-	line "FATAL-FOUDRE ne"
+	line "Fatal-Foudre ne"
 	cont "loupe jamais."
 	done
 
@@ -66,10 +66,10 @@ JackRolloutTriviaText:
 	text "Le savais-tu?"
 
 	para "Si tu lances"
-	line "BOUL'ARMURE, la"
+	line "Boul'Armure, la"
 
 	para "puissance de"
-	line "ROULADE est"
+	line "Roulade est"
 	cont "boostée."
 	done
 
@@ -77,9 +77,9 @@ JackSolarbeamTriviaText:
 	text "Le savais-tu?"
 
 	para "Si le soleil"
-	line "brille, LANCE-"
+	line "brille, Lance-"
 
-	para "SOLEIL n'a pas"
+	para "Soleil n'a pas"
 	line "besoin de charger."
 	done
 
@@ -87,25 +87,25 @@ JackStompTriviaText:
 	text "Le savais-tu?"
 
 	para "Si l'ennemi lance"
-	line "LILLIPUT, ECRASE-"
+	line "Lilliput, Ecrase-"
 
-	para "MENT fera un max"
+	para "ment fera un max"
 	line "de dégâts."
 	done
 
 JackGustTriviaText:
 	text "Le savais-tu?"
 
-	para "Si l'ennemi VOLE,"
-	line "TORNADE sera plus"
+	para "Si l'ennemi Vole,"
+	line "Tornade sera plus"
 	cont "puissante."
 	done
 
 JackTwisterTriviaText:
 	text "Le savais-tu?"
 
-	para "Si l'ennemi VOLE,"
-	line "OURAGAN sera plus"
+	para "Si l'ennemi Vole,"
+	line "Ouragan sera plus"
 	cont "puissant."
 	done
 
@@ -113,7 +113,7 @@ JackEarthquakeTriviaText:
 	text "Le savais-tu?"
 
 	para "Si l'ennemi lance"
-	line "TUNNEL, SEISME"
+	line "Tunnel, Séisme"
 	cont "sera plus"
 	cont "puissant."
 	done
@@ -122,7 +122,7 @@ JackMagnitudeTriviaText:
 	text "Le savais-tu?"
 
 	para "Si l'ennemi lance"
-	line "TUNNEL, AMPLEUR"
+	line "Tunnel, Ampleur"
 	cont "sera plus"
 	cont "puissante."
 	done
@@ -130,11 +130,11 @@ JackMagnitudeTriviaText:
 JackSandstormTriviaText:
 	text "Le savais-tu?"
 
-	para "Les types ROCHE,"
-	line "SOL et ACIER sont"
+	para "Les types Roche,"
+	line "Sol et Acier sont"
 
 	para "insensibles à"
-	line "TEMPETESABLE."
+	line "TempêteSable."
 	done
 
 JackSunnyDayTriviaText:
@@ -143,7 +143,7 @@ JackSunnyDayTriviaText:
 	para "Si le soleil"
 	line "brille, les atta-"
 
-	para "ques de type EAU"
+	para "ques de type Eau"
 	line "sont plus faibles."
 	done
 
@@ -153,7 +153,7 @@ JackRainDanceTriviaText:
 	para "S'il pleut, les"
 	line "attaques de type"
 
-	para "FEU sont plus"
+	para "Feu sont plus"
 	line "faibles."
 	done
 

@@ -80,7 +80,7 @@ TrainerCooltrainerfFran:
 
 CooltrainermCodySeenText:
 	text "On n'utilise pas"
-	line "tous des #MON"
+	line "tous des #mon"
 	cont "dragon."
 	done
 
@@ -95,9 +95,9 @@ CooltrainermCodyAfterBattleText:
 
 	para "dragons ne peuvent"
 	line "utiliser des #-"
-	cont "MON dragon que si"
+	cont "mon dragon que si"
 
-	para "le MAITRE le"
+	para "le Maître le"
 	line "permet."
 	done
 
@@ -106,7 +106,7 @@ CooltrainerfFranSeenText:
 	line "quelconque ne"
 	cont "passera pas!"
 
-	para "SANDRA ne le"
+	para "Sandra ne le"
 	line "permettrait pas!"
 	done
 
@@ -115,7 +115,7 @@ CooltrainerfFranBeatenText:
 	done
 
 CooltrainerfFranAfterBattleText:
-	text "Oulà! La SANDRA"
+	text "Oulà! La Sandra"
 	line "elle sera furax!"
 	done
 

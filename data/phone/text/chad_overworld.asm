@@ -1,8 +1,8 @@
 ChadAskNumber1Text:
 	text "De quoi? Ce truc"
-	line "c'est un #DEX?"
-	cont "Tu as vu le PROF."
-	cont "CHEN?"
+	line "c'est un #dex?"
+	cont "Tu as vu le Prof."
+	cont "Chen?"
 
 	para "C'est vrai? "
 	line "Trop cool!"
@@ -11,13 +11,13 @@ ChadAskNumber1Text:
 	line "être un chercheur"
 
 	para "comme le célèbre"
-	line "PROF.CHEN."
+	line "Prof.Chen."
 
 	para "Je peux avoir ton"
 	line "numéro?"
 
 	para "On parlera du"
-	line "PROF.CHEN."
+	line "Prof.Chen."
 
 	para "On va bien"
 	line "s'amuser!"
@@ -28,7 +28,7 @@ ChadAskNumber2Text:
 	line "numéro?"
 
 	para "On parlera du"
-	line "PROF.CHEN."
+	line "Prof.Chen."
 
 	para "On va bien"
 	line "s'amuser!"
@@ -36,14 +36,14 @@ ChadAskNumber2Text:
 
 ChadNumberAcceptedText:
 	text "Tu écoutes la"
-	line "CHRONIQUE PKMN du"
-	cont "PROF.CHEN, non?"
+	line "Chronique <PKMN> du"
+	cont "Prof.Chen, non?"
 	done
 
 ChadNumberDeclinedText:
 	text "Oh... J'aurais"
 	line "bien aimé rencon-"
-	cont "trer le PROF..."
+	cont "trer le Prof..."
 	done
 
 ChadPhoneFullText:
